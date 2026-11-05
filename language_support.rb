@@ -6,3 +6,4 @@ LANGUAGES = [
   ["Chinese","chinese.dat"],
   ["Portuguese","brazil.dat"],
 ]
+$DEBUG = true
