@@ -1,0 +1,72 @@
+﻿# Maps grouped under: Gimnasio Trigal (Highest ID: 48)
+[Map48]
+\tg[Blanca]¡Mira tú por donde! ¡\PN!
+\tg[Blanca]¡Mira tú por donde! ¡\PN!
+\tg[Blanca]Habré fallado en las preguntas de la radio, ¡pero en combate soy una máquina!
+\tg[Blanca]Habré fallado en las preguntas de la radio, ¡pero en combate soy una máquina!
+\tg[Blanca]¡Hola! ¡Soy Blanca! ¿Y tú eres...?
+\tg[Blanca]¡Hola! ¡Soy Blanca! ¿Y tú eres...?
+\tg[Blanca]¿Sabes? ¡Me da igual quién seas!
+\tg[Blanca]¿Sabes? ¡Me da igual quién seas!
+\tg[Blanca]Lo importante es que entrenes bien, y dudo que lo hagas mejor que yo...
+\tg[Blanca]Lo importante es que entrenes bien, y dudo que lo hagas mejor que yo...
+\tg[Blanca]¡Después de todo soy Blanca! ¡B-L-A- N-C-A! ¿Lo has memorizado?
+\tg[Blanca]¡Después de todo soy Blanca! ¡B-L-A- N-C-A! ¿Lo has memorizado?
+\tg[Blanca]¡La mejor entrenadora de tipo Normal de todo Johto! ¡Qué digo! ¡De todo el mundo!
+\tg[Blanca]¡La mejor entrenadora de tipo Normal de todo Johto! ¡Qué digo! ¡De todo el mundo!
+\tg[Blanca]¿Crees que puedes ganarme? ¡Pues no! ¿No te ha quedado claro quién soy?
+\tg[Blanca]¿Crees que puedes ganarme? ¡Pues no!  ¿No te ha quedado claro quién soy?
+\tg[Blanca]Si aún así quieres probar... ¡Un número más a mi racha de victorias!\n¡Prepárate!
+\tg[Blanca]Si aún así quieres probar... ¡Un número más a mi racha de victorias!\n¡Prepárate!
+Uff...
+Uff...
+\tg[Blanca]¿¡Q-qué!? ¡E-eres cruel!
+\tg[Blanca]¿¡Q-qué!? ¡E-eres cruel!
+\tg[Blanca] ¡Buaa, buaa...! ¡Voy a llorar hasta que me concedas una revancha, abusona!
+\tg[Blanca] ¡Buaa, buaa...! ¡Voy a llorar hasta que me concedas una revancha, abusona!
+\tg[Blanca]¡Buaa, buaa...! ¡Voy a llorar hasta que me concedas una revancha, abusón!
+\tg[Blanca]¡Buaa, buaa...! ¡Voy a llorar hasta que me concedas una revancha, abusón!
+\tg[Blanca]¡Sniff...! ¿Qué quieres? ¿Una Medalla?\nEn fin...
+\tg[Blanca]¡Sniff...! ¿Qué quieres? ¿Una Medalla?\nEn fin...
+\tg[Blanca]Toma la Medalla Planicie. Es lo que querías, ¿no?
+\tg[Blanca]Toma la Medalla Planicie. Es lo que querías, ¿no? 
+\tg[Blanca]Bueno, y la Liga Pokémon me obliga a darte esto...
+\tg[Blanca]Bueno, y la Liga Pokémon me obliga a darte esto...
+\tg[Blanca]Un movimiento que utiliza todo el encanto tuyo y de tu Pokémon.\nPerfecto para una monada como yo, pero no tanto para alguien como... em... tú.
+\tg[Blanca]Un movimiento que utiliza todo el encanto tuyo y de tu Pokémon.\nPerfecto para una monada como yo, pero no tanto para alguien como... em... tú.
+\tg[Blanca]¡Uff! ¡La llorera me ha sentado bien!
+\tg[Blanca]¡Uff! ¡La llorera me ha sentado bien! 
+\tg[Blanca]A veces me enfado mucho con los que me ganan... ¡Lo siento!
+\tg[Blanca]A veces me enfado mucho con los que me ganan... ¡Lo siento!
+\tg[Blanca]¡Te lo compensaré un día de estos! ¿Qué me dices?
+\tg[Blanca]¡Te lo compensaré un día de estos!  ¿Qué me dices?
+\tg[Blanca]¡Aquí estoy! ¡Tal como te prometí! Empecemos de inmediato.
+\tg[Blanca]¡Aquí estoy! ¡Tal como te prometí!  Empecemos de inmediato.
+\tg[Blanca]¡Qué fuerte eres! ¡Pero la próxima vez no perderé!
+\tg[Blanca]¡Qué fuerte eres! ¡Pero la próxima vez no perderé!
+Prefiero un Pokémon mono a un Pokémon fuerte.\n¡Pero mis Pokémon son monos y fuertes!
+Prefiero un Pokémon mono a un Pokémon fuerte.\n¡Pero mis Pokémon son monos y fuertes!
+¡Oh, no, no, no!
+¡Oh, no, no, no!
+Tus Pokémon son tan feos... ¡Búscate un equipo bonito, anda!
+Tus Pokémon son tan feos... ¡Búscate un equipo bonito, anda!
+¡Hala! ¡Tienes unas pintas más zarrapastrosas...!
+¡Hala! ¡Tienes unas pintas más zarrapastrosas...!
+¡Aquí te enseñaremos lo que es el estilo!
+¡Aquí te enseñaremos lo que es el estilo!
+Veamos... ¡Uf! ¿Ya está?
+Veamos... ¡Uf! ¿Ya está?
+¡Guau! ¡Debes de valer mucho para haberme ganado! ¡Sigue así!
+¡Guau! ¡Debes de valer mucho para haberme ganado! ¡Sigue así!
+Vete de aquí, anda. ¡Este gimnasio solo es para divas!
+Vete de aquí, anda. ¡Este gimnasio solo es para divas!
+¡No! ¡Oh, Meowth, lo siento mucho!
+¡No! ¡Oh, Meowth, lo siento mucho!
+¡Tsk! ¡N-no te creas tan guay por haberme ganado!
+¡Tsk! ¡N-no te creas tan guay por haberme ganado!
+¡Oye! ¿Pero tú quién te crees?\n¡Aquí solo Blanca y nosotras podemos ser tan guapas!
+¡Oye! ¿Pero tú quién te crees?\n¡Aquí solo Blanca y nosotras podemos ser tan guapas!
+¡Vaya! Pensaba que eras más débil...
+¡Vaya! Pensaba que eras más débil...
+¡Bah! ¡Vaya idiota!
+¡Bah! ¡Vaya idiota!

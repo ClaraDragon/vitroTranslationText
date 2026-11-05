@@ -1,0 +1,288 @@
+﻿# Maps grouped under: Escondite Rocket (Highest ID: 80)
+[Map80]
+¿No se abre la puerta?\nPues claro, necesitas una contraseña que solo conoce el Team Rocket.
+¿No se abre la puerta?\nPues claro, necesitas una contraseña que solo conoce el Team Rocket.
+¿Qué? ¿He perdido?
+¿Qué? ¿He perdido?
+¿Qué? ¿La contraseña dices?\nSoy solo un Soldado, ¿cómo voy a conocerla? Lo siento por ti.
+¿Qué? ¿La contraseña dices?\nSoy solo un Soldado, ¿cómo voy a conocerla? Lo siento por ti.
+\w[menuskin]\C[8]"Emisor de ondas dañinas"\nEsta puerta se abre si reconoce la voz de la persona que ha dicho la contraseña...
+\w[menuskin]\C[8]"Emisor de ondas dañinas"\nEsta puerta se abre si reconoce la voz de la persona que ha dicho la contraseña...
+\w[menuskin]\C[8]Es una estatua de Persian... Sus ojos rojos brillan...\nEs como si alguien te estuviera observando...
+\w[menuskin]\C[8]Es una estatua de Persian...  Sus ojos rojos brillan...\nEs como si alguien te estuviera observando...
+\w[menuskin]\C[8]Los ojos de la estatua de Persian... ya no brillan...
+\w[menuskin]\C[8]Los ojos de la estatua de Persian... ya no brillan...
+\w[menuskin]\C[8]Es una estatua de Persian... Sus ojos azules brillan...\nNo tienes la impresión de que nadie te esté observando...
+\w[menuskin]\C[8]Es una estatua de Persian...  Sus ojos azules brillan...\nNo tienes la impresión de que nadie te esté observando...
+\w[menuskin]\C[8]La puerta está cerrada...
+\w[menuskin]\C[8]La puerta está cerrada...
+\w[menuskin]\C[8]\PN ha introducido las dos contraseñas.\n¡Puerta abierta!
+\w[menuskin]\C[8]\PN ha introducido las dos contraseñas.\n¡Puerta abierta!
+\w[menuskin]\C[8]Necesitas dos contraseñas.
+\w[menuskin]\C[8]Necesitas dos contraseñas.
+\tg[???]Ju, ju, ju, ju.\nY otro ju. ¡Ju!\nAquí estás, corazón... Eres \PN, ¿verdad?
+\tg[???]Ju, ju, ju, ju.\nY otro ju. ¡Ju!\nAquí estás, corazón... Eres \PN, ¿verdad?
+\tg[???]¿¡C-cómo!?\n¿¡Pero cómo no vas a saber quién soy yo!?
+\tg[???]¿¡C-cómo!?\n¿¡Pero cómo no vas a saber quién soy yo!?
+\tg[???]¡Giovanni, el gran Giovanni!\nEl apuesto, atractivo, increíble... ¡Giovanni!
+\tg[???]¡Giovanni, el gran Giovanni!\nEl apuesto, atractivo, increíble... ¡Giovanni!
+\tg[???]Eh\..\..\..
+\tg[???]Eh\..\..\..
+\tg[???]¿Que no podría pasar por Giovanni?\n¿Que nos parecemos lo mismo que un huevo y una baya?
+\tg[???]¿Que no podría pasar por Giovanni?\n¿Que nos parecemos lo mismo que un huevo y una baya?
+\tg[???]¡Pero bueno!\n¡Con lo mucho que he estado practicando el cosplay!
+\tg[???]¡Pero bueno!\n¡Con lo mucho que he estado practicando el cosplay!
+\tg[Petrel]¡Soy el Ejecutivo Petrel del Team Rocket!\nMás conocido como el maestro del disfraz.
+\tg[Petrel]¡Soy el Ejecutivo Petrel del Team Rocket!\nMás conocido como el maestro del disfraz.
+\tg[Petrel]¿Acaso pretendías colarte en la sala del emisor de ondas dañinas?
+\tg[Petrel]¿Acaso pretendías colarte en la sala del emisor de ondas dañinas?
+\tg[Petrel]¡No tienes nada que hacer!\nEsa sala está protegida con una contraseña especial.
+\tg[Petrel]¡No tienes nada que hacer!\nEsa sala está protegida con una contraseña especial.
+\tg[Petrel]La contraseña es "VIVA GIOVANNI".\nLa idea original era "GIOVANNI EL HERMOSO", pero me la rechazaron...
+\tg[Petrel]La contraseña es "VIVA GIOVANNI".\nLa idea original era "GIOVANNI EL HERMOSO", pero me la rechazaron...
+\tg[Petrel]¿Qué? ¿Te sorprende que te la haya dicho sin más?
+\tg[Petrel]¿Qué? ¿Te sorprende que te la haya dicho sin más?
+\tg[Petrel]Eso es porque aunque conozcas las palabras no pasará nada.\n¡La puerta solo se abrirá si es mi cantarina voz la que pronuncia la contraseña!
+\tg[Petrel]Eso es porque aunque conozcas las palabras no pasará nada.\n¡La puerta solo se abrirá si es mi cantarina voz la que pronuncia la contraseña!
+\tg[Petrel]¡Agárrate los machos! ¡Vas a ver el poder del disfraz!
+\tg[Petrel]¡Agárrate los machos! ¡Vas a ver el poder del disfraz!
+Yo... no pude evitarlo... Que Giovanni me perdone...
+Yo... no pude evitarlo... Que Giovanni me perdone...
+\tg[Petrel]Hace tres años, Giovanni disolvió el Team Rocket y desapareció.\nPero, sin duda, está en alguna parte esperando el momento de reaparecer...
+\tg[Petrel]Hace tres años, Giovanni disolvió el Team Rocket y desapareció.\nPero, sin duda, está en alguna parte esperando el momento de reaparecer...
+\tg[Petrel]Ah\..\..\..\n¡Gran Giovanni! ¡Maestro y mentor!
+\tg[Petrel]Ah\..\..\..\n¡Gran Giovanni! ¡Maestro y mentor!
+\tg[Petrel]Je. ¡No me importa haber perdido contra ti! ¡De todos modos, nunca podrás abrir la puerta de la sala sin mi hermosa voz!
+\tg[Petrel]Je. ¡No me importa haber perdido contra ti! ¡De todos modos, nunca podrás abrir la puerta de la sala sin mi hermosa voz!
+\tg[Murkrow]¡VIVA GIOVANNI!\n¡Y QUÉ GUAPO ES! \wt[10]
+\tg[Murkrow]¡VIVA GIOVANNI!\n¡Y QUÉ GUAPO ES! \wt[10]
+\w[menuskin]\C[8]¡El Murkrow imita a la perfección la voz de Petrel!\n¿Y si...?
+\w[menuskin]\C[8]¡El Murkrow imita a la perfección la voz de Petrel!\n¿Y si...?
+Trabajaba para Silph S.A., pero ahora investigo para el Team Rocket.\nYa está bien de tantas preguntas.\n¡Se acabó!
+Trabajaba para Silph S.A., pero ahora investigo para el Team Rocket.\nYa está bien de tantas preguntas.\n¡Se acabó!
+Un error táctico acabó conmigo...
+Un error táctico acabó conmigo...
+Una señal de radio que vuelve locos a los Pokémon...\n¡Todo un éxito! Mi ascenso está asegurado. Esta derrota no significa nada.
+Una señal de radio que vuelve locos a los Pokémon...\n¡Todo un éxito! Mi ascenso está asegurado. Esta derrota no significa nada.
+\tg[Murkrow]¡VIVA GIOVANNI!\wt[15]
+\tg[Murkrow]¡VIVA GIOVANNI!\wt[15]
+\tg[Murkrow]¡VIVA GIOVANNI!\wt[10]
+\tg[Murkrow]¡VIVA GIOVANNI!\wt[10]
+\w[menuskin]\C[8]¡El Murkrow ha dicho la contraseña con la misma voz que Petrel!\..\..\..
+\w[menuskin]\C[8]¡El Murkrow ha dicho la contraseña con la misma voz que Petrel!\..\..\..
+\w[menuskin]\C[8]¡La cerradura con reconocimiento de voz se ha abierto!
+\w[menuskin]\C[8]¡La cerradura con reconocimiento de voz se ha abierto!
+\tg[Murkrow]¡Y QUÉ GUAPO ES!\wt[10]
+\tg[Murkrow]¡Y QUÉ GUAPO ES!\wt[10]
+¿Que si conozco yo la contraseña? A lo mejor. ¡Pero no es para débiles!
+¿Que si conozco yo la contraseña? A lo mejor.  ¡Pero no es para débiles!
+La contraseña del despacho del jefe<<n>>es...<br>COLASLOWPOKE
+La contraseña del despacho del jefe <<n>>es...<br>COLASLOWPOKE
+La contraseña del despacho del jefe es... COLASLOWPOKE.\n¡Pero no te servirá de nada si no tienes las dos!
+ La contraseña del despacho del jefe es...  COLASLOWPOKE.\n¡Pero no te servirá de nada si no tienes las dos!
+¡Je,je,je!\n¿Me desafías a un combate? ¡Bah! ¡Es una locura!
+¡Je,je,je!\n¿Me desafías a un combate? ¡Bah! ¡Es una locura!
+Pero tienes agallas... ¡Eso me gusta!\n¡Si me vences, te diré la contraseña de la oficina del jefe!
+Pero tienes agallas... ¡Eso me gusta!\n¡Si me vences, te diré la contraseña de la oficina del jefe!
+La contraseña del despacho del jefe<<n>>es...<br>COLARATICATE
+La contraseña del despacho del jefe <<n>>es...<br>COLARATICATE
+La contraseña del despacho del jefe es... COLARATICATE.\n¡Pero no te servirá de nada si no tienes las dos!
+La contraseña del despacho del jefe es...  COLARATICATE.\n¡Pero no te servirá de nada si no tienes las dos!
+\w[menuskin]\C[8]Parece que el emisor de ondas dañinas ha dejado de funcionar.
+\w[menuskin]\C[8]Parece que el emisor de ondas dañinas ha dejado de funcionar.
+\w[menuskin]\C[8]El emisor de ondas dañinas está funcionando a la máxima potencia.
+\w[menuskin]\C[8]El emisor de ondas dañinas está funcionando a la máxima potencia.
+¡Esto era una guarida ninja!\n¡Y yo soy un científico ninja!
+¡Esto era una guarida ninja!\n¡Y yo soy un científico ninja!
+Ya veo, ya.
+Ya veo, ya.
+En el PC de mi mesa se encuentran los controles del sistema de seguridad de las estatuas de PERSIAN.
+En el PC de mi mesa se encuentran los controles del sistema de seguridad de las estatuas de PERSIAN.
+No lo toques, ¿eh?\n¡NO LO TOQUES!
+No lo toques, ¿eh?\n¡NO LO TOQUES!
+Me da igual que los Pokémon sufran debido a nuestros experimentos. ¡La ética no tiene cabida en la mente de un verdadero científico!
+Me da igual que los Pokémon sufran debido a nuestros experimentos. ¡La ética no tiene cabida en la mente de un verdadero científico!
+Mi fuerte es pensar, no pelear.
+Mi fuerte es pensar, no pelear.
+Si amplificáramos nuestra peculiar señal y la difundiéramos por todo el país...\n¡Me emociono solo de pensarlo!
+Si amplificáramos nuestra peculiar señal y la difundiéramos por todo el país...\n¡Me emociono solo de pensarlo!
+\tg[\v[12]]...
+\tg[\v[12]]...
+\tg[\v[12]]Anda. Mira dónde te encuentro esta vez.
+\tg[\v[12]]Anda. Mira dónde te encuentro esta vez.
+\tg[\v[12]]¿Tanto te gusta el Team Rocket?\nYo no le veo el atractivo, sinceramente.
+\tg[\v[12]]¿Tanto te gusta el Team Rocket?\nYo no le veo el atractivo, sinceramente.
+\tg[\v[12]]La verdad es que me da igual. Lo que quiero saber es quién era ese tío de la capa.
+\tg[\v[12]]La verdad es que me da igual. Lo que quiero saber es quién era ese tío de la capa.
+\tg[\v[12]]Mis Pokémon no pudieron con él.\nY, ¿sabes qué?\nNo me importa.
+\tg[\v[12]]Mis Pokémon no pudieron con él.\nY, ¿sabes qué?\nNo me importa.
+\tg[\v[12]]Estoy seguro de que lograría vencerle si tuviese Pokémon más fuertes.\nEste maldito equipo se está quedando atrás muy rápido...
+\tg[\v[12]]Estoy seguro de que lograría vencerle si tuviese Pokémon más fuertes.\nEste maldito equipo se está quedando atrás muy rápido...
+\tg[\v[12]]Lo que más me molestó fue lo que dijo: que ni quiero ni confío lo suficiente en mis Pokémon.
+\tg[\v[12]]Lo que más me molestó fue lo que dijo: que ni quiero ni confío lo suficiente en mis Pokémon.
+\tg[\v[12]]¡Cuando pienso que perdí contra un pringado que va soltando esas memeces, me dan ganas de romper cosas!
+\tg[\v[12]]¡Cuando pienso que perdí contra un pringado que va soltando esas memeces, me dan ganas de romper cosas!
+\tg[\v[12]]¡Bah!\n¡Pero qué más dará eso!
+\tg[\v[12]]¡Bah!\n¡Pero qué más dará eso!
+\tg[\v[12]]Me abro.\nComo vuelva a verle la cara al notas ese... ¡Se va a enterar!
+\tg[\v[12]]Me abro.\nComo vuelva a verle la cara al notas ese... ¡Se va a enterar!
+\sh¡Alto ahí!
+\sh¡Alto ahí!
+\tg[Atenea]¡Con críos como tú entrometiéndose todo el tiempo, el orgullo del Team Rocket está continuamente en juego!\nPero basta ya de palabrería. Vamos a poner fin a esto de una vez.
+\tg[Atenea]¡Con críos como tú entrometiéndose todo el tiempo, el orgullo del Team Rocket está continuamente en juego!\nPero basta ya de palabrería. Vamos a poner fin a esto de una vez.
+\tg[Atenea]Por muy fuerte que seas, no tienes ninguna posibilidad contra nosotros dos al mismo tiempo.\nJu, ju, ju, ju.
+\tg[Atenea]Por muy fuerte que seas, no tienes ninguna posibilidad contra nosotros dos al mismo tiempo.\nJu, ju, ju, ju.
+\tg[Atenea]Lo siento mucho, ¡pero ve preparándote!
+\tg[Atenea]Lo siento mucho, ¡pero ve preparándote!
+\tg[Lance]¡No tan deprisa!\n¿No os parece que un combate de dos contra uno es totalmente injusto?
+\tg[Lance]¡No tan deprisa!\n¿No os parece que un combate de dos contra uno es totalmente injusto?
+\tg[Lance]Eso de jugar sucio es muy propio del Team Rocket.\nOs guste o no, ¡yo también tomaré parte en este combate!
+\tg[Lance]Eso de jugar sucio es muy propio del Team Rocket.\nOs guste o no, ¡yo también tomaré parte en este combate!
+\tg[Atenea]¿¡Qué!? ¿¡Pero de dónde te has sacado tú a este!?
+\tg[Atenea]¿¡Qué!? ¿¡Pero de dónde te has sacado tú a este!?
+\tg[Atenea]Bah, ¡qué más dará!\nComo sustituta del gran Giovanni y actual lideresa del Team Rocket... ¡Acabaré con vosotros dos!
+\tg[Atenea]Bah, ¡qué más dará!\nComo sustituta del gran Giovanni y actual lideresa del Team Rocket... ¡Acabaré con vosotros dos!
+¡Guau! Eres muy fuerte. ¡Qué lástima!<br>Si te unieras al Team Rocket, podrías llegar a ser del Ejecutivo.
+¡Guau! Eres muy fuerte. ¡Qué lástima!<br>Si te unieras al Team Rocket, podrías llegar a ser del Ejecutivo.
+\tg[Atenea]¡Bah! Ahora que el experimento de emisión ha sido un éxito, lo que le pase a esta guarida nos importa un bledo.\nNuestras miras son mucho más elevadas, ¿sabes?
+\tg[Atenea]¡Bah! Ahora que el experimento de emisión ha sido un éxito, lo que le pase a esta guarida nos importa un bledo.\nNuestras miras son mucho más elevadas, ¿sabes?
+\tg[Atenea]Muy pronto conocerás lo temible que puede llegar a ser el Team Rocket.\nDisfruta ahora que aún puedes. ¡Ju, ju, ju, ju!
+\tg[Atenea]Muy pronto conocerás lo temible que puede llegar a ser el Team Rocket.\nDisfruta ahora que aún puedes. ¡Ju, ju, ju, ju!
+\tg[Lance]Lo siento, \PN. Estabas haciéndolo tan bien que me he mantenido al margen.
+\tg[Lance]Lo siento, \PN. Estabas haciéndolo tan bien que me he mantenido al margen.
+\tg[Lance]Ahora todo lo que queda por hacer es apagar esa extraña señal de radio.
+\tg[Lance]Ahora todo lo que queda por hacer es apagar esa extraña señal de radio.
+\tg[Lance]Esa es la máquina... Parece que los Electrode que hay alrededor la alimentan de energía...
+\tg[Lance]Esa es la máquina... Parece que los Electrode que hay alrededor la alimentan de energía...
+\tg[Lance]Lo siento por ellos, pero hay que pararlos lo antes posible. Encárgate tú de los de la...
+\tg[Lance]Lo siento por ellos, pero hay que pararlos lo antes posible. Encárgate tú de los de la...
+\sh¡TROOOODE!\wt[20]
+\sh¡TROOOODE!\wt[20]
+¡TROOOODE!\wt[20]
+¡TROOOODE!\wt[20]
+\tg[Lance]¡Tsk! Mira tú por donde, nos han dejado un regalito en forma de Electrode.
+\tg[Lance]¡Tsk! Mira tú por donde, nos han dejado un regalito en forma de Electrode.
+\tg[\v[12]]¡Eh, \PN!\n¿Contra que narices te estás enfrentando?
+\tg[\v[12]]¡Eh, \PN!\n¿Contra que narices te estás enfrentando?
+\tg[Lance]El chico de antes, ¿eh?\nNos vienes muy bien.
+\tg[Lance]El chico de antes, ¿eh?\nNos vienes muy bien.
+\tg[\v[12]]¡El pringado de la capa!\n¿Qué quieres ahora?
+\tg[\v[12]]¡El pringado de la capa!\n¿Qué quieres ahora?
+\tg[Lance]Ayuda a \PN con este grandullón mientras yo me encargo de los demás.\n¡Rápido, chaval!
+\tg[Lance]Ayuda a \PN con este grandullón mientras yo me encargo de los demás.\n¡Rápido, chaval!
+\tg[\v[12]]¡Sí, hombre! ¿Me vas a dar órdenes tú?
+\tg[\v[12]]¡Sí, hombre! ¿Me vas a dar órdenes tú?
+\tg[Lance]Te lo pido por favor...\n¡Ayuda a \PN!
+\tg[Lance]Te lo pido por favor...\n¡Ayuda a \PN!
+\tg[\v[12]]...Bah. Lo que sea.\nYa que me toca luchar junto a ti, al menos no me molestes. Capisce?
+\tg[\v[12]]...Bah. Lo que sea.\nYa que me toca luchar junto a ti, al menos no me molestes.  Capisce?
+\tg[Lance]Yo y Dragonite nos encargaremos de los otros Electrode. ¡Cuento con vosotros!
+\tg[Lance]Yo y Dragonite nos encargaremos de los otros Electrode. ¡Cuento con vosotros!
+\tg[\v[12]]¡Adelante!
+\tg[\v[12]]¡Adelante!
+\tg[Lance]Por fin se ha detenido esa extraña señal. Seguro que el lago ha vuelto a la normalidad.
+\tg[Lance]Por fin se ha detenido esa extraña señal. Seguro que el lago ha vuelto a la normalidad.
+\tg[Lance]Quiero daros las gracias en nombre de los Pokémon. A los dos, que conste.
+\tg[Lance]Quiero daros las gracias en nombre de los Pokémon. A los dos, que conste.
+\tg[\v[12]]Que sí, tío. Mi trabajo aquí se ha acabado.\nMe abro.
+\tg[\v[12]]Que sí, tío. Mi trabajo aquí se ha acabado.\nMe abro.
+\tg[Lance]Eh, chaval. Bien hecho.
+\tg[Lance]Eh, chaval. Bien hecho.
+\tg[\v[12]]\..\..\..Lo que tú digas.
+\tg[\v[12]]\..\..\..Lo que tú digas.
+\tg[Lance]Tu amigo no es de muchas palabras, ¿verdad?
+\tg[Lance]Tu amigo no es de muchas palabras, ¿verdad?
+\tg[Lance]Aunque bueno, cuando se enfada sí que le gusta soltar palabrejas por la boca.
+\tg[Lance]Aunque bueno, cuando se enfada sí que le gusta soltar palabrejas por la boca.
+\tg[Lance]Si ese chico y tú os aliaseis, seríais imparables.\nA ver si lo logras convencer.
+\tg[Lance]Si ese chico y tú os aliaseis, seríais imparables.\nA ver si lo logras convencer.
+\tg[Lance]Por cierto, toma esto. Espero que le saques provecho.
+\tg[Lance]Por cierto, toma esto. Espero que le saques provecho.
+\tg[Lance]Ahora tenemos otro problema entre manos, \PN.\nPor mucho que hayamos parado la señal, seguramente ya habrá afectado a otros Pokémon.
+\tg[Lance]Ahora tenemos otro problema entre manos, \PN.\nPor mucho que hayamos parado la señal, seguramente ya habrá afectado a otros Pokémon.
+\tg[Lance]Estoy seguro de que hay más Pokémon descontrolados por ahí...\nEsa señal era demasiado poderosa.
+\tg[Lance]Estoy seguro de que hay más Pokémon descontrolados por ahí...\nEsa señal era demasiado poderosa.
+\tg[Lance]Si encuentras a alguno de ellos, te pido por favor que los intentes tranquilizar.
+\tg[Lance]Si encuentras a alguno de ellos, te pido por favor que los intentes tranquilizar.
+\tg[Lance]Muchas gracias por todo, \PN. Nos volveremos a ver, te lo aseguro.
+\tg[Lance]Muchas gracias por todo, \PN. Nos volveremos a ver, te lo aseguro.
+\tg[Lance]¿Estás bien?\nTus Pokémon están débiles y cansados.\nToma, dales un poco de mi medicina.
+\tg[Lance]¿Estás bien?\nTus Pokémon están débiles y cansados.\nToma, dales un poco de mi medicina.
+\tg[Lance]Venga, figura. Da lo mejor de ti.\n¡Yo confío!
+\tg[Lance]Venga, figura. Da lo mejor de ti.\n¡Yo confío!
+¡Qué joven eres!
+¡Qué joven eres!
+Vaya, he perdido...
+Vaya, he perdido...
+En mi última misión también me derrotó alguien tan joven como tú.\nCuando estábamos secuestrando unos Pokémon, un chico pelirrojo de extraña mirada me machacó...
+En mi última misión también me derrotó alguien tan joven como tú.\nCuando estábamos secuestrando unos Pokémon, un chico pelirrojo de extraña mirada me machacó...
+¡Eh, eh! ¡Que yo no entreno Pokémon!\nYo me dedico a la investigación de piedras activadoras y microondas.
+¡Eh, eh! ¡Que yo no entreno Pokémon!\nYo me dedico a la investigación de piedras activadoras y microondas.
+¿Qué? ¡No, esos microondas no!\nHay unas ondas similares a las de radio capaces de imitar frecuencias radiactivas como las de las piedras activadoras.
+¿Qué? ¡No, esos microondas no!\nHay unas ondas similares a las de radio capaces de imitar frecuencias radiactivas como las de las piedras activadoras.
+Si usamos esas ondas... ¡Podremos forzar la megaevolución sobre cualquier Pokémon!
+Si usamos esas ondas... ¡Podremos forzar la megaevolución sobre cualquier Pokémon!
+Ahora sí, es un poco complicado.\nSi se nos va la mano podrían darse casos de megaevoluciones descontroladas.
+Ahora sí, es un poco complicado.\nSi se nos va la mano podrían darse casos de megaevoluciones descontroladas.
+Ese poder tiene que ir a algún lado, claro. \nQuizás si se les derrota se podría canalizar ese poder de otra forma... ¡A saber!
+Ese poder tiene que ir a algún lado, claro. \nQuizás si se les derrota se podría canalizar ese poder de otra forma... ¡A saber!
+Ese chiflado pelirojo ya se ha ido... menos mal.
+Ese chiflado pelirojo ya se ha ido... menos mal.
+Mira a estas alturas me da igual ya todo, usa la máquina si quieres, yo no he visto nada.
+Mira a estas alturas me da igual ya todo, usa la máquina si quieres, yo no he visto nada.
+¡Ayuda! ¡Este apuesto chiflado me ha tomado de rehén!
+¡Ayuda! ¡Este apuesto chiflado me ha tomado de rehén!
+\tg[Lance]¡\PN!
+\tg[Lance]¡\PN!
+\tg[Lance]Para abrir la cerradura de la sala donde se encuentra el emisor de ondas dañinas, es necesaria la voz de alguien en particular.
+\tg[Lance]Para abrir la cerradura de la sala donde se encuentra el emisor de ondas dañinas, es necesaria la voz de alguien en particular.
+\tg[Lance]Y esa persona es...\n¡El Ejecutivo Petrel del Team Rocket!
+\tg[Lance]Y esa persona es...\n¡El Ejecutivo Petrel del Team Rocket!
+\tg[Lance]Por lo visto se ha escondido en el despacho de su jefe.
+\tg[Lance]Por lo visto se ha escondido en el despacho de su jefe.
+\tg[Lance]Sin embargo, para entrar al despacho también es necesaria una contraseña...\n¡\PN, primero debemos averiguar la contraseña del despacho del jefe!
+\tg[Lance]Sin embargo, para entrar al despacho también es necesaria una contraseña...\n¡\PN, primero debemos averiguar la contraseña del despacho del jefe!
+\w[menuskin]\C[8]¡Un botón secreto!
+\w[menuskin]\C[8]¡Un botón secreto!
+\w[menuskin]\C[8]Un piloto parpadea con una sugerente luz roja.\n¿Quieres pulsarlo?
+\w[menuskin]\C[8]Un piloto parpadea con una sugerente luz roja.\n¿Quieres pulsarlo?
+\w[menuskin]\C[8]¡Se ha desconectado el sistema de vigilancia!
+\w[menuskin]\C[8]¡Se ha desconectado el sistema de vigilancia!
+\w[menuskin]\C[8]Un no tan sugerente piloto azul está encendido.\n¿Quieres pulsarlo?
+\w[menuskin]\C[8]Un no tan sugerente piloto azul está encendido.\n¿Quieres pulsarlo?
+\w[menuskin]\C[8]¡Se ha conectado el sistema de vigilancia!
+\w[menuskin]\C[8]¡Se ha conectado el sistema de vigilancia!
+¡Goonite!\wt[20]
+¡Goonite!\wt[20]
+¡Aaarg!...\nEl chico de la capa es muy fuerte...
+¡Aaarg!...\nEl chico de la capa es muy fuerte...
+Le he contado todos los secretos de la guarida, pero lo que no le he dicho es que para acceder al despacho del jefe hacen falta dos contraseñas.
+Le he contado todos los secretos de la guarida, pero lo que no le he dicho es que para acceder al despacho del jefe hacen falta dos contraseñas.
+\tg[Lance]¡\PN! El despacho de Petrel debe estar a la vuelta de la esquina.
+\tg[Lance]¡\PN! El despacho de Petrel debe estar a la vuelta de la esquina.
+\tg[Lance]No sabemos qué nos espera más adelante. Si necesitas que tus Pokémon recuperen las fuerzas, que sepas que he tomado... "prestada" esta máquina de curación.
+\tg[Lance]No sabemos qué nos espera más adelante. Si necesitas que tus Pokémon recuperen las fuerzas, que sepas que he tomado...  "prestada" esta máquina de curación.
+\tg[Lance]Por cierto, he visto a un chaval más o menos de tu edad merodeando por ahí; pelo largo y rojo, con cara de pocos amigos.
+\tg[Lance]Por cierto, he visto a un chaval más o menos de tu edad merodeando por ahí; pelo largo y rojo, con cara de pocos amigos.
+\tg[Lance]No parece que tuviese nada que ver con el Team Rocket, pero aún así quiso desafiarme. \nSi tratase mejor a sus Pokémon, tendría un gran potencial.
+\tg[Lance]No parece que tuviese nada que ver con el Team Rocket, pero aún así quiso desafiarme. \nSi tratase mejor a sus Pokémon, tendría un gran potencial.
+¡Aaah! ¿Pero no has tenido suficiente?
+¡Aaah! ¿Pero no has tenido suficiente?
+A partir de aquí el suelo está repleto de explosivos.\nUn paso en falso y... ¡Bum!
+A partir de aquí el suelo está repleto de explosivos.\nUn paso en falso y... ¡Bum!
+¡Buuum!
+¡Buuum!
+¿Quieres saber dónde se esconden las trampas del suelo exactamente?\n¡Ja, lo he olvidado!
+¿Quieres saber dónde se esconden las trampas del suelo exactamente?\n¡Ja, lo he olvidado!
+¡Eres todo un incordio! ¿Lo sabías?
+¡Eres todo un incordio! ¿Lo sabías?
+¡Grrr...!
+¡Grrr...!
+¡Oye! Solo el jefe conoce la clave de esa puerta.
+¡Oye! Solo el jefe conoce la clave de esa puerta.
+¿Dónde está el jefe? ¡Quién sabe!\nEncuéntralo tú.
+¿Dónde está el jefe? ¡Quién sabe!\nEncuéntralo tú.
+Sí
+Sí
+No
+No

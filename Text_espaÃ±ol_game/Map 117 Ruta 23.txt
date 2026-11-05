@@ -1,0 +1,94 @@
+﻿# Maps grouped under: Ruta 23 (Highest ID: 117)
+[Map117]
+\tg[\v[12]]Espera ahí, \PN.
+\tg[\v[12]]Espera ahí, \PN.
+\tg[\v[12]]Vas a participar en la Liga Pokémon, ¿verdad?
+\tg[\v[12]]Vas a participar en la Liga Pokémon, ¿verdad?
+\tg[\v[12]]Creo que estamos muy cerca de la entrada de la Calle Victoria.\nAun así... ¿Te has dado cuenta? No hay ni un alma por aquí.
+\tg[\v[12]]Creo que estamos muy cerca de la entrada de la Calle Victoria.\nAun así... ¿Te has dado cuenta? No hay ni un alma por aquí.
+\tg[\v[12]]¡Bah! Son todos unos entrenadores de pacotilla.\nSolo tú y yo tenemos el nivel como para estar aquí.
+\tg[\v[12]]¡Bah! Son todos unos entrenadores de pacotilla.\nSolo tú y yo tenemos el nivel como para estar aquí.
+\tg[\v[12]]No te equivoques. Sigues siendo mi rival y sigo confiando en que voy a ganar.
+\tg[\v[12]]No te equivoques. Sigues siendo mi rival y sigo confiando en que voy a ganar.
+\tg[\v[12]]Es solo que...
+\tg[\v[12]]Es solo que...
+\tg[\v[12]]¡Tsk! ¡Paso!\nNo voy a decirte cursiladas ahora que estamos cara a cara!
+\tg[\v[12]]¡Tsk! ¡Paso!\nNo voy a decirte cursiladas ahora que estamos cara a cara!
+\tg[\v[12]]¡Te voy a enseñar quién de los dos es mejor, \PN!
+\tg[\v[12]]¡Te voy a enseñar quién de los dos es mejor, \PN!
+He perdido... Hice todo lo que pude... Lo que tú tienes y yo no tengo.. Empiezo a entender lo que me dijo aquel maestro de dragones...
+He perdido... Hice todo lo que pude... Lo que tú tienes y yo no tengo.. Empiezo a entender lo que me dijo aquel maestro de dragones...
+\tg[\v[12]]Sigo queriendo ser el mejor... ¡Y tú siempre te interpones en mi camino!
+\tg[\v[12]]Sigo queriendo ser el mejor... ¡Y tú siempre te interpones en mi camino!
+\tg[\v[12]]¡Maldita sea! Mira que me he estado esforzando, y aún así siempre llegas tú a arrasar.
+\tg[\v[12]]¡Maldita sea! Mira que me he estado esforzando, y aún así siempre llegas tú a arrasar.
+\tg[\v[12]]Antes habría dicho que es humillante, pero ahora lo veo de una forma un poco distinta...
+\tg[\v[12]]Antes habría dicho que es humillante, pero ahora lo veo de una forma un poco distinta...
+\tg[\v[12]]Te dejaré ir, anda.\nMás te vale ganar en la Liga Pokémon, ¿estamos?
+\tg[\v[12]]Te dejaré ir, anda.\nMás te vale ganar en la Liga Pokémon, ¿estamos?
+\tg[\v[12]]Volveré a retarte.\nY ese día... ¡Te demostraré quién soy!
+\tg[\v[12]]Volveré a retarte.\nY ese día... ¡Te demostraré quién soy!
+¡Chaan!\wt[10]
+¡Chaan!\wt[10]
+Hola, te doy la bienvenida al Centro Pokémon.
+Hola, te doy la bienvenida al Centro Pokémon.
+Aquí tu equipo Pokémon se recuperará por completo.
+Aquí tu equipo Pokémon se recuperará por completo.
+¿Quieres que descanse hasta que se reponga?
+¿Quieres que descanse hasta que se reponga?
+Vale, dame unos segundos.
+Vale, dame unos segundos.
+Es posible que algún Pokémon esté infectado por el Pokérus.
+Es posible que algún Pokémon esté infectado por el Pokérus.
+No se sabe gran cosa del Pokérus, salvo que es una forma de vida microscópica que infecta a los Pokémon.\nAl parecer, los Pokémon infectados crecen de una forma extraordinaria.
+No se sabe gran cosa del Pokérus, salvo que es una forma de vida microscópica que infecta a los Pokémon.\nAl parecer, los Pokémon infectados crecen de una forma extraordinaria.
+Gracias por esperar.\nTu equipo Pokémon ha recobrado toda su energía.
+Gracias por esperar.\nTu equipo Pokémon ha recobrado toda su energía.
+¡Vuelve cuando quieras!
+¡Vuelve cuando quieras!
+Otro entrenador que viene a darme guerra...
+Otro entrenador que viene a darme guerra...
+Pues nada, ponte a la cola. Aviso: no tengo ni Pociones ni ganas.
+Pues nada, ponte a la cola. Aviso: no tengo ni Pociones ni ganas.
+Me han dado una paliza de campeonato y estoy que me tiro por el Monte Plateado.
+Me han dado una paliza de campeonato y estoy que me tiro por el Monte Plateado.
+¿Eso qué es? ¿Una carta?... Espera, esa letra... ¡es de mi hermana!
+¿Eso qué es? ¿Una carta?... Espera, esa letra...  ¡es de mi hermana!
+...Dice que la abuela pregunta por mí. Que el Nymble del jardín ha evolucionado. Que me echan de menos en casa.
+...Dice que la abuela pregunta por mí. Que el Nymble del jardín ha evolucionado. Que me echan de menos en casa.
+Y que... "como no des señales de vida, voy a la Calle Victoria y te arrastro de la oreja"
+Y que... "como no des señales de vida, voy a la Calle Victoria y te arrastro de la oreja"
+Y has venido hasta aquí solo para traerme esto, no te han amenazado ni nada, ¿verdad?
+Y has venido hasta aquí solo para traerme esto, no te han amenazado ni nada, ¿verdad?
+Pero mira, ahora mismo no soy rival para nadie. Llevo una racha horrible. Me han reventado una y otra vez. Los mejores entrenadores de Johto pasan por aquí y yo... no doy la talla.
+Pero mira, ahora mismo no soy rival para nadie.  Llevo una racha horrible. Me han reventado una y otra vez. Los mejores entrenadores de Johto pasan por aquí y yo... no doy la talla.
+Me da verguenza volver a casa así.
+Me da verguenza volver a casa así.
+A no ser que... Oye, ¿qué tal si luchamos? Sí, ahora mismo. Necesito saber si aún puedo ganar.
+A no ser que... Oye, ¿qué tal si luchamos? Sí, ahora mismo. Necesito saber si aún puedo ganar.
+Si de verdad merezco seguir entrenando. ¡No te contengas! ¡Quiero ver de qué estás hecho!
+Si de verdad merezco seguir entrenando. ¡No te contengas! ¡Quiero ver de qué estás hecho!
+¡Caramba!
+¡Caramba!
+¡Ja! ¡Menuda paliza me has dado!\nPero... ¿sabes qué? Me siento mejor.
+¡Ja! ¡Menuda paliza me has dado!\nPero... ¿sabes qué? Me siento mejor.
+Luchar contigo me ha recordado por qué empecé a entrenar.
+Luchar contigo me ha recordado por qué empecé a entrenar.
+No era por ganar siempre. Era por aprender, por crecer, por volver a casa y contarle a mi hermana pequeña todo lo que he vivido.
+No era por ganar siempre. Era por aprender, por crecer, por volver a casa y contarle a mi hermana pequeña todo lo que he vivido.
+Y yo aquí, escondiéndome en la cueva como un Zubat...\n¡Ridículo!
+Y yo aquí, escondiéndome en la cueva como un Zubat...\n¡Ridículo!
+Voy a volver a Ciudad Endrino. Le pediré disculpas a mi hermana por ser un bobo, y le diré que voy a seguir entrenando, pero allí, en casa.
+Voy a volver a Ciudad Endrino. Le pediré disculpas a mi hermana por ser un bobo, y le diré que voy a seguir entrenando, pero allí, en casa.
+Y gracias a ti, entrenador.
+Y gracias a ti, entrenador.
+Toma, quiero que te lleves esto. Es un Lazo Destino.
+Toma, quiero que te lleves esto. Es un Lazo Destino.
+Dicen que el hilo del destino nos une a todos, y quizás eso ha propiciado nuestro encuentro hoy.
+Dicen que el hilo del destino nos une a todos, y quizás eso ha propiciado nuestro encuentro hoy.
+¡Ahora, si me disculpas, tengo que volver a casa!
+¡Ahora, si me disculpas, tengo que volver a casa!
+Si
+Si
+No
+No

@@ -1,0 +1,84 @@
+﻿# Maps grouped under: Ruta 36 (Highest ID: 19)
+[Map19]
+¡No digas nada! Déjame adivinar lo que piensas.
+¡No digas nada! Déjame adivinar lo que piensas.
+Pues parece que no he acertado...
+Pues parece que no he acertado...
+\tg[Josué]¿Tú quién eres?\nYo soy Josué, por los jueves.\n¡Toma esto!
+\tg[Josué]¿Tú quién eres?\nYo soy Josué, por los jueves.\n¡Toma esto!
+\tg[Josué]Haz que lo lleve un Pokémon de tipo Roca.\n¡Veras como mejoran sus ataques de tipo Roca!
+\tg[Josué]Haz que lo lleve un Pokémon de tipo Roca.\n¡Veras como mejoran sus ataques de tipo Roca!
+\tg[Josué]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no? Y, en prueba de esta amistad, ¡te voy a dar la Cinta Descuido!
+\tg[Josué]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no? Y, en prueba de esta amistad, ¡te voy a dar la Cinta Descuido!
+\tg[Josué]Yo creo que la Cinta Descuido le quedará a tu Pokémon divinamente.
+\tg[Josué]Yo creo que la Cinta Descuido le quedará a tu Pokémon divinamente.
+\tg[Josué]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Josué]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Josué]Yo Josué, por jueves, y soy el segundo varón de siete hermanos.
+\tg[Josué]Yo Josué, por jueves, y soy el segundo varón de siete hermanos.
+\tg[Josué]¿Crees que el miércoles es el mejor día de la semana? ¿No será el jueves?\nBueno, pienses lo que pienses, ¡nos vemos el jueves que viene!
+\tg[Josué]¿Crees que el miércoles es el mejor día de la semana? ¿No será el jueves?\nBueno, pienses lo que pienses, ¡nos vemos el jueves que viene!
+Antes había un árbol extraño bloqueando el camino, pero parece que una florista ha conseguido apartarlo.
+Antes había un árbol extraño bloqueando el camino, pero parece que una florista ha conseguido apartarlo.
+Vaya talento, ¿verdad?
+Vaya talento, ¿verdad?
+\w[signskin4]\C[8]Ruta 36.\nAl norte, Ruta 37. \nAl sureste, Ruinas Alfa.\nAl suroeste, Ruta 35. \nAl este, Ciudad Malva.
+\w[signskin4]\C[8]Ruta 36.\nAl norte, Ruta 37. \nAl sureste, Ruinas Alfa.\nAl suroeste, Ruta 35. \nAl este, Ciudad Malva.
+\w[menuskin]\C[8]¡Es un árbol muy raro! \n¿Quieres usar la Regadera?
+\w[menuskin]\C[8]¡Es un árbol muy raro! \n¿Quieres usar la Regadera?
+\w[menuskin]\C[8]¡\PN ha utilizado la Regadera!
+\w[menuskin]\C[8]¡\PN ha utilizado la Regadera!
+\w[menuskin]\C[8]Al árbol raro no le ha gustado la Regadera.\n¡Se dispone a atacar!
+\w[menuskin]\C[8]Al árbol raro no le ha gustado la Regadera.\n¡Se dispone a atacar!
+¡Guau! ¡Qué bien me lo he pasado!\nQuiero darte un regalo por hacerme pasar este buen rato.
+¡Guau! ¡Qué bien me lo he pasado!\nQuiero darte un regalo por hacerme pasar este buen rato.
+Con un Plantabayas puedes cultivar Bayas de cualquier sitio sin preocuparte.
+Con un Plantabayas puedes cultivar Bayas de cualquier sitio sin preocuparte.
+¡Ah, claro! ¡También debería darte unas Bayas! \nSi no, el Plantabayas no iba a servirte de mucho.
+¡Ah, claro! ¡También debería darte unas Bayas! \nSi no, el Plantabayas no iba a servirte de mucho.
+Planta las Bayas en la tierra, riégalas de vez en cuando y verás cómo crecen.\nBueno, yo tengo que volver a Ciudad Trigal.
+Planta las Bayas en la tierra, riégalas de vez en cuando y verás cómo crecen.\nBueno, yo tengo que volver a Ciudad Trigal.
+¡Ya nos veremos!
+¡Ya nos veremos!
+\w[menuskin]\C[8]¡Es un árbol muy raro! \nParece que se mueve...
+\w[menuskin]\C[8]¡Es un árbol muy raro!  \nParece que se mueve...
+\w[signskin3]\C[8]Pistas para Entrenadores: \nDos Pokémon de la misma especie pueden tener distinta fuerza.
+\w[signskin3]\C[8]Pistas para Entrenadores: \nDos Pokémon de la misma especie pueden tener distinta fuerza.
+\w[signskin3]\C[8]Al principio suelen tener la misma, pero eso varía dependiendo de cómo se han criado.
+\w[signskin3]\C[8]Al principio suelen tener la misma, pero eso varía dependiendo de cómo se han criado.
+¡Yepa! ¿Te apetece romper rocas con tus propias manos?
+¡Yepa! ¿Te apetece romper rocas con tus propias manos?
+Pues no puedes, pero con esta MT tus Pokémon sí.
+Pues no puedes, pero con esta MT tus Pokémon sí.
+Podría serte útil, ¿no?
+Podría serte útil, ¿no?
+¡Puedo calcular cómo derrotar a cualquier Pokémon! ¡Poder científico!
+¡Puedo calcular cómo derrotar a cualquier Pokémon! ¡Poder científico!
+¿Qué? ¡Parece que me han fallado los cálculos!
+¿Qué? ¡Parece que me han fallado los cálculos!
+¡H-has usado trampas! ¡Eso no está permitido!
+¡H-has usado trampas! ¡Eso no está permitido!
+¿Me das tu número de teléfono?
+¿Me das tu número de teléfono?
+Estaba repasando un poco mientras te esperaba.
+Estaba repasando un poco mientras te esperaba.
+¡Esta vez no podrás conmigo, trampita!
+¡Esta vez no podrás conmigo, trampita!
+¿Cómo? ¡Déjame<<n>>que repita los cálculos!
+¿Cómo? ¡Déjame <<n>>que repita los cálculos!
+Mmm... No lo entiendo... ¡Nada tiene sentido!
+Mmm... No lo entiendo... ¡Nada tiene sentido!
+¡Ah! y toma esto.
+¡Ah! y toma esto.
+\tg[Flora]Soy Flora, la florista.
+\tg[Flora]Soy Flora, la florista.
+\tg[Flora]¿Sabes qué?\nHe regado ese árbol que se movía, ¡y se ha asustado tanto que ha pegado un bote!
+\tg[Flora]¿Sabes qué?\nHe regado ese árbol que se movía, ¡y se ha asustado tanto que ha pegado un bote!
+\tg[Flora]Creo que si lo regamos más... ¡Ah, una Regadera!\n¡Venga, tengo ganas de ver qué pasa cuando riegues el árbol que se mueve!
+\tg[Flora]Creo que si lo regamos más... ¡Ah, una Regadera!\n¡Venga, tengo ganas de ver qué pasa cuando riegues el árbol que se mueve!
+\tg[Flora]¡Seguro que es un Pokémon!\nCreo que si lo regamos más, se levantará y mostrará su verdadero aspecto.
+\tg[Flora]¡Seguro que es un Pokémon!\nCreo que si lo regamos más, se levantará y mostrará su verdadero aspecto.
+Sí
+Sí
+No
+No

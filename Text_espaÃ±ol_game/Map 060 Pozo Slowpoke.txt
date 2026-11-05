@@ -1,0 +1,128 @@
+﻿# Maps grouped under: Pozo Slowpoke (Highest ID: 60)
+[Map60]
+\w[menuskin]\c[8]Un Slowpoke... pero sin cola...
+\w[menuskin]\c[8]Un Slowpoke... pero sin cola...
+\w[menuskin]\c[8]¡Anda! Tiene una Carta.\n¿La lees?
+\w[menuskin]\c[8]¡Anda! Tiene una Carta.\n¿La lees?
+\w[menuskin]\c[8]\PN lee la Carta.
+\w[menuskin]\c[8]\PN lee la Carta.
+\w[menuskin]\c[8]Sé buena y cuida de la casa donde están el abuelo y Slowpoke.\nTe quiere, papá.
+\w[menuskin]\c[8]Sé buena y cuida de la casa donde están el abuelo y Slowpoke.\nTe quiere, papá.
+\tg[Protón]¿Qué narices queréis?
+\tg[Protón]¿Qué narices queréis?
+\tg[Protón]Tengo fama de ser él miembro más retorcido del Team Rocket...\n¡Y el más guapo también! ¡Jo, jo!
+\tg[Protón]Tengo fama de ser él miembro más retorcido del Team Rocket...\n¡Y el más guapo también! ¡Jo, jo!
+\tg[Protón]Quitaos de en medio y dejadme mirarme en el espejito un poquito más.\n¡Pero mirad eso, si es que estoy hecho un bombón!
+\tg[Protón]Quitaos de en medio y dejadme mirarme en el espejito un poquito más.\n¡Pero mirad eso, si es que estoy hecho un bombón!
+\tg[Protón]...
+\tg[Protón]...
+\tg[Protón]¿Seguís aquí? ¡Pues entonces me tendré que poner serio!
+\tg[Protón]¿Seguís aquí? ¡Pues entonces me tendré que poner serio!
+\tg[Protón]¡A ver si aguntais esto, enanos sin estilo!
+\tg[Protón]¡A ver si aguntais esto, enanos sin estilo!
+Uff... Es increíble de lo que son capaces estos renacuajos.
+ Uff... Es increíble de lo que son capaces estos renacuajos.
+\tg[Protón]¡Tsk! Sois duros de roer, ¿eh?
+\tg[Protón]¡Tsk! Sois duros de roer, ¿eh?
+\tg[\v[12]]Calla, princesita. ¡Dinos que planeais hacer y qué hacéis con el nombre del Team Rocket!
+\tg[\v[12]]Calla, princesita. ¡Dinos que planeais hacer y qué hacéis con el nombre del Team Rocket!
+\tg[Protón]El Team Rocket se disolvió hace tres años, pero algunos seguimos con nuestras actividades en las sombras.
+\tg[Protón]El Team Rocket se disolvió hace tres años, pero algunos seguimos con nuestras actividades en las sombras.
+\tg[Protón]¿Nuestro objetivo? Pues lo típico... \n¡Traer al estrellato al Team Rocket, claro que sí!
+\tg[Protón]¿Nuestro objetivo? Pues lo típico... \n¡Traer al estrellato al Team Rocket, claro que sí!
+\tg[Protón]Aún así, ¿de verdad creéis que todo es tan sencillo como ganarme? ¡Jo, jo, jo!
+\tg[Protón]Aún así, ¿de verdad creéis que todo es tan sencillo como ganarme? ¡Jo, jo, jo!
+\tg[Protón]¡Ya vereis lo temibles que podemos llegar a ser!\n¡El Rocket no perdona, mocosos!
+\tg[Protón]¡Ya vereis lo temibles que podemos llegar a ser!\n¡El Rocket no perdona, mocosos!
+\tg[\v[12]]¡Bah! No estuvo tan mal, supongo. \nAunque la mayoría del trabajo lo hice yo.
+\tg[\v[12]]¡Bah! No estuvo tan mal, supongo. \nAunque la mayoría del trabajo lo hice yo.
+\tg[\v[12]]Escucha, esto no cambia nada. Sólo colaboré contigo porque no podía dejar que te llevaras todo el crédito, ¿entendido?
+\tg[\v[12]]Escucha, esto no cambia nada. Sólo colaboré contigo porque no podía dejar que te llevaras todo el crédito, ¿entendido?
+\tg[\v[12]]A partir de ahora, volvemos a ser enemigos acérrimos. Si alguna vez vuelvo a verte, no tendré piedad.
+\tg[\v[12]]A partir de ahora, volvemos a ser enemigos acérrimos. Si alguna vez vuelvo a verte, no tendré piedad.
+\tg[\v[12]]¡Hasta nunca!
+\tg[\v[12]]¡Hasta nunca!
+\tg[César]¡Muy bien, \PN!\nEl Team Rocket ha huido y han dejado libres a nuestros queridos Slowpoke.
+\tg[César]¡Muy bien, \PN!\nEl Team Rocket ha huido y han dejado libres a nuestros queridos Slowpoke.
+\tg[César]Y ya estoy mejor de la espalda, nada que un poco de crema antigolpes no arregle. \n¡Ahora salgamos de aquí pitando!
+\tg[César]Y ya estoy mejor de la espalda, nada que un poco de crema antigolpes no arregle. \n¡Ahora salgamos de aquí pitando!
+\tg[César]¡Cof, cof...! ¡Esa luz...!\n¡No, no debo acercarme a ella!
+\tg[César]¡Cof, cof...! ¡Esa luz...!\n¡No, no debo acercarme a ella!
+\tg[César]¿...\PN? ¡Oh, gracias al cielo \nPensaba que mis días estaban contados.
+\tg[César]¿...\PN? ¡Oh, gracias al cielo \nPensaba que mis días estaban contados.
+\tg[César]Como podrás ver, me he caído un poco.\n¡Pero solo un poco, eh!
+\tg[César]Como podrás ver, me he caído un poco.\n¡Pero solo un poco, eh!
+\tg[César]La cosa es que no me puedo mover, la espalda me está... ¡AUCH! ...Matando.
+\tg[César]La cosa es que no me puedo mover, la espalda me está... ¡AUCH! ...Matando.
+\tg[César]Si estuviera bien, mis Pokémon los habrían machacado... ¡Vaya que sí!
+\tg[César]Si estuviera bien, mis Pokémon los habrían machacado... ¡Vaya que sí!
+La táctica maestra es no rendirse. Con paciencia lograré entender como narices funciona eso de los Shellder...
+La táctica maestra es no rendirse. Con paciencia lograré entender como narices funciona eso de los Shellder...
+¡Eureka! ¡Lo he descubierto!
+¡Eureka! ¡Lo he descubierto!
+Parece que cuando un Slowpoke lleva una Roca del Rey, los Shellder le muerden... ¡Y eso los hace evolucionar!
+Parece que cuando un Slowpoke lleva una Roca del Rey, los Shellder le muerden... ¡Y eso los hace evolucionar!
+Toma, una Roca del Rey. ¡Estoy tan emocionado que te puedes llevar una gratis!
+Toma, una Roca del Rey. ¡Estoy tan emocionado que te puedes llevar una gratis!
+¿Que paremos de robar colas de Slowpoke? ¡Buah, ja, ja! \n¡Eso sería ignorar las órdenes del Ejecutivo Protón!
+¿Que paremos de robar colas de Slowpoke? ¡Buah, ja, ja! \n¡Eso sería ignorar las órdenes del Ejecutivo Protón!
+Si tanto deseas que paremos, ¡intenta vencernos a la fuerza, mocosa!
+Si tanto deseas que paremos, ¡intenta vencernos a la fuerza, mocosa!
+Si tanto deseas que paremos, ¡intenta vencernos a la fuerza, mocoso!
+Si tanto deseas que paremos, ¡intenta vencernos a la fuerza, mocoso!
+¡Maldición!
+¡Maldición!
+¿Pero qué más os da? ¡Las colas de Slowpoke se regeneran muy rápido!\nAdemás, lo que importa es que fue Protón quien las pidió.
+¿Pero qué más os da? ¡Las colas de Slowpoke se regeneran muy rápido!\nAdemás, lo que importa es que fue Protón quien las pidió.
+¡Vaya castaña!\nEstaba de guardia arriba cuando un viejo memo me gritó; me dio tal susto que me caí al pozo.
+¡Vaya castaña!\nEstaba de guardia arriba cuando un viejo memo me gritó; me dio tal susto que me caí al pozo.
+¡Hala! ¡Voy a desahogarme luchando contra ti!
+¡Hala! ¡Voy a desahogarme luchando contra ti!
+¡Aaaarggg! Hoy no es mi día...
+¡Aaaarggg! Hoy no es mi día...
+Sí, hemos estado cortando colas de Slowpoke y vendiéndolas.\nLo hacemos solo por dinero, ¿capisce?
+Sí, hemos estado cortando colas de Slowpoke y vendiéndolas.\nLo hacemos solo por dinero, ¿capisce?
+¡Así es!\nSomos el Team Rocket, ¡y haríamos lo que fuera por pasta gansa!
+¡Así es!\nSomos el Team Rocket, ¡y haríamos lo que fuera por pasta gansa!
+\tg[Umeko]Los Slowpoke agradecerán vuestra ayuda, joven.
+\tg[Umeko]Los Slowpoke agradecerán vuestra ayuda, joven.
+Qué calamidad...
+Qué calamidad...
+¡Oh! Buen día, joven.
+¡Oh! Buen día, joven.
+Mi nombre es Umeko, de las Chicas Kimono.
+Mi nombre es Umeko, de las Chicas Kimono.
+\tg[Umeko]No soy la mejor orientándome, pues he acabado en este pozo junto al Team Rocket.
+\tg[Umeko]No soy la mejor orientándome, pues he acabado en este pozo junto al Team Rocket.
+\tg[Umeko]¿Queréis acabar con sus planes?
+\tg[Umeko]¿Queréis acabar con sus planes?
+\tg[Umeko]Tomad, espero que esto os ayude.
+\tg[Umeko]Tomad, espero que esto os ayude.
+\tg[Umeko]Os deseo suerte.
+\tg[Umeko]Os deseo suerte.
+\ts[4]Sloooooooooooooooow\wt[20]
+\ts[4]Sloooooooooooooooow\wt[20]
+\ts[4]Bro?\wt[20]
+\ts[4]Bro?\wt[20]
+¿Pero qué estás diciendo? ¿¡Cómo vamos a dejar lo de las colas!?\n¡Obedecerte arruinaría la reputación del Team Rocket!
+¿Pero qué estás diciendo? ¿¡Cómo vamos a dejar lo de las colas!?\n¡Obedecerte arruinaría la reputación del Team Rocket!
+A mí no me digas nada, ¿eh? \nEs Protón el que anda detrás de esto.
+A mí no me digas nada, ¿eh? \nEs Protón el que anda detrás de esto.
+\tg[\v[12]]¿Por qúe has tardado tanto? Deja de hacer el idiota y ayúdame, ¿quieres?
+\tg[\v[12]]¿Por qúe has tardado tanto? Deja de hacer el idiota y ayúdame, ¿quieres?
+\tg[\v[12]]¿O es que no quieres derrotar al Team Rocket?\nVamos. Prepárate y ayúdame a acabar con ellos.
+\tg[\v[12]]¿O es que no quieres derrotar al Team Rocket?\nVamos. Prepárate y ayúdame a acabar con ellos.
+\tg[\v[12]]No soy tu compi, ¿estamos? \nSolo necesito tu ayuda porque... em...
+\tg[\v[12]]No soy tu compi, ¿estamos? \nSolo necesito tu ayuda porque... em...
+\tg[\v[12]]¡Vaya pregunta! Pues te necesito porque... em...
+\tg[\v[12]]¡Vaya pregunta! Pues te necesito porque... em...
+\tg[\v[12]]¡Ejem! ¡Entremos de una vez!
+\tg[\v[12]]¡Ejem! ¡Entremos de una vez!
+Sí
+Sí
+No
+No
+Claro, compi
+Claro, compi
+¿Y por qué no vas solo?
+¿Y por qué no vas solo?

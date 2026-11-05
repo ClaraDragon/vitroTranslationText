@@ -1,0 +1,209 @@
+﻿# Maps grouped under: Ciudad Orquidea (Highest ID: 105)
+[Map105]
+Aníbal, es el Líder del Gimnasio de estos lares. \nPelea con sus fornidos y definidos músculos más que con sus Pokémon... una suerte que el reglamento prohíba que le pegue a sus contrincantes.
+Aníbal, es el Líder del Gimnasio de estos lares. \nPelea con sus fornidos y definidos músculos más que con sus Pokémon... una suerte que el reglamento prohíba que le pegue a sus contrincantes.
+Esta melodía me recuerda las olas del mar.
+Esta melodía me recuerda las olas del mar.
+\w[signskin2]\C[10]Ciudad Orquídea.\nRodeada de agitadas aguas.
+\w[signskin2]\C[10]Ciudad Orquídea.\nRodeada de agitadas aguas.
+Hace mucho tiempo, las Islas Remolino eran una sola isla.\nSin embargo, las dos regiones que la formaban entraron en guerra.
+Hace mucho tiempo, las Islas Remolino eran una sola isla.\nSin embargo, las dos regiones que la formaban entraron en guerra.
+Eso colmó la paciencia de Lugia, el protector de la isla, que lanzó un rayo sobre la isla y la dividió en cuatro.
+Eso colmó la paciencia de Lugia, el protector de la isla, que lanzó un rayo sobre la isla y la dividió en cuatro.
+Lugia, se retiró al fondo de la cascada y nunca más se le ha vuelto a ver...
+Lugia, se retiró al fondo de la cascada y nunca más se le ha vuelto a ver...
+Si un humano que haya afianzado los lazos con sus Pokémon le entregara a Lugia un objeto que le pertenece, quizá entonces se presentaría ante él.
+Si un humano que haya afianzado los lazos con sus Pokémon le entregara a Lugia un objeto que le pertenece, quizá entonces se presentaría ante él.
+De aquí a Ciudad Olivo hay varias islas.\nDicen que ahí vive una criatura mítica de algún tipo.
+De aquí a Ciudad Olivo hay varias islas.\nDicen que ahí vive una criatura mítica de algún tipo.
+Aunque bueno, toda leyenda por estos lugares no suele ser más que un engañabobos.\nLas verdaderas leyendas están en lugares como Ciudad Iris.
+Aunque bueno, toda leyenda por estos lugares no suele ser más que un engañabobos.\nLas verdaderas leyendas están en lugares como Ciudad Iris.
+\w[signskin]Estudio fotográfico de Ciudad Orquídea.\n¡Hazte una foto de recuerdo!
+\w[signskin]Estudio fotográfico de Ciudad Orquídea.\n¡Hazte una foto de recuerdo!
+\w[menuskin]\C[8]Es una máquina de fotos automática.\n¿Quieres una foto?
+\w[menuskin]\C[8]Es una máquina de fotos automática.\n¿Quieres una foto?
+¡Mi barco, mi barco! Como me gusta mi barco.
+¡Mi barco, mi barco! Como me gusta mi barco.
+¿Ey, necesitas ir a Ciudad Olivo?\nPuedo llevarte en mi querido barco, por un módico precio, claro.
+¿Ey, necesitas ir a Ciudad Olivo?\nPuedo llevarte en mi querido barco, por un módico precio, claro.
+\gPor 1000$ te llevo, ¿qué me dices?
+\gPor 1000$ te llevo, ¿qué me dices?
+\g¡Bien!\nPues sube al barco, que nos vamos.
+\g¡Bien!\nPues sube al barco, que nos vamos.
+Tú te lo pierdes... mira que rechazar ir en mi querido barco...
+Tú te lo pierdes... mira que rechazar ir en mi querido barco...
+Anda, estarás de viaje, supongo.\n¿En tu camino viste un Cloyster por las Islas Remolino?
+Anda, estarás de viaje, supongo.\n¿En tu camino viste un Cloyster por las Islas Remolino?
+Por lo general Cloyster suele ser un Pokémon solitario, pero este se ha puesto especialmente puñetero últimamente.
+Por lo general Cloyster suele ser un Pokémon solitario, pero este se ha puesto especialmente puñetero últimamente.
+Quizás se deba a que el otro día alguien intentó robar su perla, pero en el ecosistema no todo puede ser perfecto.
+Quizás se deba a que el otro día alguien intentó robar su perla, pero en el ecosistema no todo puede ser perfecto.
+No me iré con rodeos, necesito que lo derrotes y lo captures para mi.
+No me iré con rodeos, necesito que lo derrotes y lo captures para mi.
+He oído que de su concha se puede extraer aromas perfectos para una sopa.
+He oído que de su concha se puede extraer aromas perfectos para una sopa.
+No me mires así, es como funciona la cadena.
+No me mires así, es como funciona la cadena.
+¡Oh, al final me has hecho caso!
+¡Oh, al final me has hecho caso!
+Gracias por traerme a Cloyster. No me mires mal, no voy a comemelo, solo quiero sus aromas.
+Gracias por traerme a Cloyster. No me mires mal, no voy a comemelo, solo quiero sus aromas.
+Dame un rato, para que los extraiga...
+Dame un rato, para que los extraiga...
+¡Y listo!
+¡Y listo!
+¡Gracias por la ayuda! He aquí una muestra de agradecimiento.
+¡Gracias por la ayuda! He aquí una muestra de agradecimiento.
+Siendo sincero, creo que este Cloyster es bastante incomprendido en su hábitat.
+Siendo sincero, creo que este Cloyster es bastante incomprendido en su hábitat.
+Se parece un poco a mí, así que no te hagas ideas erróneas.\nQuedátelo, seguramente este mejor en tus manos.
+Se parece un poco a mí, así que no te hagas ideas erróneas.\nQuedátelo, seguramente este mejor en tus manos.
+Siendo sincero, creo que ese Cloyster es bastante incomprendido en su hábitat.
+Siendo sincero, creo que ese Cloyster es bastante incomprendido en su hábitat.
+Se parece un poco a mí, así que no te hagas ideas erroneas.
+Se parece un poco a mí, así que no te hagas ideas erroneas.
+\w[signskin]Entrada a la Zona Safari.\n¡La palpitante experiencia de encontrar Pokémon salvajes en su entorno a solo unos kilómetros de aquí!
+\w[signskin]Entrada a la Zona Safari.\n¡La palpitante experiencia de encontrar Pokémon salvajes en su entorno a solo unos kilómetros de aquí!
+Al norte del pueblo hay muchas piedras. Quizás encuentras algo dentro de ellas, ¿sabes?
+Al norte del pueblo hay muchas piedras. Quizás encuentras algo dentro de ellas, ¿sabes?
+\w[signskin]Gimnasio Pokémon de Ciudad Orquídea. \nLíder: Aníbal, sus puños hablan por él.
+\w[signskin]Gimnasio Pokémon de Ciudad Orquídea. \nLíder: Aníbal, sus puños hablan por él.
+\tg[Eusine]¡Hola, \PN!\n¿Ese de ahí no era Suicune?\nSolo pude fijarme un poco, pero creí haberlo visto correr por las olas.
+\tg[Eusine]¡Hola, \PN!\n¿Ese de ahí no era Suicune?\nSolo pude fijarme un poco, pero creí haberlo visto correr por las olas.
+\tg[Eusine]Suicune es bello y grandioso. Como ningún otro Pokémon.\nAcariciar su suave pelaje sería un sueño hecho realidad...
+\tg[Eusine]Suicune es bello y grandioso. Como ningún otro Pokémon.\nAcariciar su suave pelaje sería un sueño hecho realidad...
+\tg[Eusine]\nCorre por los pueblos y caminos a unas velocidades increíbles, con una gracilidad impropia de cualquier Pokémon.
+\tg[Eusine]\nCorre por los pueblos y caminos a unas velocidades increíbles, con una gracilidad impropia de cualquier Pokémon.
+\tg[Eusine]Es tan maravilloso... Quiero ver a Suicune de cerca...\nY a ti... ¡A ti te ha elegido!
+\tg[Eusine]Es tan maravilloso... Quiero ver a Suicune de cerca...\nY a ti... ¡A ti te ha elegido!
+\tg[Eusine]Estoy decidido.\n¡Lucharé contra ti para ganarme el respeto de Suicune!
+\tg[Eusine]Estoy decidido.\n¡Lucharé contra ti para ganarme el respeto de Suicune!
+\tg[Eusine]¡Vamos, \PN! ¡Demostrémosle a Suicune que ambos somos los elegidos!
+\tg[Eusine]¡Vamos, \PN! ¡Demostrémosle a Suicune que ambos somos los elegidos!
+No... ¡He perdido!
+No... ¡He perdido!
+\tg[Eusine]¡Eres formidable, \PN!\nCreo que empiezo a entender por qué Suicune se ha interesado por ti...
+\tg[Eusine]¡Eres formidable, \PN!\nCreo que empiezo a entender por qué Suicune se ha interesado por ti...
+\tg[Eusine]Pero eso da igual, conseguiré que se interese también en mí.
+\tg[Eusine]Pero eso da igual, conseguiré que se interese también en mí.
+\tg[Eusine]¡Pronto nos veremos, \PN! ¡Suicune, allá voy!
+\tg[Eusine]¡Pronto nos veremos, \PN! ¡Suicune, allá voy!
+Después de esta derrota, mi marido va a hacer un entrenamiento intensivo.
+Después de esta derrota, mi marido va a hacer un entrenamiento intensivo.
+La verdad es que le conviene.\nÚltimamente estaba echando barriga.
+La verdad es que le conviene.\nÚltimamente estaba echando barriga.
+¿Quieres el número de teléfono de mi marido? \nLuchar contra Entrenadores duros es lo único que lo entretiene.
+¿Quieres el número de teléfono de mi marido? \nLuchar contra Entrenadores duros es lo único que lo entretiene.
+Aníbal
+Aníbal
+Oh, ¿de verdad? ¿No quieres enfrentarte a mi marido?
+Oh, ¿de verdad? ¿No quieres enfrentarte a mi marido?
+Los miércoles por la noche se toma un descanso de su entrenamiento bajo la cascada.\nLlámalo entonces.
+Los miércoles por la noche se toma un descanso de su entrenamiento bajo la cascada.\nLlámalo entonces.
+¡Es la Medalla del Gimnasio de Ciudad Orquídea! \n¡Muy bien, toma esta MT!
+¡Es la Medalla del Gimnasio de Ciudad Orquídea! \n¡Muy bien, toma esta MT!
+¿Has cruzado el mar para llegar hasta aquí? \n¡Habrá sido duro, qué valor!
+¿Has cruzado el mar para llegar hasta aquí? \n¡Habrá sido duro, qué valor!
+\w[signskin]Farmacia de Ciudad Orquídea. \nQuinientos años de experiencia nos avalan.
+\w[signskin]Farmacia de Ciudad Orquídea. \nQuinientos años de experiencia nos avalan.
+Sí
+Sí
+No
+No
+[Map108]
+¡Odd... Odd... issssh!
+¡Odd... Odd... issssh!
+He visto todo.\nLo sé todo...
+He visto todo.\nLo sé todo...
+¡Ciertamente, conozco tus Pokémon!
+¡Ciertamente, conozco tus Pokémon!
+¡Fufufu! ¡Veo que no has hecho nada!
+¡Fufufu! ¡Veo que no has hecho nada!
+Mmm... Veo que \nconociste a \v[2] cuando tenía Nivel \v[3]!\n¡Ahora su Nivel es \v[4]!
+Mmm... Veo que \nconociste a \v[2] cuando tenía Nivel \v[3]!\n¡Ahora su Nivel es \v[4]!
+¡Increíble!\n¡No entiendo el porqué, pero eres increíble!
+¡Increíble!\n¡No entiendo el porqué, pero eres increíble!
+Lo vuestro es verdadera amistad...\n¡Habría que estar ciego para no verlo!
+Lo vuestro es verdadera amistad...\n¡Habría que estar ciego para no verlo!
+Te doy esto como agradecimiento por haberme mostrado lo que significa el verdadero amor.
+Te doy esto como agradecimiento por haberme mostrado lo que significa el verdadero amor.
+\w[menuskin]\C[8]¡\PN ha recibido una <c3=98a1ff,3050c8>Cinta Huella.</c3>
+\w[menuskin]\C[8]¡\PN ha recibido una <c3=98a1ff,3050c8>Cinta Huella.</c3>
+\w[menuskin]\C[8]\PN le ha dado la <c3=98a1ff,3050c8>Cinta Huella</c3> a su \v[2]
+\w[menuskin]\C[8]\PN le ha dado la <c3=98a1ff,3050c8>Cinta Huella</c3> a su \v[2]
+La brillante Cinta Huella muestra el afecto con el que has entrenado a \v[2].
+La brillante Cinta Huella muestra el afecto con el que has entrenado a \v[2].
+A propósito... Lo has entrenado bastante, y se percibe claramente el cariño que os profesáis el uno por el otro.
+A propósito... Lo has entrenado bastante, y se percibe claramente el cariño que os profesáis el uno por el otro.
+A propósito... Lo has entrenado un poquito...\nPercibo cierto afecto mutuo.
+A propósito... Lo has entrenado un poquito...\nPercibo cierto afecto mutuo.
+A propósito... No lo has entrenado casi nada...\nPero no te preocupes; a partir de ahora, llévalo contigo en tu viaje, y verás como eso cambia enseguida.
+A propósito... No lo has entrenado casi nada...\nPero no te preocupes; a partir de ahora, llévalo contigo en tu viaje, y verás como eso cambia enseguida.
+¿Soy buena, eh?
+¿Soy buena, eh?
+¿Vienes de Ciudad Olivo?\nDicen que en las cuatro islas que hay de camino a aquí vive una mítica criatura marina.
+¿Vienes de Ciudad Olivo?\nDicen que en las cuatro islas que hay de camino a aquí vive una mítica criatura marina.
+Dicen que solo puedes verla si tienes un Ala Plateada.\nDebe de tener la misma esencia que la criatura.
+Dicen que solo puedes verla si tienes un Ala Plateada.\nDebe de tener la misma esencia que la criatura.
+¿Cómo? ¿Quieres una medicina?\nParece que tus Pokémon están bien. ¿Cuál es el problema?
+¿Cómo? ¿Quieres una medicina?\nParece que tus Pokémon están bien. ¿Cuál es el problema?
+...\nMmm... ¿El Pokémon del faro está enfermo? ¡Oh no, el pobre Amphy!\nDescuida, tengo el remedio perfecto.
+...\nMmm... ¿El Pokémon del faro está enfermo? ¡Oh no, el pobre Amphy!\nDescuida, tengo el remedio perfecto.
+Mi Poción Secreta es muy potente. Solo la doy en casos de urgencia.
+Mi Poción Secreta es muy potente. Solo la doy en casos de urgencia.
+¿Qué se te ofrece? ¿Alguna medicina?
+¿Qué se te ofrece? ¿Alguna medicina?
+¡Muy bien!\n¡Hasta la próxima!
+¡Muy bien!\n¡Hasta la próxima!
+Las estanterías están repletas de libros de medicina natural Pokémon.
+Las estanterías están repletas de libros de medicina natural Pokémon.
+¿Quieres leer alguno?
+¿Quieres leer alguno?
+Estos libros son demasiado densos; no se entiende absolutamente nada.
+Estos libros son demasiado densos; no se entiende absolutamente nada.
+Me han dicho miz papiz que loz remolinoz que hay alrededor de laz izlaz zon coza de un Pokémon marino muy eztraño.
+Me han dicho miz papiz que loz remolinoz que hay alrededor de laz izlaz zon coza de un Pokémon marino muy eztraño.
+¿Eh? ¿Estás de turismo? Pues hazte una foto de recuerdo.
+¿Eh? ¿Estás de turismo? Pues hazte una foto de recuerdo.
+¿Has visto la cámara que hay fuera? Es mía, yo la he puesto ahí.\nTengo un hermano que va por ahí paseándose con una cámara.
+¿Has visto la cámara que hay fuera? Es mía, yo la he puesto ahí.\nTengo un hermano que va por ahí paseándose con una cámara.
+Quizá te lo encuentres... Pero primero hazte una foto aquí.\nSi miras la cámara, verás que es automática. ¡Tu Pokémon y tú podéis llevaros un bonito recuerdo!
+Quizá te lo encuentres... Pero primero hazte una foto aquí.\nSi miras la cámara, verás que es automática. ¡Tu Pokémon y tú podéis llevaros un bonito recuerdo!
+Para los Pokémon, la felicidad es estar con quien los quiere.
+Para los Pokémon, la felicidad es estar con quien los quiere.
+¡Hola! ¿Cómo está mi Pokémon?
+¡Hola! ¿Cómo está mi Pokémon?
+Creo que ya pasó el peligro. ¿Me lo devuelves?
+Creo que ya pasó el peligro. ¿Me lo devuelves?
+¡Vaya! Parece que Caparazz te ha tomado cariño.
+¡Vaya! Parece que Caparazz te ha tomado cariño.
+¡Vale!\n¡Quédatelo, pero prométeme que serás amable con él!
+¡Vale!\n¡Quédatelo, pero prométeme que serás amable con él!
+¡Oh, no, no...! Es como si me hubieran robado.
+¡Oh, no, no...! Es como si me hubieran robado.
+¡Estoy alucinado!\nVino un chico de tu edad, de pelo largo y mirada penetrante.\n¡Y me obligó a darle mis queridos Pokémon!
+¡Estoy alucinado!\nVino un chico de tu edad, de pelo largo y mirada penetrante.\n¡Y me obligó a darle mis queridos Pokémon!
+Todavía me queda uno, ¿pero qué hago si vuelve? \nPareces fuerte.\n¿Podrías cuidar de mi Pokémon durante un rato?
+Todavía me queda uno, ¿pero qué hago si vuelve? \nPareces fuerte.\n¿Podrías cuidar de mi Pokémon durante un rato?
+¡Oh, gracias! ¡Cuídalo bien, por favor!
+¡Oh, gracias! ¡Cuídalo bien, por favor!
+¡Oh, no...! ¿Y qué hago si vuelve?
+¡Oh, no...! ¿Y qué hago si vuelve?
+Caparazz
+Caparazz
+\w[menuskin]\C[8]¡\PN recibió un Pokémon del coleccionista!
+\w[menuskin]\C[8]¡\PN recibió un Pokémon del coleccionista!
+\w[menuskin]\C[8]No puedes llevar más Pokémon.
+\w[menuskin]\C[8]No puedes llevar más Pokémon.
+Vaya, no suele venir mucha gente hasta estos lares...
+Vaya, no suele venir mucha gente hasta estos lares...
+Cuando yo era joven también entrenaba Pokémon. Me dejé la piel subiendo a la torre y buceando en las profundidades del mar.
+Cuando yo era joven también entrenaba Pokémon.  Me dejé la piel subiendo a la torre y buceando en las profundidades del mar.
+Ahora vivo en esta playa y paso los días escuchando el rumor del viento y del mar... y de mi señora madre...
+Ahora vivo en esta playa y paso los días escuchando el rumor del viento y del mar... y de mi señora madre...
+\w[menuskin]\C[8]Es una máquina de fotos automática.\n¿Quieres una foto?
+\w[menuskin]\C[8]Es una máquina de fotos automática.\n¿Quieres una foto?
+Sí
+Sí
+No
+No

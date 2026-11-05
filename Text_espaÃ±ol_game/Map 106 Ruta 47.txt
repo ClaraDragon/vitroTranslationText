@@ -1,0 +1,86 @@
+﻿# Maps grouped under: Ruta 47 (Highest ID: 106)
+[Map106]
+Uno más uno son dos. Pero, con nuestra fuerza, ¡nosotros valemos mucho más!
+Uno más uno son dos. Pero, con nuestra fuerza, ¡nosotros valemos mucho más! 
+Mmm... ¿Error de cálculo?
+Mmm... ¿Error de cálculo? 
+Tu increíble fuerza es incalculable.
+Tu increíble fuerza es incalculable. 
+¡Typhlo!\wt[20]
+¡Typhlo!\wt[20]
+No me gustan las multitudes. Por eso hago picnic con mis Pokémon. ¿Tú también eres así?
+No me gustan las multitudes. Por eso hago picnic con mis Pokémon. ¿Tú también eres así?
+A lo mejor tengo que internarme más en<<n>>el monte.
+A lo mejor tengo que internarme más en <<n>>el monte.
+¡Hasta otra!
+¡Hasta otra!
+Nosotros somos dos fuera de serie.
+Nosotros somos dos fuera de serie.
+Tú no eres una persona normal y<<n>>corriente.
+Tú no eres una persona normal y <<n>>corriente.
+Y mira que a primera vista parecías más de lo normal...
+Y mira que a primera vista parecías más de lo normal...
+\w[menuskin]\C[8]Es una torre de piedra derruida...
+\w[menuskin]\C[8]Es una torre de piedra derruida...
+\w[menuskin]\C[8]Hay una hendidura donde parece encajar la Piedra Espíritu.\n¿Quieres ponerla ahí?
+\w[menuskin]\C[8]Hay una hendidura donde parece encajar la Piedra Espíritu.\n¿Quieres ponerla ahí?
+\w[menuskin]\C[8]Colocas la piedra en en hueco...
+\w[menuskin]\C[8]Colocas la piedra en en hueco... 
+\sh¡Uaaahh!\wt[15]
+\sh¡Uaaahh!\wt[15]
+¿Habrá que poner algo en el?
+¿Habrá que poner algo en el?
+\w[signskin4]\C[8]Ruta 47.\nAl norte, Zona Safari.\nAl este, Ciudad Orquídea.
+\w[signskin4]\C[8]Ruta 47.\nAl norte, Zona Safari.\nAl este, Ciudad Orquídea.
+¡Mega!\wt[20]
+¡Mega!\wt[20]
+\tg[Ben]Protegeré a mi amada llegando al cielo si es necesario.
+\tg[Ben]Protegeré a mi amada llegando al cielo si es necesario. 
+\tg[Lore]¡Descenderé a las entrañas de la tierra para proteger a mi amado!
+\tg[Lore]¡Descenderé a las entrañas de la tierra para proteger a mi amado!
+Ben y Lore
+Ben y Lore
+Estás muy por encima de mi...
+Estás muy por encima de mi...
+\tg[Lore]¡Espero que tú también puedas encontrar a alguien formidable!
+\tg[Lore]¡Espero que tú también puedas encontrar a alguien formidable!
+\tg[Manati]El hombre enmascarado que puede compararse a la abrumadora fuerza de esta impresionante cascada...\n¡Soy Mananti, el Destructor!
+\tg[Manati]El hombre enmascarado que puede compararse a la abrumadora fuerza de esta impresionante cascada...\n¡Soy Mananti, el Destructor!
+\tg[Manati]¿Y tú te atreves a dirigirte a mí? \n¡Ah! ¡Te recuerdo! ¡Mostraste un gran interés por las máscaras en el Centro Comercial de Ciudad Azulona!
+\tg[Manati]¿Y tú te atreves a dirigirte a mí? \n¡Ah! ¡Te recuerdo! ¡Mostraste un gran interés por las máscaras en el Centro Comercial de Ciudad Azulona!
+\tg[Manati]Había oído que hay una cascada espectacular cerca de Ciudad Orquídea.\n¡Ahora que he venido hasta aquí, puedo decir que es abrumadora!
+\tg[Manati]Había oído que hay una cascada espectacular cerca de Ciudad Orquídea.\n¡Ahora que he venido hasta aquí, puedo decir que es abrumadora!
+\tg[Manati]Tú eres de esta región, ¿me equivoco?\n¡Seguro que llegarás a ser tan fuerte como esta cascada, capaz de ablandar el corazón de las personas!\n¡Nunca tires la toalla, \PN!
+\tg[Manati]Tú eres de esta región, ¿me equivoco?\n¡Seguro que llegarás a ser tan fuerte como esta cascada, capaz de ablandar el corazón de las personas!\n¡Nunca tires la toalla, \PN!
+Hola, ¿qué tal?\nCuentan que dentro de esta cueva hay una torre enorme que llega hasta el cielo.\nTambién dicen que tenía una forma un tanto extraña...
+Hola, ¿qué tal?\nCuentan que dentro de esta cueva hay una torre enorme que llega hasta el cielo.\nTambién dicen que tenía una forma un tanto extraña...
+Parece que una mitad se construyó por dentro de este precipicio.\nY por lo visto no solo se elevaba hasta el cielo, ¡sino que también se hundía en lo más profundo de la tierra!
+Parece que una mitad se construyó por dentro de este precipicio.\nY por lo visto no solo se elevaba hasta el cielo, ¡sino que también se hundía en lo más profundo de la tierra!
+En otras palabras, conectaba el cielo con la tierra y el mar.\nEso es lo que cuentan de sus ruinas... Ahora ya no queda mucho en pie...
+En otras palabras, conectaba el cielo con la tierra y el mar.\nEso es lo que cuentan de sus ruinas... Ahora ya no queda mucho en pie...
+Solo la entrada y una sala central cubierta de signos extraños...
+Solo la entrada y una sala central cubierta de signos extraños...
+Fue construida para venerar los Pokémon que poseían fuertes vínculos con el cielo, la tierra y el mar... O al menos eso creo...
+Fue construida para venerar los Pokémon que poseían fuertes vínculos con el cielo, la tierra y el mar... O al menos eso creo...
+\tg[Ben] Muchas gracias por deleitarme con un combate memorable. ¡Te deseo un buen viaje!
+\tg[Ben] Muchas gracias por deleitarme con un combate memorable. ¡Te deseo un buen viaje!
+\tg[Aníbal]¡Guau! ¿Has venido expresamente hasta aquí solo para visitarme? Pues esto hay que celebrarlo.\nVamos a hacernos una foto, ¿vale?
+\tg[Aníbal]¡Guau! ¿Has venido expresamente hasta aquí solo para visitarme? Pues esto hay que celebrarlo.\nVamos a hacernos una foto, ¿vale?
+\tg[Aníbal]Allá va. ¡No cierres los ojos! ¿Eh?
+\tg[Aníbal]Allá va. ¡No cierres los ojos! ¿Eh?
+\tg[Aníbal]¡Ha salido una foto estupenda! ¡Y tú te llevas un recuerdo fenomenal!
+\tg[Aníbal]¡Ha salido una foto estupenda! ¡Y tú te llevas un recuerdo fenomenal!
+\tg[Aníbal]¿Después de haber venido hasta aquí me dices que no?
+\tg[Aníbal]¿Después de haber venido hasta aquí me dices que no?
+¡Fera!\wt[20]
+¡Fera!\wt[20]
+¡Has llegado justo a tiempo!\nEmpezaba a aburrirme un poco... ¿Por qué no combatimos?
+¡Has llegado justo a tiempo!\nEmpezaba a aburrirme un poco... ¿Por qué no combatimos?
+¡Ju, ju, ju!
+¡Ju, ju, ju!
+¡Después de un combate, lo mejor es despedirse con una sonrisa!
+¡Después de un combate, lo mejor es despedirse con una sonrisa!
+Sí
+Sí
+No
+No

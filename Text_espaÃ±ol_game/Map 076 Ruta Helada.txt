@@ -1,0 +1,15 @@
+﻿# Maps grouped under: Ruta Helada (Highest ID: 76)
+[Map76]
+Ese objeto que estaba ahí era una Máquina Técnica, ¿verdad?\nSe me ha caído a mí... ¡Al ladrón!
+Ese objeto que estaba ahí era una Máquina Técnica, ¿verdad?\nSe me ha caído a mí... ¡Al ladrón!
+Je, je. Es broma. Puedes quedártela.
+Je, je. Es broma. Puedes quedártela.
+¿Ves ese objeto que está ahí tirado?\nSe me ha caído a mí, pero no puedo recogerlo.
+¿Ves ese objeto que está ahí tirado?\nSe me ha caído a mí, pero no puedo recogerlo.
+¿Que por qué?\n¡Pues porque cuando camino sobre el hielo se me congelan las plantas de los pies!
+¿Que por qué?\n¡Pues porque cuando camino sobre el hielo se me congelan las plantas de los pies!
+¡Antes he resbalado y me he roto el meñique derecho! Esto de caminar es un peligro...
+¡Antes he resbalado y me he roto el meñique derecho! Esto de caminar es un peligro...
+[Map78]
+¡Lie Lie!\n¡Lasss!\wt[20]
+¡Lie Lie!\n¡Lasss!\wt[20]

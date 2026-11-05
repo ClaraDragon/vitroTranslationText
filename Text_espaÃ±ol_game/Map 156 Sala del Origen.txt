@@ -1,0 +1,4 @@
+﻿# Maps grouped under: Sala del Origen (Highest ID: 156)
+[Map156]
+\sh¡Dodogyuuun!\wt[15]
+\sh¡Dodogyuuun!\wt[15]

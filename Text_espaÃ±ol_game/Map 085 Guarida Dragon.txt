@@ -1,0 +1,222 @@
+﻿# Maps grouped under: Guarida Dragon (Highest ID: 85)
+[Map85]
+¡Tú! ¿¡Cómo te atreves a entrar sin que te hayan invitado!?\n¡Eso es de mala educación! ¿Sabes?
+¡Tú! ¿¡Cómo te atreves a entrar sin que te hayan invitado!?\n¡Eso es de mala educación! ¿Sabes?
+¡Qué fuerte!
+¡Qué fuerte!
+El Santuario de ahí delante es el hogar del Maestro del clan de los dragones.\n¡No te está permitido pasar, eh!
+El Santuario de ahí delante es el hogar del Maestro del clan de los dragones.\n¡No te está permitido pasar, eh!
+¿Conoces al joven Lance?\nSe parece bastante a nuestro Maestro cuando era joven.\nLo llevan en la sangre...
+¿Conoces al joven Lance?\nSe parece bastante a nuestro Maestro cuando era joven.\nLo llevan en la sangre...
+Ha pasado mucho tiempo desde que Lance obtuvo la aprobación del Maestro.\nNadie más lo había conseguido... hasta ahora.
+Ha pasado mucho tiempo desde que Lance obtuvo la aprobación del Maestro.\nNadie más lo había conseguido... hasta ahora.
+\tg[Sakura]No muchos pasan la prueba, joven.\nId con cuidado.
+\tg[Sakura]No muchos pasan la prueba, joven.\nId con cuidado.
+Vaya, ¿venís a recibir el honor de la Guarida Dragón?
+Vaya, ¿venís a recibir el honor de la Guarida Dragón?
+Mi nombre es Sakura, de las Chicas Kimono.
+Mi nombre es Sakura, de las Chicas Kimono.
+\tg[Sakura]He venido en nombre de mis hermanas para hablar con el Anciano.
+\tg[Sakura]He venido en nombre de mis hermanas para hablar con el Anciano.
+\tg[Sakura]Ya que venís a pedir tal honor, os voy a dar esto como ayuda.
+\tg[Sakura]Ya que venís a pedir tal honor, os voy a dar esto como ayuda.
+\tg[Sakura]Os deseo suerte.
+\tg[Sakura]Os deseo suerte.
+Es alguien que no conocemos.
+Es alguien que no conocemos. 
+Lena y Lin
+Lena y Lin
+Ayyy... ¡Qué cutre!
+Ayyy... ¡Qué cutre!
+Fue como tener que luchar con Lance.
+Fue como tener que luchar con Lance.
+\w[signskin2]Santuario Dragón.\nErigido en honor a los Pokémon de la Guarida Dragón.
+\w[signskin2]Santuario Dragón.\nErigido en honor a los Pokémon de la Guarida Dragón.
+¿Quién eres tú?
+¿Quién eres tú?
+¡Se lo diremos al Maestro!\nSe pondrá furioso contigo.
+¡Se lo diremos al Maestro!\nSe pondrá furioso contigo.
+Mmm... Encantado de verte.\nTu llegada es más que afortunada. Tengo algo para ti.
+Mmm... Encantado de verte.\nTu llegada es más que afortunada. Tengo algo para ti.
+Toma este Dratini como prueba de que reconozco tu esfuerzo.
+Toma este Dratini como prueba de que reconozco tu esfuerzo.
+¡No tienes espacio para el Pokémon!
+¡No tienes espacio para el Pokémon!
+¡Las Cajas de Almacenamiento Pokémon está llenas y no puedes tener más!
+¡Las Cajas de Almacenamiento Pokémon está llenas y no puedes tener más!
+Parece que Débora ha aprendido de ti una lección inestimable.\nComo abuelo suyo, te lo agradezco.
+Parece que Débora ha aprendido de ti una lección inestimable.\nComo abuelo suyo, te lo agradezco.
+Los Pokémon dragón son el símbolo de nuestro clan.\nHas demostrado que podemos darte uno.
+Los Pokémon dragón son el símbolo de nuestro clan.\nHas demostrado que podemos darte uno.
+\tg[\v[12]]... Vaya, \PN...
+\tg[\v[12]]... Vaya, \PN...
+\tg[\v[12]]Sí, estoy entrenando aquí. Debe parecerte un poco raro...\nPero no me importa. De todas formas, ahora mismo mis Pokémon no podrían vencerte.
+\tg[\v[12]]Sí, estoy entrenando aquí. Debe parecerte un poco raro...\nPero no me importa.  De todas formas, ahora mismo mis Pokémon no podrían vencerte.
+\tg[\v[12]]¿Qué pasa? ¿Has venido a molestar mientras entreno?
+\tg[\v[12]]¿Qué pasa? ¿Has venido a molestar mientras entreno?
+\tg[\v[12]]¡Bah! He venido expresamente para aprender el secreto de cómo ser más fuerte, pero ese viejo no quiere enseñarme nada...
+\tg[\v[12]]¡Bah! He venido expresamente para aprender el secreto de cómo ser más fuerte, pero ese viejo no quiere enseñarme nada...
+\tg[\v[12]]Por eso me estoy entrenando aquí con mis Pokémon...
+\tg[\v[12]]Por eso me estoy entrenando aquí con mis Pokémon...
+\tg[Lance]¡Hola, \v[12]!\n¿No estabas en la Guarida del Team Rocket?
+\tg[Lance]¡Hola, \v[12]!\n¿No estabas en la Guarida del Team Rocket?
+\tg[\v[12]]¡Eh, tú! ¿Dónde te habías metido? \nEsta vez pienso darte una lección. ¡Prepárate a luchar!
+\tg[\v[12]]¡Eh, tú! ¿Dónde te habías metido? \nEsta vez pienso darte una lección. ¡Prepárate a luchar!
+\tg[Lance]No hay por qué enfadarse. Aquella vez estaba muy ocupado y fui un poco brusco contigo.\nPero me encantaría combatir contra ti.
+\tg[Lance]No hay por qué enfadarse. Aquella vez estaba muy ocupado y fui un poco brusco contigo.\nPero me encantaría combatir contra ti.
+\tg[Lance]¡Ya sé!\n¿Qué os parece si hacemos un combate de dos contra dos?
+\tg[Lance]¡Ya sé!\n¿Qué os parece si hacemos un combate de dos contra dos?
+\tg[\v[12]]¡Bah! Claro, ¿cómo ibas a vencerme tú solo?
+\tg[\v[12]]¡Bah! Claro, ¿cómo ibas a vencerme tú solo?
+\tg[Lance]No digas eso. Un combate de dos contra dos puede ser de lo más interesante.\n¡Venga, \PN! ¡Tú conmigo!
+\tg[Lance]No digas eso. Un combate de dos contra dos puede ser de lo más interesante.\n¡Venga, \PN! ¡Tú conmigo!
+\tg[Débora]Vale, ¿entonces tú estarás en mi equipo?
+\tg[Débora]Vale, ¿entonces tú estarás en mi equipo?
+\tg[\v[12]]¡Me tomas el pelo!\n¡Ni en sueños formaría equipo con alguien con esas pintas!
+\tg[\v[12]]¡Me tomas el pelo!\n¡Ni en sueños formaría equipo con alguien con esas pintas!
+\tg[\v[12]]¡\PN! ¡Tú vienes conmigo!\n¡Juntos le daremos una lección a Lance!
+\tg[\v[12]]¡\PN! ¡Tú vienes conmigo!\n¡Juntos le daremos una lección a Lance!
+¿Qué dices, Débora? ¿Lo has visto?
+¿Qué dices, Débora? ¿Lo has visto?
+\tg[Lance]Tal como pensaba, los dos formáis una combinación excelente...\nEstá bien tratar de seguir tu propio camino para ser el mejor...
+\tg[Lance]Tal como pensaba, los dos formáis una combinación excelente...\nEstá bien tratar de seguir tu propio camino para ser el mejor...
+\tg[Lance]Pero la emoción de los combates Pokémon no consiste solamente en eso.
+\tg[Lance]Pero la emoción de los combates Pokémon no consiste solamente en eso.
+\tg[Lance]Bueno, supongo que a estas alturas no hace falta que os lo explique para que lo entendáis, ¿verdad?
+\tg[Lance]Bueno, supongo que a estas alturas no hace falta que os lo explique para que lo entendáis, ¿verdad?
+\tg[Lance]Bien, \PN. ¡Hasta la próxima!
+\tg[Lance]Bien, \PN. ¡Hasta la próxima!
+\tg[Débora]Bueno, yo también me voy.\nGracias por el buen rato, \PN.
+\tg[Débora]Bueno, yo también me voy.\nGracias por el buen rato, \PN.
+\tg[Débora]Y a ti también, aunque seas tan borde.
+\tg[Débora]Y a ti también, aunque seas tan borde.
+\tg[\v[12]]\PN...\nEsto ha sido una situación especial...\n¡Pero no ha cambiado nada!\n¡No pienso rendirme hasta que te derrote!
+\tg[\v[12]]\PN...\nEsto ha sido una situación especial...\n¡Pero no ha cambiado nada!\n¡No pienso rendirme hasta que te derrote!
+\tg[\v[12]]Voy a fortalecer mis Pokémon y también... voy a fortalecer mi espíritu. \n¡Entonces volveré a enfrentarme a ti!...
+\tg[\v[12]]Voy a fortalecer mis Pokémon y también... voy a fortalecer mi espíritu. \n¡Entonces volveré a enfrentarme a ti!...
+¡No deberías estar aquí, piltrafilla!
+¡No deberías estar aquí, piltrafilla!
+¡Maldición! ¡Perdí!
+¡Maldición! ¡Perdí!
+Pronto conseguiré el permiso del Maestro para poder usar más dragones.
+Pronto conseguiré el permiso del Maestro para poder usar más dragones.
+Cuando lo tenga, seré una admirable Entrenadora de dragones y ganaré la aprobación del Maestro.
+Cuando lo tenga, seré una admirable Entrenadora de dragones y ganaré la aprobación del Maestro.
+\tg[Maestro]Mmm...
+\tg[Maestro]Mmm...
+\tg[Maestro]No necesitas explicarme por qué has venido.\nDébora te envía, ¿verdad? Esa chica siempre dando problemas...
+\tg[Maestro]No necesitas explicarme por qué has venido.\nDébora te envía, ¿verdad? Esa chica siempre dando problemas...
+\tg[Maestro]Perdona las molestias, pero debo probarte.\nEs tradición hacerle una prueba a los que entran aquí.
+\tg[Maestro]Perdona las molestias, pero debo probarte.\nEs tradición hacerle una prueba a los que entran aquí.
+\tg[Maestro]Solo deberás contestar unas pocas preguntas.\nPor favor, mantén la honestidad por delante.
+\tg[Maestro]Solo deberás contestar unas pocas preguntas.\nPor favor, mantén la honestidad por delante.
+\tg[Maestro]¿Comenzamos?
+\tg[Maestro]¿Comenzamos?
+\tg[Maestro]¿Qué son los Pokémon para ti?
+\tg[Maestro]¿Qué son los Pokémon para ti?
+\tg[Maestro]¿Qué te ayuda a ganar combates?
+\tg[Maestro]¿Qué te ayuda a ganar combates?
+\tg[Maestro]¿Contra qué clase de entrenadores prefieres luchar?
+\tg[Maestro]¿Contra qué clase de entrenadores prefieres luchar?
+\tg[Maestro]¿Qué es lo más importante al entrenar un Pokémon?
+\tg[Maestro]¿Qué es lo más importante al entrenar un Pokémon?
+\tg[Maestro]Pokémon fuertes. Pokémon débiles. ¿Cuáles son más importantes?
+\tg[Maestro]Pokémon fuertes. Pokémon débiles.  ¿Cuáles son más importantes?
+\tg[Maestro]Mmm...\nY-ya veo...
+\tg[Maestro]Mmm...\nY-ya veo...
+\tg[Maestro]No sé si tus respuestas eran las más adecuadas, pero... Em...
+\tg[Maestro]No sé si tus respuestas eran las más adecuadas, pero... Em...
+\tg[Maestro]Creo que al menos tienes el espíritu, creo...\n¿Creo? Sí, creo.
+\tg[Maestro]Creo que al menos tienes el espíritu, creo...\n¿Creo? Sí, creo.
+\tg[Maestro]Mmm...\nHay algo extraño dentro de ti.
+\tg[Maestro]Mmm...\nHay algo extraño dentro de ti.
+\tg[Maestro]Eres alguien capaz, quizás incluso de cambiar el mundo.
+\tg[Maestro]Eres alguien capaz, quizás incluso de cambiar el mundo.
+\tg[Maestro]Pero el peligro corre por tus venas.\nDebes aprender a manejar esos sentimientos o irás por un mal camino.
+\tg[Maestro]Pero el peligro corre por tus venas.\nDebes aprender a manejar esos sentimientos o irás por un mal camino.
+\tg[Maestro]De todas formas, es un aprobado.
+\tg[Maestro]De todas formas, es un aprobado.
+\tg[Maestro]Mmm...\nYa veo...
+\tg[Maestro]Mmm...\nYa veo...
+\tg[Maestro]Cuidas mucho de los Pokémon.\nEs algo encomiable.\n¡La convicción es lo más importante!\n\PN, no pierdas la confianza.
+\tg[Maestro]Cuidas mucho de los Pokémon.\nEs algo encomiable.\n¡La convicción es lo más importante!\n\PN, no pierdas la confianza.
+\tg[Débora]¿Qué tal te fue?
+\tg[Débora]¿Qué tal te fue?
+\tg[Débora]Creo que no hace falta preguntar...\nSeguro que has fallado, ¿no?
+\tg[Débora]Creo que no hace falta preguntar...\nSeguro que has fallado, ¿no?
+\tg[Débora]¡Ja! Lo esperable para alguien como tú. Después de todo, yo soy la me\..\..\..
+\tg[Débora]¡Ja! Lo esperable para alguien como tú. Después de todo, yo soy la me\..\..\..
+\tg[Débora]\..\..\..\n¿¡Cómo!? ¿¡Pero cómo que lo has conseguido!?
+\tg[Débora]\..\..\..\n¿¡Cómo!? ¿¡Pero cómo que lo has conseguido!?
+\tg[Débora]¿¡Pero tú de qué vas!?
+\tg[Débora]¿¡Pero tú de qué vas!?
+\tg[Débora]¡Estás mintiendo! ¡Ni siquiera yo he conseguido su aprobación!
+\tg[Débora]¡Estás mintiendo! ¡Ni siquiera yo he conseguido su aprobación!
+\tg[Maestro]¡Débora!
+\tg[Maestro]¡Débora!
+\tg[Maestro]¡Esta persona es...! Em. Especial. En todos los sentidos.
+\tg[Maestro]¡Esta persona es...! Em. Especial.  En todos los sentidos.
+\tg[Maestro]Deberías permitirle luchar por la Medalla Dragón.\nNo querrás que informe a Lance de esto, ¿no?
+\tg[Maestro]Deberías permitirle luchar por la Medalla Dragón.\nNo querrás que informe a Lance de esto, ¿no?
+\tg[Maestro]¡Esta persona es extremadamente poderosa!
+\tg[Maestro]¡Esta persona es extremadamente poderosa!
+\tg[Maestro]Quizás demasiado, y quizás hasta peligrosa. Pero es alguien merecedor.
+\tg[Maestro]Quizás demasiado, y quizás hasta peligrosa. Pero es alguien merecedor.
+\tg[Maestro]¡Esta persona es admirable en todos los sentidos!
+\tg[Maestro]¡Esta persona es admirable en todos los sentidos!
+\tg[Maestro]¡Permítele luchar por la Medalla Dragón!\n¿O acaso debo informar a Lance de esto?
+\tg[Maestro]¡Permítele luchar por la Medalla Dragón!\n¿O acaso debo informar a Lance de esto?
+\tg[Débora]De... de acuerdo...
+\tg[Débora]De... de acuerdo...
+\tg[Débora]Te estaré esperando en el Gimnasio. \n¡Más vale que no me decepciones!
+\tg[Débora]Te estaré esperando en el Gimnasio. \n¡Más vale que no me decepciones!
+\tg[Maestro]Débora\..\..\..
+\tg[Maestro]Débora\..\..\..
+\tg[Maestro]Medita acerca de lo que esta persona tiene y a ti te falta...
+\tg[Maestro]Medita acerca de lo que esta persona tiene y a ti te falta...
+\tg[Maestro]Por cierto... ¿Has oído alguna vez hablar de Lugia?\nEntre Ciudad Olivo y Ciudad Orquídea hay un lugar llamado Islas Remolino.
+\tg[Maestro]Por cierto... ¿Has oído alguna vez hablar de Lugia?\nEntre Ciudad Olivo y Ciudad Orquídea hay un lugar llamado Islas Remolino.
+\tg[Maestro]En esas islas hay una enorme cascada. Y dicen que en el fondo de la cascada descansa Lugia...
+\tg[Maestro]En esas islas hay una enorme cascada. Y dicen que en el fondo de la cascada descansa Lugia...
+\tg[Maestro]Pero la leyenda también cuenta que sin un Ala Plateada no se puede llegar al fondo de la cascada...
+\tg[Maestro]Pero la leyenda también cuenta que sin un Ala Plateada no se puede llegar al fondo de la cascada...
+Aliados
+Aliados
+Subordinados
+Subordinados
+Amigos
+Amigos
+Pokémon
+Pokémon
+Táctica
+Táctica
+Crianza
+Crianza
+Triquiñuelas
+Triquiñuelas
+Rezar
+Rezar
+Débiles
+Débiles
+Fuertes
+Fuertes
+De todo un poco
+De todo un poco
+Guapos
+Guapos
+Afecto
+Afecto
+Violencia
+Violencia
+Sabiduría
+Sabiduría
+Llevarlo de compras
+Llevarlo de compras
+Los fuertes
+Los fuertes
+Cualquiera de los dos
+Cualquiera de los dos
+Los débiles
+Los débiles
+Los cuquis
+Los cuquis

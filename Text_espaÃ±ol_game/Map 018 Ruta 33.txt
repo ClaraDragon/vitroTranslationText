@@ -1,0 +1,20 @@
+﻿# Maps grouped under: Ruta 33 (Highest ID: 18)
+[Map18]
+Uf, uf... Por fin he atravesado esa cueva... \nQué grande es, leñe...
+Uf, uf... Por fin he atravesado esa cueva... \nQué grande es, leñe...
+\w[signskin4]\C[8]Ruta 33.\nAl norte, Ruta 32. \nAl oeste, Pueblo Azalea
+\w[signskin4]\C[8]Ruta 33.\nAl norte, Ruta 32. \nAl oeste, Pueblo Azalea
+Acabo de cruzar el túnel, pero todavía me queda mucha energía. ¡Jo, jo, jo!
+Acabo de cruzar el túnel, pero todavía me queda mucha energía. ¡Jo, jo, jo!
+Intenté acelerar las cosas...
+Intenté acelerar las cosas...
+Los Montañeros somos felices en las montañas, ¡y las montañas son felices con nosotros!
+Los Montañeros somos felices en las montañas, ¡y las montañas son felices con nosotros!
+¿Quieres luchar<<n>>de nuevo en otro momento?
+¿Quieres luchar <<n>>de nuevo en otro momento?
+¡Venga, vamos!\n¡Mis Pokémon Roca y yo estamos deseando empezar!
+¡Venga, vamos!\n¡Mis Pokémon Roca y yo estamos deseando empezar!
+¡Guau! Tienes más<<n>>fuerza que yo.
+¡Guau! Tienes más <<n>>fuerza que yo.
+¡Cuando quiera volver a luchar, te llámare! \nCuando se repite un combate, hay que hacerlo en el terreno del adversario.
+¡Cuando quiera volver a luchar, te llámare! \nCuando se repite un combate, hay que hacerlo en el terreno del adversario.

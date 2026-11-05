@@ -1,0 +1,56 @@
+﻿# Maps grouped under: Gimnasio Malva (Highest ID: 30)
+[Map30]
+¡Bum!
+¡Bum!
+Vaya, vaya... Ni empujándote por sorpresa pierdes el equilibro.
+Vaya, vaya... Ni empujándote por sorpresa pierdes el equilibro.
+¡La destreza de Pegaso es real! ¡No te confíes por haberme vencido!
+¡La destreza de Pegaso es real! ¡No te confíes por haberme vencido!
+¡Ha sido un combate de altos vuelos! ¡Sigue así y el título de Campeón Pokémon será tuyo! ¡Guay del paraguay ~!
+¡Ha sido un combate de altos vuelos! ¡Sigue así y el título de Campeón Pokémon será tuyo!  ¡Guay del paraguay ~!
+¡Hola, tronca! Yo no soy Entrenador, pero puedo darte algunos consejos.
+¡Hola, tronca! Yo no soy Entrenador, pero puedo darte algunos consejos.
+¡Hola, tronco! Yo no soy Entrenador, pero puedo darte algunos consejos.
+¡Hola, tronco! Yo no soy Entrenador, pero puedo darte algunos consejos.
+¿Qué? ¿Me harás caso? ¡Chupiguay!\nLos Pokémon de tipo Planta, Bicho y Lucha son tremendamente vulnerables ante los Pokémon de tipo Volador. ¡Chupirrecuérdalo!
+¿Qué? ¿Me harás caso? ¡Chupiguay!\nLos Pokémon de tipo Planta, Bicho y Lucha son tremendamente vulnerables ante los Pokémon de tipo Volador.  ¡Chupirrecuérdalo!
+\tg[Pegaso]¡Soy Pegaso, Líder del Gimnasio de Ciudad Malva!
+\tg[Pegaso]¡Soy Pegaso, Líder del Gimnasio de Ciudad Malva!
+\tg[Pegaso]Las malas lenguas dicen que el tipo Volador se debilita de una descarga eléctrica o una bola de nieve.
+\tg[Pegaso]Las malas lenguas dicen que el tipo Volador se debilita de una descarga eléctrica o una bola de nieve.
+\tg[Pegaso]¡Ja! Ilusos.\nLos pájaros son mucho más de lo que esa gente cree.
+\tg[Pegaso]¡Ja! Ilusos.\nLos pájaros son mucho más de lo que esa gente cree.
+\tg[Pegaso]¡No permitiré que se burlen así de ellos!\n¡No, señor!
+\tg[Pegaso]¡No permitiré que se burlen así de ellos!\n¡No, señor!
+\tg[Pegaso]Venga, voy a enseñarte el verdadero poder del tipo Volador. ¡En guardia!
+\tg[Pegaso]Venga, voy a enseñarte el verdadero poder del tipo Volador. ¡En guardia!
+Ya veo... Ha llegado la hora de posarme en el suelo con dignidad.
+Ya veo... Ha llegado la hora de posarme en el suelo con dignidad.
+\tg[Pegaso]¡Maldición! Los queridos Pokémon de mi padre...
+\tg[Pegaso]¡Maldición! Los queridos Pokémon de mi padre...
+\tg[Pegaso]Pero debo reconocer mi derrota. Como Líder del Gimnasio, debo seguir las normas de la Liga Pokémon y no dejar que mi juicio se nuble.
+\tg[Pegaso]Pero debo reconocer mi derrota. Como Líder del Gimnasio, debo seguir las normas de la Liga Pokémon y no dejar que mi juicio se nuble.
+\tg[Pegaso]Te hago entrega de la medalla Céfiro. Prueba de haber superado a mis pájaros.
+\tg[Pegaso]Te hago entrega de la medalla Céfiro.  Prueba de haber superado a mis pájaros.
+\tg[Pegaso]Además te mereces que te dé esta Máquina Técnica. En concreto, la MT51, que contiene Respiro.
+\tg[Pegaso]Además te mereces que te dé esta Máquina Técnica. En concreto, la MT51, que contiene Respiro.
+\tg[Pegaso]Este movimiento restaura la mitad de los PS máximos del Pokémon que lo usa, aunque te deja vulnerable a los movimientos de tipo Tierra.
+\tg[Pegaso]Este movimiento restaura la mitad de los PS máximos del Pokémon que lo usa, aunque te deja vulnerable a los movimientos de tipo Tierra.
+\tg[Pegaso]Estoy seguro de que esta MT te será muy útil.
+\tg[Pegaso]Estoy seguro de que esta MT te será muy útil.
+\tg[Pegaso]A pesar de que me hayas derrotado, no voy a rendirme.
+\tg[Pegaso]A pesar de que me hayas derrotado, no voy a rendirme.
+\tg[Pegaso]¡Seguiré entrenándome para ser el mejor entrenador de Pokémon Volador!
+\tg[Pegaso]¡Seguiré entrenándome para ser el mejor entrenador de Pokémon Volador!
+\tg[Pegaso]¡Ah, te estaba esperando!\n¡Me encantaría volver a enfrentarme a ti!
+\tg[Pegaso]¡Ah, te estaba esperando!\n¡Me encantaría volver a enfrentarme a ti!
+\tg[Pegaso]Bueno... ¡El camino para ser el mejor Entrenador no acaba aquí!
+\tg[Pegaso]Bueno... ¡El camino para ser el mejor Entrenador no acaba aquí!
+¿Te provocan vértigo estas alturas?
+¿Te provocan vértigo estas alturas?
+Es que esta es la mejor forma de saber lo que siente un Pokémon pájaro.
+Es que esta es la mejor forma de saber lo que siente un Pokémon pájaro.
+¡No puede ser cierto!
+¡No puede ser cierto!
+¿Acabas de empezar a entrenar y no te dan miedo estas alturas? ¡Vaya! ¡Parece que prometes!
+¿Acabas de empezar a entrenar y no te dan miedo estas alturas? ¡Vaya! ¡Parece que prometes!

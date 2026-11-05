@@ -1,0 +1,1196 @@
+﻿# Maps grouped under: SinNombre (Highest ID: 0)
+[Map0]
+......\wt[5] ......
+......\wt[5] ......
+\tg[Profesor Oak]Soy el Profesor Oak.\nAl oír tu voz por teléfono das una impresión muy diferente. Estas máquinas...
+\tg[Profesor Oak]Soy el Profesor Oak.\nAl oír tu voz por teléfono das una impresión muy diferente. Estas máquinas...
+\tg[Profesor Oak]Soy el Profesor Oak.
+\tg[Profesor Oak]Soy el Profesor Oak.
+\tg[Profesor Oak]Tener que viajar entre Kanto y Johto para grabar en la radio me deja hecho cisco.\n¡Pero eso no es importante! ¡Tu Pokédex está cada día más completa!
+\tg[Profesor Oak]Tener que viajar entre Kanto y Johto para grabar en la radio me deja hecho cisco.\n¡Pero eso no es importante! ¡Tu Pokédex está cada día más completa!
+\tg[Profesor Oak]Vaya, has encontrado Pokémon que no viven ni en Johto ni en Kanto.
+\tg[Profesor Oak]Vaya, has encontrado Pokémon que no viven ni en Johto ni en Kanto.
+\tg[Profesor Oak]Gracias a Entrenadores tan buenos como tú, mis investigaciones pueden avanzar constantemente.
+\tg[Profesor Oak]Gracias a Entrenadores tan buenos como tú, mis investigaciones pueden avanzar constantemente.
+\tg[Profesor Oak]Estoy hasta arriba con tanta investigación y no duermo.\n¡Pero eso no es importante! Tu Pokédex va muy bien, ¿eh?
+\tg[Profesor Oak]Estoy hasta arriba con tanta investigación y no duermo.\n¡Pero eso no es importante! Tu Pokédex va muy bien, ¿eh?
+\tg[Profesor Oak]¡A que ahora tienes más amigos gracias a la Pokédex!\n¡Esa es la esencia de los Pokémon! ¡Amistad!
+\tg[Profesor Oak]¡A que ahora tienes más amigos gracias a la Pokédex!\n¡Esa es la esencia de los Pokémon! ¡Amistad!
+\tg[Profesor Oak]Apenas conozco Entrenadores tan apabullantemente excelentes como tú.\nEstaré eternamente agradecido al Profesor Elm.
+\tg[Profesor Oak]Apenas conozco Entrenadores tan apabullantemente excelentes como tú.\nEstaré eternamente agradecido al Profesor Elm.
+\tg[Profesor Oak]A ver, a ver qué tal llevas la Pokédex.
+\tg[Profesor Oak]A ver, a ver qué tal llevas la Pokédex.
+\tg[Profesor Oak]Mmm\..\..\..\nHas encontrado \v[1] Pokémon. Has capturado \v[2] Pokémon.
+\tg[Profesor Oak]Mmm\..\..\..\nHas encontrado \v[1] Pokémon. Has capturado \v[2] Pokémon.
+\tg[Profesor Oak]¡Magnífico!
+\tg[Profesor Oak]¡Magnífico!
+\tg[Profesor Oak]Lo estás haciendo bien, pero tienes un largo camino por recorrer aún.
+\tg[Profesor Oak]Lo estás haciendo bien, pero tienes un largo camino por recorrer aún.
+\tg[Profesor Oak]Ya veo que te estás esforzando. Tu Pokédex empieza a llenarse.
+\tg[Profesor Oak]Ya veo que te estás esforzando.  Tu Pokédex empieza a llenarse.
+\tg[Profesor Oak]Todavía te queda mucho para llegar a la meta. ¡No tires la toalla jamás!
+\tg[Profesor Oak]Todavía te queda mucho para llegar a la meta. ¡No tires la toalla jamás!
+\tg[Profesor Oak]Ten siempre presente que hay Pokémon que solo aparecen a una hora del día determinada.
+\tg[Profesor Oak]Ten siempre presente que hay Pokémon que solo aparecen a una hora del día determinada.
+\tg[Profesor Oak]Hay veces que si rompes una roca, aparece un Pokémon que se estaba escondiendo.
+\tg[Profesor Oak]Hay veces que si rompes una roca, aparece un Pokémon que se estaba escondiendo.
+\tg[Profesor Oak]Has sufrido mucho para llegar hasta aquí, pero aún te queda mucho por recorrer. ¡No desfallezcas!
+\tg[Profesor Oak]Has sufrido mucho para llegar hasta aquí, pero aún te queda mucho por recorrer. ¡No desfallezcas!
+\tg[Profesor Oak]Si usas Golpe Cabeza para sacudir los árboles, a veces cae un Pokémon.
+\tg[Profesor Oak]Si usas Golpe Cabeza para sacudir los árboles, a veces cae un Pokémon.
+\tg[Profesor Oak]En la Zona Safari viven Pokémon que no se pueden encontrar en Johto. ¡Un montón!
+\tg[Profesor Oak]En la Zona Safari viven Pokémon que no se pueden encontrar en Johto. ¡Un montón!
+\tg[Profesor Oak]También hay Pokémon con los que hay que usar la música de cebo para que salgan.
+\tg[Profesor Oak]También hay Pokémon con los que hay que usar la música de cebo para que salgan.
+\tg[Profesor Oak]No pensé que llegarías hasta aquí.
+\tg[Profesor Oak]No pensé que llegarías hasta aquí.
+\tg[Profesor Oak]A partir de aquí es el momento de la verdad. ¡No te rindas!
+\tg[Profesor Oak]A partir de aquí es el momento de la verdad. ¡No te rindas!
+\tg[Profesor Oak]Hasta ahora, nunca había conocido un Entrenador tan increíble como tú.
+\tg[Profesor Oak]Hasta ahora, nunca había conocido un Entrenador tan increíble como tú.
+\tg[Profesor Oak]Vuelve a enseñarme tu Pokédex un día de estos, ¿vale?
+\tg[Profesor Oak]Vuelve a enseñarme tu Pokédex un día de estos, ¿vale?
+Click!\wt[10]\n......\wt[5] ......
+Click!\wt[10]\n......\wt[5] ......
+#Do you want me to stop following you?
+#Do you want me to stop following you?
+#I'll stay here, then.
+#I'll stay here, then.
+#Let's keep going!
+#Let's keep going!
+\w[menuskin]\C[8]¿Quieres irte a dormir?
+\w[menuskin]\C[8]¿Quieres irte a dormir?
+\w[menuskin]\C[8]Están dando una película de una chica acompañada por una estrella parlanchina en un mundo mágico.
+\w[menuskin]\C[8]Están dando una película de una chica acompañada por una estrella parlanchina en un mundo mágico.
+\w[menuskin]\C[8]Están dando un programa sobre un buen manejo del marketing.\nEs un poco aburrido...
+\w[menuskin]\C[8]Están dando un programa sobre un buen manejo del marketing.\nEs un poco aburrido...
+\w[menuskin]\C[8]Están dando el nuevo documental ''Expediciones con Mary Burkea'' en que se explora la lejana región de Safar en busca de reliquias y nuevas especies.
+\w[menuskin]\C[8]Están dando el nuevo documental ''Expediciones con Mary Burkea'' en que se explora la lejana región de Safar en busca de reliquias y nuevas especies.
+\w[menuskin]\C[8]Están dando una serie de tu infancia sobre un pequeño Oddish en una aventura parecida a una odisea. \nResulta curioso ver un rábano caminar...
+\w[menuskin]\C[8]Están dando una serie de tu infancia sobre un pequeño Oddish en una aventura parecida a una odisea. \nResulta curioso ver un rábano caminar...
+\w[menuskin]\C[8]Están emitiendo una serie sobre una niña acompañada por una hada en un mundo mágico.\nEspera... esta serie ya la conocías. ¡Pero le han hecho un "reboot"!
+\w[menuskin]\C[8]Están emitiendo una serie sobre una niña acompañada por una hada en un mundo mágico.\nEspera... esta serie ya la conocías. ¡Pero le han hecho un "reboot"!
+\w[menuskin]\C[8]Hay un programa donde una chica llamada ''Luz'' recomienda videojuegos.\nSabes que no tienes suficiente dinero para comprar ninguno, pero aún así lo ves un rato.
+\w[menuskin]\C[8]Hay un programa donde una chica llamada ''Luz'' recomienda videojuegos.\nSabes que no tienes suficiente dinero para comprar ninguno, pero aún así lo ves un rato.
+\w[menuskin]\C[8]Hay un programa de un artista ayudando en proyectos de su comunidad...\n¿Qué? ¿Ya se ha cansado? ¡Pero si solo ha pintado medio lienzo!
+\w[menuskin]\C[8]Hay un programa de un artista ayudando en proyectos de su comunidad...\n¿Qué? ¿Ya se ha cansado? ¡Pero si solo ha pintado medio lienzo!
+\w[menuskin]\C[8]En la tele aparecen un grupo de adolescentes y un gato comiendo helados en una torre del reloj.\nEspera, ¿se están peleando el chico peliazul y el gato?
+\w[menuskin]\C[8]En la tele aparecen un grupo de adolescentes y un gato comiendo helados en una torre del reloj.\nEspera, ¿se están peleando el chico peliazul y el gato?
+\w[menuskin]\C[8]Están dando un documental sobre la región de Dharmia.\n¿...Ese contenedor de basura acaba de explotar?
+\w[menuskin]\C[8]Están dando un documental sobre la región de Dharmia.\n¿...Ese contenedor de basura acaba de explotar?
+\w[menuskin]\C[8]En este programa hay un hombre sin camiseta con explosiones de fondo.\nLas películas de este director siempre tienen escenas de ese tipo...
+\w[menuskin]\C[8]En este programa hay un hombre sin camiseta con explosiones de fondo.\nLas películas de este director siempre tienen escenas de ese tipo...
+\w[menuskin]\C[8]Hay un hombre con acento sureño animando a su equipo de bálfut favorito.\nEncima también parece trabajar en su portátil, este hombre no da abasto...
+\w[menuskin]\C[8]Hay un hombre con acento sureño animando a su equipo de bálfut favorito.\nEncima también parece trabajar en su portátil, este hombre no da abasto...
+\w[menuskin]\C[8]Hay un programa de un señor jugando al fútbol junto a una grafitera y un maleante.
+\w[menuskin]\C[8]Hay un programa de un señor jugando al fútbol junto a una grafitera y un maleante.
+\w[menuskin]\C[8]\..\..\..
+\w[menuskin]\C[8]\..\..\..
+\w[menuskin]\C[8]Se te está haciendo tarde, será mejor irse pronto.
+\w[menuskin]\C[8]Se te está haciendo tarde, será mejor irse pronto.
+\w[menuskin]\C[8]La papelera está vacía.
+\w[menuskin]\C[8]La papelera está vacía.
+Hola, te doy la bienvenida al Centro Pokémon.
+Hola, te doy la bienvenida al Centro Pokémon.
+Aquí tu equipo Pokémon se recuperará por completo.
+Aquí tu equipo Pokémon se recuperará por completo.
+¿Quieres que descanse hasta que se reponga?
+¿Quieres que descanse hasta que se reponga?
+Vale, dame unos segundos.
+Vale, dame unos segundos.
+Es posible que algún Pokémon esté infectado por el Pokérus.
+Es posible que algún Pokémon esté infectado por el Pokérus.
+No se sabe gran cosa del Pokérus, salvo que es una forma de vida microscópica que infecta a los Pokémon.\nAl parecer, los Pokémon infectados crecen de una forma extraordinaria.
+No se sabe gran cosa del Pokérus, salvo que es una forma de vida microscópica que infecta a los Pokémon.\nAl parecer, los Pokémon infectados crecen de una forma extraordinaria.
+Gracias por esperar.\nTu equipo Pokémon ha recobrado toda su energía.
+Gracias por esperar.\nTu equipo Pokémon ha recobrado toda su energía.
+¡Vuelve cuando quieras!
+¡Vuelve cuando quieras!
+Primero deberías devolverle la energía a tu equipo Pokémon.
+Primero deberías devolverle la energía a tu equipo Pokémon.
+Tu equipo Pokémon se ha recuperado totalmente.
+Tu equipo Pokémon se ha recuperado totalmente.
+No olvides visitar un Centro Pokémon cuando tus Pokémon pierdan PS.\nSi piensas viajar lejos, deberías hacerte con varias Pociones en cualquier Tienda Pokémon.
+No olvides visitar un Centro Pokémon cuando tus Pokémon pierdan PS.\nSi piensas viajar lejos, deberías hacerte con varias Pociones en cualquier Tienda Pokémon.
+¡Buena suerte!
+¡Buena suerte!
+\tg[Elm]¡Hola, \PN!
+\tg[Elm]¡Hola, \PN!
+\tg[Elm]Oye, si estás por aquí cerca, ven a verme.
+\tg[Elm]Oye, si estás por aquí cerca, ven a verme.
+\tg[Elm]Te queda una Medalla de Gimnasio de la región de Johto.
+\tg[Elm]Te queda una Medalla de Gimnasio de la región de Johto.
+\tg[Elm]Estás mejorando mucho, ¿a que sí? Tanto que no hace falta ni que me preocupe por ti. \n¡Intenta llegar tan lejos como puedas!
+\tg[Elm]Estás mejorando mucho, ¿a que sí? Tanto que no hace falta ni que me preocupe por ti. \n¡Intenta llegar tan lejos como puedas!
+\tg[Elm]He hecho un nuevo descubrimiento.\nEl tiempo que tarda un Huevo en eclosionar depende del Pokémon.
+\tg[Elm]He hecho un nuevo descubrimiento.\nEl tiempo que tarda un Huevo en eclosionar depende del Pokémon.
+\tg[Elm]Todavía son un misterio los movimientos que tendrá un Pokémon al eclosionar.\nJusto ahora estamos investigando este asunto.
+\tg[Elm]Todavía son un misterio los movimientos que tendrá un Pokémon al eclosionar.\nJusto ahora estamos investigando este asunto.
+\tg[Elm]La evolución de los Pokémon tiene muchos secretos.\nAlgunos solo evolucionan en circunstancias muy determinadas.
+\tg[Elm]La evolución de los Pokémon tiene muchos secretos.\nAlgunos solo evolucionan en circunstancias muy determinadas.
+\tg[Elm]Los Pokémon infectados por el Pokérus se crían mucho mejor.\nNadie sabe por qué...
+\tg[Elm]Los Pokémon infectados por el Pokérus se crían mucho mejor.\nNadie sabe por qué...
+\tg[Elm]¿Cómo está el Huevo? ¿Ha cambiado algo? \nSi le ocurre algo peculiar, por favor, llámame.
+\tg[Elm]¿Cómo está el Huevo? ¿Ha cambiado algo? \nSi le ocurre algo peculiar, por favor, llámame.
+\tg[Elm]Trabaja, pero con mesura.\nAsegúrate de que tu equipo Pokémon descanse si está débil.
+\tg[Elm]Trabaja, pero con mesura.\nAsegúrate de que tu equipo Pokémon descanse si está débil.
+\tg[<icon=phone> Mamá]¿Diga?\nHola, \PN.
+\tg[<icon=phone> Mamá]¿Diga?\nHola, \PN.
+\tg[<icon=phone> Mamá]Tu voz suena distinta, no sé, no pareces tú. Con lo acostumbrada que estoy a oírte hablar justo delante de mí, supongo que es normal.
+\tg[<icon=phone> Mamá]Tu voz suena distinta, no sé, no pareces tú. Con lo acostumbrada que estoy a oírte hablar justo delante de mí, supongo que es normal.
+\tg[<icon=phone> Mamá]¿Cómo te va todo?\nSeguro que no tienes ni un minuto para descansar.
+\tg[<icon=phone> Mamá]¿Cómo te va todo?\nSeguro que no tienes ni un minuto para descansar.
+\tg[<icon=phone> Mamá]Pero, \PN, sé que puedes seguir esforzándote y hacer bien todo lo que te propongas.\nLlámame otra vez cuando puedas.
+\tg[<icon=phone> Mamá]Pero, \PN, sé que puedes seguir esforzándote y hacer bien todo lo que te propongas.\nLlámame otra vez cuando puedas.
+\tg[<icon=phone> Mamá]\PN, ahora que lo pienso, no estás ahorrando nada.\n¿Quieres empezar a ahorrar?
+\tg[<icon=phone> Mamá]\PN, ahora que lo pienso, no estás ahorrando nada.\n¿Quieres empezar a ahorrar?
+\tg[<icon=phone> Mamá]Vale. Te guardaré el dinero.
+\tg[<icon=phone> Mamá]Vale. Te guardaré el dinero.
+\tg[<icon=phone> Mamá]Vale. No te guardaré el dinero.
+\tg[<icon=phone> Mamá]Vale. No te guardaré el dinero.
+\tg[<icon=phone> Mamá]Por cierto, has ahorrado \v[124]$.\n¿Quieres seguir ahorrando dinero?
+\tg[<icon=phone> Mamá]Por cierto, has ahorrado \v[124]$.\n¿Quieres seguir ahorrando dinero?
+\tg[<icon=phone> Mamá]¡Sigue así, \PN! ¡Estoy contigo!
+\tg[<icon=phone> Mamá]¡Sigue así, \PN! ¡Estoy contigo!
+¿Tienes un fósil que quieras<<n>>revivir?
+¿Tienes un fósil que quieras <<n>>revivir?
+Avísame cuando necesites que reviva un fósil.
+Avísame cuando necesites que reviva un fósil.
+Vaya... Parece que no tienes ningún fósil...
+Vaya... Parece que no tienes ningún fósil...
+De acuerdo. Veré si puedo revivir tu \v[3].
+De acuerdo. Veré si puedo revivir tu \v[3].
+Pude revivir tu fósil.\n¡Aqui lo tienes!
+Pude revivir tu fósil.\n¡Aqui lo tienes!
+Hice de todo para revivir tu fósil.
+Hice de todo para revivir tu fósil.
+Sin embargo, lo que traje de vuelta no sobrevivió\..\..\..
+Sin embargo, lo que traje de vuelta no sobrevivió\..\..\..
+Lo siento.
+Lo siento.
+¡Hola, soy la Analista de Equipos!\nMe especializo en estudiar la sinergia de los Pokémon y formatearlos para su análisis.
+¡Hola, soy la Analista de Equipos!\nMe especializo en estudiar la sinergia de los Pokémon y formatearlos para su análisis.
+Si quieres, puedo convertir tu equipo en un formato compatible con Poképaste y Showdown.
+Si quieres, puedo convertir tu equipo en un formato compatible con Poképaste y Showdown.
+¡Así podrás compartirlo o guardarlo para futuras estrategias!
+¡Así podrás compartirlo o guardarlo para futuras estrategias!
+¿Quieres que analice y exporte tu equipo?
+¿Quieres que analice y exporte tu equipo?
+¡Hola, esta es la estación de Intercambios!
+¡Hola, esta es la estación de Intercambios!
+Por desgracia, esta función no está disponible en tu modo de juego actual.
+Por desgracia, esta función no está disponible en tu modo de juego actual.
+Por desgracia, esta función no está disponible si juegas con ciertos mods.
+Por desgracia, esta función no está disponible si juegas con ciertos mods.
+Desde aquí puedes intercambiar pokémon con tus amigos.
+Desde aquí puedes intercambiar pokémon con tus amigos.
+\w[menuskin]\C[8]¿Cómo te identificas?
+\w[menuskin]\C[8]¿Cómo te identificas?
+\w[menuskin]\C[8]Escoge la ciudad donde quieras empezar.
+\w[menuskin]\C[8]Escoge la ciudad donde quieras empezar.
+\w[menuskin]\C[8]¿Y cuál es tu Pokémon inicial?
+\w[menuskin]\C[8]¿Y cuál es tu Pokémon inicial?
+Eco
+Eco
+Cristi
+Cristi
+Profesor Elm
+Profesor Elm
+Mamá
+Mamá
+Profesor Oak
+Profesor Oak
+\tg[<icon=phone> Mamá]Jolín, mira que marcharte de casa tan rápido...
+\tg[<icon=phone> Mamá]Jolín, mira que marcharte de casa tan rápido...
+\tg[<icon=phone> Mamá]¡Pues espero que te acuerdes de lo que le ha pasado al Profesor Elm!
+\tg[<icon=phone> Mamá]¡Pues espero que te acuerdes de lo que le ha pasado al Profesor Elm!
+\tg[<icon=phone> Mamá]Todo eso del chico pelirrojo robando Pokémon...\n¡Brrrr! ¡Qué mal!
+\tg[<icon=phone> Mamá]Todo eso del chico pelirrojo robando Pokémon...\n¡Brrrr! ¡Qué mal!
+\tg[<icon=phone> Mamá]¿Y como dices que se llamaba?
+\tg[<icon=phone> Mamá]¿Y como dices que se llamaba?
+Plata
+Plata
+¿Cuál es su nombre?
+¿Cuál es su nombre?
+\tg[<icon=phone> Mamá]¡Ah claro! ¡Su nombre era \v[12]!
+\tg[<icon=phone> Mamá]¡Ah claro! ¡Su nombre era \v[12]!
+\tg[<icon=phone> Mamá]¿No es así como se llama? ¿Puedes repetir el nombre, por favor?
+\tg[<icon=phone> Mamá]¿No es así como se llama?  ¿Puedes repetir el nombre, por favor?
+\tg[<icon=phone> Mamá]Oye, y acuérdate también de lo que te dijo Elm de visitar al Sr. Pokémon.
+\tg[<icon=phone> Mamá]Oye, y acuérdate también de lo que te dijo Elm de visitar al Sr. Pokémon.
+\tg[<icon=phone> Mamá]¡Eres tan desastre que seguro que se te había olvidado!
+\tg[<icon=phone> Mamá]¡Eres tan desastre que seguro que se te había olvidado!
+\tg[<icon=phone> Mamá]Y hablando de olvidar... \n¡se te ha olvidado dejarme tus ahorros!
+\tg[<icon=phone> Mamá]Y hablando de olvidar... \n¡se te ha olvidado dejarme tus ahorros!
+\tg[<icon=phone> Mamá]¿Qué me dices? ¿Quieres que te guarde el dinero?
+\tg[<icon=phone> Mamá]¿Qué me dices? ¿Quieres que te guarde el dinero?
+\tg[<icon=phone> Mamá]¡Genial! Ya verás como vale la pena.
+\tg[<icon=phone> Mamá]¡Genial! Ya verás como vale la pena.
+\tg[<icon=phone> Mamá]Vale. Como tú quieras, \PN.
+\tg[<icon=phone> Mamá]Vale. Como tú quieras, \PN.
+\tg[<icon=phone> Mamá]En fin. Recuerda pasarlo bien, ¿vale?
+\tg[<icon=phone> Mamá]En fin. Recuerda pasarlo bien, ¿vale?
+\tg[<icon=phone> Mamá]¡Suerte en tus aventuras, cariño!
+\tg[<icon=phone> Mamá]¡Suerte en tus aventuras, cariño!
+¡Click!\wt[10]\n......\wt[5] ......
+¡Click!\wt[10]\n......\wt[5] ......
+\tg[<icon=phone> \v[14]]¡Oye, \PN!\nPor casualidad no estarás cerca de Ciudad Trigal, ¿no?
+\tg[<icon=phone> \v[14]]¡Oye, \PN!\nPor casualidad no estarás cerca de Ciudad Trigal, ¿no?
+\tg[<icon=phone> \v[14]]Bien, bueno, no. \n¡Porque el Team Rocket está atacando la Torre Radio!
+\tg[<icon=phone> \v[14]]Bien, bueno, no. \n¡Porque el Team Rocket está atacando la Torre Radio!
+\tg[<icon=phone> \v[14]]Voy a intentar ayudar, pero no sé si podré hacerlo solo...
+\tg[<icon=phone> \v[14]]Voy a intentar ayudar, pero no sé si podré hacerlo solo...
+\tg[<icon=phone> \v[14]]Voy a intentar ayudar, pero no sé si podré hacerlo sola...
+\tg[<icon=phone> \v[14]]Voy a intentar ayudar, pero no sé si podré hacerlo sola...
+\tg[<icon=phone> \v[14]]¡Si vinieses te lo agradecería mucho!
+\tg[<icon=phone> \v[14]]¡Si vinieses te lo agradecería mucho!
+\tg[<icon=phone> \v[14]]¡Hola, \PN!\n¿A que no adivinas qué he conseguido?
+\tg[<icon=phone> \v[14]]¡Hola, \PN!\n¿A que no adivinas qué he conseguido?
+\tg[<icon=phone> \v[14]]¡Unas entradas para la función de las Chicas Kimono en Ciudad Iris!
+\tg[<icon=phone> \v[14]]¡Unas entradas para la función de las Chicas Kimono en Ciudad Iris!
+\tg[<icon=phone> \v[14]]Una amiga decía que eran muy guapas, pero a mí me interesa más su danza.
+\tg[<icon=phone> \v[14]]Una amiga decía que eran muy guapas, pero a mí me interesa más su danza.
+\tg[<icon=phone> \v[14]]Son unos bellezones... \n¡Estoy con unas ganas que no veas!
+\tg[<icon=phone> \v[14]]Son unos bellezones... \n¡Estoy con unas ganas que no veas!
+\tg[<icon=phone> \v[14]]Si puedes venir te lo agradecería, ¡seguro que nos lo pasamos bien!
+\tg[<icon=phone> \v[14]]Si puedes venir te lo agradecería, ¡seguro que nos lo pasamos bien!
+\w[menuskin]\C[8]\GEs una Máquina Expendedora. \nNo sé si tomarme algo...
+\w[menuskin]\C[8]\GEs una Máquina Expendedora. \nNo sé si tomarme algo...
+\w[menuskin]\C[8]\G¡Clan!\n¡Ha caído una \v[1]!
+\w[menuskin]\C[8]\G¡Clan!\n¡Ha caído una \v[1]!
+\w[menuskin]\C[8]\G¡Clan!\n¡Qué suerte! ¡Ha caído otra \v[1]!
+\w[menuskin]\C[8]\G¡Clan!\n¡Qué suerte! ¡Ha caído otra \v[1]!
+\w[menuskin]\C[8]\GNo te caben más en la Bolsa.
+\w[menuskin]\C[8]\GNo te caben más en la Bolsa.
+\w[menuskin]\C[8]\GNo tienes dinero suficiente.
+\w[menuskin]\C[8]\GNo tienes dinero suficiente.
+\w[menuskin]\C[8]\G¡Clan!\nHa caído una lata de \v[1]!
+\w[menuskin]\C[8]\G¡Clan!\nHa caído una lata de \v[1]!
+\w[menuskin]\C[8]\G¡Clan!\n¡Qué suerte! ¡Ha caído otra lata de \v[1]!
+\w[menuskin]\C[8]\G¡Clan!\n¡Qué suerte! ¡Ha caído otra lata de \v[1]!
+\w[menuskin]\C[8]\GNo tengo suficiente dinero...
+\w[menuskin]\C[8]\GNo tengo suficiente dinero...
+\w[menuskin]\C[8]\G¡No tengo sed!
+\w[menuskin]\C[8]\G¡No tengo sed!
+¡Hola!\nTú debes ser \PN, ¿verdad?
+¡Hola!\nTú debes ser \PN, ¿verdad?
+\tg[Verde]¡Perfecto! Soy Verde.
+\tg[Verde]¡Perfecto! Soy Verde.
+\tg[Verde]De vez en cuando, ayudo al Profesor Oak con algunas tareas de investigación.
+\tg[Verde]De vez en cuando, ayudo al Profesor Oak con algunas tareas de investigación.
+\tg[Verde]¡Y hoy, tengo algo para ti!
+\tg[Verde]¡Y hoy, tengo algo para ti!
+\tg[Verde]Además, el profesor Oak también me encargó darte esta Megapiedra.
+\tg[Verde]Además, el profesor Oak también me encargó darte esta Megapiedra.
+\tg[Verde]Con el Mega Aro podrás megaevolucionar a algunos Pokémon, siempre que lleven la megapiedra adecuada, claro.
+\tg[Verde]Con el Mega Aro podrás megaevolucionar a algunos Pokémon, siempre que lleven la megapiedra adecuada, claro.
+\tg[Verde]La Megaevolución es una técnica que amplifica temporalmente el poder de tu Pokémon en combate.
+\tg[Verde]La Megaevolución es una técnica que amplifica temporalmente el poder de tu Pokémon en combate.
+\tg[Verde]Pero, antes de que te vayas con esto, déjame enseñarte cómo funciona.
+\tg[Verde]Pero, antes de que te vayas con esto, déjame enseñarte cómo funciona.
+\tg[Verde]¡En guardia!
+\tg[Verde]¡En guardia!
+Buen trabajo.
+Buen trabajo.
+\tg[Verde]¡Vaya! ¡Eso ha sido increíble! Eres un rival formidable, sin duda.
+\tg[Verde]¡Vaya! ¡Eso ha sido increíble! Eres un rival formidable, sin duda.
+\tg[Verde]Me recuerdas a cierta persona a quien me enfrenté una vez...
+\tg[Verde]Me recuerdas a cierta persona a quien me enfrenté una vez...
+\tg[Verde]Bueno, creo que ha sido suficiente por hoy.\n¡Ve y haz brillar a tus Pokémon con la Megaevolución!
+\tg[Verde]Bueno, creo que ha sido suficiente por hoy.\n¡Ve y haz brillar a tus Pokémon con la Megaevolución!
+\tg[Bill]Hola, soy Bill. ¿Y tú eres...?\n¿\PN, dices?
+\tg[Bill]Hola, soy Bill. ¿Y tú eres...?\n¿\PN, dices?
+\tg[Bill]¿Sabes?... Yo inventé el sistema de transferencia de Pokémon.\nPero no lo desarrollé yo solo. Por ejemplo, ¿conoces la región de Hoenn?
+\tg[Bill]¿Sabes?... Yo inventé el sistema de transferencia de Pokémon.\nPero no lo desarrollé yo solo. Por ejemplo, ¿conoces la región de Hoenn?
+\tg[Bill]Allí vive una chica llamada Aredia que mejoró el Sistema de Almacenamiento y lo hizo mucho más fácil de usar.
+\tg[Bill]Allí vive una chica llamada Aredia que mejoró el Sistema de Almacenamiento y lo hizo mucho más fácil de usar.
+\tg[Bill]Gracias a la colaboración de compañeros repartidos por todo el mundo, los sistemas de transferencia y almacenamiento se han ido perfeccionando.
+\tg[Bill]Gracias a la colaboración de compañeros repartidos por todo el mundo, los sistemas de transferencia y almacenamiento se han ido perfeccionando.
+\tg[Bill]¡Vaya! Va siendo hora de que vuelva a Ciudad Trigal. Mis padres estarán preocupados por mí.\n¡Hasta otra!
+\tg[Bill]¡Vaya! Va siendo hora de que vuelva a Ciudad Trigal. Mis padres estarán preocupados por mí.\n¡Hasta otra!
+\tg[Rika]¡Mecachis, pero si es mi fan!
+\tg[Rika]¡Mecachis, pero si es mi fan!
+\tg[Rika]¿Has encontrado ya todos mis carteles?
+\tg[Rika]¿Has encontrado ya todos mis carteles?
+\tg[Rika]Me alegra saber que gustan. Los hice inspirándome en la obra de otros artistas, ¿sabes?
+\tg[Rika]Me alegra saber que gustan. Los hice inspirándome en la obra de otros artistas, ¿sabes?
+\tg[Rika]En fin, parece que eres una entrenadora. ¿Te apetecería combatir alguna vez contra mí?
+\tg[Rika]En fin, parece que eres una entrenadora. ¿Te apetecería combatir alguna vez contra mí?
+\tg[Rika]En fin, parece que eres un entrenador. ¿Te apetecería combatir alguna vez contra mí?
+\tg[Rika]En fin, parece que eres un entrenador.  ¿Te apetecería combatir alguna vez contra mí?
+\tg[Rika]Vine a Johto para combatir en un evento que se celebra por aquí, así que estoy con ganas de entrenar.
+\tg[Rika]Vine a Johto para combatir en un evento que se celebra por aquí, así que estoy con ganas de entrenar.
+\tg[Rika]Si en algún momento te apetece, estaré en el puerto de Ciudad Olivo.
+\tg[Rika]Si en algún momento te apetece, estaré en el puerto de Ciudad Olivo.
+\tg[Rika]¡Nos vemos!
+\tg[Rika]¡Nos vemos!
+¡Oh! Hola.
+¡Oh! Hola.
+\tg[Rika]Soy Rika, la artista que hace los carteles de la segunda planta.
+\tg[Rika]Soy Rika, la artista que hace los carteles de la segunda planta.
+\tg[Rika]¡Anda! ¿Te gustan esos de "Se busca" que me pidieron?
+\tg[Rika]¡Anda! ¿Te gustan esos de "Se busca" que me pidieron?
+\tg[Rika]Normalmente no trabajaría estando de vacaciones, pero fue un encargo especial.
+\tg[Rika]Normalmente no trabajaría estando de vacaciones, pero fue un encargo especial.
+\tg[Rika]Cada Centro Pokémon tiene un cartel distinto, ¡a ver si los encuentras todos!
+\tg[Rika]Cada Centro Pokémon tiene un cartel distinto, ¡a ver si los encuentras todos!
+\tg[F. Otto]¡Hola! ¡Qué sorpresa!
+\tg[F. Otto]¡Hola! ¡Qué sorpresa!
+\tg[F. Otto]Soy el tío F. Otto, retratista.\n¡Tu cara es muy fotogénica!
+\tg[F. Otto]Soy el tío F. Otto, retratista.\n¡Tu cara es muy fotogénica!
+\tg[F. Otto]¿Quieres una foto de recuerdo?
+\tg[F. Otto]¿Quieres una foto de recuerdo?
+\tg[F. Otto]¡Estupendo! ¡Prepárate para la foto!\nMira hacia el pajarito...
+\tg[F. Otto]¡Estupendo! ¡Prepárate para la foto!\nMira hacia el pajarito...
+\tg[F. Otto]¡Eso es! ¡Fantástico! ¡Ha quedado una foto de lujo!\nPuedes verla en la Carpeta <b>Album</b> cuando quieras.
+\tg[F. Otto]¡Eso es! ¡Fantástico! ¡Ha quedado una foto de lujo!\nPuedes verla en la Carpeta <b>Album</b> cuando quieras.
+\tg[F. Otto]¡Vaya, vaya! ¡No hay por qué tener vergüenza!
+\tg[F. Otto]¡Vaya, vaya! ¡No hay por qué tener vergüenza!
+¡Hola!\nEstoy aquí deleitando a la gente que pasa a mi alrededor con el sonido de mi guitarra.
+¡Hola!\nEstoy aquí deleitando a la gente que pasa a mi alrededor con el sonido de mi guitarra.
+Si gustas, puedo tocar una melodía.
+Si gustas, puedo tocar una melodía.
+¿Te apetece escuchar algo?
+¿Te apetece escuchar algo?
+Vale, creo que sé perfectamente qué melodía tocar.
+Vale, creo que sé perfectamente qué melodía tocar.
+Aquí va.
+Aquí va.
+Que tengas un buen día.
+Que tengas un buen día.
+\w[menuskin]\C[8]<ac>¡SE BUSCA!\nChico pelirrojo con mala pinta.
+\w[menuskin]\C[8]<ac>¡SE BUSCA!\nChico pelirrojo con mala pinta.
+¡Oye! ¿Y tú cómo has entrado aquí?
+¡Oye! ¿Y tú cómo has entrado aquí?
+¡No puedes huir!
+¡No puedes huir!
+¡Vaya...! Fallé...
+¡Vaya...! Fallé...
+En las estatuas de los Pokémon hay cámaras de vigilancia.
+En las estatuas de los Pokémon hay cámaras de vigilancia.
+¡Seguiremos apareciendo hasta que pulses un botón secreto!
+¡Seguiremos apareciendo hasta que pulses un botón secreto!
+¡Hola, aquí la Tienda de Patinetes! ¡Las ventas de patinetes han subido como la espuma!
+¡Hola, aquí la Tienda de Patinetes! ¡Las ventas de patinetes han subido como la espuma!
+Se lo debemos todo a la publicidad que nos has dado montando de aquí para allá en nuestro patin.
+Se lo debemos todo a la publicidad que nos has dado montando de aquí para allá en nuestro patin.
+Como muestra de agradecimiento, por favor, quédate con el patín. ¡Gracias de nuevo!
+Como muestra de agradecimiento, por favor, quédate con el patín. ¡Gracias de nuevo!
+\tg[Buena]¿\PN?\nNo seas tímido, si estás aquí cerca, habla conmigo directamente.
+\tg[Buena]¿\PN?\nNo seas tímido, si estás aquí cerca, habla conmigo directamente.
+\tg[Buena]Hola, soy Buena...\n¡Oh! ¡Buenos días, \PN! Estoy un poco apagada por la mañana...
+\tg[Buena]Hola, soy Buena...\n¡Oh! ¡Buenos días, \PN! Estoy un poco apagada por la mañana...
+\tg[Buena]Hola, soy Buena. ¡\PN!\nAcabo de salir de trabajar. Cómo te lo diría... ¡Estoy exhausta!
+\tg[Buena]Hola, soy Buena. ¡\PN!\nAcabo de salir de trabajar. Cómo te lo diría... ¡Estoy exhausta!
+Soy Buena. No puedo contestar el teléfono en estos momentos, pero si quieres escuchar mi melodiosa voz, pon la radio y sintoniza Las contraseñas de Buena. ¡Hasta pronto!
+Soy Buena. No puedo contestar el teléfono en estos momentos, pero si quieres escuchar mi melodiosa voz, pon la radio y sintoniza Las contraseñas de Buena. ¡Hasta pronto!
+\tg[Buena]¡Hola, \PN! ¿Cómo estás?\n¡Aaaargh! ¡No es momento de perder el tiempo con saludos!
+\tg[Buena]¡Hola, \PN! ¿Cómo estás?\n¡Aaaargh!  ¡No es momento de perder el tiempo con saludos!
+\tg[Buena]¡Tenemos problemas en la Torre Radio! \n¡\PN! Cuídate, ¿eh?
+\tg[Buena]¡Tenemos problemas en la Torre Radio! \n¡\PN! Cuídate, ¿eh?
+\tg[Buena]Estoy pensando en ir mañana al Casino. Hace mucho que no me paso por allí.\n¿Sabes? Tengo un truquillo para ganar.
+\tg[Buena]Estoy pensando en ir mañana al Casino.  Hace mucho que no me paso por allí.\n¿Sabes?  Tengo un truquillo para ganar.
+\tg[Buena]¡Funciona de maravilla!\n¿Eh? No, no te lo digo. ¡Es un secreto! ¡Descúbrelo tú! \n¡Hablamos!
+\tg[Buena]¡Funciona de maravilla!\n¿Eh? No, no te lo digo. ¡Es un secreto! ¡Descúbrelo tú! \n¡Hablamos!
+\tg[Buena]¡Oye! Escuchas la radio con el Pokégear, ¿no?\nHe oído que puedes ver mapas también.
+\tg[Buena]¡Oye! Escuchas la radio con el Pokégear, ¿no?\nHe oído que puedes ver mapas también.
+\tg[Buena]Como tengo un sentido de la orientación nefasto, uno me puede venir de perilla.
+\tg[Buena]Como tengo un sentido de la orientación nefasto, uno me puede venir de perilla.
+\tg[Buena]¡Gracias por llamarme! ¡Hasta luego!
+\tg[Buena]¡Gracias por llamarme! ¡Hasta luego!
+\tg[Buena]¿Hace sol hoy?\nCuando se pasa tanto tiempo como yo en la Torre Radio, una pierde la noción de todo. Es un poco rollo, para qué nos vamos a engañar.
+\tg[Buena]¿Hace sol hoy?\nCuando se pasa tanto tiempo como yo en la Torre Radio, una pierde la noción de todo. Es un poco rollo, para qué nos vamos a engañar.
+\tg[Buena]¡Vuelve a llamarme cuando quieras!
+\tg[Buena]¡Vuelve a llamarme cuando quieras!
+\tg[Buena]¡El otro día estuve comiendo con DJ Nardo! ¿No es genial?\nNo solo eso... ¡Dijo que la música de mi programa es guay!
+\tg[Buena]¡El otro día estuve comiendo con DJ Nardo! ¿No es genial?\nNo solo eso... ¡Dijo que la música de mi programa es guay!
+\tg[Buena]¡Guau! ¡Le gusta! ¡Casi me da algo al oír sus palabras!\n¡Anda! ¡Tengo que prepararme para el programa! ¡Hasta pronto!
+\tg[Buena]¡Guau! ¡Le gusta! ¡Casi me da algo al oír sus palabras!\n¡Anda! ¡Tengo que prepararme para el programa! ¡Hasta pronto!
+\tg[Buena]¿Conoces a la recepcionista de la Torre Radio? Siempre dice lo mismo, pero es la persona más habladora de la Torre Radio. Es capaz de estar horas hablando sin parar.
+\tg[Buena]¿Conoces a la recepcionista de la Torre Radio? Siempre dice lo mismo, pero es la persona más habladora de la Torre Radio. Es capaz de estar horas hablando sin parar.
+\tg[Buena]En su puesto, se las ve y se las desea para contenerse, pero lo consigue.\nSaber esto da que pensar cada vez que la ves. ¡Luego te llamo!
+\tg[Buena]En su puesto, se las ve y se las desea para contenerse, pero lo consigue.\nSaber esto da que pensar cada vez que la ves. ¡Luego te llamo!
+\tg[Buena]¿Te ha tocado alguna vez algo en la lotería de la planta baja?\nCuantos más Pokémon intercambies será más fácil que te toque.
+\tg[Buena]¿Te ha tocado alguna vez algo en la lotería de la planta baja?\nCuantos más Pokémon intercambies será más fácil que te toque.
+\tg[Buena]¿Sabes? ¡Anoche estaba tan harta del trabajo que me metí entre pecho y espalda una tonelada de comida basura!
+\tg[Buena]¿Sabes? ¡Anoche estaba tan harta del trabajo que me metí entre pecho y espalda una tonelada de comida basura!
+\tg[Buena]Rosa y yo estamos compitiendo a ver quién pierde más peso, pero a este paso no le voy a conseguir ganar.
+\tg[Buena]Rosa y yo estamos compitiendo a ver quién pierde más peso, pero a este paso no le voy a conseguir ganar.
+\tg[Buena]¿Eh? ¿Que cuánto peso? ¡Es un secreto! Pero Rosa pesa\..\..\..\n¡Ahí va, es Rosa!\nUh \..\..\.. Mm\..\..\.. Eh\..\..\.. ¡Lo siento, se ha equivocado de número!
+\tg[Buena]¿Eh? ¿Que cuánto peso? ¡Es un secreto!  Pero Rosa pesa\..\..\..\n¡Ahí va, es Rosa!\nUh \..\..\.. Mm\..\..\.. Eh\..\..\.. ¡Lo siento, se ha equivocado de número!
+\tg[Buena]Ayer, el Profesor Oak estuvo en el estudio para grabar su programa.\nAsí que fui a verle y me presenté. ¿Sabes qué? ¡Escucha mi programa!
+\tg[Buena]Ayer, el Profesor Oak estuvo en el estudio para grabar su programa.\nAsí que fui a verle y me presenté. ¿Sabes qué? ¡Escucha mi programa!
+\tg[Buena]Soy tan afortunada y tan feliz... Es todo un honor para mí.\n¡Luego te llamo!
+\tg[Buena]Soy tan afortunada y tan feliz... Es todo un honor para mí.\n¡Luego te llamo!
+\tg[Buena]¡Cof, cof...! Sniff... He pillado un resfriado de tres pares. Pero ante todo soy profesional. Tengo que hablar de forma que nadie se dé cuenta en el trabajo.
+\tg[Buena]¡Cof, cof...! Sniff... He pillado un resfriado de tres pares. Pero ante todo soy profesional. Tengo que hablar de forma que nadie se dé cuenta en el trabajo.
+\tg[Buena]Nos vemos en las ondas.\n¡Hasta la próxima!
+\tg[Buena]Nos vemos en las ondas.\n¡Hasta la próxima!
+\tg[Buena]¡Hola! Ganaste la Tarjeta Radio en el concurso de la recepción, ¿verdad?\n¿Sabes qué? ¡Yo preparé las preguntas! Para ti estaban chupadas, ¿no?\n¡Bueno, ya hablaremos!
+\tg[Buena]¡Hola! Ganaste la Tarjeta Radio en el concurso de la recepción, ¿verdad?\n¿Sabes qué?  ¡Yo preparé las preguntas! Para ti estaban chupadas, ¿no?\n¡Bueno, ya hablaremos!
+\tg[Buena]Estoy eufórica porque cada vez hay más gente que participa en Las contraseñas de Buena.\nCuando la palabra clave fue Pikachu, el espectáculo fue abrumador.
+\tg[Buena]Estoy eufórica porque cada vez hay más gente que participa en Las contraseñas de Buena.\nCuando la palabra clave fue Pikachu, el espectáculo fue abrumador.
+\tg[Buena]Los Pokéfans estaban descontrolados y gritaban: ¡PI-KA-CHU! ¡PI-KA-CHU!\nNo se detenían ante nada.
+\tg[Buena]Los Pokéfans estaban descontrolados y gritaban: ¡PI-KA-CHU! ¡PI-KA-CHU!\nNo se detenían ante nada.
+\tg[Buena]¡Los oyentes estaban desconcertados con tanto jaleo!\nHala, ya basta por hoy, que tengo una montaña de trabajo. ¡Ya hablaremos!
+\tg[Buena]¡Los oyentes estaban desconcertados con tanto jaleo!\nHala, ya basta por hoy, que tengo una montaña de trabajo. ¡Ya hablaremos!
+\tg[Buena]¿Sabes qué? ¡El Director de la Torre Radio es un gran fan de la televisión!\nHace nada, en un programa de TV de tendencias, decían que los trajes negros estaban de moda.
+\tg[Buena]¿Sabes qué? ¡El Director de la Torre Radio es un gran fan de la televisión!\nHace nada, en un programa de TV de tendencias, decían que los trajes negros estaban de moda.
+\tg[Buena]Pues bien, ahora siempre viste de negro.\nPero lo del Director es un secreto, así que si le ves, ¡no digas nada!
+\tg[Buena]Pues bien, ahora siempre viste de negro.\nPero lo del Director es un secreto, así que si le ves, ¡no digas nada!
+\tg[Buena]¡Oh! ¡El Director está al llegar! ¡Hasta luego! ¡No te pierdas mi programa!
+\tg[Buena]¡Oh! ¡El Director está al llegar!  ¡Hasta luego! ¡No te pierdas mi programa!
+\tg[Buena]Dime. ¿Cuándo te relajas más?\nYo, en el mismo estudio, justo después del programa, tomando una taza de té.
+\tg[Buena]Dime. ¿Cuándo te relajas más?\nYo, en el mismo estudio, justo después del programa, tomando una taza de té.
+\tg[Buena]Es tan agradable que hace que me amodorre poco a\..\..\..\n\..\..\.. \..\..\.. \..\..\.. \..\..\.. \..\..\.. \..\..\.. \nZzz.
+\tg[Buena]Es tan agradable que hace que me amodorre poco a\..\..\..\n\..\..\.. \..\..\..  \..\..\.. \..\..\.. \..\..\.. \..\..\.. \nZzz.
+\tg[Buena]Huy. ¡Me he dormido con solo pensarlo! ¡Qué vergüenza!\n¡Por favor, olvida que esto ha pasado! ¡Hasta luego!
+\tg[Buena]Huy. ¡Me he dormido con solo pensarlo!  ¡Qué vergüenza!\n¡Por favor, olvida que esto ha pasado! ¡Hasta luego!
+\tg[Buena]Dime, ¿cuál fue el primer Pokémon que atrapaste?\n¿De verdad?\nHe visto muchos Pokémon por aquí, pero nunca he atrapado ninguno.
+\tg[Buena]Dime, ¿cuál fue el primer Pokémon que atrapaste?\n¿De verdad?\nHe visto muchos Pokémon por aquí, pero nunca he atrapado ninguno.
+\tg[Buena]Debería probar.\n¿Sabías que el primer Pokémon que atrapó Rosa fue un Drowzee?\nEso no es muy normal.
+\tg[Buena]Debería probar.\n¿Sabías que el primer Pokémon que atrapó Rosa fue un Drowzee?\nEso no es muy normal.
+\tg[Buena]Pero el Drowzee de Rosa la hacía dormirse en el trabajo, así que se lo cambió a un fan por un Meowth.\n¡Otro día hablamos más de Pokémon! ¡Adiós!
+\tg[Buena]Pero el Drowzee de Rosa la hacía dormirse en el trabajo, así que se lo cambió a un fan por un Meowth.\n¡Otro día hablamos más de Pokémon! ¡Adiós!
+\tg[Buena]¿Sabes? Nardo habla por teléfono durante horas con el equipo de la radio sobre la música Pokémon que pondrán cada día de la semana.
+\tg[Buena]¿Sabes? Nardo habla por teléfono durante horas con el equipo de la radio sobre la música Pokémon que pondrán cada día de la semana.
+\tg[Buena]Al final, se les pegó a todos la forma de hablar de Nardo, ¡para mondarse!\n¡Un montón de copias de él!\n¡Hablamos otra vez cuando quieras!
+\tg[Buena]Al final, se les pegó a todos la forma de hablar de Nardo, ¡para mondarse!\n¡Un montón de copias de él!\n¡Hablamos otra vez cuando quieras!
+\tg[Buena]Dentro de poco iré de compras con Rosa.\nSería genial que el Centro Comercial de Ciudad Trigal tuviera rebajas cuando vayamos.
+\tg[Buena]Dentro de poco iré de compras con Rosa.\nSería genial que el Centro Comercial de Ciudad Trigal tuviera rebajas cuando vayamos.
+\tg[Buena]¡Tú también te podrías apuntar! ¡Hablamos!
+\tg[Buena]¡Tú también te podrías apuntar!  ¡Hablamos!
+\tg[Buena]¿Sabes qué? Voy de vacaciones a la Torre Radio de Pueblo Lavanda con el equipo de la radio.
+\tg[Buena]¿Sabes qué? Voy de vacaciones a la Torre Radio de Pueblo Lavanda con el equipo de la radio.
+\tg[Buena]¡Nuestras ansiadas vacaciones en otra Torre Radio! ¡Qué rollo! ¡Preferiría ir a la playa!\n¡\PN, espero que te lo pases divinamente en tu viaje!\n¡Adiós!
+\tg[Buena]¡Nuestras ansiadas vacaciones en otra Torre Radio! ¡Qué rollo! ¡Preferiría ir a la playa!\n¡\PN, espero que te lo pases divinamente en tu viaje!\n¡Adiós!
+\tg[Buena]El Profesor Elm te ha mandado a varias regiones, ¿no? ¡Qué envidia!\nEn cuanto tenga vacaciones, yo también voy a viajar por ahí. \n¡Oh! ¡El programa va a empezar! ¡Te dejo!
+\tg[Buena]El Profesor Elm te ha mandado a varias regiones, ¿no? ¡Qué envidia!\nEn cuanto tenga vacaciones, yo también voy a viajar por ahí. \n¡Oh! ¡El programa va a empezar! ¡Te dejo!
+\tg[Bill]¿Quién llama? \PN, ¿no? Un segundo\.. \..\..\n\..\..\.. \..\..\..
+\tg[Bill]¿Quién llama? \PN, ¿no? Un segundo\.. \..\..\n\..\..\.. \..\..\..
+\tg[Bill]¡Hola, \PN!\nEl teléfono es un aparato que transforma la voz en impulsos eléctricos y la transporta hasta lugares lejanos, ¿no?
+\tg[Bill]¡Hola, \PN!\nEl teléfono es un aparato que transforma la voz en impulsos eléctricos y la transporta hasta lugares lejanos, ¿no?
+\tg[Bill]Ojalá se pudiera transportar los Pokémon con el mismo principio.\nEsa fue la idea que originó el Sistema de Almacenamiento de Pokémon.
+\tg[Bill]Ojalá se pudiera transportar los Pokémon con el mismo principio.\nEsa fue la idea que originó el Sistema de Almacenamiento de Pokémon.
+\tg[Bill]Aunque bueno, no es tan fácil como el teléfono.
+\tg[Bill]Aunque bueno, no es tan fácil como el teléfono.
+\tg[César]¡Oh, \PN! No hace falta el teléfono, con hablar así basta.
+\tg[César]¡Oh, \PN! No hace falta el teléfono, con hablar así basta.
+\tg[César]¡Soy César! ¡\PN, qué alegría!
+\tg[César]¡Soy César! ¡\PN, qué alegría!
+\tg[César]He fabricado Poké Balls con las Bonguri que me dejaste.\n¡Pásate por mi casa cuando quieras!
+\tg[César]He fabricado Poké Balls con las Bonguri que me dejaste.\n¡Pásate por mi casa cuando quieras!
+\tg[César]¡Todavía no he terminado! ¡Espera un día más, por favor!
+\tg[César]¡Todavía no he terminado! ¡Espera un día más, por favor!
+\tg[César]Si me traes Bonguri, te fabrico Poké Balls. ¡Pásate cuando quieras por mi casa!
+\tg[César]Si me traes Bonguri, te fabrico Poké Balls. ¡Pásate cuando quieras por mi casa!
+\tg[\v[14]]\PN, ¿qué pasa?\nCon el teléfono, aunque estés cerca, parece como si estuvieras muy lejos. Casi dan ganas de gritar.
+\tg[\v[14]]\PN, ¿qué pasa?\nCon el teléfono, aunque estés cerca, parece como si estuvieras muy lejos. Casi dan ganas de gritar.
+\tg[\v[14]]¡Hola, soy \v[14]! Buenas noches.
+\tg[\v[14]]¡Hola, soy \v[14]! Buenas noches.
+\tg[\v[14]]¡Hola, soy \v[14]! ¿Cómo estás?
+\tg[\v[14]]¡Hola, soy \v[14]! ¿Cómo estás?
+\tg[\v[14]]¿Dónde estás? Ah, en Pueblo Primavera. ¿Te has pasado por tu casa?\nDeberías ir con un Pokémon a decirle hola a tu mamá.
+\tg[\v[14]]¿Dónde estás? Ah, en Pueblo Primavera. ¿Te has pasado por tu casa?\nDeberías ir con un Pokémon a decirle hola a tu mamá.
+\tg[\v[14]]¡Una cosa! Te aconsejo llevarte un Chikorita a la Ruta 29.\nSeguro que pasa algo curioso.
+\tg[\v[14]]¡Una cosa! Te aconsejo llevarte un Chikorita a la Ruta 29.\nSeguro que pasa algo curioso.
+\tg[\v[14]]¿Dónde estás? ¿En Ciudad Cerezo? Allí abundan las olas del mar.\nEs muy relajante correr con los Pokémon por la playa mientras el sonido de las olas te envuelve.
+\tg[\v[14]]¿Dónde estás? ¿En Ciudad Cerezo? Allí abundan las olas del mar.\nEs muy relajante correr con los Pokémon por la playa mientras el sonido de las olas te envuelve.
+\tg[\v[14]]Yo de ti me llevaría a Totodile a la Ruta 30.\nSeguro que pasa algo curioso.
+\tg[\v[14]]Yo de ti me llevaría a Totodile a la Ruta 30.\nSeguro que pasa algo curioso.
+\tg[\v[14]]Seguro que pasa algo chachi si te llevas a Cyndaquil a la Ruta 31.\nHe oído que le encanta esa zona.
+\tg[\v[14]]Seguro que pasa algo chachi si te llevas a Cyndaquil a la Ruta 31.\nHe oído que le encanta esa zona.
+\tg[\v[14]]¿Dónde estás? Ah, en Ciudad Malva. Ahí está la Torre Bellsprout.
+\tg[\v[14]]¿Dónde estás? Ah, en Ciudad Malva.  Ahí está la Torre Bellsprout.
+\tg[\v[14]]Si llevas un Bellsprout hasta allí, se pone a bailar... o eso dicen...\n¿Será verdad? ¿Por qué no lo compruebas?
+\tg[\v[14]]Si llevas un Bellsprout hasta allí, se pone a bailar... o eso dicen...\n¿Será verdad? ¿Por qué no lo compruebas?
+\tg[\v[14]]¿Ahora estás en las Ruinas Alfa? Por ahí puedes encontrar Unown.\n¿Ya tienes alguno? Si es así, llévatelo hasta allí a ver qué pasa.
+\tg[\v[14]]¿Ahora estás en las Ruinas Alfa? Por ahí puedes encontrar Unown.\n¿Ya tienes alguno?  Si es así, llévatelo hasta allí a ver qué pasa.
+\tg[\v[14]]Los Unown viven en las Ruinas Alfa, ¿verdad? Si ya tienes uno, llévalo a ver qué pasa.
+\tg[\v[14]]Los Unown viven en las Ruinas Alfa, ¿verdad? Si ya tienes uno, llévalo a ver qué pasa.
+\tg[\v[14]]La lluvia nunca para en la Ruta 33. \nEn ese tipo de días me deprimo mucho, pero hay Pokémon que pierden la cola por la lluvia y se lo pasan chachi piruli, como Totodile.
+\tg[\v[14]]La lluvia nunca para en la Ruta 33. \nEn ese tipo de días me deprimo mucho, pero hay Pokémon que pierden la cola por la lluvia y se lo pasan chachi piruli, como Totodile.
+\tg[\v[14]]¿Por dónde estás ahora? ¿En Ciudad Orquídea?\n¿Ah, no? Es en Pueblo Azalea. ¿Ya te has montado en los Spinarak mecánicos del Gimnasio?
+\tg[\v[14]]¿Por dónde estás ahora? ¿En Ciudad Orquídea?\n¿Ah, no? Es en Pueblo Azalea. ¿Ya te has montado en los Spinarak mecánicos del Gimnasio?
+\tg[\v[14]]¿Cómo se comportará un Spinarak de verdad si lo llevas ahí? Puede ser curioso.
+\tg[\v[14]]¿Cómo se comportará un Spinarak de verdad si lo llevas ahí? Puede ser curioso.
+\tg[\v[14]]El Encinar vuelve loco a Farfetch’d. \nLa próxima vez voy a llevarlo a ver qué pasa.
+\tg[\v[14]]El Encinar vuelve loco a Farfetch’d. \nLa próxima vez voy a llevarlo a ver qué pasa.
+\tg[\v[14]]¿Dónde te pillo? Ah, en Ciudad Trigal.\nSi te das cuenta, el Gimnasio tiene la forma de un Clefairy.\n¡Prueba a llevarte uno! A lo mejor pasa algo gracioso.
+\tg[\v[14]]¿Dónde te pillo? Ah, en Ciudad Trigal.\nSi te das cuenta, el Gimnasio tiene la forma de un Clefairy.\n¡Prueba a llevarte uno! A lo mejor pasa algo gracioso.
+\tg[\v[14]]¿Por dónde te pillo? Ah, en el Parque Nacional. ¡A mí también me encanta ese lugar! \nLos Pokémon de tipo Bicho se ponen muy contentos allí.
+\tg[\v[14]]¿Por dónde te pillo? Ah, en el Parque Nacional. ¡A mí también me encanta ese lugar! \nLos Pokémon de tipo Bicho se ponen muy contentos allí.
+\tg[\v[14]]Lleva a Sudowoodo a la Ruta 36 y verás qué pasa.\nNo te cuento nada más. Quiero que lo descubras por ti mismo.
+\tg[\v[14]]Lleva a Sudowoodo a la Ruta 36 y verás qué pasa.\nNo te cuento nada más. Quiero que lo descubras por ti mismo.
+\tg[\v[14]]¿Has hablado con las Gemelas de la Ruta 37?\nSon muy guapas, por eso a los Pokémon también les caen bien.
+\tg[\v[14]]¿Has hablado con las Gemelas de la Ruta 37?\nSon muy guapas, por eso a los Pokémon también les caen bien.
+\tg[\v[14]]¿Por dónde estás? ¿En Ciudad Iris? \nLlévate a Pichu al Teatro de Danza, que me da que va a ocurrir algo curioso.\n¡Es que allí dan muchas ganas de bailar!
+\tg[\v[14]]¿Por dónde estás? ¿En Ciudad Iris? \nLlévate a Pichu al Teatro de Danza, que me da que va a ocurrir algo curioso.\n¡Es que allí dan muchas ganas de bailar!
+\tg[\v[14]]Lleva a Miltank a la Ruta 39 y verás. Se lo pasará muy bien porque allí viven un montón de compañeras suyas.
+\tg[\v[14]]Lleva a Miltank a la Ruta 39 y verás.  Se lo pasará muy bien porque allí viven un montón de compañeras suyas.
+\tg[\v[14]]Hace un tiempo, llevé a Tauros a la Granja Mu-mu y se puso como un energúmeno. ¡Era incontenible!
+\tg[\v[14]]Hace un tiempo, llevé a Tauros a la Granja Mu-mu y se puso como un energúmeno. ¡Era incontenible!
+\tg[\v[14]]Ah, pues en Ciudad Olivo, el faro del puerto es lo más vistoso.\nPrueba a ir con Ampharos hasta allí. A lo mejor hasta brilla...
+\tg[\v[14]]Ah, pues en Ciudad Olivo, el faro del puerto es lo más vistoso.\nPrueba a ir con Ampharos hasta allí. A lo mejor hasta brilla...
+\tg[\v[14]]Un buen experimento sería llevar a Poliwag a la Ruta 40.\nSeguro que ocurre algo curioso.
+\tg[\v[14]]Un buen experimento sería llevar a Poliwag a la Ruta 40.\nSeguro que ocurre algo curioso.
+\tg[\v[14]]A los Pokémon de tipo Agua les encanta el mar. Al verles con tanta ilusión, uno también siente la misma felicidad que ellos.
+\tg[\v[14]]A los Pokémon de tipo Agua les encanta el mar. Al verles con tanta ilusión, uno también siente la misma felicidad que ellos.
+\tg[\v[14]]¿Por dónde te pillo? Ah, ¿en Ciudad Orquídea?\n¡Lo sabía! Si te llevas a Krabby, ¿qué pasará?\n¡Compruébalo!
+\tg[\v[14]]¿Por dónde te pillo? Ah, ¿en Ciudad Orquídea?\n¡Lo sabía! Si te llevas a Krabby, ¿qué pasará?\n¡Compruébalo!
+\tg[\v[14]]¿Vas bien? La Ruta 42 es muy escarpada.\nLos Pokémon de tipo Roca se pondrán muy contentos si los llevas por ahí.
+\tg[\v[14]]¿Vas bien? La Ruta 42 es muy escarpada.\nLos Pokémon de tipo Roca se pondrán muy contentos si los llevas por ahí.
+\tg[\v[14]]En el Lago de la Furia, se pueden ver Magikarp llenos de energía.\nSi tienes un Magikarp, llévatelo.
+\tg[\v[14]]En el Lago de la Furia, se pueden ver Magikarp llenos de energía.\nSi tienes un Magikarp, llévatelo.
+\tg[\v[14]]Si quieres ver a Magikarp lleno de vitalidad, llévalo al Lago de la Furia.
+\tg[\v[14]]Si quieres ver a Magikarp lleno de vitalidad, llévalo al Lago de la Furia.
+\tg[\v[14]]Ahora estás... ¿en la Ruta 44? ¿Me equivoco?\nPor ahí las temperaturas son muy bajas y los Pokémon frioleros lo pasan mal.
+\tg[\v[14]]Ahora estás... ¿en la Ruta 44? ¿Me equivoco?\nPor ahí las temperaturas son muy bajas y los Pokémon frioleros lo pasan mal.
+\tg[\v[14]]Eso sí, los Pókemon de tipo Hielo están en su ambiente y se lo pasan pipa.
+\tg[\v[14]]Eso sí, los Pókemon de tipo Hielo están en su ambiente y se lo pasan pipa.
+\tg[\v[14]]Oye, ¿ya tienes Pokémon de tipo Hielo?\nCuando están sobre el hielo se lo pasan pipa.
+\tg[\v[14]]Oye, ¿ya tienes Pokémon de tipo Hielo?\nCuando están sobre el hielo se lo pasan pipa.
+\tg[\v[14]]En Ciudad Endrino hay alguien que te ayuda a que tu Pokémon olvide movimientos. En ese lugar, parece que a los Pokémon también se les van a olvidar hasta los objetos que llevan.
+\tg[\v[14]]En Ciudad Endrino hay alguien que te ayuda a que tu Pokémon olvide movimientos. En ese lugar, parece que a los Pokémon también se les van a olvidar hasta los objetos que llevan.
+\tg[\v[14]]Aunque no, eso no puede ocurrir, imposible.
+\tg[\v[14]]Aunque no, eso no puede ocurrir, imposible.
+\tg[\v[14]]La corriente del río que pasa por la Ruta 45 es serpenteante y mola mazo.\nCuando fui, mis Pokémon miraban hacia el río con mucha curiosidad.
+\tg[\v[14]]La corriente del río que pasa por la Ruta 45 es serpenteante y mola mazo.\nCuando fui, mis Pokémon miraban hacia el río con mucha curiosidad.
+\tg[\v[14]]En la Ruta 46 hay mucha hierba alta y a mis Pokémon les preocupa encontrarse con algún Pokémon salvaje.
+\tg[\v[14]]En la Ruta 46 hay mucha hierba alta y a mis Pokémon les preocupa encontrarse con algún Pokémon salvaje.
+\tg[\v[14]]La Ruta 47 tiene una vista increíble. ¿Conoces el Pokémon Ditto?\nDicen que se ponen muy contentos en esa zona. Qué raro, ¿no?
+\tg[\v[14]]La Ruta 47 tiene una vista increíble.  ¿Conoces el Pokémon Ditto?\nDicen que se ponen muy contentos en esa zona. Qué raro, ¿no?
+\tg[\v[14]]La Zona Safari está en el quinto pino.\nIr hasta allí andando es un calvario, pero vale la pena, ¿eh? Además, hay un montonazo de Pokémon.
+\tg[\v[14]]La Zona Safari está en el quinto pino.\nIr hasta allí andando es un calvario, pero vale la pena, ¿eh? Además, hay un montonazo de Pokémon.
+\tg[\v[14]]¿Dónde estás? Huy, en la Zona Safari. Eso está en el quinto pimiento.\nIr hasta allí andando es un calvario, pero vale la pena, ¿eh?
+\tg[\v[14]]¿Dónde estás? Huy, en la Zona Safari.  Eso está en el quinto pimiento.\nIr hasta allí andando es un calvario, pero vale la pena, ¿eh?
+\tg[\v[14]]¿Dónde estás? Si es por Pueblo Paleta, entonces... ¡es donde vive el Profesor Oak!\nLe encantan los Pokémon, deberías pasarte por su Laboratorio.
+\tg[\v[14]]¿Dónde estás? Si es por Pueblo Paleta, entonces... ¡es donde vive el Profesor Oak!\nLe encantan los Pokémon, deberías pasarte por su Laboratorio.
+\tg[\v[14]]Prueba a llevarte un Bulbasaur a la Ruta 1.\nSeguro que descubres algo curioso.
+\tg[\v[14]]Prueba a llevarte un Bulbasaur a la Ruta 1.\nSeguro que descubres algo curioso.
+\tg[\v[14]]¿Dónde estás? ¿En Ciudad Verde? Ahí está la Casa del Entrenador.\nLos Pokémon se ponen la mar de contentos cuando van allí.
+\tg[\v[14]]¿Dónde estás? ¿En Ciudad Verde? Ahí está la Casa del Entrenador.\nLos Pokémon se ponen la mar de contentos cuando van allí.
+\tg[\v[14]]¿Por qué no te llevas un Charmander a la Ruta 2?\nLas malas lenguas dicen que les pirra esa zona.
+\tg[\v[14]]¿Por qué no te llevas un Charmander a la Ruta 2?\nLas malas lenguas dicen que les pirra esa zona.
+\tg[\v[14]]He oído que los Squirtle se pegan unas tortas tremendas al caerse en la Ruta 3.
+\tg[\v[14]]He oído que los Squirtle se pegan unas tortas tremendas al caerse en la Ruta 3.
+\tg[\v[14]]¿Por dónde estás? ¿Cerca de Ciudad Verde?\nAh, en Ciudad Plateada. El Museo está ahí.\nPodrías ir con tus Pokémon. A lo mejor les gusta y todo.
+\tg[\v[14]]¿Por dónde estás? ¿Cerca de Ciudad Verde?\nAh, en Ciudad Plateada. El Museo está ahí.\nPodrías ir con tus Pokémon. A lo mejor les gusta y todo.
+\tg[\v[14]]El Mt. Moon, sí, el que está en la Ruta 4, le encanta a Clefairy, ¿no lo sabías?
+\tg[\v[14]]El Mt. Moon, sí, el que está en la Ruta 4, le encanta a Clefairy, ¿no lo sabías?
+\tg[\v[14]]¿Por dónde estás? Así que por Ciudad Celeste.\n¿Ya has visto a Misty, la Líder del Gimnasio?\nNo, no es por nada, solo me picaba el gusanillo de la curiosidad.
+\tg[\v[14]]¿Por dónde estás? Así que por Ciudad Celeste.\n¿Ya has visto a Misty, la Líder del Gimnasio?\nNo, no es por nada, solo me picaba el gusanillo de la curiosidad.
+\tg[\v[14]]En Ciudad Azafrán hay un dojo. Pues Pokémon que llevo, Pokémon que se lleva un sorpresón.
+\tg[\v[14]]En Ciudad Azafrán hay un dojo. Pues Pokémon que llevo, Pokémon que se lleva un sorpresón.
+\tg[\v[14]]En Ciudad Azafrán vive el Sr. Psíquico.\n¿Por qué no le llevas algún Pokémon de tipo Psíquico?
+\tg[\v[14]]En Ciudad Azafrán vive el Sr.  Psíquico.\n¿Por qué no le llevas algún Pokémon de tipo Psíquico?
+\tg[\v[14]]¿Por dónde vas ya? ¿Por Ciudad Carmín? Ahí está el Club de Fans de Pokémon.
+\tg[\v[14]]¿Por dónde vas ya? ¿Por Ciudad Carmín? Ahí está el Club de Fans de Pokémon.
+\tg[\v[14]]Cuando fui a Ciudad Carmín monté mis Pokémon en el S.S. Aqua y se pusieron contentísimos.
+\tg[\v[14]]Cuando fui a Ciudad Carmín monté mis Pokémon en el S.S. Aqua y se pusieron contentísimos.
+\tg[\v[14]]¿Dónde estás? Así que en Ciudad Azulona. Me llevé a Tangela al Gimnasio y se puso hecho unas castañuelas. ¿Por qué no pruebas?
+\tg[\v[14]]¿Dónde estás? Así que en Ciudad Azulona. Me llevé a Tangela al Gimnasio y se puso hecho unas castañuelas. ¿Por qué no pruebas?
+\tg[\v[14]]Si llevas a Porygon por Ciudad Azulona, se oye un ruido muy raro. ¿No has oído nunca ese rumor?
+\tg[\v[14]]Si llevas a Porygon por Ciudad Azulona, se oye un ruido muy raro. ¿No has oído nunca ese rumor?
+\tg[\v[14]]Dime, ¿dónde te encuentras? ¿En Pueblo Lavanda? Sí que estás lejos.\nAhí es donde se encuentra el Cementerio, donde están las tumbas de los Pokémon.
+\tg[\v[14]]Dime, ¿dónde te encuentras? ¿En Pueblo Lavanda? Sí que estás lejos.\nAhí es donde se encuentra el Cementerio, donde están las tumbas de los Pokémon.
+\tg[\v[14]]Todo Entrenador debería ir a mostrar sus respetos al menos una vez.
+\tg[\v[14]]Todo Entrenador debería ir a mostrar sus respetos al menos una vez.
+\tg[\v[14]]¿Ya te has pasado por el Túnel Roca? \nCreo que si llevas a Onix allí se pone la mar de contento.
+\tg[\v[14]]¿Ya te has pasado por el Túnel Roca? \nCreo que si llevas a Onix allí se pone la mar de contento.
+\tg[\v[14]]Si por casualidad vas a la Central Energía, llévate a Pikachu.\nYa verás como ocurre algo chachi.
+\tg[\v[14]]Si por casualidad vas a la Central Energía, llévate a Pikachu.\nYa verás como ocurre algo chachi.
+\tg[\v[14]]La Cueva Diglett está cerca de la Ruta 11, ¿no?\nPues bien, ahí te tienes que llevar a... ¡A que no hace falta que te lo diga!
+\tg[\v[14]]La Cueva Diglett está cerca de la Ruta 11, ¿no?\nPues bien, ahí te tienes que llevar a... ¡A que no hace falta que te lo diga!
+\tg[\v[14]]¿Por dónde andas? ¿Por la Ruta 12? \nMmm... Ahora que caigo, pásate por la Casa Pokémon de Pueblo Lavanda y verás qué bien te lo pasas.
+\tg[\v[14]]¿Por dónde andas? ¿Por la Ruta 12? \nMmm... Ahora que caigo, pásate por la Casa Pokémon de Pueblo Lavanda y verás qué bien te lo pasas.
+\tg[\v[14]]¿Por dónde andas? ¿Por la Ruta 13? Es como un laberinto, ¿verdad?\nTen cuidado no se te vayan a perder tus Pokémon. Se confunden mucho.
+\tg[\v[14]]¿Por dónde andas? ¿Por la Ruta 13? Es como un laberinto, ¿verdad?\nTen cuidado no se te vayan a perder tus Pokémon. Se confunden mucho.
+\tg[\v[14]]Ahora estás por la Ruta 14, ¿no?\nPor esa zona hay unos cuantos molinos en fila y la vista es fastuosa.
+\tg[\v[14]]Ahora estás por la Ruta 14, ¿no?\nPor esa zona hay unos cuantos molinos en fila y la vista es fastuosa.
+\tg[\v[14]]¿Dónde estás ahora? ¿En la Ruta 15? \nEntonces estás cerca del Parque Compi de Ciudad Fucsia. Pásate por la casa del guarda. Tiene un montón de Aipom.
+\tg[\v[14]]¿Dónde estás ahora? ¿En la Ruta 15? \nEntonces estás cerca del Parque Compi de Ciudad Fucsia. Pásate por la casa del guarda.  Tiene un montón de Aipom.
+\tg[\v[14]]¿Qué? ¿Que estás en Ciudad Fucsia? Tienes ambición, ¿eh?\nHe oído que Tauros se excita mucho allí.
+\tg[\v[14]]¿Qué? ¿Que estás en Ciudad Fucsia?  Tienes ambición, ¿eh?\nHe oído que Tauros se excita mucho allí.
+\tg[\v[14]]No tengo ni idea de por qué será, pero te recomiendo que te lo lleves y veas qué pasa.
+\tg[\v[14]]No tengo ni idea de por qué será, pero te recomiendo que te lo lleves y veas qué pasa.
+\tg[\v[14]]¿Has corrido ya por el Camino de Bicis?\nSi pudieras correr con tu Pokémon sería casi un sueño. Aunque pensándolo bien... ¡sería peligroso!
+\tg[\v[14]]¿Has corrido ya por el Camino de Bicis?\nSi pudieras correr con tu Pokémon sería casi un sueño. Aunque pensándolo bien... ¡sería peligroso!
+\tg[\v[14]]Si vas hasta la Ruta 19, puedes jugar en el agua con tus Pokémon. ¡Eso mola!
+\tg[\v[14]]Si vas hasta la Ruta 19, puedes jugar en el agua con tus Pokémon. ¡Eso mola!
+\tg[\v[14]]¿Dónde estás? Ah, en Isla Canela. Vaya a dónde te llevan tus viajes...\nAllí puedes ver el horizonte marino acompañado de tu Pokémon desde una ciudad sepultada por la lava.
+\tg[\v[14]]¿Dónde estás? Ah, en Isla Canela.  Vaya a dónde te llevan tus viajes...\nAllí puedes ver el horizonte marino acompañado de tu Pokémon desde una ciudad sepultada por la lava.
+\tg[\v[14]]Parece la última escena de una película de ciencia ficción.
+\tg[\v[14]]Parece la última escena de una película de ciencia ficción.
+\tg[\v[14]]¿No te apetece ver junto a tus Pokémon el sol rielando al anochecer? Puedes hacerlo en la Ruta 21.\nEs muy romántico.
+\tg[\v[14]]¿No te apetece ver junto a tus Pokémon el sol rielando al anochecer? Puedes hacerlo en la Ruta 21.\nEs muy romántico.
+\tg[\v[14]]La Ruta 22 es el camino a la Liga Pokémon. Seguro que se ponen muy nerviosos al pasar por ella.
+\tg[\v[14]]La Ruta 22 es el camino a la Liga Pokémon. Seguro que se ponen muy nerviosos al pasar por ella.
+\tg[\v[14]]Al puente de la Ruta 24 lo llaman "El puente de las esferas áureas".\nNo es su nombre original, pero casi todos lo conocen por ese nombre.
+\tg[\v[14]]Al puente de la Ruta 24 lo llaman "El puente de las esferas áureas".\nNo es su nombre original, pero casi todos lo conocen por ese nombre.
+\tg[\v[14]]Es porque la luz del sol se refleja en el agua y es bastante luminoso.
+\tg[\v[14]]Es porque la luz del sol se refleja en el agua y es bastante luminoso.
+\tg[\v[14]]A mí me parece que los Pokémon no han visto nunca su cara.\n¿Cómo reaccionarán al verse reflejados en las charcas que hay en la Ruta 25?
+\tg[\v[14]]A mí me parece que los Pokémon no han visto nunca su cara.\n¿Cómo reaccionarán al verse reflejados en las charcas que hay en la Ruta 25?
+\tg[\v[14]]La Ruta 28 lleva al Monte Plateado. Lo sabes, ¿no?\nLos Pokémon se ponen nerviosos cuando vas por ella, seguro.
+\tg[\v[14]]La Ruta 28 lleva al Monte Plateado.  Lo sabes, ¿no?\nLos Pokémon se ponen nerviosos cuando vas por ella, seguro.
+\tg[\v[14]]Yo tampoco he ido todavía al Monte Plateado.\nSeguro que los Pokémon se ponen muy nerviosos.
+\tg[\v[14]]Yo tampoco he ido todavía al Monte Plateado.\nSeguro que los Pokémon se ponen muy nerviosos.
+\tg[\v[14]]En la Ruta 26 hay naturaleza a raudales y los Pokémon deberían sentirse muy relajados, pero como está cerca de la Liga Pokémon, se les nota algo tensos, ¿no crees?
+\tg[\v[14]]En la Ruta 26 hay naturaleza a raudales y los Pokémon deberían sentirse muy relajados, pero como está cerca de la Liga Pokémon, se les nota algo tensos, ¿no crees?
+\tg[\v[14]]En la Ruta 27, los Pokémon rastrean hasta conseguir algo.\nSi quieres saber qué es, lo mejor es llevar un Pokémon con el que te lleves muy bien.
+\tg[\v[14]]En la Ruta 27, los Pokémon rastrean hasta conseguir algo.\nSi quieres saber qué es, lo mejor es llevar un Pokémon con el que te lleves muy bien.
+\tg[\v[14]]Cuando un amigo fue a la Meseta Añil, sus Pokémon estaban que se salían de entusiasmo y se quedaron sin aliento.
+\tg[\v[14]]Cuando un amigo fue a la Meseta Añil, sus Pokémon estaban que se salían de entusiasmo y se quedaron sin aliento.
+\tg[\v[14]]Un Pokémon embistió a mi padre y le duele la espalda horrores.\nEstaba simplemente jugando y mira el resultado. Menos mal que no llegó a mayores.
+\tg[\v[14]]Un Pokémon embistió a mi padre y le duele la espalda horrores.\nEstaba simplemente jugando y mira el resultado. Menos mal que no llegó a mayores.
+\tg[\v[14]]Mi padre siempre está diciendo que te convertirás en un Entrenador famoso.\n¡Qué va a saber él! Es un poco bocazas...\n¡Ánimo, siempre te estoy apoyando!
+\tg[\v[14]]Mi padre siempre está diciendo que te convertirás en un Entrenador famoso.\n¡Qué va a saber él! Es un poco bocazas...\n¡Ánimo, siempre te estoy apoyando!
+\tg[\v[14]]¡Hasta pronto, ya te llamaré!
+\tg[\v[14]]¡Hasta pronto, ya te llamaré!
+\tg[\v[14]]Cuando le pasa algo malo a Marill, se sumerge en el agua rápidamente.\nHoy se ha metido en la bañera, ha empezado a chapotear y lo ha puesto todo perdido.
+\tg[\v[14]]Cuando le pasa algo malo a Marill, se sumerge en el agua rápidamente.\nHoy se ha metido en la bañera, ha empezado a chapotear y lo ha puesto todo perdido.
+\tg[\v[14]]Acerqué la nariz a Marill y resulta que huele a trapo sucio. ¡Qué shock!\nA partir de hoy lo voy a lavar a conciencia.
+\tg[\v[14]]Acerqué la nariz a Marill y resulta que huele a trapo sucio. ¡Qué shock!\nA partir de hoy lo voy a lavar a conciencia.
+\tg[\v[14]]¡Hablamos, un saludo!
+\tg[\v[14]]¡Hablamos, un saludo!
+\tg[\v[14]]Es un chollo eso de que los Centros Pokémon curen tus Pokémon sin gasto alguno.\nAl llegar a cada ciudad lo primero es ir al Centro Pokémon.\n¡Vivan los Centros Pokémon!
+\tg[\v[14]]Es un chollo eso de que los Centros Pokémon curen tus Pokémon sin gasto alguno.\nAl llegar a cada ciudad lo primero es ir al Centro Pokémon.\n¡Vivan los Centros Pokémon!
+\tg[\v[14]]Sería una sorpresa enorme si vas andando por ahí con Marill y de pronto te das la vuelta y ha evolucionado.\nAunque... ¡es imposible que eso ocurra!
+\tg[\v[14]]Sería una sorpresa enorme si vas andando por ahí con Marill y de pronto te das la vuelta y ha evolucionado.\nAunque... ¡es imposible que eso ocurra!
+\tg[\v[14]]¡Ya hablamos, \PN! ¡Adiós!
+\tg[\v[14]]¡Ya hablamos, \PN! ¡Adiós!
+\tg[Pegaso]No se oye ni mu. ¿No tendrás el teléfono roto?\nAnda, llámame desde otro sitio.
+\tg[Pegaso]No se oye ni mu. ¿No tendrás el teléfono roto?\nAnda, llámame desde otro sitio.
+\tg[Pegaso]¡Soy el de siempre, Pegaso! Dime, ¿sigues con la energía a tope?
+\tg[Pegaso]¡Soy el de siempre, Pegaso! Dime, ¿sigues con la energía a tope?
+\tg[Pegaso]Ibas a venir a luchar al Gimnasio, ¿lo recuerdas?
+\tg[Pegaso]Ibas a venir a luchar al Gimnasio, ¿lo recuerdas?
+\tg[Pegaso]Estoy en el Gimnasio de Ciudad Malva esperandote.
+\tg[Pegaso]Estoy en el Gimnasio de Ciudad Malva esperandote.
+\tg[Pegaso]Aquí te espero.
+\tg[Pegaso]Aquí te espero.
+\tg[Pegaso]Justo ahora estoy sin hacer nada. ¡Te desafío! ¿Quieres luchar?
+\tg[Pegaso]Justo ahora estoy sin hacer nada. ¡Te desafío! ¿Quieres luchar?
+\tg[Pegaso]¡Así se habla! ¡Esto promete!\nLugar: Gimnasio de Ciudad Malva.\n¿Cuándo?\n¡Ya!
+\tg[Pegaso]¡Así se habla! ¡Esto promete!\nLugar: Gimnasio de Ciudad Malva.\n¿Cuándo?\n¡Ya!
+\tg[Pegaso]¡Vaya chasco!\nPero bueno, tienes que estar hasta arriba de cosas que hacer.
+\tg[Pegaso]¡Vaya chasco!\nPero bueno, tienes que estar hasta arriba de cosas que hacer.
+\tg[Pegaso]¿Qué tal? Yo estoy de perlas.
+\tg[Pegaso]¿Qué tal? Yo estoy de perlas.
+\tg[Pegaso]Todavía te quedan Líderes con los que luchar, ¿no? ¡Métele caña al asunto!
+\tg[Pegaso]Todavía te quedan Líderes con los que luchar, ¿no? ¡Métele caña al asunto!
+\tg[Pegaso]Déjame que vea... El sábado por la mañana tengo tiempo. Llámame, ¿vale?
+\tg[Pegaso]Déjame que vea... El sábado por la mañana tengo tiempo. Llámame, ¿vale?
+\tg[Pegaso]Cuando era pequeño, mi padre siempre decía que los Pokémon pájaro no volaban con las alas, sino con ese deseo irrenunciable de volar.
+\tg[Pegaso]Cuando era pequeño, mi padre siempre decía que los Pokémon pájaro no volaban con las alas, sino con ese deseo irrenunciable de volar.
+\tg[Pegaso]No tengo ni idea de qué significa esa historia, pero mi padre es un hombre impresionante.
+\tg[Pegaso]No tengo ni idea de qué significa esa historia, pero mi padre es un hombre impresionante.
+\tg[Pegaso]Mi Gimnasio está en un lugar alto; el suelo está hecho un desastre...\nTodos los años hago limpieza general.
+\tg[Pegaso]Mi Gimnasio está en un lugar alto; el suelo está hecho un desastre...\nTodos los años hago limpieza general.
+\tg[Pegaso]Me trae por la calle de la amargura, pero al menos mis Pokémon me ayudan y me las arreglo.
+\tg[Pegaso]Me trae por la calle de la amargura, pero al menos mis Pokémon me ayudan y me las arreglo.
+\tg[Pegaso]¿Has hablado con Sachiko de Ciudad Fucsia?\nNo para de hablar de su padre, es una pesada de no te menees.
+\tg[Pegaso]¿Has hablado con Sachiko de Ciudad Fucsia?\nNo para de hablar de su padre, es una pesada de no te menees.
+\tg[Pegaso]Parece un disco rayado. No veo mal que admire a su padre, pero debería pensar más en ella misma.\n¿Tú tienes confianza en tu potencial?
+\tg[Pegaso]Parece un disco rayado. No veo mal que admire a su padre, pero debería pensar más en ella misma.\n¿Tú tienes confianza en tu potencial?
+Antón
+Antón
+\tg[\v[3]]¡Oh! ¡Solo oigo un zumbido! Bzzz... Bzzz... Bzzz...\nLlámame desde otro sitio.
+\tg[\v[3]]¡Oh! ¡Solo oigo un zumbido! Bzzz...  Bzzz... Bzzz...\nLlámame desde otro sitio.
+\tg[\v[3]]Soy Antón. ¿Qué tal?
+\tg[\v[3]]Soy Antón. ¿Qué tal?
+\tg[\v[3]]Espero que un despiste no haya hecho que tu cabeza borre de tu memoria nuestro combate.\n¡En el Gimnasio de Pueblo Azalea ya!
+\tg[\v[3]]Espero que un despiste no haya hecho que tu cabeza borre de tu memoria nuestro combate.\n¡En el Gimnasio de Pueblo Azalea ya!
+\tg[\v[3]]Estoy en el Gimnasio. No me hagas esperar más y ven.
+\tg[\v[3]]Estoy en el Gimnasio. No me hagas esperar más y ven.
+\tg[\v[3]]Justo ahora acababa de colgar a otro amigo. ¿Combatimos?
+\tg[\v[3]]Justo ahora acababa de colgar a otro amigo. ¿Combatimos?
+\tg[\v[3]]¡Hurra! Te veo en el Gimnasio de Pueblo Azalea.
+\tg[\v[3]]¡Hurra! Te veo en el Gimnasio de Pueblo Azalea.
+\tg[\v[3]]Tú eres tú y tus circunstancias. Contra eso no se puede combatir.
+\tg[\v[3]]Tú eres tú y tus circunstancias.  Contra eso no se puede combatir.
+\tg[\v[3]]Yo ando como siempre.\nMuy bien.
+\tg[\v[3]]Yo ando como siempre.\nMuy bien.
+\tg[\v[3]]Hay bastantes Líderes más fuertes que yo. Estás viajando por todos los Gimnasios, ¿no?\n¡Qué atrevimiento tienes! ¡Sigue así!
+\tg[\v[3]]Hay bastantes Líderes más fuertes que yo. Estás viajando por todos los Gimnasios, ¿no?\n¡Qué atrevimiento tienes! ¡Sigue así!
+\tg[\v[3]]Los jueves a mediodía libro. Si quieres ver mis Pokémon de tipo Bicho, llámame en esa franja horaria.
+\tg[\v[3]]Los jueves a mediodía libro. Si quieres ver mis Pokémon de tipo Bicho, llámame en esa franja horaria.
+\tg[\v[3]]Cuando era pequeño, fue el boom de los Pokémon de tipo Bicho.\nYa de mayor, a mucha gente empieza a darle igual.\n¿A ti te gustan?
+\tg[\v[3]]Cuando era pequeño, fue el boom de los Pokémon de tipo Bicho.\nYa de mayor, a mucha gente empieza a darle igual.\n¿A ti te gustan?
+\tg[\v[3]]Yo no puedo pasar un día sin ellos tenga la edad que sea.\n¡Son mis amigos!
+\tg[\v[3]]Yo no puedo pasar un día sin ellos tenga la edad que sea.\n¡Son mis amigos!
+\tg[\v[3]]¿A que mi Gimnasio tenía trampas muy curiosas?\nTienen pinta de haber costado horrores fabricarlas, pero fue pan comido.
+\tg[\v[3]]¿A que mi Gimnasio tenía trampas muy curiosas?\nTienen pinta de haber costado horrores fabricarlas, pero fue pan comido.
+\tg[\v[3]]Primero, colgué una cuerda, luego los Pokémon se encargaron del resto.
+\tg[\v[3]]Primero, colgué una cuerda, luego los Pokémon se encargaron del resto.
+\tg[\v[3]]Creo que ya te lo había dicho. Yo investigo Pokémon bicho.\nEs un trabajo enorme porque hay un montón distintos.
+\tg[\v[3]]Creo que ya te lo había dicho. Yo investigo Pokémon bicho.\nEs un trabajo enorme porque hay un montón distintos.
+\tg[\v[3]]Si me pusiera a estudiar todos los tipos de Pokémon que existen se me iba la cabeza. Seguro.\nEl Profesor Elm y el Profesor Oak son superhombres para mí.
+\tg[\v[3]]Si me pusiera a estudiar todos los tipos de Pokémon que existen se me iba la cabeza. Seguro.\nEl Profesor Elm y el Profesor Oak son superhombres para mí.
+\tg[Blanca]¿Eh? No te oigo bien. ¿Será cosa del teléfono?\nMuévete un poco y llámame.
+\tg[Blanca]¿Eh? No te oigo bien. ¿Será cosa del teléfono?\nMuévete un poco y llámame.
+\tg[Blanca]Soy Blanca, ¿qué tal estás?
+\tg[Blanca]Soy Blanca, ¿qué tal estás?
+\tg[Blanca]¡Te espero en el Gimnasio de Ciudad Trigal! No me dejes tirada, ¿eh?
+\tg[Blanca]¡Te espero en el Gimnasio de Ciudad Trigal! No me dejes tirada, ¿eh?
+\tg[Blanca]No te has olvidado de que teníamos que echarnos una luchita en el Gimnasio, ¿no?
+\tg[Blanca]No te has olvidado de que teníamos que echarnos una luchita en el Gimnasio, ¿no?
+\tg[Blanca]¡No tengo nada que hacer! ¡Oye! ¿Por qué no luchas conmigo?
+\tg[Blanca]¡No tengo nada que hacer! ¡Oye! ¿Por qué no luchas conmigo?
+\tg[Blanca]¡Así se hace! ¡Ya estoy motivadísima!\n¡Te espero en el Gimnasio de Ciudad Trigal!
+\tg[Blanca]¡Así se hace! ¡Ya estoy motivadísima!\n¡Te espero en el Gimnasio de Ciudad Trigal!
+\tg[Blanca]¿Cómo? ¡Vaya muermo!
+\tg[Blanca]¿Cómo? ¡Vaya muermo!
+\tg[Blanca]¿Hola? ¿Cómo estás? ¡Hoy yo reboso energía!
+\tg[Blanca]¿Hola? ¿Cómo estás? ¡Hoy yo reboso energía!
+\tg[Blanca]Aparte de mí, hay un montón de Líderes muy fuertes. ¡A por todas!
+\tg[Blanca]Aparte de mí, hay un montón de Líderes muy fuertes. ¡A por todas!
+\tg[Blanca]Los sábados a mediodía me aburro como una ostra. ¡Llámame entonces!
+\tg[Blanca]Los sábados a mediodía me aburro como una ostra. ¡Llámame entonces!
+\tg[Blanca]¿Has ido a la Granja Mu-mu de la Ruta 39?\nMi Miltuca... Ay, digo, mi Miltank vive allí.
+\tg[Blanca]¿Has ido a la Granja Mu-mu de la Ruta 39?\nMi Miltuca... Ay, digo, mi Miltank vive allí.
+\tg[Blanca]Me ha entrado un hambre feroz, ¿a ti no? ¡No me vayas a regañar!\nA mi edad, tengo que zampar a gusto. ¡Es lo más normal del mundo!
+\tg[Blanca]Me ha entrado un hambre feroz, ¿a ti no? ¡No me vayas a regañar!\nA mi edad, tengo que zampar a gusto. ¡Es lo más normal del mundo!
+\tg[Blanca]El más guapo del Alto Mando... ¿Bruno?\nSeguro que no soy la única que piensa igual. ¡Seguro!\nUn hombre hecho y derecho tiene que ser robusto.
+\tg[Blanca]El más guapo del Alto Mando...  ¿Bruno?\nSeguro que no soy la única que piensa igual. ¡Seguro!\nUn hombre hecho y derecho tiene que ser robusto.
+Morti
+Morti
+\tg[\v[3]]Esto se oye menos que la voz de un espectro...\nLlámame desde otro sitio, anda.
+\tg[\v[3]]Esto se oye menos que la voz de un espectro...\nLlámame desde otro sitio, anda.
+\tg[\v[3]]¡Soy Morti! ¿Cómo vas?
+\tg[\v[3]]¡Soy Morti! ¿Cómo vas?
+\tg[\v[3]]Habíamos quedado en el Gimnasio de Ciudad Iris, ¿no?\nSupongo que no lo habías olvidado, pero por si las moscas.
+\tg[\v[3]]Habíamos quedado en el Gimnasio de Ciudad Iris, ¿no?\nSupongo que no lo habías olvidado, pero por si las moscas.
+\tg[\v[3]]¡Te espero en el Gimnasio de Ciudad Iris! Prepárate bien, ¿eh?
+\tg[\v[3]]¡Te espero en el Gimnasio de Ciudad Iris! Prepárate bien, ¿eh?
+\tg[\v[3]]¡Hoy no tengo nada que hacer! ¡Vamos a combatir!
+\tg[\v[3]]¡Hoy no tengo nada que hacer! ¡Vamos a combatir!
+\tg[\v[3]]¡Brrrr! ¡Me dan escalofríos solo de pensar lo bien que me lo voy a pasar!\nTe espero en el Gimnasio de Ciudad Iris.
+\tg[\v[3]]¡Brrrr! ¡Me dan escalofríos solo de pensar lo bien que me lo voy a pasar!\nTe espero en el Gimnasio de Ciudad Iris.
+\tg[\v[3]]Brrr... Esta es una decepción escalofriante.\nEstarás con la agenda hasta arriba, qué se le va a hacer...
+\tg[\v[3]]Brrr... Esta es una decepción escalofriante.\nEstarás con la agenda hasta arriba, qué se le va a hacer...
+\tg[\v[3]]¿Diga? ¿Todo bien? Yo estoy fantasmagóricamente bien.
+\tg[\v[3]]¿Diga? ¿Todo bien? Yo estoy fantasmagóricamente bien.
+\tg[\v[3]]Hay otros Líderes como poco tan fuertes como yo.\n¡Mételes en vereda a todos!
+\tg[\v[3]]Hay otros Líderes como poco tan fuertes como yo.\n¡Mételes en vereda a todos!
+\tg[\v[3]]Pues para luchar otra vez, las noches de los martes me van bien. Llámame entonces, ¿vale?
+\tg[\v[3]]Pues para luchar otra vez, las noches de los martes me van bien. Llámame entonces, ¿vale?
+\tg[\v[3]]De los Pokémon legendarios Suicune, Entei y Raikou... ¿cuál prefieres?
+\tg[\v[3]]De los Pokémon legendarios Suicune, Entei y Raikou... ¿cuál prefieres?
+\tg[\v[3]]A mí no me gusta Suicune tanto como a Eusine; yo prefiero Entei.\nAunque Raikou también tiene su cosilla. No me decido...
+\tg[\v[3]]A mí no me gusta Suicune tanto como a Eusine; yo prefiero Entei.\nAunque Raikou también tiene su cosilla. No me decido...
+\tg[\v[3]]Una vez vi un Entei desde muy, muy cerca. Estaba justo delante de él.\nJamás podré olvidar su mirada.\nEra como si supiera todo lo que estaba pensando.
+\tg[\v[3]]Una vez vi un Entei desde muy, muy cerca. Estaba justo delante de él.\nJamás podré olvidar su mirada.\nEra como si supiera todo lo que estaba pensando.
+\tg[\v[3]]¿Qué tal te ha ido después de la última vez que nos vimos?\nYo soy Líder de mi Gimnasio para variar. Hay cosas que no cambian.
+\tg[\v[3]]¿Qué tal te ha ido después de la última vez que nos vimos?\nYo soy Líder de mi Gimnasio para variar. Hay cosas que no cambian.
+\tg[\v[3]]Desde que viniste, no me lo he podido pasar bien con ningún Entrenador.\nEres de lo mejorcito. No hay muchos como tú.
+\tg[\v[3]]Desde que viniste, no me lo he podido pasar bien con ningún Entrenador.\nEres de lo mejorcito. No hay muchos como tú.
+Yasmina
+Yasmina
+\tg[\v[3]]¿Eh? Esto no va... Será... ¿el teléfono?\nPor favor, vuelve a marcar desde otro sitio.
+\tg[\v[3]]¿Eh? Esto no va... Será... ¿el teléfono?\nPor favor, vuelve a marcar desde otro sitio.
+\tg[\v[3]]Soy Yasmina. ¡Se te oye con mucha alegría!
+\tg[\v[3]]Soy Yasmina. ¡Se te oye con mucha alegría!
+\tg[\v[3]]¿Te acuerdas de que habíamos quedado? Estoy en el Gimnasio esperando...
+\tg[\v[3]]¿Te acuerdas de que habíamos quedado?  Estoy en el Gimnasio esperando...
+\tg[\v[3]]Vale, te espero en el Gimnasio de Ciudad Olivo. Vamos a pasarlo bien, ¿vale?
+\tg[\v[3]]Vale, te espero en el Gimnasio de Ciudad Olivo. Vamos a pasarlo bien, ¿vale?
+\tg[\v[3]]Amphy está muy animado últimamente. Yo también tengo por fin tiempo libre.\nYa que estamos, ¿combatimos?
+\tg[\v[3]]Amphy está muy animado últimamente. Yo también tengo por fin tiempo libre.\nYa que estamos, ¿combatimos?
+\tg[\v[3]]Muy bien. Te espero en el Gimnasio de Ciudad Olivo.
+\tg[\v[3]]Muy bien. Te espero en el Gimnasio de Ciudad Olivo.
+\tg[\v[3]]Vaya...
+\tg[\v[3]]Vaya...
+\tg[\v[3]]¿Sí? Oh, ¿qué tal? Yo estoy guay.
+\tg[\v[3]]¿Sí? Oh, ¿qué tal? Yo estoy guay.
+\tg[\v[3]]No descuides tu entrenamiento, ¿eh? Hay otros muchos Entrenadores a tu mismo nivel o más.
+\tg[\v[3]]No descuides tu entrenamiento, ¿eh?  Hay otros muchos Entrenadores a tu mismo nivel o más.
+\tg[\v[3]]Pues... los miércoles a mediodía tengo algo de tiempo. Llámame, ¿de acuerdo?
+\tg[\v[3]]Pues... los miércoles a mediodía tengo algo de tiempo. Llámame, ¿de acuerdo?
+\tg[\v[3]]¿Has ido últimamente al Faro de Ciudad Olivo?\nEstoy tan liada con una cosa y con otra que no he podido ir a ver a Amphy.
+\tg[\v[3]]¿Has ido últimamente al Faro de Ciudad Olivo?\nEstoy tan liada con una cosa y con otra que no he podido ir a ver a Amphy.
+\tg[\v[3]]Pero..., al ver la luz del Faro por la noche me siento aliviada. Pues eso significa que Amphy está bien...
+\tg[\v[3]]Pero..., al ver la luz del Faro por la noche me siento aliviada. Pues eso significa que Amphy está bien...
+\tg[\v[3]]Quiero preguntarte una cosilla. ¿Qué te pareció mi Gimnasio?\n¿El ambiente te pareció normal? Es que... el acero es un material muy frío. Quería una atmósfera algo más cálida...
+\tg[\v[3]]Quiero preguntarte una cosilla. ¿Qué te pareció mi Gimnasio?\n¿El ambiente te pareció normal? Es que... el acero es un material muy frío. Quería una atmósfera algo más cálida...
+Aníbal
+Aníbal
+\tg[\v[3]]Huy, esto no se oye. Esto es raro. Muy raro.\nTú marca desde otro lugar.
+\tg[\v[3]]Huy, esto no se oye. Esto es raro. Muy raro.\nTú marca desde otro lugar.
+\tg[\v[3]]¡Hola, aquí Aníbal!
+\tg[\v[3]]¡Hola, aquí Aníbal!
+\tg[\v[3]]Hay cosas que los guerreros de verdad no olvidan. Vas a venir a combatir al Gimnasio de Ciudad Orquídea, ¿no? Confío en tu entereza.
+\tg[\v[3]]Hay cosas que los guerreros de verdad no olvidan. Vas a venir a combatir al Gimnasio de Ciudad Orquídea, ¿no? Confío en tu entereza.
+\tg[\v[3]]Te estoy esperando en el Gimnasio de Ciudad Orquídea.\n¡Hay que desentumecerse de vez en cuando!
+\tg[\v[3]]Te estoy esperando en el Gimnasio de Ciudad Orquídea.\n¡Hay que desentumecerse de vez en cuando!
+\tg[\v[3]]¡Oye! Justo acababa de terminar de entrenarme, ¿combatimos?
+\tg[\v[3]]¡Oye! Justo acababa de terminar de entrenarme, ¿combatimos?
+\tg[\v[3]]Ese es el espíritu.\nTe espero en el Gimnasio de Ciudad Orquídea. ¡No tardes!
+\tg[\v[3]]Ese es el espíritu.\nTe espero en el Gimnasio de Ciudad Orquídea. ¡No tardes!
+\tg[\v[3]]¡Grrrrrrrrrr! A aguantarte. Otra vez será.
+\tg[\v[3]]¡Grrrrrrrrrr! A aguantarte. Otra vez será.
+\tg[\v[3]]¿Mande? Se me oye bien, ¿no?\nPerdona por gritar, no estoy acostumbrado a estos cacharros.
+\tg[\v[3]]¿Mande? Se me oye bien, ¿no?\nPerdona por gritar, no estoy acostumbrado a estos cacharros.
+\tg[\v[3]]¡Estoy como un sansón!
+\tg[\v[3]]¡Estoy como un sansón!
+\tg[\v[3]]Joven, ya sabes que todos los días me entreno bajo una cascada.\nPor eso mi mujer lo pasa muy mal. Nunca estoy en casa.
+\tg[\v[3]]Joven, ya sabes que todos los días me entreno bajo una cascada.\nPor eso mi mujer lo pasa muy mal. Nunca estoy en casa.
+\tg[\v[3]]Un día de estos voy a tener que llevarla de viaje a algún sitio. ¿Qué sitio le gustará?\n¡Seguro que se muere por ir a las Cataratas de Tohjo!\n¿O tal vez no?...
+\tg[\v[3]]Un día de estos voy a tener que llevarla de viaje a algún sitio. ¿Qué sitio le gustará?\n¡Seguro que se muere por ir a las Cataratas de Tohjo!\n¿O tal vez no?...
+\tg[\v[3]]Me encantan los dulces.\nDespués de entrenar, me zampo alguno sin que mi mujer se entere.\n¡Es mi pequeño secreto!
+\tg[\v[3]]Me encantan los dulces.\nDespués de entrenar, me zampo alguno sin que mi mujer se entere.\n¡Es mi pequeño secreto!
+\tg[\v[3]]Pero, por esa misma razón, estoy empezando a echar barriga...\nNo le cuentes esto a mi mujer, ¿eh?
+\tg[\v[3]]Pero, por esa misma razón, estoy empezando a echar barriga...\nNo le cuentes esto a mi mujer, ¿eh?
+\tg[\v[3]]El mecanismo de la catarata del Gimnasio no va bien últimamente\..\..\..
+\tg[\v[3]]El mecanismo de la catarata del Gimnasio no va bien últimamente\..\..\..
+\sh¡Uaaaaaaaaaaaaaaaaaaaaaaaaaaah! \n¡Uaaaaaaaaaaaaaaaaaaaaaaaaaaah! \n¡Uaaaaaaaaaaaaaaaaaaaaaaaaaaah! \n¡Uaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+\sh¡Uaaaaaaaaaaaaaaaaaaaaaaaaaaah! \n¡Uaaaaaaaaaaaaaaaaaaaaaaaaaaah! \n¡Uaaaaaaaaaaaaaaaaaaaaaaaaaaah! \n¡Uaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+\tg[\v[3]]Huy, lo siento...\nEl agua ha empezado a salir disparada por una avería y casi ni lo cuento.\nYa te llamaré cuando ponga todo esto en orden.
+\tg[\v[3]]Huy, lo siento...\nEl agua ha empezado a salir disparada por una avería y casi ni lo cuento.\nYa te llamaré cuando ponga todo esto en orden.
+Fredo
+Fredo
+\tg[\v[3]]Mmm... Esto no se oye. Si quieres contarme algo, marca desde otro lugar.\nEse es mi consejo.
+\tg[\v[3]]Mmm... Esto no se oye. Si quieres contarme algo, marca desde otro lugar.\nEse es mi consejo.
+\tg[\v[3]]Aquí Fredo, ¿qué se te ofrece?
+\tg[\v[3]]Aquí Fredo, ¿qué se te ofrece?
+\tg[\v[3]]Nos enfrentamos en el Gimnasio de Pueblo Caoba. ¿A que te acordabas? Allí te espero.
+\tg[\v[3]]Nos enfrentamos en el Gimnasio de Pueblo Caoba. ¿A que te acordabas? Allí te espero.
+\tg[\v[3]]Te espero en el Gimnasio de Pueblo Caoba. Yo nunca llego tarde. Espero lo mismo de ti.
+\tg[\v[3]]Te espero en el Gimnasio de Pueblo Caoba. Yo nunca llego tarde. Espero lo mismo de ti.
+\tg[\v[3]]¡Tienes el don de la oportunidad! Había acabado de desayunar hace un rato y estaba medio aburrido. ¿Te apetece luchar otra vez?
+\tg[\v[3]]¡Tienes el don de la oportunidad!  Había acabado de desayunar hace un rato y estaba medio aburrido. ¿Te apetece luchar otra vez?
+\tg[\v[3]]¡Así me gusta! ¡Franqueza!\nMe tienes en el Gimnasio de Pueblo Caoba. ¡Ven pronto!
+\tg[\v[3]]¡Así me gusta! ¡Franqueza!\nMe tienes en el Gimnasio de Pueblo Caoba. ¡Ven pronto!
+\tg[\v[3]]Bueno, qué se le va a hacer. Llámame cuando te venga bien.\nPero yo solo puedo los lunes por la mañana, ¿eh?
+\tg[\v[3]]Bueno, qué se le va a hacer. Llámame cuando te venga bien.\nPero yo solo puedo los lunes por la mañana, ¿eh?
+\tg[\v[3]]¿Yo?\nTan bien como siempre.
+\tg[\v[3]]¿Yo?\nTan bien como siempre.
+\tg[\v[3]]Hay otros, otros incluso más poderosos que mi persona.\nNo dejes que te venzan. ¡Entrena y pisotéalos a todos!
+\tg[\v[3]]Hay otros, otros incluso más poderosos que mi persona.\nNo dejes que te venzan.  ¡Entrena y pisotéalos a todos!
+\tg[\v[3]]Me levanto muy temprano. Si quieres combatir, prefiero las mañanas.\nPor ejemplo... los lunes por la mañana. Llámame y ya veremos.
+\tg[\v[3]]Me levanto muy temprano. Si quieres combatir, prefiero las mañanas.\nPor ejemplo...  los lunes por la mañana. Llámame y ya veremos.
+\tg[\v[3]]Me ha vencido un Entrenador que podría ser mi hijo, es más, podría ser hasta mi nieto. \nA pesar de todo, lo extraño es que no me da rabia.\nEstoy satisfecho.
+\tg[\v[3]]Me ha vencido un Entrenador que podría ser mi hijo, es más, podría ser hasta mi nieto. \nA pesar de todo, lo extraño es que no me da rabia.\nEstoy satisfecho.
+\tg[\v[3]]Me emociona encontrar Entrenadores con talento. Solo quería llamarte para decirte esto. ¡Hablamos!
+\tg[\v[3]]Me emociona encontrar Entrenadores con talento. Solo quería llamarte para decirte esto.  ¡Hablamos!
+\tg[\v[3]]¿Sabes por qué me llaman Fredo? Es por mi estilo de lucha.\nEl frío es mi aliado, como los árboles que en invierno parecen marchitos pero están poblados de brotes. Ese soy yo.
+\tg[\v[3]]¿Sabes por qué me llaman Fredo? Es por mi estilo de lucha.\nEl frío es mi aliado, como los árboles que en invierno parecen marchitos pero están poblados de brotes. Ese soy yo.
+\tg[\v[3]]La fortaleza ante todo. Hay libros que hablan sobre este tema. Búscalos si tienes curiosidad.
+\tg[\v[3]]La fortaleza ante todo. Hay libros que hablan sobre este tema. Búscalos si tienes curiosidad.
+\tg[\v[3]]A propósito, he oído que has frustrado los planes del Team Rocket.\nTus actos son dignos de alguien que ha sido capaz de vencerme.
+\tg[\v[3]]A propósito, he oído que has frustrado los planes del Team Rocket.\nTus actos son dignos de alguien que ha sido capaz de vencerme.
+\tg[\v[3]]Hasta yo voy a poder aprender algo de ti en el futuro. Estoy seguro.
+\tg[\v[3]]Hasta yo voy a poder aprender algo de ti en el futuro. Estoy seguro.
+Débora
+Débora
+\tg[\v[3]]¿Qué pasa? ¡Eh! ¡Eh! No se te oye ni se te escucha, monada.\nLlámame desde otro sitio.
+\tg[\v[3]]¿Qué pasa? ¡Eh! ¡Eh! No se te oye ni se te escucha, monada.\nLlámame desde otro sitio.
+\tg[\v[3]]Soy Débora. ¿Qué tal estás?
+\tg[\v[3]]Soy Débora. ¿Qué tal estás?
+\tg[\v[3]]Te espero en el Gimnasio de Ciudad Endrino. Espero que no se te haya olvidado... \nTe acuerdas, ¿verdad? No puedes olvidarte de alguien tan guay como yo.
+\tg[\v[3]]Te espero en el Gimnasio de Ciudad Endrino. Espero que no se te haya olvidado... \nTe acuerdas, ¿verdad? No puedes olvidarte de alguien tan guay como yo.
+\tg[\v[3]]Te espero en el Gimnasio de Ciudad Endrino. No quiero ser el hazmerreír, ¿eh? ¡Ven ya!
+\tg[\v[3]]Te espero en el Gimnasio de Ciudad Endrino. No quiero ser el hazmerreír, ¿eh? ¡Ven ya!
+\tg[\v[3]]Tu llamada me llega en el mejor momento. ¿Luchamos un rato?
+\tg[\v[3]]Tu llamada me llega en el mejor momento. ¿Luchamos un rato?
+\tg[\v[3]]¡Ji, ji, ji! ¡Me alegra que tengas tantas ganas!\nTe espero en el Gimnasio de Ciudad Endrino.
+\tg[\v[3]]¡Ji, ji, ji! ¡Me alegra que tengas tantas ganas!\nTe espero en el Gimnasio de Ciudad Endrino.
+\tg[\v[3]]¡Pero qué poca vergüenza...! ¿Quieres hacerme quedar mal?
+\tg[\v[3]]¡Pero qué poca vergüenza...! ¿Quieres hacerme quedar mal?
+\tg[\v[3]]¿Diga? Ah, dime. Sí, yo estoy guay.
+\tg[\v[3]]¿Diga? Ah, dime. Sí, yo estoy guay.
+\tg[\v[3]]Yo no soy la única. Hay otros Líderes de Gimnasio fuertes. ¡Entrénate y a por ellos!
+\tg[\v[3]]Yo no soy la única. Hay otros Líderes de Gimnasio fuertes. ¡Entrénate y a por ellos!
+\tg[\v[3]]Pues... si quieres luchar otra vez conmigo, el viernes por la noche me va bien. Llámame entonces.\n¡Ni un momento antes ni después!
+\tg[\v[3]]Pues... si quieres luchar otra vez conmigo, el viernes por la noche me va bien.  Llámame entonces.\n¡Ni un momento antes ni después!
+\tg[\v[3]]Tú también debes estar bastante liado.
+\tg[\v[3]]Tú también debes estar bastante liado.
+\tg[\v[3]]Yo, así, así. Tengo que trabajar en el Gimnasio, pasarme de vez en cuando por el Santuario del Maestro del clan de los Domadragones y tal.
+\tg[\v[3]]Yo, así, así. Tengo que trabajar en el Gimnasio, pasarme de vez en cuando por el Santuario del Maestro del clan de los Domadragones y tal.
+\tg[\v[3]]¿Por qué no intentas hacerte Domadragón?
+\tg[\v[3]]¿Por qué no intentas hacerte Domadragón?
+\tg[\v[3]]El otro día vinieron a hacerme una entrevista los de la radio. Sabían lo famosa que era.\nLo malo es pensar que en la radio la gente no podrá apreciar mi belleza inconmensurable...
+\tg[\v[3]]El otro día vinieron a hacerme una entrevista los de la radio. Sabían lo famosa que era.\nLo malo es pensar que en la radio la gente no podrá apreciar mi belleza inconmensurable...
+\tg[\v[3]]¿Qué pasa con la tele? ¿Por qué no me entrevistan?
+\tg[\v[3]]¿Qué pasa con la tele? ¿Por qué no me entrevistan?
+\tg[\v[3]]Últimamente, todos hablan de lo elegante que es mi ropa. Lo comprendo.\nCon este estilo, es normal que la gente quiera comentarlo.\nEstoy más guapa que nadie.
+\tg[\v[3]]Últimamente, todos hablan de lo elegante que es mi ropa. Lo comprendo.\nCon este estilo, es normal que la gente quiera comentarlo.\nEstoy más guapa que nadie.
+Brock
+Brock
+\tg[\v[3]]Esto no se oye. Estos aparatos modernos...\nLlámame desde otro sitio.
+\tg[\v[3]]Esto no se oye. Estos aparatos modernos...\nLlámame desde otro sitio.
+\tg[\v[3]]Brock al aparato. ¿Cómo vas?
+\tg[\v[3]]Brock al aparato. ¿Cómo vas?
+\tg[\v[3]]Era palabra de Entrenador, ¿no?\nIbas a venir al Gimnasio, ¿no?\nMe voy a tener que enfadar si lo has olvidado.
+\tg[\v[3]]Era palabra de Entrenador, ¿no?\nIbas a venir al Gimnasio, ¿no?\nMe voy a tener que enfadar si lo has olvidado.
+\tg[\v[3]]Espero tu llegada en el Gimnasio de Ciudad Plateada. Palabra de Entrenador, ¿eh?
+\tg[\v[3]]Espero tu llegada en el Gimnasio de Ciudad Plateada. Palabra de Entrenador, ¿eh?
+\tg[\v[3]]¡Dichosos los oídos! ¡Y justo a tiempo! Me empezaba a rascar la panza. ¡Vamos a echar un combate!
+\tg[\v[3]]¡Dichosos los oídos! ¡Y justo a tiempo! Me empezaba a rascar la panza. ¡Vamos a echar un combate!
+\tg[\v[3]]¡Rock and roll! ¡Hay que empezar ya! \n¡Vente al Gimnasio de Ciudad Plateada!
+\tg[\v[3]]¡Rock and roll! ¡Hay que empezar ya! \n¡Vente al Gimnasio de Ciudad Plateada!
+\tg[\v[3]]Esto supone para mí un enorme impacto con una roca enorme. Otra vez será...
+\tg[\v[3]]Esto supone para mí un enorme impacto con una roca enorme. Otra vez será...
+\tg[\v[3]]Yo estoy como una roca.
+\tg[\v[3]]Yo estoy como una roca.
+\tg[\v[3]]Me gustaría medirme contigo pero todavía te quedan Líderes a los que enfrentarte, ¿no?
+\tg[\v[3]]Me gustaría medirme contigo pero todavía te quedan Líderes a los que enfrentarte, ¿no?
+\tg[\v[3]]Los sábados por la noche me va bien. Llámame.
+\tg[\v[3]]Los sábados por la noche me va bien.  Llámame.
+\tg[\v[3]]El otro día hubo un terremoto bastante respetable. La pared de mi Gimnasio se vino medio abajo.\nPero bueno, ya sabes cómo es mi Gimnasio...
+\tg[\v[3]]El otro día hubo un terremoto bastante respetable. La pared de mi Gimnasio se vino medio abajo.\nPero bueno, ya sabes cómo es mi Gimnasio...
+\tg[\v[3]]Nadie se da cuenta aunque haya algún que otro desperfecto.
+\tg[\v[3]]Nadie se da cuenta aunque haya algún que otro desperfecto.
+\tg[\v[3]]En este mundo existen distintos tipos de Pokémon. Mis preferidos son los de tipo Roca.
+\tg[\v[3]]En este mundo existen distintos tipos de Pokémon. Mis preferidos son los de tipo Roca.
+\tg[\v[3]]Son duros en todos los sentidos de la palabra, pero una vez que te haces amigo suyo, se portan genial. ¿A ti te gustan?
+\tg[\v[3]]Son duros en todos los sentidos de la palabra, pero una vez que te haces amigo suyo, se portan genial. ¿A ti te gustan?
+\tg[\v[3]]Cada Gimnasio tiene un diseño y unos mecanismos distintos.\n¡Eso mola mucho pero mucho!
+\tg[\v[3]]Cada Gimnasio tiene un diseño y unos mecanismos distintos.\n¡Eso mola mucho pero mucho!
+\tg[\v[3]]En la Liga Pokémon, cada Líder recibe un Gimnasio, y cada uno imprime toques en él según su estilo.\nEl Gimnasio Pokémon de Ciudad Plateada es el mejor.
+\tg[\v[3]]En la Liga Pokémon, cada Líder recibe un Gimnasio, y cada uno imprime toques en él según su estilo.\nEl Gimnasio Pokémon de Ciudad Plateada es el mejor.
+\tg[\v[3]]¡Por algo lo diseñé yo!\nLos mecanismos no tienen nada del otro mundo pero, ¿a que impacta al entrar?
+\tg[\v[3]]¡Por algo lo diseñé yo!\nLos mecanismos no tienen nada del otro mundo pero, ¿a que impacta al entrar?
+Misty
+Misty
+\tg[\v[3]]¡No se oye nada! Prueba a llamar desde otro sitio.
+\tg[\v[3]]¡No se oye nada! Prueba a llamar desde otro sitio.
+\tg[\v[3]]Hola, soy Misty. ¿Cómo vas?
+\tg[\v[3]]Hola, soy Misty. ¿Cómo vas?
+\tg[\v[3]]No creo, ¿no? No se te puede haber olvidado dónde habíamos quedado...\nEs en el Gimnasio de Ciudad Celeste. Lo tienes apuntado, ¿no?
+\tg[\v[3]]No creo, ¿no? No se te puede haber olvidado dónde habíamos quedado...\nEs en el Gimnasio de Ciudad Celeste. Lo tienes apuntado, ¿no?
+\tg[\v[3]]Te estoy esperando en el Gimnasio de Ciudad Celeste. ¡No me vayas a plantar!
+\tg[\v[3]]Te estoy esperando en el Gimnasio de Ciudad Celeste. ¡No me vayas a plantar!
+\tg[\v[3]]¡Hoy no tengo cita con nadie! ¡Vamos a combatir un rato!
+\tg[\v[3]]¡Hoy no tengo cita con nadie! ¡Vamos a combatir un rato!
+\tg[\v[3]]¡Pues dicho y hecho! Te espero en el Gimnasio de Ciudad Celeste.
+\tg[\v[3]]¡Pues dicho y hecho! Te espero en el Gimnasio de Ciudad Celeste.
+\tg[\v[3]]¡Eres un muermo!...
+\tg[\v[3]]¡Eres un muermo!...
+\tg[\v[3]]¿Diga? ¿Qué tal estás? Yo estoy perfectamente.
+\tg[\v[3]]¿Diga? ¿Qué tal estás? Yo estoy perfectamente.
+\tg[\v[3]]¡Hay la tira de Líderes de Gimnasio! ¡Que no decaiga!
+\tg[\v[3]]¡Hay la tira de Líderes de Gimnasio!  ¡Que no decaiga!
+\tg[\v[3]]Como sabes, estoy como un tren y tengo a todos los chicos a mis pies. Estoy hasta arriba de tanta cita.
+\tg[\v[3]]Como sabes, estoy como un tren y tengo a todos los chicos a mis pies. Estoy hasta arriba de tanta cita.
+\tg[\v[3]]Aunque... el miércoles por la mañana estoy libre.\n¡Llámame entonces!
+\tg[\v[3]]Aunque... el miércoles por la mañana estoy libre.\n¡Llámame entonces!
+\tg[\v[3]]¿Ya te has dado una vuelta por Kanto? ¿Qué te parece comparado a Johto? ¿A que las vistas son fascinantes?
+\tg[\v[3]]¿Ya te has dado una vuelta por Kanto?  ¿Qué te parece comparado a Johto? ¿A que las vistas son fascinantes?
+\tg[\v[3]]A mí me gusta especialmente el cabo de la Ruta 25.\nMe trae recuerdos muy entrañables. ¿De qué? ¡Eso no te lo digo!
+\tg[\v[3]]A mí me gusta especialmente el cabo de la Ruta 25.\nMe trae recuerdos muy entrañables.  ¿De qué? ¡Eso no te lo digo!
+\tg[\v[3]]A propósito, el tipo raro que se había metido en mi Gimnasio... Me han dicho que tú acabaste con él.\n¡Gracias!\nTodos los miembros del Gimnasio se pusieron muy contentos.
+\tg[\v[3]]A propósito, el tipo raro que se había metido en mi Gimnasio... Me han dicho que tú acabaste con él.\n¡Gracias!\nTodos los miembros del Gimnasio se pusieron muy contentos.
+\tg[\v[3]]¡Oye! ¡Oye! He oído que si ganas a los seis Entrenadores de la Ruta 25 sin perder, el amor llegará a ti.\n¿No lo sabías? Bueno, la verdad es que me lo he inventado yo...
+\tg[\v[3]]¡Oye! ¡Oye! He oído que si ganas a los seis Entrenadores de la Ruta 25 sin perder, el amor llegará a ti.\n¿No lo sabías? Bueno, la verdad es que me lo he inventado yo...
+Lt. Surge
+Lt. Surge
+\tg[\v[3]]¿Qué? ¡No se te oye! ¡Esto es un accidente telefónico!\n¡Vuelve a marcar desde otra ubicación!
+\tg[\v[3]]¿Qué? ¡No se te oye! ¡Esto es un accidente telefónico!\n¡Vuelve a marcar desde otra ubicación!
+\tg[\v[3]]¡Saludos, recluta! ¿Cómo están tus heridas de guerra?
+\tg[\v[3]]¡Saludos, recluta! ¿Cómo están tus heridas de guerra?
+\tg[\v[3]]Habíamos hecho la solemne promesa de combatir en el Gimnasio de Ciudad Carmín.\n¿Se te había olvidado, recluta? Aguardo tu llegada.
+\tg[\v[3]]Habíamos hecho la solemne promesa de combatir en el Gimnasio de Ciudad Carmín.\n¿Se te había olvidado, recluta? Aguardo tu llegada.
+\tg[\v[3]]¡La batalla del Gimnasio de Ciudad Carmín! ¡El momento de librarla se acerca! No te vayas a olvidar, recluta.
+\tg[\v[3]]¡La batalla del Gimnasio de Ciudad Carmín! ¡El momento de librarla se acerca! No te vayas a olvidar, recluta.
+\tg[\v[3]]¡Eh, machine! ¡Vamos a echar la revancha!\n¿Aceptas el reto?
+\tg[\v[3]]¡Eh, machine! ¡Vamos a echar la revancha!\n¿Aceptas el reto?
+\tg[\v[3]]¡Ese espíritu de decisión me gusta, recluta!\nAguardo tu presencia en el Gimnasio de Ciudad Carmín.
+\tg[\v[3]]¡Ese espíritu de decisión me gusta, recluta!\nAguardo tu presencia en el Gimnasio de Ciudad Carmín.
+\tg[\v[3]]¿No? ¿No? ¿No? ¿No? Estás de servicio, me imagino. El servicio es el servicio.
+\tg[\v[3]]¿No? ¿No? ¿No? ¿No? Estás de servicio, me imagino. El servicio es el servicio.
+\tg[\v[3]]¿Hola? ¿Sí? ¡Estoy electrizantemente bien!
+\tg[\v[3]]¿Hola? ¿Sí? ¡Estoy electrizantemente bien!
+\tg[\v[3]]Hay Entrenadores galvánicos con los que todavía tienes que luchar. ¡Suéltales una buena descarga!
+\tg[\v[3]]Hay Entrenadores galvánicos con los que todavía tienes que luchar. ¡Suéltales una buena descarga!
+\tg[\v[3]]Yo no doy órdenes los viernes por la mañana. ¡Dame un toque si tienes tiempo!
+\tg[\v[3]]Yo no doy órdenes los viernes por la mañana. ¡Dame un toque si tienes tiempo!
+\tg[\v[3]]¿Por qué crees que tengo trampas instaladas en mi Gimnasio de Ciudad Carmín? ¿Por qué? Dime.\n¡Justo!
+\tg[\v[3]]¿Por qué crees que tengo trampas instaladas en mi Gimnasio de Ciudad Carmín? ¿Por qué? Dime.\n¡Justo!
+\tg[\v[3]]Para calibrar la inteligencia de los Entrenadores que vienen a retarme.\nLos combates Pokémon son algo más que fortaleza y resistencia.
+\tg[\v[3]]Para calibrar la inteligencia de los Entrenadores que vienen a retarme.\nLos combates Pokémon son algo más que fortaleza y resistencia.
+\tg[\v[3]]La inteligencia es clave junto a la fuerza.\nLos Entrenadores más poderosos sobresalen en ambas facetas.
+\tg[\v[3]]La inteligencia es clave junto a la fuerza.\nLos Entrenadores más poderosos sobresalen en ambas facetas.
+\tg[\v[3]]Cuando estaba en el frente, entrené a muchos soldados. ¡A muchos, cadete!\nPero tú emanabas perfección incluso desde antes de que nos conociéramos.
+\tg[\v[3]]Cuando estaba en el frente, entrené a muchos soldados. ¡A muchos, cadete!\nPero tú emanabas perfección incluso desde antes de que nos conociéramos.
+\tg[\v[3]]¿Dónde te entrenaste? ¿Quién fue tu instructor? Es increíble. ¡Inverosímil!
+\tg[\v[3]]¿Dónde te entrenaste? ¿Quién fue tu instructor? Es increíble. ¡Inverosímil!
+\tg[\v[3]]He estudiado el idioma de aquí trabajando en mi Gimnasio.\nHablando con la gente he aprendido muchas palabras y ahora hablo casi mejor que tú.
+\tg[\v[3]]He estudiado el idioma de aquí trabajando en mi Gimnasio.\nHablando con la gente he aprendido muchas palabras y ahora hablo casi mejor que tú.
+\tg[\v[3]]Y por supuesto, ¡mejor que mis Pokémon!
+\tg[\v[3]]Y por supuesto, ¡mejor que mis Pokémon!
+\tg[Erika]¡No se oye! ¡No se oye! ¿Te importaría llamar desde otro sitio?
+\tg[Erika]¡No se oye! ¡No se oye! ¿Te importaría llamar desde otro sitio?
+\tg[Erika]Soy Erika. ¿Qué tal vas?
+\tg[Erika]Soy Erika. ¿Qué tal vas?
+\tg[Erika]Si te olvidas de venir al Gimnasio de Ciudad Azulona, me voy a poner muy triste. ¿Tú quieres que me ponga triste?
+\tg[Erika]Si te olvidas de venir al Gimnasio de Ciudad Azulona, me voy a poner muy triste. ¿Tú quieres que me ponga triste?
+\tg[Erika]Te espero en el Gimnasio de Ciudad Azulona. ¡No lo olvides!
+\tg[Erika]Te espero en el Gimnasio de Ciudad Azulona. ¡No lo olvides!
+\tg[Erika]Ahora estaba bastante aburrida. ¿Luchamos?
+\tg[Erika]Ahora estaba bastante aburrida.  ¿Luchamos?
+\tg[Erika]¡Qué alegría me das! ¡Ahora soy un poquito más feliz!\nNos vemos en el Gimnasio de Ciudad Azulona, ¿vale?
+\tg[Erika]¡Qué alegría me das! ¡Ahora soy un poquito más feliz!\nNos vemos en el Gimnasio de Ciudad Azulona, ¿vale?
+\tg[Erika]Vaya...
+\tg[Erika]Vaya...
+\tg[Erika]¿Qué tal has estado últimamente? ¡Yo, como una moto, igual que siempre!
+\tg[Erika]¿Qué tal has estado últimamente? ¡Yo, como una moto, igual que siempre!
+\tg[Erika]¿Sabes? Creo que existen otros Líderes muy poderosos. No te rindas, ¿eh?
+\tg[Erika]¿Sabes? Creo que existen otros Líderes muy poderosos. No te rindas, ¿eh?
+\tg[Erika]El domingo por la mañana creo que tendré algo de tiempo.\nLlámame si puedes.
+\tg[Erika]El domingo por la mañana creo que tendré algo de tiempo.\nLlámame si puedes.
+\tg[Erika]¿Te gustan las plantas? Son muy frágiles. Necesitan... agua... tierra... y una temperatura adecuada. Todo en su justa medida.
+\tg[Erika]¿Te gustan las plantas? Son muy frágiles. Necesitan... agua... tierra... y una temperatura adecuada. Todo en su justa medida.
+\tg[Erika]El tiempo las afecta mucho también. Igual que cualquier cambio en el ambiente.
+\tg[Erika]El tiempo las afecta mucho también.  Igual que cualquier cambio en el ambiente.
+\tg[Erika]¿Crees en la superstición? Yo... cuando veo pétalos caer...\no la adivinación que consiste en cortar hojas... No sé...\nEl adivino de Pueblo Lavanda parece que acierta bastante.
+\tg[Erika]¿Crees en la superstición? Yo...  cuando veo pétalos caer...\no la adivinación que consiste en cortar hojas... No sé...\nEl adivino de Pueblo Lavanda parece que acierta bastante.
+\tg[Erika]¿Tú qué haces en tus días libres?\nYo me paso el día en el Gimnasio cambiando plantas de maceta y quitando el polvo de las flores y las hojas con un pincel...
+\tg[Erika]¿Tú qué haces en tus días libres?\nYo me paso el día en el Gimnasio cambiando plantas de maceta y quitando el polvo de las flores y las hojas con un pincel...
+\tg[Erika]¡Estoy liadísima con todo esto!
+\tg[Erika]¡Estoy liadísima con todo esto!
+\tg[Sachiko]¿Eh? ¡No se oye! A lo mejor no tienes cobertura.\nLlámame desde otro sitio.
+\tg[Sachiko]¿Eh? ¡No se oye! A lo mejor no tienes cobertura.\nLlámame desde otro sitio.
+\tg[Sachiko]¡Soy Sachiko! ¿Cómo vas?
+\tg[Sachiko]¡Soy Sachiko! ¿Cómo vas?
+\tg[Sachiko]¿Seguro que tienes tiempo de luchar contra mí?\n¿No tienes nada más que hacer?
+\tg[Sachiko]¿Seguro que tienes tiempo de luchar contra mí?\n¿No tienes nada más que hacer?
+\tg[Sachiko]¡Te espero en el Gimnasio de Ciudad Fucsia! ¡Ven volando!
+\tg[Sachiko]¡Te espero en el Gimnasio de Ciudad Fucsia! ¡Ven volando!
+\tg[Sachiko]Espero que no se te haya olvidado que te espero en el Gimnasio de Ciudad Fucsia, ¿eh?\n¡Estoy esperándote!
+\tg[Sachiko]Espero que no se te haya olvidado que te espero en el Gimnasio de Ciudad Fucsia, ¿eh?\n¡Estoy esperándote!
+\tg[Sachiko]¡No tengo nada que hacer! ¡Oye! ¿Por qué no luchas conmigo?
+\tg[Sachiko]¡No tengo nada que hacer! ¡Oye! ¿Por qué no luchas conmigo?
+\tg[Sachiko]¡Hurra! ¡Ya estoy que me salgo! Te espero en el Gimnasio de Ciudad Fucsia.
+\tg[Sachiko]¡Hurra! ¡Ya estoy que me salgo! Te espero en el Gimnasio de Ciudad Fucsia.
+\tg[Sachiko]Vaya... Tienes un poco de miedo... ¿No?
+\tg[Sachiko]Vaya... Tienes un poco de miedo...  ¿No?
+\tg[Sachiko]¡Hola! ¿Qué estabas haciendo? ¡Yo estoy chachi piruli!
+\tg[Sachiko]¡Hola! ¿Qué estabas haciendo? ¡Yo estoy chachi piruli!
+\tg[Sachiko]Aparte de mí, hay otros Líderes que son supermegachachifuertes. ¡Ve a por ellos!
+\tg[Sachiko]Aparte de mí, hay otros Líderes que son supermegachachifuertes. ¡Ve a por ellos!
+\tg[Sachiko]El lunes a mediodía me va bien. Dame un toque.
+\tg[Sachiko]El lunes a mediodía me va bien. Dame un toque.
+\tg[Sachiko]¿Quieres que te cuente cosas de mi papá?\n¡Podría estar horas hablando sobre él!
+\tg[Sachiko]¿Quieres que te cuente cosas de mi papá?\n¡Podría estar horas hablando sobre él!
+\tg[Sachiko]Desde que era un garbancito minúsculo, mi papuchi me ha estado entrenando. ¡Por eso soy Líder ahora!
+\tg[Sachiko]Desde que era un garbancito minúsculo, mi papuchi me ha estado entrenando.  ¡Por eso soy Líder ahora!
+\tg[Sachiko]Era imposible que hiciera otra cosa en la vida. Ni se me habría ocurrido.\n¡Era mi sueño! ¡Y lo he hecho realidad!
+\tg[Sachiko]Era imposible que hiciera otra cosa en la vida. Ni se me habría ocurrido.\n¡Era mi sueño! ¡Y lo he hecho realidad!
+\tg[Sachiko]Pegaso de Ciudad Malva está siempre cotorreando sobre su padre.\nYa va siendo hora de que madure.
+\tg[Sachiko]Pegaso de Ciudad Malva está siempre cotorreando sobre su padre.\nYa va siendo hora de que madure.
+\tg[Sachiko]¿Que yo estoy igual?\n¿Y quién te ha preguntado?
+\tg[Sachiko]¿Que yo estoy igual?\n¿Y quién te ha preguntado?
+Sabrina
+Sabrina
+\tg[\v[3]]Vaya, esto tiene que estar roto. No se oye nada.\nLlámame desde otro sitio.
+\tg[\v[3]]Vaya, esto tiene que estar roto. No se oye nada.\nLlámame desde otro sitio.
+\tg[\v[3]]Soy Sabrina. ¿Cómo vas?
+\tg[\v[3]]Soy Sabrina. ¿Cómo vas?
+\tg[\v[3]]Te espero en el Gimnasio de Ciudad Azafrán. ¡No te despistes!
+\tg[\v[3]]Te espero en el Gimnasio de Ciudad Azafrán. ¡No te despistes!
+\tg[\v[3]]Me habías dicho que vendrías a combatir al Gimnasio de Ciudad Azafrán... ¿Un despiste?
+\tg[\v[3]]Me habías dicho que vendrías a combatir al Gimnasio de Ciudad Azafrán... ¿Un despiste?
+\tg[\v[3]]¡Hola! Llamas en el mejor momento.\n¿Combatimos?
+\tg[\v[3]]¡Hola! Llamas en el mejor momento.\n¿Combatimos?
+\tg[\v[3]]¡Sabía que aceptarías! Te espero en el Gimnasio de Ciudad Azafrán.
+\tg[\v[3]]¡Sabía que aceptarías! Te espero en el Gimnasio de Ciudad Azafrán.
+\tg[\v[3]]Ya sabía que me ibas a decir que no... ¡Qué decepción!
+\tg[\v[3]]Ya sabía que me ibas a decir que no...  ¡Qué decepción!
+\tg[\v[3]]¿Sí? ¿Todo igual? Pues como yo.
+\tg[\v[3]]¿Sí? ¿Todo igual? Pues como yo.
+\tg[\v[3]]No soy la única. Hay otros Líderes de Gimnasio muy buenos. ¡No dejes que te ganen!
+\tg[\v[3]]No soy la única. Hay otros Líderes de Gimnasio muy buenos. ¡No dejes que te ganen!
+\tg[\v[3]]Los domingos a mediodía estoy disponible. Dame un toque.
+\tg[\v[3]]Los domingos a mediodía estoy disponible. Dame un toque.
+\tg[\v[3]]Te voy a contar el secreto del entrenamiento psíquico.\nLos movimientos de tipo Psíquico son para controlar el alma, el corazón.
+\tg[\v[3]]Te voy a contar el secreto del entrenamiento psíquico.\nLos movimientos de tipo Psíquico son para controlar el alma, el corazón.
+\tg[\v[3]]Cierra los ojos.\nLibérate de pensamientos superfluos.\nAdéntrate en tu yo en letargo, en lo más hondo de tu corazón.
+\tg[\v[3]]Cierra los ojos.\nLibérate de pensamientos superfluos.\nAdéntrate en tu yo en letargo, en lo más hondo de tu corazón.
+\tg[\v[3]]La clave de un verdadero Psíquico no está en mover objetos con la mente, sino en controlar tu propio corazón.
+\tg[\v[3]]La clave de un verdadero Psíquico no está en mover objetos con la mente, sino en controlar tu propio corazón.
+\tg[\v[3]]Todavía puedes ser más fuerte. Lo sé. Lo siento con fuerza.\nHas vencido a gran cantidad de Entrenadores.
+\tg[\v[3]]Todavía puedes ser más fuerte. Lo sé.  Lo siento con fuerza.\nHas vencido a gran cantidad de Entrenadores.
+\tg[\v[3]]El éxito y la gloria son tuyos. Lo veo.\nSolo quería decirte esto. ¡Nos vemos!
+\tg[\v[3]]El éxito y la gloria son tuyos. Lo veo.\nSolo quería decirte esto. ¡Nos vemos!
+\tg[\v[3]]Los Entrenadores con buen equilibrio de todas sus facultades son los mejores.\nLa fortaleza de espíritu es especialmente importante.
+\tg[\v[3]]Los Entrenadores con buen equilibrio de todas sus facultades son los mejores.\nLa fortaleza de espíritu es especialmente importante.
+\tg[\v[3]]¿Por qué no te decides a entrenar tus poderes psíquicos?\nTal vez hasta puedas superarme.
+\tg[\v[3]]¿Por qué no te decides a entrenar tus poderes psíquicos?\nTal vez hasta puedas superarme.
+Blaine
+Blaine
+\tg[\v[3]]¡Caramba! ¡No se te oye un churro! Tal vez sea el teléfono.\n¡Marca desde otro sitio!
+\tg[\v[3]]¡Caramba! ¡No se te oye un churro! Tal vez sea el teléfono.\n¡Marca desde otro sitio!
+\tg[\v[3]]¡Soy Blaine! ¿Cómo te encuentras hoy?
+\tg[\v[3]]¡Soy Blaine! ¿Cómo te encuentras hoy?
+\tg[\v[3]]¡Tú!\nÍbamos a luchar en el Gimnasio de las Islas Espuma. ¿Dónde te has metido, colega?
+\tg[\v[3]]¡Tú!\nÍbamos a luchar en el Gimnasio de las Islas Espuma. ¿Dónde te has metido, colega?
+\tg[\v[3]]¡Te espero en el Gimnasio de las Islas Espuma!\n¡Uooooooooooh!
+\tg[\v[3]]¡Te espero en el Gimnasio de las Islas Espuma!\n¡Uooooooooooh!
+\tg[\v[3]]¡Uoooh! ¡Tú sí que sabes llamar en el momento perfecto!\n¿Echamos una lucha encarnizada?
+\tg[\v[3]]¡Uoooh! ¡Tú sí que sabes llamar en el momento perfecto!\n¿Echamos una lucha encarnizada?
+\tg[\v[3]]¡Uoooh! ¡Eres mi ídolo! ¡Muchas gracias, máquina!\nTiro para el Gimnasio de las Islas Espuma. ¡Allí me tienes!
+\tg[\v[3]]¡Uoooh! ¡Eres mi ídolo! ¡Muchas gracias, máquina!\nTiro para el Gimnasio de las Islas Espuma. ¡Allí me tienes!
+\tg[\v[3]]¿Que no? ¿Por quéeee?\n¿Es que hay algo más importante que luchar con el viejo Blaine?\nMe dejas de una pieza.
+\tg[\v[3]]¿Que no? ¿Por quéeee?\n¿Es que hay algo más importante que luchar con el viejo Blaine?\nMe dejas de una pieza.
+\tg[\v[3]]¡Dime! ¿Qué? ¿Cómo?\nNo te preocupes, estoy más sano que una manzana.
+\tg[\v[3]]¡Dime! ¿Qué? ¿Cómo?\nNo te preocupes, estoy más sano que una manzana.
+\tg[\v[3]]¿Ya has ido a todos los Gimnasios? \nSeguro que te queda algún Líder por machacar.
+\tg[\v[3]]¿Ya has ido a todos los Gimnasios? \nSeguro que te queda algún Líder por machacar.
+\tg[\v[3]]Los martes por la tarde estoy tendido panza arriba sin hacer nada. Llámame y hablamos.
+\tg[\v[3]]Los martes por la tarde estoy tendido panza arriba sin hacer nada. Llámame y hablamos.
+\tg[\v[3]]Aunque haya perdido mi Gimnasio, edificaré uno nuevo día tras día, piedra a piedra y algún día será grande.\n¡Fundar un Gimnasio es la esencia de la vida!
+\tg[\v[3]]Aunque haya perdido mi Gimnasio, edificaré uno nuevo día tras día, piedra a piedra y algún día será grande.\n¡Fundar un Gimnasio es la esencia de la vida!
+\tg[\v[3]]Mi Gimnasio es de la vieja escuela, hecho a mano, pero aun así, vienen cantidad de Entrenadores.\n¡Vienen de muy lejos! Estoy muy agradecido. ¡Gracias a ti también!
+\tg[\v[3]]Mi Gimnasio es de la vieja escuela, hecho a mano, pero aun así, vienen cantidad de Entrenadores.\n¡Vienen de muy lejos! Estoy muy agradecido. ¡Gracias a ti también!
+\tg[\v[3]]Las Islas Espuma me encantan. El problema son las tiendas...\nSi hubiera alguna que otra, todo sería perfecto y otro gallo cantaría.
+\tg[\v[3]]Las Islas Espuma me encantan. El problema son las tiendas...\nSi hubiera alguna que otra, todo sería perfecto y otro gallo cantaría.
+\tg[Azul]¡No se te oye nada! ¡Intenta llamarme desde otro sitio!
+\tg[Azul]¡No se te oye nada! ¡Intenta llamarme desde otro sitio!
+\tg[Azul]Soy Azul.
+\tg[Azul]Soy Azul.
+\tg[Azul]¡Te espero en el Gimnasio de Ciudad Verde!\n¡Lo prometido hay que cumplirlo!
+\tg[Azul]¡Te espero en el Gimnasio de Ciudad Verde!\n¡Lo prometido hay que cumplirlo!
+\tg[Azul]Habíamos quedado en el Gimnasio de Ciudad Verde, ¿no?\nEspero que no se te haya olvidado. ¡Ya sabes dónde estoy!
+\tg[Azul]Habíamos quedado en el Gimnasio de Ciudad Verde, ¿no?\nEspero que no se te haya olvidado. ¡Ya sabes dónde estoy!
+\tg[Azul]Me pillas medio aburrido. ¿Volvemos a luchar?
+\tg[Azul]Me pillas medio aburrido. ¿Volvemos a luchar?
+\tg[Azul]¡Genial! ¡Esta vez no perderé! Te espero en el Gimnasio de Ciudad Verde.
+\tg[Azul]¡Genial! ¡Esta vez no perderé! Te espero en el Gimnasio de Ciudad Verde.
+\tg[Azul]Vaya... No debes de tener tiempo...
+\tg[Azul]Vaya... No debes de tener tiempo...
+\tg[Azul]¿Hola? No te preocupes. ¡Yo estoy feliz como una perdiz!
+\tg[Azul]¿Hola? No te preocupes. ¡Yo estoy feliz como una perdiz!
+\tg[Azul]Te faltan unos cuantos Líderes a los que enfrentarte. ¡Date prisa y ve a machacarlos!
+\tg[Azul]Te faltan unos cuantos Líderes a los que enfrentarte. ¡Date prisa y ve a machacarlos!
+\tg[Azul]Yo solo estoy libre el domingo por la noche. ¡Dame un toque!
+\tg[Azul]Yo solo estoy libre el domingo por la noche. ¡Dame un toque!
+\tg[Azul]Cuando me pongo a ver Pokémon, pienso muchas cosas.
+\tg[Azul]Cuando me pongo a ver Pokémon, pienso muchas cosas.
+\tg[Azul]Unos son redondos, otros cuadrados, unos vuelan, otros nadan, unos queman, otros congelan, unos brillan, otros son oscuros... \n¡Hay de todos los colores y sabores!
+\tg[Azul]Unos son redondos, otros cuadrados, unos vuelan, otros nadan, unos queman, otros congelan, unos brillan, otros son oscuros... \n¡Hay de todos los colores y sabores!
+\tg[Azul]¡Y todos son Pokémon! A lo mejor los humanos somos un tipo de Pokémon...\n¿No te parece? ¿O es ir demasiado lejos?
+\tg[Azul]¡Y todos son Pokémon! A lo mejor los humanos somos un tipo de Pokémon...\n¿No te parece? ¿O es ir demasiado lejos?
+\tg[Azul]Eres excepcional. Viajas sin compañía, vences a Líderes por aquí y por allí sin ayuda de nadie...\nAhora que lo pienso, claro que tienes compañía, ¡tus Pokémon!
+\tg[Azul]Eres excepcional. Viajas sin compañía, vences a Líderes por aquí y por allí sin ayuda de nadie...\nAhora que lo pienso, claro que tienes compañía, ¡tus Pokémon!
+\tg[Azul]Rojo me abatió en un santiamén.\nHace un montón que no lo veo. ¿Qué estará haciendo?
+\tg[Azul]Rojo me abatió en un santiamén.\nHace un montón que no lo veo. ¿Qué estará haciendo?
+\tg[Azul]Tú te pareces a Rojo. Esa comisura de los labios te da un aire.
+\tg[Azul]Tú te pareces a Rojo. Esa comisura de los labios te da un aire.
+Evaluar Pokédex
+Evaluar Pokédex
+Salir
+Salir
+Sí
+Sí
+No
+No
+Agua Fresca - 200$
+Agua Fresca - 200$
+Refresco - 300$
+Refresco - 300$
+Limonada - 350$
+Limonada - 350$
+Salida
+Salida

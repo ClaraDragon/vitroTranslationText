@@ -1,0 +1,113 @@
+﻿# Maps grouped under: Ruta 26 (Highest ID: 99)
+[Map99]
+Parece que tienes un vínculo muy fuerte con tu equipo Pokémon, ¿no?
+Parece que tienes un vínculo muy fuerte con tu equipo Pokémon, ¿no?
+Los Pokémon no son armas de guerra.
+Los Pokémon no son armas de guerra.
+Eres fuerte, fuerte, fuerte. Debemos luchar en otra ocasión. Desafiar a alguien tan capaz como tú, me hará mejorar también a mí. ¿Qué me dices?
+Eres fuerte, fuerte, fuerte. Debemos luchar en otra ocasión. Desafiar a alguien tan capaz como tú, me hará mejorar también a mí. ¿Qué me dices?
+¿Me das tu número de teléfono? ¡Debemos<<n>>luchar en otra ocasión!
+¿Me das tu número de teléfono? ¡Debemos <<n>>luchar en otra ocasión!
+¡Demuéstramelo una vez más!
+¡Demuéstramelo una vez más!
+¡Toma esto!
+¡Toma esto!
+He perdido contra un Entrenador pelirrojo. Era realmente fuerte, pero... parecía como si tuviera que ganar a toda costa. ¡Pobres Pokémon!
+He perdido contra un Entrenador pelirrojo. Era realmente fuerte, pero... parecía como si tuviera que ganar a toda costa. ¡Pobres Pokémon!
+Los Pokémon son valiosos amigos para toda la vida.
+Los Pokémon son valiosos amigos para toda la vida.
+\w[signskin5]Casa de los hermanos semanales.
+\w[signskin5]Casa de los hermanos semanales.
+Es en estos duros combates donde ganas más poder.
+Es en estos duros combates donde ganas más poder.
+¡La vida es aún más dura!
+¡La vida es aún más dura!
+¡Guau, qué duro! No había luchado tan en serio desde hacía mucho.
+¡Guau, qué duro! No había luchado tan en serio desde hacía mucho.
+¿Me das tu número de teléfono? Me<<n>>gustaría luchar otra vez cuando cure mis<<n>>Pokémon.
+¿Me das tu número de teléfono? Me <<n>>gustaría luchar otra vez cuando cure mis <<n>>Pokémon.
+¿Cómo podré derrotarte? No pienso en nada más...
+¿Cómo podré derrotarte? No pienso en nada más...
+¡Deja que me haga una idea de todo lo que has progresado!
+¡Deja que me haga una idea de todo lo que has progresado!
+Para llegar a la Liga Pokémon hay que pasar por la Calle Victoria. Pero la Calle Victoria es dura... ¡no va allí casi nadie!
+Para llegar a la Liga Pokémon hay que pasar por la Calle Victoria. Pero la Calle Victoria es dura... ¡no va allí casi nadie!
+¡Hoy me siento muy bien! ¡Siento que podría vencer hasta al Campeón de la Liga!
+¡Hoy me siento muy bien! ¡Siento que podría vencer hasta al Campeón de la Liga!
+¡No! ¡En esta batalla, no!
+¡No! ¡En esta batalla, no!
+Como en la pesca, con los Pokémon todo está perdido si uno se rinde.
+Como en la pesca, con los Pokémon todo está perdido si uno se rinde.
+¡Guau! ¡Cuántas Medallas! Estoy impresionado. Pero no te basta solo con coleccionarlas, ¿verdad?
+¡Guau! ¡Cuántas Medallas! Estoy impresionado.  Pero no te basta solo con coleccionarlas, ¿verdad?
+¡Buena batalla!
+¡Buena batalla!
+Las personas y los Pokémon se enriquecen con la experiencia. ¡No seas tan conformista!
+Las personas y los Pokémon se enriquecen con la experiencia. ¡No seas tan conformista!
+¡Giri!\wt[20]
+¡Giri!\wt[20]
+\w[signskin4]\C[8]Ruta 26.\nAl norte, Ruta 23\nAl suroeste, Ruta 27.
+\w[signskin4]\C[8]Ruta 26.\nAl norte, Ruta 23\nAl suroeste, Ruta 27.
+Estoy haciendo los últimos preparativos para la Liga Pokémon.
+Estoy haciendo los últimos preparativos para la Liga Pokémon.
+¡Caramba!
+¡Caramba!
+Va a ser difícil ganar en la Liga. Tengo que entrenarme mucho más. ¡Dicen que el Alto Mando es más duro que todos los Líderes de Gimnasio juntos!
+Va a ser difícil ganar en la Liga. Tengo que entrenarme mucho más. ¡Dicen que el Alto Mando es más duro que todos los Líderes de Gimnasio juntos!
+\w[signskin]Recepción de la Liga Pokémon.
+\w[signskin]Recepción de la Liga Pokémon.
+[Map139]
+Seguro que te sientes con suerte de haber encontrado un buen lugar en el que descansar, ¿verdad?
+Seguro que te sientes con suerte de haber encontrado un buen lugar en el que descansar, ¿verdad?
+Cuando veo las caras sonrientes de los que se dirigen a la Liga Pokémon, me alegro mucho.
+Cuando veo las caras sonrientes de los que se dirigen a la Liga Pokémon, me alegro mucho.
+Venga, deja que tus Pokémon descansen un rato.
+Venga, deja que tus Pokémon descansen un rato.
+¡Vaya! ¡Tus Pokémon tienen buen aspecto! ¡Sigue así!
+¡Vaya! ¡Tus Pokémon tienen buen aspecto! ¡Sigue así!
+¡Chanseyyy!\wt[10]
+¡Chanseyyy!\wt[10]
+\w[menuskin]\c[8]Aquí hay algo escrito. ¿Quieres leerlo?
+\w[menuskin]\c[8]Aquí hay algo escrito. ¿Quieres leerlo?
+\w[menuskin]\c[8]A mis hermanos y hermanas: Nos enorgullece ayudar a los Entrenadores Pokémon. \nCuando habléis con los Entrenadores, dadles algo útil.\nBesos, Luna
+\w[menuskin]\c[8]A mis hermanos y hermanas: Nos enorgullece ayudar a los Entrenadores Pokémon. \nCuando habléis con los Entrenadores, dadles algo útil.\nBesos, Luna
+\w[menuskin]\c[8]¿Sigues leyendo?
+\w[menuskin]\c[8]¿Sigues leyendo?
+\w[menuskin]\c[8]Lunes, Luna\nRuta 40
+\w[menuskin]\c[8]Lunes, Luna\nRuta 40
+\w[menuskin]\c[8]Martes, Marta\nRuta 29
+\w[menuskin]\c[8]Martes, Marta\nRuta 29
+\w[menuskin]\c[8]Miércoles, Miguel\nLago de la Furia
+\w[menuskin]\c[8]Miércoles, Miguel\nLago de la Furia
+\w[menuskin]\c[8]Jueves, Josué\nRuta 36
+\w[menuskin]\c[8]Jueves, Josué\nRuta 36
+\w[menuskin]\c[8]Viernes, Vicki\nRuta 32
+\w[menuskin]\c[8]Viernes, Vicki\nRuta 32
+\w[menuskin]\c[8]Sábado, Sabino\nCiudad Endrino
+\w[menuskin]\c[8]Sábado, Sabino\nCiudad Endrino
+\w[menuskin]\c[8]Domingo, Domingo\nRuta 37
+\w[menuskin]\c[8]Domingo, Domingo\nRuta 37
+La MT37 contiene Tormenta Arena.
+La MT37 contiene Tormenta Arena.
+Este movimiento daña a todos los combatientes. \nSin embargo, no afecta a los de tipo Roca, Tierra o Acero.
+Este movimiento daña a todos los combatientes. \nSin embargo, no afecta a los de tipo Roca, Tierra o Acero.
+Hay otras formas de protegerse de sus efectos, pero mejor que las descubras por tu cuenta. Je, je.
+Hay otras formas de protegerse de sus efectos, pero mejor que las descubras por tu cuenta. Je, je.
+¿Adónde vas con esos Pokémon?\n¿A la Liga Pokémon?
+¿Adónde vas con esos Pokémon?\n¿A la Liga Pokémon?
+¿Acaso tu equipo es lo bastante fiel como para permitirte ganar?\nDéjame ver...
+¿Acaso tu equipo es lo bastante fiel como para permitirte ganar?\nDéjame ver...
+¡Ah!\nTus Pokémon confían mucho en ti. Excelente.
+¡Ah!\nTus Pokémon confían mucho en ti.  Excelente.
+Da gusto ver a alguien tan bueno.\nToma, un regalo para el viaje.
+Da gusto ver a alguien tan bueno.\nToma, un regalo para el viaje.
+Hummm...\nParece que tus Pokémon aun no confían mucho en ti.
+Hummm...\nParece que tus Pokémon aun no confían mucho en ti.
+Si no confían más en ti, tendrás problemas para ganar.\nLa confianza es el vínculo entre los Pokémon y sus Entrenadores.
+Si no confían más en ti, tendrás problemas para ganar.\nLa confianza es el vínculo entre los Pokémon y sus Entrenadores.
+Vuelve cuando tu equipo y tú seáis inseparables.
+Vuelve cuando tu equipo y tú seáis inseparables.
+Sí
+Sí
+No
+No

@@ -1,0 +1,76 @@
+﻿# Maps grouped under: Gimnasio Iris (Highest ID: 35)
+[Map35]
+Paso la primavera con mis Pokémon... y el verano, el otoño y el invierno. Y luego de vuelta a la primavera. En resumidas cuentas, ¡mis Pokémon y yo vivimos siempre juntos!
+Paso la primavera con mis Pokémon... y el verano, el otoño y el invierno. Y luego de vuelta a la primavera. En resumidas cuentas, ¡mis Pokémon y yo vivimos siempre juntos!
+He vivido muchas victorias y<<n>>derrotas.
+He vivido muchas victorias y <<n>>derrotas.
+Todas las estaciones... Juntos...
+Todas las estaciones... Juntos...
+¡Da igual cuanto lo intentes, maldito mortal! \n¡Ganaré!
+¡Da igual cuanto lo intentes, maldito mortal! \n¡Ganaré!
+¡He... he perdido!
+¡He... he perdido!
+¡P-pues no ganaré...!
+¡P-pues no ganaré...!
+¡Guau, \PN! ¡Genial!\n¡Me estaba botando el corazón como loco!
+¡Guau, \PN! ¡Genial!\n¡Me estaba botando el corazón como loco!
+¡Vaya combate, sí señor!
+¡Vaya combate, sí señor!
+¡Hola, joven promesa! Los Entrenadores de este Gimnasio utilizan Pokémon de tipo Fantasma.
+¡Hola, joven promesa! Los Entrenadores de este Gimnasio utilizan Pokémon de tipo Fantasma.
+Esos Pokémon son espectros e ilusiones, así que, si los atacas por la fuerza, no les harás ningún daño.
+Esos Pokémon son espectros e ilusiones, así que, si los atacas por la fuerza, no les harás ningún daño.
+Infundirles miedo con el tipo Siniestro u otros fantasmas funciona muy bien, eso sí.
+Infundirles miedo con el tipo Siniestro u otros fantasmas funciona muy bien, eso sí.
+\tg[Morti]Me alegro de que hayas venido, joven promesa.
+\tg[Morti]Me alegro de que hayas venido, joven promesa.
+\tg[Morti]Aquí en Ciudad Iris, los Pokémon son venerados tanto en la vida como en la muerte.
+\tg[Morti]Aquí en Ciudad Iris, los Pokémon son venerados tanto en la vida como en la muerte.
+\tg[Morti]Hay uno especialmente recordado, claro...
+\tg[Morti]Hay uno especialmente recordado, claro...
+\tg[Morti]Un Pokémon legendario que se manifestará delante de un valeroso entrenador.
+\tg[Morti]Un Pokémon legendario que se manifestará delante de un valeroso entrenador.
+\tg[Morti]¿Quieres saber quién es ese gran entrenador?
+\tg[Morti]¿Quieres saber quién es ese gran entrenador?
+\tg[Morti]¡Yo, Morti!\nCon mi entrenamiento fantasmal lograré hacer realidad la leyenda.
+\tg[Morti]¡Yo, Morti!\nCon mi entrenamiento fantasmal lograré hacer realidad la leyenda.
+\tg[Morti]¿Hmmm...? Puedo sentir tus dudas. \n¿Acaso crees que no soy yo el elegido?\n¿Acaso crees que eres tú?
+\tg[Morti]¿Hmmm...? Puedo sentir tus dudas. \n¿Acaso crees que no soy yo el elegido?\n¿Acaso crees que eres tú?
+\tg[Morti]¡Je! ¡Tienes valor, tía!
+\tg[Morti]¡Je! ¡Tienes valor, tía!
+\tg[Morti]¡Je! ¡Tienes valor, tío!
+\tg[Morti]¡Je! ¡Tienes valor, tío!
+\tg[Morti]¡Veamos quién se lo merece más! ¡Almas del otro mundo, venid a mí!
+\tg[Morti]¡Veamos quién se lo merece más! ¡Almas del otro mundo, venid a mí!
+No logro entenderlo.
+ No logro entenderlo.
+\tg[Morti]¡Nunca pensé que perdería si luchaba tan en serio!
+\tg[Morti]¡Nunca pensé que perdería si luchaba tan en serio!
+\tg[Morti]Jo, pues sí que se te da bien.\nToma mi medalla, te la has ganado.
+\tg[Morti]Jo, pues sí que se te da bien.\nToma mi medalla, te la has ganado.
+\tg[Morti]Además como me has caído bien, te voy a dar mi MT favorita. Contiene Bola Sombra.
+\tg[Morti]Además como me has caído bien, te voy a dar mi MT favorita. Contiene Bola Sombra.
+\tg[Morti]Causa daños y también puede llegar a reducir la Defensa Especial. Úsala sabiamente.
+\tg[Morti]Causa daños y también puede llegar a reducir la Defensa Especial. Úsala sabiamente.
+\tg[Morti]Entiendo... Así que las chicas Kimono se referían a ti...
+\tg[Morti]Entiendo... Así que las chicas Kimono se referían a ti...
+\tg[Morti]¡Ah! Esto... No me hagas caso, digo tonterías.
+\tg[Morti]¡Ah! Esto... No me hagas caso, digo tonterías.
+\tg[Morti]He venido en cuanto he podido. ¡Vamos a luchar!
+\tg[Morti]He venido en cuanto he podido. ¡Vamos a luchar!
+\tg[Morti]No hay forma de ganarte...\nNo es solo la fuerza que tienes... Posees algo más.
+\tg[Morti]No hay forma de ganarte...\nNo es solo la fuerza que tienes... Posees algo más.
+¿Andas buscando al Líder?\nMorti se ha ido a la Torre Quemada. Lo siento, pero tendrás que marcharte.\nJo, jo, jo, jo.
+¿Andas buscando al Líder?\nMorti se ha ido a la Torre Quemada. Lo siento, pero tendrás que marcharte.\nJo, jo, jo, jo.
+¿Crees que puedes causarles algún daño a nuestros Pokémon? ¡Mucha suerte, mua, ja ja!
+¿Crees que puedes causarles algún daño a nuestros Pokémon? ¡Mucha suerte, mua, ja ja!
+¡Ah! ¡Bien hecho!
+¡Ah! ¡Bien hecho!
+Solo usamos Pokémon de tipo Fantasma. ¡Los ataques de tipo Normal no nos afectan!
+Solo usamos Pokémon de tipo Fantasma. ¡Los ataques de tipo Normal no nos afectan!
+¿Estás desorientado? ¡Pues tendrás que vencerme si quieres que te dé algunos consejos!
+¿Estás desorientado? ¡Pues tendrás que vencerme si quieres que te dé algunos consejos!
+¿C-cómo?
+¿C-cómo?
+Bien. ¿No sabes por dónde seguir? ¡La senda que has de seguir está delante de nuestros ojos!
+Bien. ¿No sabes por dónde seguir? ¡La senda que has de seguir está delante de nuestros ojos!

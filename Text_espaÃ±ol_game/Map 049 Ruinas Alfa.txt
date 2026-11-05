@@ -1,0 +1,259 @@
+﻿# Maps grouped under: Ruinas Alfa (Highest ID: 49)
+[Map49]
+¡Oye tú! ¿Qué estás haciendo aquí?
+¡Oye tú! ¿Qué estás haciendo aquí?
+Mira, esto no es lo que parece, ¿vale?
+Mira, esto no es lo que parece, ¿vale?
+Hay toneladas de ruinas por aquí y nadie se tiene que enterar de lo que estoy haciendo. Solo estoy buscando algunos tesoros antiguos, ¿sabes?
+Hay toneladas de ruinas por aquí y nadie se tiene que enterar de lo que estoy haciendo. Solo estoy buscando algunos tesoros antiguos, ¿sabes?
+Repito. Nadie tiene por qué enterarse de lo que estoy haciendo.
+Repito. Nadie tiene por qué enterarse de lo que estoy haciendo.
+Y si intentas entrometerte, ¡no dudaré en usar mis Pokémon para silenciarte!
+Y si intentas entrometerte, ¡no dudaré en usar mis Pokémon para silenciarte!
+¡Está bien, está bien!
+¡Está bien, está bien!
+Te propongo un trato. Te permitiré unirte a mí en la excavación de estas ruinas.\nA cambio podemos repartir los beneficios de lo que encontremos.
+Te propongo un trato. Te permitiré unirte a mí en la excavación de estas ruinas.\nA cambio podemos repartir los beneficios de lo que encontremos. 
+Nadie tiene saber lo que hacemos, ni siquiera el Team Rocket. ¿Capisce?
+Nadie tiene saber lo que hacemos, ni siquiera el Team Rocket. ¿Capisce?
+¿Qué me dices?
+¿Qué me dices?
+Es un placer hacer negocios contigo.
+Es un placer hacer negocios contigo.
+Vuelve cuando quieras empezar.
+Vuelve cuando quieras empezar.
+Tu te lo pierdes entonces. ¡Ahora largo de aquí!
+Tu te lo pierdes entonces. ¡Ahora largo de aquí!
+Nadie tiene saber lo que hacemos, ni siquiera el Team Rocket. Capisce?
+Nadie tiene saber lo que hacemos, ni siquiera el Team Rocket. Capisce?
+Y qué, ¿quieres empezar?
+Y qué, ¿quieres empezar?
+Bien, pero antes de nada dame mi parte de la vez anterior. Me conformo con cualquiera de los objetos.
+Bien, pero antes de nada dame mi parte de la vez anterior. Me conformo con cualquiera de los objetos.
+¿Quieres darme \v[2]?
+¿Quieres darme \v[2]?
+¡Pues vamos allá!
+¡Pues vamos allá!
+¡Pues piénsatelo bien antes de hacerme perder el tiempo!
+¡Pues piénsatelo bien antes de hacerme perder el tiempo!
+¿Estás de broma?\nEso vale menos que una piedra.
+¿Estás de broma?\nEso vale menos que una piedra.
+¡Mmm...! ¡Qué lugar tan extraño!
+¡Mmm...! ¡Qué lugar tan extraño!
+Me gusta reflexionar aquí en las ruinas.
+Me gusta reflexionar aquí en las ruinas.
+\w[signskin]Pabellón de los misterios.\nCuidado al pisar.
+\w[signskin]Pabellón de los misterios.\nCuidado al pisar.
+\tg[Verde]¡Anda! ¡Nos volvemos a ver \PN!
+\tg[Verde]¡Anda! ¡Nos volvemos a ver \PN!
+\tg[Verde]¡Oí que ganaste a Lance! ¡Felicidades!
+\tg[Verde]¡Oí que ganaste a Lance! ¡Felicidades!
+\tg[Verde]Ahora sabes lo que toca, ¿verdad?\n¡A luchar, a ver cuanto has mejorado!
+\tg[Verde]Ahora sabes lo que toca, ¿verdad?\n¡A luchar, a ver cuanto has mejorado!
+¡Pues sí que te las gastas!
+¡Pues sí que te las gastas!
+\tg[Verde]Que fuerte, no me extraña que pudieses con el campeón.
+\tg[Verde]Que fuerte, no me extraña que pudieses con el campeón.
+\tg[Verde]Bueno, ¿y como tu por aquí?
+\tg[Verde]Bueno, ¿y como tu por aquí?
+\tg[Verde]¿Yo? estoy investigando las Ruinas Alfa.
+\tg[Verde]¿Yo? estoy investigando las Ruinas Alfa.
+\tg[Verde]Dicen que hay un gran misterio en las ruinas, y que si completas todos los puzzles ocurrira algo singular.
+\tg[Verde]Dicen que hay un gran misterio en las ruinas, y que si completas todos los puzzles ocurrira algo singular.
+\tg[Verde]¡¿Quéee?! ¡¿Que has resuelto todos los puzzles?! ¡Menudo chasco! ¡Yo que quería hacerlo antes que nadie!
+\tg[Verde]¡¿Quéee?! ¡¿Que has resuelto todos los puzzles?! ¡Menudo chasco! ¡Yo que quería hacerlo antes que nadie!
+\tg[Verde]¿Y has echado un vistazo a la puerta, para nada sospechosa, en el final de las ruinas?\n¿Sigue cerrada?
+\tg[Verde]¿Y has echado un vistazo a la puerta, para nada sospechosa, en el final de las ruinas?\n¿Sigue cerrada?
+\tg[Verde]Je, je, je.\n¡Veo que al final si podré hacer algo yo!
+\tg[Verde]Je, je, je.\n¡Veo que al final si podré hacer algo yo!
+\tg[Verde]Y tu, \PN, ¡serás mi ayudante!
+\tg[Verde]Y tu, \PN, ¡serás mi ayudante!
+\tg[Verde]Volvamos a las ruinas, creo que se como abrir esa puerta.
+\tg[Verde]Volvamos a las ruinas, creo que se como abrir esa puerta.
+¡Tu tu!\wt[20]
+¡Tu tu!\wt[20]
+¡Oh! ¡Cuánto lo siento!\nEs que iba con prisa...\nPero eso no es excusa.\n¿Te has hecho daño?
+¡Oh! ¡Cuánto lo siento!\nEs que iba con prisa...\nPero eso no es excusa.\n¿Te has hecho daño?
+¿C-cómo?... ¡Ese Pokémon es...!\n¡¿No es ese el Pokémon Arceus de la región de Sinnoh?!
+¿C-cómo?... ¡Ese Pokémon es...!\n¡¿No es ese el Pokémon Arceus de la región de Sinnoh?!
+¡Ah! Pero entonces eso significa que... ¿Arceus es el origen?...\nNo acabo de entenderlo, pero no se me ocurre otra explicación...
+¡Ah! Pero entonces eso significa que... ¿Arceus es el origen?...\nNo acabo de entenderlo, pero no se me ocurre otra explicación...
+¿Podría ser Arceus la clave para descifrar el misterio de los Unown y las Ruinas Alfa?...
+¿Podría ser Arceus la clave para descifrar el misterio de los Unown y las Ruinas Alfa?...
+¿P-por qué no vienes conmigo a las Ruinas Alfa? \n¡No aceptaré un no por respuesta!\n¡Tengo el presentimiento de que algo va a suceder!
+¿P-por qué no vienes conmigo a las Ruinas Alfa? \n¡No aceptaré un no por respuesta!\n¡Tengo el presentimiento de que algo va a suceder!
+\w[signskin]Centro de Investigación de las ruinas.
+\w[signskin]Centro de Investigación de las ruinas.
+Sí
+Sí
+No
+No
+Mejor no
+Mejor no
+[Map50]
+HUIDA
+HUIDA
+\w[menuskin]\C[8]¡Está lleno de libros viejos! \n"Misterios de civilizaciones antiguas", "Manual de criptografía", "Ruinas olvidadas"...
+\w[menuskin]\C[8]¡Está lleno de libros viejos! \n"Misterios de civilizaciones antiguas", "Manual de criptografía", "Ruinas olvidadas"...
+Abrrr...\wt[10]
+Abrrr...\wt[10]
+\w[menuskin]\C[8]Es un Abra, parece que te puede llevar de vuelta a las Ruinas Sinjoh.
+\w[menuskin]\C[8]Es un Abra, parece que te puede llevar de vuelta a las Ruinas Sinjoh.
+\w[menuskin]\C[8]Informe sobre las Ruinas Alfa \nDedicado al Profesor Silktree, fundador del Centro de Investigación de las ruinas.
+\w[menuskin]\C[8]Informe sobre las Ruinas Alfa \nDedicado al Profesor Silktree, fundador del Centro de Investigación de las ruinas.
+\w[menuskin]\C[8]Pokémon misterioso Nombre: Unown 26 clases descubiertas hasta la fecha
+\w[menuskin]\C[8]Pokémon misterioso Nombre: Unown 26 clases descubiertas hasta la fecha
+AGUA
+AGUA
+Anda, anda, anda...\nMira por donde.
+Anda, anda, anda...\nMira por donde.
+¡Aquí tenemos a una """joven promesa""" que ha decidido emprender el camino de la arqueología!
+¡Aquí tenemos a una """joven promesa""" que ha decidido emprender el camino de la arqueología!
+¡Pues no! El camino del arqueólogo es duro como un muro.
+¡Pues no! El camino del arqueólogo es duro como un muro.
+Más resistente que un... Em...\n¡Accidente, eso!
+Más resistente que un... Em...\n¡Accidente, eso!
+¡Tú me entiendes! Esto es solo para gente dedicada. ¡Te tendrás que conformar con el turismo! ¡Jo, jo, jo!
+¡Tú me entiendes! Esto es solo para gente dedicada. ¡Te tendrás que conformar con el turismo! ¡Jo, jo, jo!
+¡Oh, hola!\nYo me encargo de estudiar los Pokémon fósiles que vivían en este lugar antiguamente.
+¡Oh, hola!\nYo me encargo de estudiar los Pokémon fósiles que vivían en este lugar antiguamente.
+Y no sólo eso, puedo hacer de los fósiles unos Pokémon vivos y coleando.
+Y no sólo eso, puedo hacer de los fósiles unos Pokémon vivos y coleando.
+Si encuentras algún fósil, no dudes en traérmelo.
+Si encuentras algún fósil, no dudes en traérmelo.
+Será un placer ayudarte a recuperar un Pokémon antiguo.\n¡La historia que encierran estos fósiles es fascinante!
+Será un placer ayudarte a recuperar un Pokémon antiguo.\n¡La historia que encierran estos fósiles es fascinante!
+LUZ
+LUZ
+Lo único que sabemos es que estas ruinas se construyeron hace unos 1500 años...\nPero, ¿quién las construyó? Eso todavía es un misterio.
+Lo único que sabemos es que estas ruinas se construyeron hace unos 1500 años...\nPero, ¿quién las construyó? Eso todavía es un misterio.
+¡Oh! ¡¿Has restaurado uno de los grabados?! \n¡Increíble! Si al final vas a acabar siendo útil.
+¡Oh! ¡¿Has restaurado uno de los grabados?! \n¡Increíble! Si al final vas a acabar siendo útil.
+Aquí restauramos los grabados de Pokémon que encontramos en las excavaciones.
+Aquí restauramos los grabados de Pokémon que encontramos en las excavaciones.
+Primero movemos con cuidado los fragmentos que están boca abajo y luego los recolocamos.\nDe este modo podemos restaurarlos y dejarlos como estaban originalmente.
+Primero movemos con cuidado los fragmentos que están boca abajo y luego los recolocamos.\nDe este modo podemos restaurarlos y dejarlos como estaban originalmente.
+¡Tyl!\wt[20]
+¡Tyl!\wt[20]
+HO OH
+HO OH
+¡Eres tú!\n¿Que tal con la Tarjeta Unown? ¿Has atrapado alguno?
+¡Eres tú!\n¿Que tal con la Tarjeta Unown? ¿Has atrapado alguno?
+Veamos... has atrapado \v[1] Unown distintos.
+Veamos... has atrapado \v[1] Unown distintos.
+¡Increíble, los has atrapado a todos!
+¡Increíble, los has atrapado a todos!
+¡Esto merece una recompensa, sí señor!
+¡Esto merece una recompensa, sí señor!
+Los grabados en las paredes de las ruinas son la clave del misterio.\nO al menos eso creo...
+Los grabados en las paredes de las ruinas son la clave del misterio.\nO al menos eso creo...
+Sí
+Sí
+No
+No
+[Map52]
+\w[menuskin]\C[8]No parece que pueda abrirse...
+\w[menuskin]\C[8]No parece que pueda abrirse...
+Es como si hubieras caído del cielo...\n¡Has resuelto el enigma de los grabados! \n¡Impresionante!
+Es como si hubieras caído del cielo...\n¡Has resuelto el enigma de los grabados! \n¡Impresionante!
+Un genio de la arqueología como tú debería tener esta tarjeta para el Pokégear.
+Un genio de la arqueología como tú debería tener esta tarjeta para el Pokégear.
+\w[menuskin]\C[8]¡\PN ha obtenido Tarjeta Unown!
+\w[menuskin]\C[8]¡\PN ha obtenido Tarjeta Unown!
+\w[menuskin]\C[8]Insertas la tarjeta Unown en el Pokégear.
+\w[menuskin]\C[8]Insertas la tarjeta Unown en el Pokégear.
+Es una tarjeta muy práctica que registra la información automáticamente cada vez que atrapas un Unown.
+Es una tarjeta muy práctica que registra la información automáticamente cada vez que atrapas un Unown.
+\w[menuskin]\C[8]Percibo una rara presencia...
+\w[menuskin]\C[8]Percibo una rara presencia...
+\tg[Verde]Así que esta es la puerta...
+\tg[Verde]Así que esta es la puerta...
+\tg[Verde]Bien, déjame echarle un vistazo. \n¡Veras como puedo abrirla!
+\tg[Verde]Bien, déjame echarle un vistazo. \n¡Veras como puedo abrirla!
+\tg[Verde]¡Y abierta!
+\tg[Verde]¡Y abierta!
+\tg[Verde]¿Qué cómo?\nEs un secreto, je, je.
+\tg[Verde]¿Qué cómo?\nEs un secreto, je, je.
+\tg[Verde]Veamos que hay detrás...
+\tg[Verde]Veamos que hay detrás...
+[Map155]
+Las ruinas no muestran signos de saqueo o vandalismo.
+Las ruinas no muestran signos de saqueo o vandalismo.
+Raras veces se encuentran ruinas que se conservan en tan buen estado.\nDefinitivamente tengo el presentimiento de que hay algo fuera de lo común.
+Raras veces se encuentran ruinas que se conservan en tan buen estado.\nDefinitivamente tengo el presentimiento de que hay algo fuera de lo común.
+No sé...\nHe pasado muchos años estudiando las ruinas, pero esta vez siento que hay algo inusual...
+No sé...\nHe pasado muchos años estudiando las ruinas, pero esta vez siento que hay algo inusual...
+¡Uaaah!\nLos Unown grabados en las paredes... \n¡Es como si hubieran clavado la mirada en mí!...
+¡Uaaah!\nLos Unown grabados en las paredes... \n¡Es como si hubieran clavado la mirada en mí!...
+¡¿Qu-qué sucede?!\nNoto una presencia siniestra... y... me... me... ¡me tiemblan las piernas!
+¡¿Qu-qué sucede?!\nNoto una presencia siniestra... y... me... me... ¡me tiemblan las piernas!
+¡Guau! ¡Eso ha sido alucinante!\n¡Te has esfumado de repente delante de mis narices! ¡Menudo susto me has dado!
+¡Guau! ¡Eso ha sido alucinante!\n¡Te has esfumado de repente delante de mis narices!  ¡Menudo susto me has dado!
+Ya lo entiendo...\nAl confluir el poder de Arceus y los Unown, se ha liberado una gran energía que te ha transportado a las Ruinas de Sinjoh.
+Ya lo entiendo...\nAl confluir el poder de Arceus y los Unown, se ha liberado una gran energía que te ha transportado a las Ruinas de Sinjoh.
+Los Unown y las Ruinas Alfa y Arceus... ¡El misterio se complica cada vez más!\n¡La curiosidad me está matando!\n¡Juro que un día desvelaré este misterio!
+Los Unown y las Ruinas Alfa y Arceus... ¡El misterio se complica cada vez más!\n¡La curiosidad me está matando!\n¡Juro que un día desvelaré este misterio!
+\w[menuskin]\C[8]No parece que pueda abrirse...
+\w[menuskin]\C[8]No parece que pueda abrirse...
+CUAL ES EL PRINCIPIO<<n>>DEL TODO?
+CUAL ES EL PRINCIPIO <<n>>DEL TODO?
+\w[menuskin]\C[8]Las marcas brillan esperando una palabra...
+\w[menuskin]\C[8]Las marcas brillan esperando una palabra...
+ORIGEN
+ORIGEN
+\w[menuskin]\C[8]Las marcas brillan con más intensidad.
+\w[menuskin]\C[8]Las marcas brillan con más intensidad.
+\w[menuskin]\C[8]Pero no pasa nada...
+\w[menuskin]\C[8]Pero no pasa nada...
+Esta sala es muy grande, pero aquí no hay nada.
+Esta sala es muy grande, pero aquí no hay nada.
+Bueno, estoy yo, supongo...
+Bueno, estoy yo, supongo...
+Y tú, claro...
+Y tú, claro...
+Y los Unown, sí...
+Y los Unown, sí...
+\tg[Verde]"¿CUÁL ES EL PRINCIPIO DE TODO?"
+\tg[Verde]"¿CUÁL ES EL PRINCIPIO DE TODO?"
+\tg[Verde]Ummm... pues el principio de todo deber ser el Origen, ¿no?
+\tg[Verde]Ummm... pues el principio de todo deber ser el Origen, ¿no?
+\tg[Verde]¡Prueba a escribir esa palabra cuando puedas!
+\tg[Verde]¡Prueba a escribir esa palabra cuando puedas!
+\tg[Verde]¿Qué hay un escrito en Unown?\n¿Y qué dice?\..\..\..
+\tg[Verde]¿Qué hay un escrito en Unown?\n¿Y qué dice?\..\..\..
+\tg[Verde]Bueno, deja, mejor le echo un ojo yo.
+\tg[Verde]Bueno, deja, mejor le echo un ojo yo.
+\tg[Verde]Parece que pone...\n"¿CUÁL ES EL PRINCIPIO DE TODO?"
+\tg[Verde]Parece que pone...\n"¿CUÁL ES EL PRINCIPIO DE TODO?"
+\tg[Verde]Ummm... quizás si obtenemos más información sobre distintos tipos de Unown podemos escribir una palabra para responder, ¡venga a currar!
+\tg[Verde]Ummm... quizás si obtenemos más información sobre distintos tipos de Unown podemos escribir una palabra para responder, ¡venga a currar!
+\tg[Verde]Que sala más grande...
+\tg[Verde]Que sala más grande...
+\tg[Verde]Estoy segura de que hay que hacer algo con ese pilar misterioso en el centro.\n¿Por qué no le echas un ojo?
+\tg[Verde]Estoy segura de que hay que hacer algo con ese pilar misterioso en el centro.\n¿Por qué no le echas un ojo?
+\tg[Verde]¡\PN! ¡Estas bien!
+\tg[Verde]¡\PN! ¡Estas bien!
+\tg[Verde]No se lo que hiciste, ¡pero cuando activaste el pilar los Unown de las ruinas se volvieron locos!
+\tg[Verde]No se lo que hiciste, ¡pero cuando activaste el pilar los Unown de las ruinas se volvieron locos!
+\tg[Verde]¡Y de pronto ya no estabas!
+\tg[Verde]¡Y de pronto ya no estabas!
+\tg[Verde]¿Que ha ocurrido ahí? Venga, cuenta.
+\tg[Verde]¿Que ha ocurrido ahí? Venga, cuenta.
+\tg[Verde]Así que Arceus, eh.\nEl Pokémon Alfa.
+\tg[Verde]Así que Arceus, eh.\nEl Pokémon Alfa.
+\tg[Verde]Jo, ya me gustaria a mi haberlo atrapado...\nBueno, qué se le va a hacer.
+\tg[Verde]Jo, ya me gustaria a mi haberlo atrapado...\nBueno, qué se le va a hacer.
+\tg[Verde]¡Eh, tengo una idea genial!\n¡Si te atrapo a ti, de rebote tendré a Arceus!
+\tg[Verde]¡Eh, tengo una idea genial!\n¡Si te atrapo a ti, de rebote tendré a Arceus!
+\tg[Verde]Je, je, es una broma.
+\tg[Verde]Je, je, es una broma.
+\tg[Verde]<s>O no</s>
+\tg[Verde]<s>O no</s>
+\tg[Verde]En fin, yo me marcho ya. Al menos he recabado información sobre los Unown para el Profesor.
+\tg[Verde]En fin, yo me marcho ya. Al menos he recabado información sobre los Unown para el Profesor.
+\tg[Verde]¡Nos vemos!
+\tg[Verde]¡Nos vemos!
+Aquí hay algo... ¿Cómo lo diría?
+Aquí hay algo... ¿Cómo lo diría?
+¿Sagrado?\n¿Histórico?\n¿Perturbador? \n¿Ancestral?\n¿Solemne?\n¿Mohoso?\nBueno, algo místico por decirlo de alguna manera.
+¿Sagrado?\n¿Histórico?\n¿Perturbador? \n¿Ancestral?\n¿Solemne?\n¿Mohoso?\nBueno, algo místico por decirlo de alguna manera.

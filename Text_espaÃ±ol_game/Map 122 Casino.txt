@@ -1,0 +1,166 @@
+﻿# Maps grouped under: Casino (Highest ID: 122)
+[Map122]
+¡Mi nombre es Sr. Juego!
+¡Mi nombre es Sr. Juego!
+¡Mi corazón salta de emoción cuando la gente disfruta de mis juegos de monedas!
+¡Mi corazón salta de emoción cuando la gente disfruta de mis juegos de monedas!
+¡De hecho, es por lo que vivo!\n¡Adelante y disfruta!
+¡De hecho, es por lo que vivo!\n¡Adelante y disfruta!
+¡Haz que mi corazón salte de emoción!
+¡Haz que mi corazón salte de emoción!
+¡Adelante y prueba mi juego de fichas!
+¡Adelante y prueba mi juego de fichas!
+¡Gimme!\wt[10]
+¡Gimme!\wt[10]
+¡Hic! ¡La Legión de César me está buscando! ¡Hic!
+¡Hic! ¡La Legión de César me está buscando!  ¡Hic!
+¡Osea, tía! ¡Me están estafando!
+¡Osea, tía! ¡Me están estafando!
+¡Paquetería Mojave Express! ¡Tenemos un paquete para usted!\n¡Pero no tiene monedero, así que por ahora me lo quedo!
+¡Paquetería Mojave Express! ¡Tenemos un paquete para usted!\n¡Pero no tiene monedero, así que por ahora me lo quedo!
+¡Paquetería Mojave Express! ¡Tenemos un paquete para usted!
+¡Paquetería Mojave Express! ¡Tenemos un paquete para usted!
+\w[menuskin]\C[8]¡Has obtenido 1 Ficha!\wtnp[30]
+\w[menuskin]\C[8]¡Has obtenido 1 Ficha!\wtnp[30]
+¡Paquetería Mojave Express! ¡No tenemos paquetes!\n¡Muchas gracias!
+¡Paquetería Mojave Express! ¡No tenemos paquetes!\n¡Muchas gracias!
+Lo he perdido todo, incluidas las ganas de vivir.
+Lo he perdido todo, incluidas las ganas de vivir.
+Toma, una muestra de mi desprecio a la vida misma.
+Toma, una muestra de mi desprecio a la vida misma.
+\w[menuskin]\C[8]¡Has obtenido 50 Fichas!
+\w[menuskin]\C[8]¡Has obtenido 50 Fichas!
+Todo va acabar pronto...
+Todo va acabar pronto...
+¡Eh, no tienes un monedero! ¡Sin uno no juegas!
+¡Eh, no tienes un monedero! ¡Sin uno no juegas!
+¡Esto es el Casino Trigal! O como lo llamo yo, el Casiperono.
+¡Esto es el Casino Trigal! O como lo llamo yo, el Casiperono.
+¿Que quién soy? ¡El dueño del Casino Trigal!
+¿Que quién soy? ¡El dueño del Casino Trigal!
+Bueno...\nEn realidad solo soy el hijo de la dueña...\nPero por el sistema de transmisión de poderes eso me hace\..\..\.. ¿el vicedueño\..\..\..\.?
+Bueno...\nEn realidad solo soy el hijo de la dueña...\nPero por el sistema de transmisión de poderes eso me hace\..\..\.. ¿el vicedueño\..\..\..\.?
+¡Toma, un regalito por venir!
+¡Toma, un regalito por venir!
+¡Casino Trigal! ¡Donde las carteras y las copas se vacían!
+¡Casino Trigal! ¡Donde las carteras y las copas se vacían!
+Soy... un hombre enamorado y me llamo Carlos.
+Soy... un hombre enamorado y me llamo Carlos.
+Estoy preparando frases para llamar la atención de mi amada.
+Estoy preparando frases para llamar la atención de mi amada.
+Algunos las llaman "fichas", así que he decidido venir a un lugar lleno de ellas para pensar.
+Algunos las llaman "fichas", así que he decidido venir a un lugar lleno de ellas para pensar.
+¿Quieres escuchar una?
+¿Quieres escuchar una?
+\..\..\..
+\..\..\..
+No soy ingeniero, pero puedo construir un puente entre tu corazón y el mío.
+No soy ingeniero, pero puedo construir un puente entre tu corazón y el mío.
+¿Te acabas de escapar de un cuadro? Porque eres una obra de arte.
+¿Te acabas de escapar de un cuadro? Porque eres una obra de arte.
+¿Tu belleza viene con garantía o es por tiempo limitado?
+¿Tu belleza viene con garantía o es por tiempo limitado?
+¿Eres un microondas? Porque BRRRRRRRR.
+¿Eres un microondas? Porque BRRRRRRRR.
+Eres como la gravedad, porque cuando me acerco a ti me pongo a tus pies.
+Eres como la gravedad, porque cuando me acerco a ti me pongo a tus pies.
+¿Eres una bruja? Porque es como si me hubieses hechizado.
+¿Eres una bruja? Porque es como si me hubieses hechizado.
+No soy meteorólogo, pero creo que contigo vienen altas temperaturas.
+No soy meteorólogo, pero creo que contigo vienen altas temperaturas.
+El amor será ciego, pero hay que ver lo mucho que alegras la vista.
+El amor será ciego, pero hay que ver lo mucho que alegras la vista.
+¿Tienes algo que hacer? Podemos hacer turismo por mi cuarto.
+¿Tienes algo que hacer? Podemos hacer turismo por mi cuarto.
+Pasa por la sombra que los bombones al sol se derriten.
+Pasa por la sombra que los bombones al sol se derriten.
+No soy donante de órganos, pero me gustaría darte mi corazón.
+No soy donante de órganos, pero me gustaría darte mi corazón.
+Por un pastelito como tú rompería mi dieta.
+Por un pastelito como tú rompería mi dieta.
+A un loco como yo le hace falta un tornillo como tú.
+A un loco como yo le hace falta un tornillo como tú.
+Ojalá fuera bizco para verte dos veces.
+Ojalá fuera bizco para verte dos veces.
+Mi color favorito siempre es verte.
+Mi color favorito siempre es verte.
+Eso es carne y no la que le pone mi madre al guiso.
+Eso es carne y no la que le pone mi madre al guiso.
+Me encantaría ser patata frita para poder acompañar ese lomo.
+Me encantaría ser patata frita para poder acompañar ese lomo.
+Tú con tantas curvas y yo sin frenos.
+Tú con tantas curvas y yo sin frenos.
+Si se juntan los mares con los ríos, ¿por qué no juntar tu cuerpo con el mío?
+Si se juntan los mares con los ríos, ¿por qué no juntar tu cuerpo con el mío?
+Me gustaría ser pirata, no por el oro ni por la plata, sino por lo que tienes entre pata y pata.
+Me gustaría ser pirata, no por el oro ni por la plata, sino por lo que tienes entre pata y pata.
+Quién fuera crema para derretirse en tu piel.
+Quién fuera crema para derretirse en tu piel.
+¿Crees en al amor a primera vista o tengo que volver a pasar?
+¿Crees en al amor a primera vista o tengo que volver a pasar?
+¿Eres un préstamo? ¡Tienes todo mi interés!
+¿Eres un préstamo? ¡Tienes todo mi interés!
+Perdí mi número... ¿Puedo tener el tuyo?
+Perdí mi número... ¿Puedo tener el tuyo?
+Préstame un beso, prometo devolvértelo.
+Préstame un beso, prometo devolvértelo.
+Debes ser artista, porque acabas de dibujar una sonrisa en mi cara.
+Debes ser artista, porque acabas de dibujar una sonrisa en mi cara.
+Quién fuera teclado para que me tocases todo el día.
+Quién fuera teclado para que me tocases todo el día.
+¿Viajas en el tiempo? Porque te veo en mi futuro.
+¿Viajas en el tiempo? Porque te veo en mi futuro.
+Vaya bombón... ¡y yo diabético!
+Vaya bombón... ¡y yo diabético!
+<<[>>...<<]>>
+<<[>>...<<]>>
+Como quieras.\nSoy... un hombre enamorado y me llamo Carlos.
+Como quieras.\nSoy... un hombre enamorado y me llamo Carlos.
+Los niños no deberíamos jugar a cosas de adultos...
+Los niños no deberíamos jugar a cosas de adultos...
+¡La leche! ¡Tres Pikachu de seguido!\n¡Familia, hoy se cena!
+¡La leche! ¡Tres Pikachu de seguido!\n¡Familia, hoy se cena!
+\G\CN¡Esto es el Casino Trigal!
+\G\CN¡Esto es el Casino Trigal!
+\G\CN¿Necesitas algunas Fichas?\n¿Quieres comprar algunas?
+\G\CN¿Necesitas algunas Fichas?\n¿Quieres comprar algunas?
+\G\CN¿No tienes un Monedero? Vaya desperdicio...
+\G\CN¿No tienes un Monedero? Vaya desperdicio...
+\G\CNHay un señor por aquí que los reparte.\nVuelve cuando tengas uno.
+\G\CNHay un señor por aquí que los reparte.\nVuelve cuando tengas uno.
+\G\CN¿Necesitas algunas monedas?\n¿Quieres comprar algunas?
+\G\CN¿Necesitas algunas monedas?\n¿Quieres comprar algunas?
+\G\CN¡Uff!\nTu Monedero está lleno.
+\G\CN¡Uff!\nTu Monedero está lleno.
+\G\CNNo puedes llevar más monedas.
+\G\CNNo puedes llevar más monedas.
+\G\CNGracias\n¡Ten tus fichas!
+\G\CNGracias\n¡Ten tus fichas!
+\w[menuskin]\C[8]¡Has obtenido 500 Fichas!
+\w[menuskin]\C[8]¡Has obtenido 500 Fichas!
+\G\CN¿No?\n¡Vuelve otra vez!
+\G\CN¿No?\n¡Vuelve otra vez!
+Acabo de perder 300000$ en las tragaperras. ¡Y voy a perder más ahora mismito!
+Acabo de perder 300000$ en las tragaperras. ¡Y voy a perder más ahora mismito!
+Je... ¿Sabías que los casinos del resto de regiones están cerrados desde hace años? ¡Hic!
+Je... ¿Sabías que los casinos del resto de regiones están cerrados desde hace años? ¡Hic!
+A ciertas organizaciones no les gusta que los niños apuesten.\n¡Pero esto es Johto, chavales! ¡Hic!
+A ciertas organizaciones no les gusta que los niños apuesten.\n¡Pero esto es Johto, chavales!  ¡Hic!
+He oído que Gimmighoul necesita de unas monedas especiales para evolucionar...\n¡Pero parece que las fichas también le gustan!
+He oído que Gimmighoul necesita de unas monedas especiales para evolucionar...\n¡Pero parece que las fichas también le gustan!
+Si consigo las suficientes... quizás...
+Si consigo las suficientes... quizás...
+Los monjes cultivamos nuestra alma como cultivamos nuestro cuerpo.
+Los monjes cultivamos nuestra alma como cultivamos nuestro cuerpo.
+¡Con vicio! ¡Camarera, otra copichuela!
+¡Con vicio! ¡Camarera, otra copichuela!
+Sí
+Sí
+No
+No
+50 fichas [1.000$]
+50 fichas [1.000$]
+500 fichas [10.000$]
+500 fichas [10.000$]
+Salir
+Salir

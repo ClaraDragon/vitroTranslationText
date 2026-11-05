@@ -1,0 +1,749 @@
+﻿# FRONTIER_INTRO_SPEECHES
+# To localize this text, translate every second line.
+[15]
+¿Quieres unirte a mi culto? La fe del redondo Marill, solo cuesta tu alma.
+¿Quieres unirte a mi culto? La fe del redondo Marill, solo cuesta tu alma.
+¿Has oído hablar del famoso fangame de Pokémon de nombre POKÉMON SPHYNX? Lo has escuchado bien, POKÉMON SPHYNX. ¡Ya disponible en PokéLiberty!
+¿Has oído hablar del famoso fangame de Pokémon de nombre POKÉMON SPHYNX? Lo has escuchado bien, POKÉMON SPHYNX. ¡Ya disponible en PokéLiberty!
+He roto con mi novio, estoy harta de todo.
+He roto con mi novio, estoy harta de todo.
+Si la vida te da limones, págale a alguien para que te haga limonada.
+Si la vida te da limones, págale a alguien para que te haga limonada.
+Mmmh dados.
+Mmmh dados.
+Vengo de una lejana región estudiando las leyendas de mi región natal que me han guiado a Johto.
+Vengo de una lejana región estudiando las leyendas de mi región natal que me han guiado a Johto.
+¿Seguro que quieres luchar? Perfecto, necesitaba reírme un poco.
+¿Seguro que quieres luchar? Perfecto, necesitaba reírme un poco.
+Me encantan las plandemias... y el té.
+Me encantan las plandemias... y el té.
+Hoy entrené dos horas de pecho, ah, que tenía que ver.
+Hoy entrené dos horas de pecho, ah, que tenía que ver.
+Vas a probar lo que es el verdadero 'high level performance'
+Vas a probar lo que es el verdadero 'high level performance'
+¿Listo para el enfrentamiento?
+¿Listo para el enfrentamiento?
+No se si puedo ganar, ¡Pero dare lo mejor de mi!
+No se si puedo ganar, ¡Pero dare lo mejor de mi!
+¡Nana nananana, nanananana, nana nananana, Ghost Busters!
+¡Nana nananana, nanananana, nana nananana, Ghost Busters!
+Cada persona y sus pokemons son una extension de como es su personalidad.
+Cada persona y sus pokemons son una extension de como es su personalidad.
+Puedo sentir todo el poder que has acumulado... Pero basta de charla. Acabemos con lo que tenemos que hacer.
+Puedo sentir todo el poder que has acumulado... Pero basta de charla. Acabemos con lo que tenemos que hacer.
+¿Por qué nadie me dijo lo complicado que es aprender a hacer snow?
+¿Por qué nadie me dijo lo complicado que es aprender a hacer snow?
+Hey chicos, ¿sabían que...
+Hey chicos, ¿sabían que...
+¡Te voy a enseñar cómo se ve una batalla en su mejor punto!
+¡Te voy a enseñar cómo se ve una batalla en su mejor punto!
+Sabía que volveríamos a encontrarnos.
+Sabía que volveríamos a encontrarnos.
+¡Las batallas son como las carreras, uno nunca sabe quién será el ganador!
+¡Las batallas son como las carreras, uno nunca sabe quién será el ganador!
+La belleza está en el interior de cada uno.
+La belleza está en el interior de cada uno.
+¡Porque las cartas siempre están a mi favor! Joker paga su apuesta y la sube.
+¡Porque las cartas siempre están a mi favor! Joker paga su apuesta y la sube.
+Soy... un hombre enamorado y me llamo Carlos. He cogido el metro de Ciudad Mayólica y se me ha pasado la parada. Ya que estoy aquí, libraré un combate Pokémon contigo.
+Soy... un hombre enamorado y me llamo Carlos. He cogido el metro de Ciudad Mayólica y se me ha pasado la parada. Ya que estoy aquí, libraré un combate Pokémon contigo.
+¡Mira, mamá, salgo en un juego!
+¡Mira, mamá, salgo en un juego!
+Te desharé… como algodón de azúcar bajo el agua.
+Te desharé… como algodón de azúcar bajo el agua.
+No quiero trabajar, estoy en el paro y qué bien se vive así.
+No quiero trabajar, estoy en el paro y qué bien se vive así.
+¡Hagamos volar este sitio!
+¡Hagamos volar este sitio!
+Soy alérgico a las plumas, por eso no uso Pokémon pájaro.
+Soy alérgico a las plumas, por eso no uso Pokémon pájaro.
+Quiero que lo des todo en nuestra batalla.
+Quiero que lo des todo en nuestra batalla.
+Mis Pokémon pájaro están a tope, ¿luchamos?
+Mis Pokémon pájaro están a tope, ¿luchamos?
+¿Sabes? Soy el mejor entrenador Pokémon, he ganado más combates que cualquiera y tú estarás en esa lista porque no me vas a ganar.
+¿Sabes? Soy el mejor entrenador Pokémon, he ganado más combates que cualquiera y tú estarás en esa lista porque no me vas a ganar.
+Buenas, entrenador, ¿estás listo para esta táctica especial?
+Buenas, entrenador, ¿estás listo para esta táctica especial?
+Bueno, acabemos esto rápido.
+Bueno, acabemos esto rápido.
+Soy un therian, me identifico como una navajita del Puerto de Santa María.
+Soy un therian, me identifico como una navajita del Puerto de Santa María.
+Listo para elevar la tensión de un buen fragor de batalla.
+Listo para elevar la tensión de un buen fragor de batalla.
+Quita de en medio, friki.
+Quita de en medio, friki.
+Estoy buscando a mi amigo Alberake.
+Estoy buscando a mi amigo Alberake.
+Hay un rival en mi pueblo al que me gustaría derrotar, ¿me ayudarías a entrenar?
+Hay un rival en mi pueblo al que me gustaría derrotar, ¿me ayudarías a entrenar?
+Dar cera, pulir cera.
+Dar cera, pulir cera.
+Estoy nervioso, no sé ni qué decir.
+Estoy nervioso, no sé ni qué decir.
+Te voy a dar una paliza.
+Te voy a dar una paliza.
+Espero que conozcas a tus Pokémon para darme reto.
+Espero que conozcas a tus Pokémon para darme reto.
+No he cogido una tabla de esquí en mi vida, Julio...
+No he cogido una tabla de esquí en mi vida, Julio...
+Venga, acabemos rápido, que tengo que coger un tren para Paldea.
+Venga, acabemos rápido, que tengo que coger un tren para Paldea.
+He buscado por distintas regiones a mi equipo Pokémon. ¡Veamos qué clase de equipo tienes!
+He buscado por distintas regiones a mi equipo Pokémon. ¡Veamos qué clase de equipo tienes!
+Si gano este combate me retiro.
+Si gano este combate me retiro.
+¡Ahora es mi turno! No te voy a mentir, estoy un poco nervioso. ¡Adelante, da todo lo que tengas!
+¡Ahora es mi turno! No te voy a mentir, estoy un poco nervioso. ¡Adelante, da todo lo que tengas!
+¡Te destrozaré con mi poder infernal!
+¡Te destrozaré con mi poder infernal!
+Puede que no todos mis Pokémon sean de tipo Bicho, pero aun así soy el cazabichos supremo.
+Puede que no todos mis Pokémon sean de tipo Bicho, pero aun así soy el cazabichos supremo.
+Aquí viene el único fan de los Pokémon Bicho en el mundo.
+Aquí viene el único fan de los Pokémon Bicho en el mundo.
+Una abejita, seguro me quiere picar...
+Una abejita, seguro me quiere picar...
+Illo, lo de que tenga que luchar contra la reencarnación del Dandy de Paldea, qué locura.
+Illo, lo de que tenga que luchar contra la reencarnación del Dandy de Paldea, qué locura.
+Turiqui taca tí, turiqui taca TA.
+Turiqui taca tí, turiqui taca TA.
+Buena po' larva, ¿nos agarramos a turbo tunasos?
+Buena po' larva, ¿nos agarramos a turbo tunasos?
+Mezzamero.
+Mezzamero.
+Prepárate para sufrir.
+Prepárate para sufrir.
+No sé cómo llegué aquí, creo que estoy perdido. ¿Me podrías ayudar?
+No sé cómo llegué aquí, creo que estoy perdido. ¿Me podrías ayudar?
+¡YO ROBO PORQUE LOS POKÉMON SON MONOS!
+¡YO ROBO PORQUE LOS POKÉMON SON MONOS!
+Demuéstrame si vales el esfuerzo de estar aquí.
+Demuéstrame si vales el esfuerzo de estar aquí.
+Enga, vas a ver de lo que es capaz el cero absoluto.
+Enga, vas a ver de lo que es capaz el cero absoluto.
+¿Quieres saber el final de One Piece? Si me ganas te lo digo…
+¿Quieres saber el final de One Piece? Si me ganas te lo digo…
+¿Alguna vez has probado el Pokémon Bizarre? Recomendadísimo.
+¿Alguna vez has probado el Pokémon Bizarre? Recomendadísimo.
+Debes de ser fuerte si has decidido tomar este desafío. ¿Estás listo? ¡Luchemos!
+Debes de ser fuerte si has decidido tomar este desafío. ¿Estás listo? ¡Luchemos!
+Buenas, entrenador, ¿me dejarías ver tu equipo Pokémon más de cerca?
+Buenas, entrenador, ¿me dejarías ver tu equipo Pokémon más de cerca?
+¡ES LA HORA! Del du-du-du-duelo.
+¡ES LA HORA! Del du-du-du-duelo.
+Lástima no se le tiene a nadie, maestro. Si le tenés bronca, pelea, pero lástima a nadie.
+Lástima no se le tiene a nadie, maestro. Si le tenés bronca, pelea, pero lástima a nadie.
+La velocidad es la clave de las batallas Pokémon.
+La velocidad es la clave de las batallas Pokémon.
+Veamos de qué eres capaz.
+Veamos de qué eres capaz.
+¡WEEEEEENA HERMANO! Vine a robarme tu racha de victorias. Quédate quietito nomás.
+¡WEEEEEENA HERMANO! Vine a robarme tu racha de victorias. Quédate quietito nomás.
+¿Te gustaría hacer una donación a mi causa?
+¿Te gustaría hacer una donación a mi causa?
+¿Tú también caíste aquí por error?
+¿Tú también caíste aquí por error?
+No tendrás ni la más mínima posibilidad contra mi equipo.
+No tendrás ni la más mínima posibilidad contra mi equipo.
+He viajado por muchas regiones y he conseguido mucha experiencia. ¡Así que lo pondré en práctica contigo!
+He viajado por muchas regiones y he conseguido mucha experiencia. ¡Así que lo pondré en práctica contigo!
+Hola, soy Courtney, la nueva as de la Fábrica Batalla. Vine aquí a pulir mi técnica.
+Hola, soy Courtney, la nueva as de la Fábrica Batalla. Vine aquí a pulir mi técnica.
+Vengo desde Teselia, vencedora del Torneo de Campeones del Pokémon World Tournament y… ¡esta Torre será territorio conquistado!
+Vengo desde Teselia, vencedora del Torneo de Campeones del Pokémon World Tournament y… ¡esta Torre será territorio conquistado!
+Muchos entrenadores se pasan la vida preocupándose por tener el equipo Pokémon más fuerte, cuando lo más importante es combatir junto a tus favoritos. ¡Hasta una ladrona como yo sabe eso!
+Muchos entrenadores se pasan la vida preocupándose por tener el equipo Pokémon más fuerte, cuando lo más importante es combatir junto a tus favoritos. ¡Hasta una ladrona como yo sabe eso!
+Demostremos el vínculo con nuestras monadas.
+Demostremos el vínculo con nuestras monadas.
+Quiero ser entrenador y junto a los Digimon... Espera, que esto es Pokémon. Bueno, vamos a lo importante, ¡a la batalla!
+Quiero ser entrenador y junto a los Digimon... Espera, que esto es Pokémon. Bueno, vamos a lo importante, ¡a la batalla!
+¡He viajado a muchas regiones, espero tener una buena pelea!
+¡He viajado a muchas regiones, espero tener una buena pelea!
+Me envía una organización desde Sinnoh.
+Me envía una organización desde Sinnoh.
+¡Hola, camboya!
+¡Hola, camboya!
+El pasado está escrito en piedra, pero el futuro se puede cambiar.
+El pasado está escrito en piedra, pero el futuro se puede cambiar.
+Bienvenido al duelo.
+Bienvenido al duelo.
+He venido de Alola para mostrarte el poder de los Pokémon de mi región.
+He venido de Alola para mostrarte el poder de los Pokémon de mi región.
+¿Te gustan los unicornios?
+¿Te gustan los unicornios?
+Estoy muy aburrida. ¿Tienes algo bueno para mí hoy?
+Estoy muy aburrida. ¿Tienes algo bueno para mí hoy?
+Veo que eres un entrenador fuerte, ¿me das el honor de combatir contra ti?
+Veo que eres un entrenador fuerte, ¿me das el honor de combatir contra ti?
+Mi oficio no es someter a la bestia, es despertar al aliado que lleva dentro.
+Mi oficio no es someter a la bestia, es despertar al aliado que lleva dentro.
+¡Venga, demuéstrame lo que vales!
+¡Venga, demuéstrame lo que vales!
+Lo hermoso de los combates Pokémon es tratar de anticiparse a la estrategia de tus oponentes. Así que prepárate, esto no será fácil.
+Lo hermoso de los combates Pokémon es tratar de anticiparse a la estrategia de tus oponentes. Así que prepárate, esto no será fácil.
+¡Vamos, que estoy hirviendo!
+¡Vamos, que estoy hirviendo!
+Espero que estés listo… mis Pokémon no pierden el tiempo.
+Espero que estés listo… mis Pokémon no pierden el tiempo.
+Mis Pokémon te mostrarán la famosa 'Garra Charrúa'.
+Mis Pokémon te mostrarán la famosa 'Garra Charrúa'.
+Es hora de que pongas los pies en la tierra.
+Es hora de que pongas los pies en la tierra.
+No sé qué significa rendirse, ¿podrías explicarme?
+No sé qué significa rendirse, ¿podrías explicarme?
+Veo un oponente digno en ti. ¡Nuestra batalla será legendaria!
+Veo un oponente digno en ti. ¡Nuestra batalla será legendaria!
+Soy un gran fan de los Pokémon bonitos, deja que te lo demuestre.
+Soy un gran fan de los Pokémon bonitos, deja que te lo demuestre.
+¿De verdad tengo que hacer esto?
+¿De verdad tengo que hacer esto?
+Me han montado una falla debajo de casa y estoy bastante enfadado, lo vas a pagar tú.
+Me han montado una falla debajo de casa y estoy bastante enfadado, lo vas a pagar tú.
+Somos la misma persona pero en diferentes cuerpos...
+Somos la misma persona pero en diferentes cuerpos...
+Al parecer esta Torre no conlleva algún desafío por el cual deba preocuparme. Espero que tú sí valgas la pena.
+Al parecer esta Torre no conlleva algún desafío por el cual deba preocuparme. Espero que tú sí valgas la pena.
+¡Quiero ver de qué estás hecho, vamos al lío!
+¡Quiero ver de qué estás hecho, vamos al lío!
+Qué aburrimiento... Oye, ¿qué te parece si terminamos con esto cuanto antes?
+Qué aburrimiento... Oye, ¿qué te parece si terminamos con esto cuanto antes?
+¡Soy Fernet Shock, el mejor entrenador del mundo!
+¡Soy Fernet Shock, el mejor entrenador del mundo!
+Has llegado más lejos que la mayoría… pero este es el límite.
+Has llegado más lejos que la mayoría… pero este es el límite.
+Los Capibaras son la cosa más adorable del mundo. Tan adorables como tu futura derrota.
+Los Capibaras son la cosa más adorable del mundo. Tan adorables como tu futura derrota.
+Hola, vengo a jugar un combate Pokémon, jojo.
+Hola, vengo a jugar un combate Pokémon, jojo.
+Estoy triste, mi Melilla volvió a perder. A ver si me doy una alegría ahora. ¡Sufre mi poder de mi Mufa!
+Estoy triste, mi Melilla volvió a perder. A ver si me doy una alegría ahora. ¡Sufre mi poder de mi Mufa!
+¡Hablaré de este combate en mi programa radial de fútbol!
+¡Hablaré de este combate en mi programa radial de fútbol!
+¿No es asombroso el cielo? No importa cuántas veces lo mires, nunca es el mismo dos veces. Este cielo de ahora solo existe en este instante.
+¿No es asombroso el cielo? No importa cuántas veces lo mires, nunca es el mismo dos veces. Este cielo de ahora solo existe en este instante.
+He venido desde Sinnoh y distintas regiones hasta llegar acá. ¡Sé que será genial!
+He venido desde Sinnoh y distintas regiones hasta llegar acá. ¡Sé que será genial!
+He oído que eres fuerte, ¡justo lo que buscaba! Demuéstrame de lo que eres capaz.
+He oído que eres fuerte, ¡justo lo que buscaba! Demuéstrame de lo que eres capaz.
+¡Hola! ¿Qué Pokémon escogiste?
+¡Hola! ¿Qué Pokémon escogiste?
+Bienvenido, ¿qué tal? ¿Listo para el combate?
+Bienvenido, ¿qué tal? ¿Listo para el combate?
+¿Tienes lo suficiente para superar este sendero de dolor?
+¿Tienes lo suficiente para superar este sendero de dolor?
+Pareces alguien fuerte, sin embargo tu recorrido tendrá que llegar hasta aquí.
+Pareces alguien fuerte, sin embargo tu recorrido tendrá que llegar hasta aquí.
+¿Qué te haces el malo mirándome con esa cara? Controla esos impulsos y comencemos esta batalla.
+¿Qué te haces el malo mirándome con esa cara? Controla esos impulsos y comencemos esta batalla.
+Espero que tu equipo esté a la altura, yo no me pienso contener.
+Espero que tu equipo esté a la altura, yo no me pienso contener.
+Tengo 6 equipos distintos preparados para esta Torre.
+Tengo 6 equipos distintos preparados para esta Torre.
+Ja, no pasarás de mí.
+Ja, no pasarás de mí.
+Vamos a comprobar si llegaste aquí por suerte o por talento real.
+Vamos a comprobar si llegaste aquí por suerte o por talento real.
+He sido Campeón en Alola, Galar y Paldea y soy Rango Infinito en Ciudad Luminalia. No vas a poder conmigo.
+He sido Campeón en Alola, Galar y Paldea y soy Rango Infinito en Ciudad Luminalia. No vas a poder conmigo.
+Meowth es el mejor Pokémon.
+Meowth es el mejor Pokémon.
+¡Te ves fuerte, chico! Tal vez en otro momento podamos conversar, pero es momento de batallar.
+¡Te ves fuerte, chico! Tal vez en otro momento podamos conversar, pero es momento de batallar.
+¡Que sea una gran batalla, dalo todo!
+¡Que sea una gran batalla, dalo todo!
+Prepárate para tu derrota.
+Prepárate para tu derrota.
+Oh, ¿qué pasó?
+Oh, ¿qué pasó?
+Échale ganas y tengamos un buen combate.
+Échale ganas y tengamos un buen combate.
+Este combate me ayudará a decidir si hoy debí levantarme o no de la cama.
+Este combate me ayudará a decidir si hoy debí levantarme o no de la cama.
+¿Quieres saber cuánto vale tu coche?
+¿Quieres saber cuánto vale tu coche?
+Ven, ven, ya verás qué divertido.
+Ven, ven, ya verás qué divertido.
+¡¡Que sepas que no tengo ni un pelo de tonto!! ¡Ahora verás!
+¡¡Que sepas que no tengo ni un pelo de tonto!! ¡Ahora verás!
+Espero que te prepares, porque después que termine contigo quedarás igual de calvo que yo.
+Espero que te prepares, porque después que termine contigo quedarás igual de calvo que yo.
+Si gano, me saco la ESO.
+Si gano, me saco la ESO.
+¡Mira que no tengo ni un pelo de tonto!
+¡Mira que no tengo ni un pelo de tonto!
+Listo, vamos a ver de qué lado masca el Heliolisk.
+Listo, vamos a ver de qué lado masca el Heliolisk.
+Veremos si el RNG está de mi lado.
+Veremos si el RNG está de mi lado.
+A mí me pagaron por venir aquí, no te creas que entretenerte es gratis.
+A mí me pagaron por venir aquí, no te creas que entretenerte es gratis.
+El tiempo es un concepto ajeno a mi ente y mi estilo de combate.
+El tiempo es un concepto ajeno a mi ente y mi estilo de combate.
+¡Chu! Veamos qué tienes.
+¡Chu! Veamos qué tienes.
+Hace mucho no sentía esta euforia. ¡A combatir!
+Hace mucho no sentía esta euforia. ¡A combatir!
+Yo confío en la Fuerza.
+Yo confío en la Fuerza.
+¡Jojo! Un joven con energía. ¡Prepárate, porque el estilo de la Escuela Tortuga es más fuerte de lo que parece!
+¡Jojo! Un joven con energía. ¡Prepárate, porque el estilo de la Escuela Tortuga es más fuerte de lo que parece!
+¡SOY UNA GÁRGOLA!
+¡SOY UNA GÁRGOLA!
+¿Has traído protector solar?
+¿Has traído protector solar?
+¿Serás capaz de seguirme el juego?
+¿Serás capaz de seguirme el juego?
+El fuego es mi pasión, y con mis Pokémon te haré ceniza.
+El fuego es mi pasión, y con mis Pokémon te haré ceniza.
+Si no gano esto me tocará buscar trabajo.
+Si no gano esto me tocará buscar trabajo.
+Una gran tormenta se acerca. Alista tus Pokémon y veamos si eres capaz de atravesarla.
+Una gran tormenta se acerca. Alista tus Pokémon y veamos si eres capaz de atravesarla.
+¿Te enseño mi Gyarados?
+¿Te enseño mi Gyarados?
+Good luck.
+Good luck.
+Vas a pasar un mal rato.
+Vas a pasar un mal rato.
+Veamos si puedes divertirme con un buen combate.
+Veamos si puedes divertirme con un buen combate.
+Siempre es un buen día para pescar, ¿no crees?
+Siempre es un buen día para pescar, ¿no crees?
+Aquí Charly, tu experto medusólogo favorito.
+Aquí Charly, tu experto medusólogo favorito.
+¡Joker paga su apuesta y la sube! ¡Porque las cartas siempre están a mi favor!
+¡Joker paga su apuesta y la sube! ¡Porque las cartas siempre están a mi favor!
+Espero no perder de nuevo, no quisiera repetir más combates.
+Espero no perder de nuevo, no quisiera repetir más combates.
+He viajado por muchos lugares, muéstrame que los de esta región no son solo palabrería.
+He viajado por muchos lugares, muéstrame que los de esta región no son solo palabrería.
+Déjame observar tu narrativa.
+Déjame observar tu narrativa.
+Who you think you are, I am!
+Who you think you are, I am!
+He entrenado mucho para llegar hasta aquí...
+He entrenado mucho para llegar hasta aquí...
+En el mundo Pokémon, como en la vida, el aplomo lo es todo. Veamos si su espíritu está a la altura de su valentía.
+En el mundo Pokémon, como en la vida, el aplomo lo es todo. Veamos si su espíritu está a la altura de su valentía.
+¡Buenos días, mucha suerte!
+¡Buenos días, mucha suerte!
+¡Nunca vas a vencer a alguien como yo, prepárate!
+¡Nunca vas a vencer a alguien como yo, prepárate!
+Soy Batman.
+Soy Batman.
+No tengo mucho tiempo, espero que esto acabe rápido.
+No tengo mucho tiempo, espero que esto acabe rápido.
+He analizado todas mis derrotas anteriores y mi equipo está finalmente listo. No importa cuántos pisos hayas subido hoy, no voy a ser un simple escalón.
+He analizado todas mis derrotas anteriores y mi equipo está finalmente listo. No importa cuántos pisos hayas subido hoy, no voy a ser un simple escalón.
+He entrenado bajo tormentas y sol abrasador. ¡Demuéstrame que tu voluntad es igual de fuerte!
+He entrenado bajo tormentas y sol abrasador. ¡Demuéstrame que tu voluntad es igual de fuerte!
+Siempre se aprende algo en cualquier encuentro Pokémon.
+Siempre se aprende algo en cualquier encuentro Pokémon.
+Yo soy Álvaro, he viajado por todo el mundo buscando la fuerza con mis compañeros Pokémon. ¿Estás preparado para luchar contra ellos?
+Yo soy Álvaro, he viajado por todo el mundo buscando la fuerza con mis compañeros Pokémon. ¿Estás preparado para luchar contra ellos?
+Han sido 70 años desde mi último combate, veamos si puedo seguirte el ritmo.
+Han sido 70 años desde mi último combate, veamos si puedo seguirte el ritmo.
+Si quieres ganar aquí, tienes que superar más allá de tus límites, más allá del cielo y el espacio.
+Si quieres ganar aquí, tienes que superar más allá de tus límites, más allá del cielo y el espacio.
+Veremos si eres lo suficientemente bueno como para superarme.
+Veremos si eres lo suficientemente bueno como para superarme.
+Parece que este será otro sueño de una noche de verano.
+Parece que este será otro sueño de una noche de verano.
+Me gusta el tocino.
+Me gusta el tocino.
+Mis Pokémon suelen dar miedo... Veamos si es tu caso.
+Mis Pokémon suelen dar miedo... Veamos si es tu caso.
+Nada mejor que un buen combate para empezar el día.
+Nada mejor que un buen combate para empezar el día.
+¿Sabés por qué el Torchic cruzó la calle?
+¿Sabés por qué el Torchic cruzó la calle?
+Te enseñaré el poder de la evolución.
+Te enseñaré el poder de la evolución.
+¡Qué elegancia! Pero en la cancha es donde se ven los valientes. ¡Hágale, sin miedo!
+¡Qué elegancia! Pero en la cancha es donde se ven los valientes. ¡Hágale, sin miedo!
+Creo que te mostraré un poco de mi colección. Tengamos un combate entrañable, joven promesa.
+Creo que te mostraré un poco de mi colección. Tengamos un combate entrañable, joven promesa.
+Quería probar suerte en la Torre Batalla, así que he pedido prestados sus Pokémon a mis sirvientes.
+Quería probar suerte en la Torre Batalla, así que he pedido prestados sus Pokémon a mis sirvientes.
+Buen día, mi estimado. Espero que de antemano ponga todo de su parte para hacer de este combate algo lo más fructífero posible.
+Buen día, mi estimado. Espero que de antemano ponga todo de su parte para hacer de este combate algo lo más fructífero posible.
+Precaución, que llegaron los perros salvajes. No nos culpen de lo que pase.
+Precaución, que llegaron los perros salvajes. No nos culpen de lo que pase.
+Disculpe, ¿usted de casualidad no conoce al skibidi sigma?
+Disculpe, ¿usted de casualidad no conoce al skibidi sigma?
+Me gustan mis Pokémon como los cigarros, venenosos.
+Me gustan mis Pokémon como los cigarros, venenosos.
+Llevo una vida entrenando a estos, como decirles, amigos. Ahora nos mediremos frente a ti.
+Llevo una vida entrenando a estos, como decirles, amigos. Ahora nos mediremos frente a ti.
+El dinero no hace al entrenador, sino el entrenador al dinero.
+El dinero no hace al entrenador, sino el entrenador al dinero.
+Ahora vas a caer.
+Ahora vas a caer.
+Muchos creen que el tipo Hada es débil… hasta que los hace caer de rodillas. Soy Zequi. Y no necesito ser rudo para ser imparable.
+Muchos creen que el tipo Hada es débil… hasta que los hace caer de rodillas. Soy Zequi. Y no necesito ser rudo para ser imparable.
+Tengo unas maniobras en San Gregorio, acabaré contigo rapidito
+Tengo unas maniobras en San Gregorio, acabaré contigo rapidito
+¡Terminemos con esto rápido, que BaityBait subió nuevo vídeo!
+¡Terminemos con esto rápido, que BaityBait subió nuevo vídeo!
+Un combate es como una melodía, hay partes tristes y emocionantes.
+Un combate es como una melodía, hay partes tristes y emocionantes.
+Aunque la vida sea dura, debemos levantarnos y seguir luchando. ¡Espero que tengamos un gran combate!
+Aunque la vida sea dura, debemos levantarnos y seguir luchando. ¡Espero que tengamos un gran combate!
+¡No necesito ayuda de mis amigos para vencerte! ¡Vuelve a donde perteneces o prepárate para el combate!
+¡No necesito ayuda de mis amigos para vencerte! ¡Vuelve a donde perteneces o prepárate para el combate!
+La verdadera fuerza viene del vínculo con nuestros amigos Pokémon.
+La verdadera fuerza viene del vínculo con nuestros amigos Pokémon.
+¿Sabes? Los combates acá suelen ser a la mar de intensos. Espero que estés a la altura.
+¿Sabes? Los combates acá suelen ser a la mar de intensos. Espero que estés a la altura.
+Las miradas son la mejor forma de hablar.
+Las miradas son la mejor forma de hablar.
+¡Te enseñaré el poder del Triataque!
+¡Te enseñaré el poder del Triataque!
+¿Quieres oír un chiste malo?
+¿Quieres oír un chiste malo?
+¡No voy a mentir, no te lo pondré fácil!
+¡No voy a mentir, no te lo pondré fácil!
+¡Bienvenido, querido contrincante! Yo soy el magnífico Rumpiere, el malabarista de rubí. ¿Serás capaz de vencer a estas piedras preciosas? ¡Al combate!
+¡Bienvenido, querido contrincante! Yo soy el magnífico Rumpiere, el malabarista de rubí. ¿Serás capaz de vencer a estas piedras preciosas? ¡Al combate!
+Tío, me acabo de jugar todo el Ace Attorney y creo que estoy para gritar y apuntar a la gente. ¿Qué me dices?
+Tío, me acabo de jugar todo el Ace Attorney y creo que estoy para gritar y apuntar a la gente. ¿Qué me dices?
+Espera... este no es el centro comercial. ¡Es un combate! Y yo que ya me había emocionado pensando en las ofertas.
+Espera... este no es el centro comercial. ¡Es un combate! Y yo que ya me había emocionado pensando en las ofertas.
+¡A que no me vences! jejejejejeje
+¡A que no me vences! jejejejejeje
+¡Mi victoria está garantizada al diez mil millones por ciento!
+¡Mi victoria está garantizada al diez mil millones por ciento!
+Espera...esto no es Pokémon Showdown...
+Espera...esto no es Pokémon Showdown...
+¿Quieres ir por unos tacos con Don Poncho después del combate?
+¿Quieres ir por unos tacos con Don Poncho después del combate?
+Te ha tocado descubrir cómo funciona la mafia.
+Te ha tocado descubrir cómo funciona la mafia.
+Disfrutemos pues, mientras aún somos jóvenes.
+Disfrutemos pues, mientras aún somos jóvenes.
+¿Es alguno de estos tu Pokémon favorito?
+¿Es alguno de estos tu Pokémon favorito?
+Bienvenido a la Torre Batalla. Espero que tengas vallas... digo, ganas.
+Bienvenido a la Torre Batalla. Espero que tengas vallas... digo, ganas.
+Si no gano este combate, mis hermanas se van a burlar de mí.
+Si no gano este combate, mis hermanas se van a burlar de mí.
+Mi chico y yo hemos venido a ver los combates, pero me convenció de participar a cambio de comprarme un pastel si salgo victoriosa de aquí, a pesar de estar oxidada en este tema… ¿Empezamos?
+Mi chico y yo hemos venido a ver los combates, pero me convenció de participar a cambio de comprarme un pastel si salgo victoriosa de aquí, a pesar de estar oxidada en este tema… ¿Empezamos?
+Las llamas guían mi camino… y los espíritus susurran tu derrota.
+Las llamas guían mi camino… y los espíritus susurran tu derrota.
+¡Reina empoderada nunca atropella! Hagamos el combate con mucho arte.
+¡Reina empoderada nunca atropella! Hagamos el combate con mucho arte.
+¡Quiero poner a prueba al campeón!
+¡Quiero poner a prueba al campeón!
+...this is definitely not a funfair.
+...this is definitely not a funfair.
+Sé que puedes leerme el pensamiento, hijo... (Miau miau miau miau miau miau)
+Sé que puedes leerme el pensamiento, hijo... (Miau miau miau miau miau miau)
+Tu aura... me da la sensación de que serás un rival fuerte.
+Tu aura... me da la sensación de que serás un rival fuerte.
+Me he divertido mucho en mi viaje y ahora verás qué tan fuerte me he hecho.
+Me he divertido mucho en mi viaje y ahora verás qué tan fuerte me he hecho.
+Los Pokémon lindos también pueden ser aterradores. ¿Quieres comprobarlo?
+Los Pokémon lindos también pueden ser aterradores. ¿Quieres comprobarlo?
+Adivina adivinador, ¿dónde encuentras tú brillo?
+Adivina adivinador, ¿dónde encuentras tú brillo?
+¡Soy una guerrera de Cristo!
+¡Soy una guerrera de Cristo!
+¡Gera gera po! ¡Gera gera po!
+¡Gera gera po! ¡Gera gera po!
+¿Eh? ¿Qué es esto? ¿Por qué estoy aquí? ¿Cómo? ¿Un duelo? ¡Pero si apenas me sé los movimientos de mis Pokémon!
+¿Eh? ¿Qué es esto? ¿Por qué estoy aquí? ¿Cómo? ¿Un duelo? ¡Pero si apenas me sé los movimientos de mis Pokémon!
+Yo ya tengo una edad. Vamos rapidito, que empieza la novela.
+Yo ya tengo una edad. Vamos rapidito, que empieza la novela.
+Espero que te gusten mis serpientes.
+Espero que te gusten mis serpientes.
+¡Deja que mis ponys te muestren su poder!
+¡Deja que mis ponys te muestren su poder!
+Batallar es muy agradable. Aunque no sea muy buena, mi familia me anima porque me esfuerzo. Me desearon buena suerte, así que quiero volver a luchar.
+Batallar es muy agradable. Aunque no sea muy buena, mi familia me anima porque me esfuerzo. Me desearon buena suerte, así que quiero volver a luchar.
+Cabeza fría, corazón fuerte y mirada firme. Sigue el plan y la victoria será tuya.
+Cabeza fría, corazón fuerte y mirada firme. Sigue el plan y la victoria será tuya.
+Hola hola caracola, ¿cómo te va por esa zona? …. … ¿Eso cuenta como rima o no?
+Hola hola caracola, ¿cómo te va por esa zona? …. … ¿Eso cuenta como rima o no?
+Dicen que el destino de un combate se decide antes de lanzar la primera Poké Ball.
+Dicen que el destino de un combate se decide antes de lanzar la primera Poké Ball.
+¡Hola! Mi Arcanine parece estar interesado en ti. ¿Eres un entrenador fuerte?
+¡Hola! Mi Arcanine parece estar interesado en ti. ¿Eres un entrenador fuerte?
+A que tú eres el prota. Espero que este combate sea digno para ti.
+A que tú eres el prota. Espero que este combate sea digno para ti.
+He oído esta frase en tierras lejanas... ¡Pokedracarys!
+He oído esta frase en tierras lejanas... ¡Pokedracarys!
+Adoro estar con mis Pokémon favoritos y entrenarlos con mucho orgullo.
+Adoro estar con mis Pokémon favoritos y entrenarlos con mucho orgullo.
+No sé ni qué hago aquí, prefiero estar escribiendo.
+No sé ni qué hago aquí, prefiero estar escribiendo.
+¡Veremos cuál de los dos es el Rey de la velocidad!
+¡Veremos cuál de los dos es el Rey de la velocidad!
+¿Dónde está el baño?
+¿Dónde está el baño?
+Una batalla y al terminar por unas cervezas.
+Una batalla y al terminar por unas cervezas.
+Empecé a entrenar con mis Pokémon por diversión y por el camino hice grandes lazos con ellos. ¡Demuéstrame un reto a la altura!
+Empecé a entrenar con mis Pokémon por diversión y por el camino hice grandes lazos con ellos. ¡Demuéstrame un reto a la altura!
+Jarvis, activa el modo CRACK.
+Jarvis, activa el modo CRACK.
+Llevo años recorriendo el mundo Pokémon para hacer el mejor equipo de todos los tiempos.... ¡¡¡ARRODÍLLATE ANTE MIS POKÉMON!!!
+Llevo años recorriendo el mundo Pokémon para hacer el mejor equipo de todos los tiempos.... ¡¡¡ARRODÍLLATE ANTE MIS POKÉMON!!!
+Tengo de pasatiempo dibujar, y hoy me apetece dibujar tu derrota.
+Tengo de pasatiempo dibujar, y hoy me apetece dibujar tu derrota.
+¿Crees estar listo, entrenador? Mis Pokémon traen la furia de la era antigua. Tyrantrum rugirá, Aerodactyl caerá desde el cielo… y cuando menos lo esperes, será demasiado tarde. En esta batalla, solo sobrevive el más fuerte.
+¿Crees estar listo, entrenador? Mis Pokémon traen la furia de la era antigua. Tyrantrum rugirá, Aerodactyl caerá desde el cielo… y cuando menos lo esperes, será demasiado tarde. En esta batalla, solo sobrevive el más fuerte.
+Profe, si quiere puedo poner un juego que se llama Persona 3. Toca temas muy serios como la muerte.
+Profe, si quiere puedo poner un juego que se llama Persona 3. Toca temas muy serios como la muerte.
+Si quiere continuar va a tener que mojarme la lagartija.
+Si quiere continuar va a tener que mojarme la lagartija.
+¡¡¡Viiiiiva el Real Meseta!!!
+¡¡¡Viiiiiva el Real Meseta!!!
+Contemplate the power of a Bellsprout fan.
+Contemplate the power of a Bellsprout fan.
+Mis Pokémon y yo estamos preparados para este escenario.
+Mis Pokémon y yo estamos preparados para este escenario.
+Vine en parte a entretenerme con los combates. Aunque, ¿por casualidad viste a un criminal llamado Syakesan? Va solo. Empecemos.
+Vine en parte a entretenerme con los combates. Aunque, ¿por casualidad viste a un criminal llamado Syakesan? Va solo. Empecemos.
+Te enseñaré la fuerza policial.
+Te enseñaré la fuerza policial.
+Me cansé de cazar criminales. Creo que ahora me gusta más entrenar Pokémon.
+Me cansé de cazar criminales. Creo que ahora me gusta más entrenar Pokémon.
+Un placer el tuyo al enfrentarte a mí.
+Un placer el tuyo al enfrentarte a mí.
+El poder de ver el futuro no es la clave de la victoria.
+El poder de ver el futuro no es la clave de la victoria.
+Y… ¿te gusta Hazbin Hotel?
+Y… ¿te gusta Hazbin Hotel?
+He recorrido un sinfín de regiones, veamos qué tipo de reto tienes para mí.
+He recorrido un sinfín de regiones, veamos qué tipo de reto tienes para mí.
+Demostraré que soy la mejor.
+Demostraré que soy la mejor.
+No puedo dejar de ver a mis Pokémon, me roban el alma.
+No puedo dejar de ver a mis Pokémon, me roban el alma.
+Esta batalla será interesante.
+Esta batalla será interesante.
+Veamos si tienes un corazón noble.
+Veamos si tienes un corazón noble.
+¡Mira, mamá, estoy en un fangame de Pokémon!
+¡Mira, mamá, estoy en un fangame de Pokémon!
+Cuando dos vidas se encuentran, algo nacerá. ¿Qué nacerá tras este combate?
+Cuando dos vidas se encuentran, algo nacerá. ¿Qué nacerá tras este combate?
+¿Has visto Madoka Mágica? Si no, prepárate para sufrir las consecuencias.
+¿Has visto Madoka Mágica? Si no, prepárate para sufrir las consecuencias.
+No sé qué hago en una Torre, con lo poco que me gustan los lugares elevados.
+No sé qué hago en una Torre, con lo poco que me gustan los lugares elevados.
+¿Has llegado hasta mí? Entonces ya habrás oído los rumores. El héroe que se alza desde el océano... El campeón del ring envuelto en llamas... El oro que jamás se oxida... Y la velocidad que corta el aire antes de que puedas respirar. Mi equipo no solo combate... domina. Y tú estás a punto de ser testigo de una derrota inevitable.
+¿Has llegado hasta mí? Entonces ya habrás oído los rumores. El héroe que se alza desde el océano... El campeón del ring envuelto en llamas... El oro que jamás se oxida... Y la velocidad que corta el aire antes de que puedas respirar. Mi equipo no solo combate... domina. Y tú estás a punto de ser testigo de una derrota inevitable.
+Has llegado lejos, entrenador… pero aquí termina tu viaje.
+Has llegado lejos, entrenador… pero aquí termina tu viaje.
+Las llamas del fénix blanco alimentan el poder de mi mente.
+Las llamas del fénix blanco alimentan el poder de mi mente.
+Así que yo seré tu oponente... Espero que logres divertirme.
+Así que yo seré tu oponente... Espero que logres divertirme.
+Bro, no sé ni qué hago aquí, pero venga, vamos.
+Bro, no sé ni qué hago aquí, pero venga, vamos.
+Espero que estés a la altura.
+Espero que estés a la altura.
+¿Sabes cuál es la mejor banda de metal?
+¿Sabes cuál es la mejor banda de metal?
+Noto algo sospechoso en ti.
+Noto algo sospechoso en ti.
+¡Te voy a desarmar... digo, derrotar!
+¡Te voy a desarmar... digo, derrotar!
+¿Estás seguro/a de que podrás superar este desafío?
+¿Estás seguro/a de que podrás superar este desafío?
+Cuando dos partes contrarias se juntan, ahí reside el verdadero equilibrio.
+Cuando dos partes contrarias se juntan, ahí reside el verdadero equilibrio.
+Un sabio dijo: 'Un viaje de mil millas comienza con un solo paso'. Y por eso, ¡ahora no encuentro cómo salir de aquí!
+Un sabio dijo: 'Un viaje de mil millas comienza con un solo paso'. Y por eso, ¡ahora no encuentro cómo salir de aquí!
+Uso Pokémon favoritos por sobre los fuertes. ¡Debería haber un torneo donde se los priorice más!
+Uso Pokémon favoritos por sobre los fuertes. ¡Debería haber un torneo donde se los priorice más!
+Ay ay ay, mi ex me dejó y ahora me duele el corazón. ¡¡¡Tendré que desquitarme contigo!!!
+Ay ay ay, mi ex me dejó y ahora me duele el corazón. ¡¡¡Tendré que desquitarme contigo!!!
+¡Tu camino termina aquí!
+¡Tu camino termina aquí!
+Hay días tontos... y tontos todos los días.
+Hay días tontos... y tontos todos los días.
+Estoy siguiendo las pistas de las leyendas de Kyogre. Verlo surcando los océanos debe ser una experiencia inolvidable.
+Estoy siguiendo las pistas de las leyendas de Kyogre. Verlo surcando los océanos debe ser una experiencia inolvidable.
+¿Te gustan los juegos de mesa?
+¿Te gustan los juegos de mesa?
+Daremos lo mejor de nosotros, ¿está bien?
+Daremos lo mejor de nosotros, ¿está bien?
+Siento esa sensación de nuevo... Algo está a punto de salir mal. ¡Tengo que cambiar el futuro aquí mismo!
+Siento esa sensación de nuevo... Algo está a punto de salir mal. ¡Tengo que cambiar el futuro aquí mismo!
+¿Che, es viernes hoy? Sí, voy a comer pizza cuando te derrote.
+¿Che, es viernes hoy? Sí, voy a comer pizza cuando te derrote.
+Buenas, no soy muy bueno en esto, pero intentaré no ser humillado.
+Buenas, no soy muy bueno en esto, pero intentaré no ser humillado.
+Cada decisión es una jugada… y cada jugada es destino. ¡Adelante, demostremos quién lee mejor el tablero!
+Cada decisión es una jugada… y cada jugada es destino. ¡Adelante, demostremos quién lee mejor el tablero!
+Los fuertes se cuidan a si mismos, los más fuertes cuidan a los demás
+Los fuertes se cuidan a si mismos, los más fuertes cuidan a los demás
+Vine aquí a investigar todas las debilidades de los Pokémon de tipo Hada. Siempre es bueno tener nuevas perspectivas.
+Vine aquí a investigar todas las debilidades de los Pokémon de tipo Hada. Siempre es bueno tener nuevas perspectivas.
+Te mostraré todo el poder de mis Pokémon.
+Te mostraré todo el poder de mis Pokémon.
+Yo hago cartas Pokémon, pero también sé pelear duro.
+Yo hago cartas Pokémon, pero también sé pelear duro.
+¡POR LAS PRECARIAS!
+¡POR LAS PRECARIAS!
+¡Da was epic!
+¡Da was epic!
+¿Qué tan lejos piensas llegar?
+¿Qué tan lejos piensas llegar?
+Puede que no me reconozcas, pero te aseguro, soy yo...
+Puede que no me reconozcas, pero te aseguro, soy yo...
+¿No es sorprendente estar en este lugar?
+¿No es sorprendente estar en este lugar?
+Soy un artista y busco una nueva inspiración.
+Soy un artista y busco una nueva inspiración.
+¡Excelente! Un sujeto de pruebas para mi experimento. ¡Veamos si tus movimientos siguen la lógica!
+¡Excelente! Un sujeto de pruebas para mi experimento. ¡Veamos si tus movimientos siguen la lógica!
+Jojojo, ¡ni lo intentes!
+Jojojo, ¡ni lo intentes!
+Todo combate es un experimento. He analizado variables, probabilidades y margen de error. La conclusión es simple: ¡tu derrota!
+Todo combate es un experimento. He analizado variables, probabilidades y margen de error. La conclusión es simple: ¡tu derrota!
+¡Que tengamos un buen combate, suerte!
+¡Que tengamos un buen combate, suerte!
+¡Vamos, mis fieras peludas, al ataque!
+¡Vamos, mis fieras peludas, al ataque!
+¡Oye tú! ¿Qué traes, gangster?
+¡Oye tú! ¿Qué traes, gangster?
+¡Ha llegado la hora de que aprendas!
+¡Ha llegado la hora de que aprendas!
+¡Mi equipo y yo hemos entrenado mucho, vamos con todo!
+¡Mi equipo y yo hemos entrenado mucho, vamos con todo!
+Adoro el tipo Hielo, pero detesto el frío. Aún con todo, haré que mi ventisca ruja con fuerza.
+Adoro el tipo Hielo, pero detesto el frío. Aún con todo, haré que mi ventisca ruja con fuerza.
+Había una vez un acechador que perseguía a un bandido y cuando lo pasaba mejor, bum, hizo el bandido.
+Había una vez un acechador que perseguía a un bandido y cuando lo pasaba mejor, bum, hizo el bandido.
+¡PIZZAAAA!
+¡PIZZAAAA!
+Es hora de evaluar tus estrategias en combate.
+Es hora de evaluar tus estrategias en combate.
+Hora de ver si he analizado correctamente tu equipo.
+Hora de ver si he analizado correctamente tu equipo.
+He venido a Johto para poner a prueba todos mis Pokémon raros. ¿Te gustaría echarles un vistazo?
+He venido a Johto para poner a prueba todos mis Pokémon raros. ¿Te gustaría echarles un vistazo?
+Dejé la universidad para conquistar la Torre Batalla. ¡Así que tu recorrido acaba aquí!
+Dejé la universidad para conquistar la Torre Batalla. ¡Así que tu recorrido acaba aquí!
+Llegué muy lejos por mi cuenta. No importa si pierdo o gano, ¡dalo todo!
+Llegué muy lejos por mi cuenta. No importa si pierdo o gano, ¡dalo todo!
+Te arreglaré el PC si me ganas en un combate.
+Te arreglaré el PC si me ganas en un combate.
+Según Smogon, este equipo debe ser invencible.
+Según Smogon, este equipo debe ser invencible.
+¿Crees que me puedes ganar?
+¿Crees que me puedes ganar?
+¡He calculado 1.4 millones de formas de derrotarte! ¡Prepárate para ser testigo del poder de la CIENCIA!
+¡He calculado 1.4 millones de formas de derrotarte! ¡Prepárate para ser testigo del poder de la CIENCIA!
+¡No soy un robot, no soy un Mankey, no bailaré aunque el ritmo sea funky!
+¡No soy un robot, no soy un Mankey, no bailaré aunque el ritmo sea funky!
+Verás de lo que es capaz mi equipo.
+Verás de lo que es capaz mi equipo.
+Mi crush me rechazó y ahora está con mi mejor amigo. Mi vida no puede estar peor. A ver si combatir me sirve de terapia.
+Mi crush me rechazó y ahora está con mi mejor amigo. Mi vida no puede estar peor. A ver si combatir me sirve de terapia.
+Disculpa, ¿cómo llego a Loquendo City?
+Disculpa, ¿cómo llego a Loquendo City?
+Hola, espero que dé un buen combate. ♪
+Hola, espero que dé un buen combate. ♪
+¡Por favor, no te pases, Chansilla!
+¡Por favor, no te pases, Chansilla!
+Bienvenido, bienvenida, bienvenide... ¡Kemono to inkemono, a un combate Pokemon, en la Torre Batalla!
+Bienvenido, bienvenida, bienvenide... ¡Kemono to inkemono, a un combate Pokemon, en la Torre Batalla!
+Los mejores genes de todo Kanto. El nieto del Profesor Oak: ¡Azul!
+Los mejores genes de todo Kanto. El nieto del Profesor Oak: ¡Azul!
+¡Soy Brock! Me especializo en Pokémon de tipo Roca. No importa ni cómo ni cuánto me ataques, ¡mi voluntad no se va a resquebrajar!
+¡Soy Brock! Me especializo en Pokémon de tipo Roca. No importa ni cómo ni cuánto me ataques, ¡mi voluntad no se va a resquebrajar!
+¡Soy Misty! Normalmente uso Pokémon de tipo Agua, que lo sepas. Pero no importa qué Pokémon use, porque soy de un fuerte que no veas.
+¡Soy Misty! Normalmente uso Pokémon de tipo Agua, que lo sepas. Pero no importa qué Pokémon use, porque soy de un fuerte que no veas.
+¡Lt. Surge es mi nombre! ¡Mis Pokémon de préstamo son tela de buenos! Debes de haber perdido la chaveta al sar enfrentarte a alguien como yo. ¡Te voy a electrizar a base de bien!
+¡Lt. Surge es mi nombre! ¡Mis Pokémon de préstamo son tela de buenos! Debes de haber perdido la chaveta al sar enfrentarte a alguien como yo. ¡Te voy a electrizar a base de bien!
+Me llamo Erika y adoro a los Pokémon de tipo Planta. Yo practico el arte del arreglo floral y entreno con mis Pokémon a la vez. ¡No vas a poder vencerme!
+Me llamo Erika y adoro a los Pokémon de tipo Planta. Yo practico el arte del arreglo floral y entreno con mis Pokémon a la vez. ¡No vas a poder vencerme!
+Sabía que lucharía contigo. Tuve una premonición hace tres años. Es que tengo poderes psíquicos, ¿sabes? ¿Quieres combatir conmigo aun así?
+Sabía que lucharía contigo. Tuve una premonición hace tres años. Es que tengo poderes psíquicos, ¿sabes? ¿Quieres combatir conmigo aun así?
+¡Uoooh! ¡Allá vamooos!
+¡Uoooh! ¡Allá vamooos!
+¡Soy Sachiko! Gracias a mi intenso entrenamiento, domino con maestría técnicas ninja. ¡Prepárate para sentirlas en tus propias carnes!
+¡Soy Sachiko! Gracias a mi intenso entrenamiento, domino con maestría técnicas ninja. ¡Prepárate para sentirlas en tus propias carnes!
+Estos Pokémon que me han prestado luchan con una gracilidad sublime. ¡Me llevarán en volandas hacia el triunfo! ¡Padre! ¡Observa mi combate desde el cielo!
+Estos Pokémon que me han prestado luchan con una gracilidad sublime. ¡Me llevarán en volandas hacia el triunfo! ¡Padre! ¡Observa mi combate desde el cielo!
+Con estos Pokémon de mi parte, ¡soy prácticamente invencible! ¡Voy a aprovechar este combate para enseñarte el fruto de mis estudios!
+Con estos Pokémon de mi parte, ¡soy prácticamente invencible! ¡Voy a aprovechar este combate para enseñarte el fruto de mis estudios!
+La que avisa no es traidora: ¡soy fortísima! ¡Y los Pokémon que me acompañan tampoco se quedan cortos en fuerza y belleza! ¡Venga, que empiece el combate!
+La que avisa no es traidora: ¡soy fortísima! ¡Y los Pokémon que me acompañan tampoco se quedan cortos en fuerza y belleza! ¡Venga, que empiece el combate!
+Me entreno sin cesar para poder llegar a encontrarme con un Pokémon divino. ¡Tú también me ayudarás a seguir con mi entrenamiento!
+Me entreno sin cesar para poder llegar a encontrarme con un Pokémon divino. ¡Tú también me ayudarás a seguir con mi entrenamiento!
+¡Vas a ver lo duro que soy! ¿Por qué? ¡Porque medito a diario bajo una cascada! ¿Qué? ¿No le ves la relación con los Pokémon? ... Quizá tengas razón... ... Está bien. ¡Prepárate para luchar!
+¡Vas a ver lo duro que soy! ¿Por qué? ¡Porque medito a diario bajo una cascada! ¿Qué? ¿No le ves la relación con los Pokémon? ... Quizá tengas razón... ... Está bien. ¡Prepárate para luchar!
+Soy Yasmina. Haré gala de mi dulzura y mi fuerza... ¡y sacaré todo el potencial de mis Pokémon!
+Soy Yasmina. Haré gala de mi dulzura y mi fuerza... ¡y sacaré todo el potencial de mis Pokémon!
+He estado con los Pokémon desde antes de que tú nacieras. Y no pierdo fácilmente. ¡Yo, Fredo, el Maestro del crudo invierno, te mostraré mi poder!
+He estado con los Pokémon desde antes de que tú nacieras. Y no pierdo fácilmente. ¡Yo, Fredo, el Maestro del crudo invierno, te mostraré mi poder!
+¡Soy Débora! ¡La mejor Domadragones del mundo! ¡Te aviso de que no me contengo ante ningún adversario!
+¡Soy Débora! ¡La mejor Domadragones del mundo! ¡Te aviso de que no me contengo ante ningún adversario!
+Para saber de qué madera está hecho un Entrenador, no hay nada como combatir. ¿Qué clase de Pokémon tiene? ¿Qué movimientos les ha enseñado? ¿Con qué objetos los ha equipado? Bien, una vez entrados en materia, ¡sobran las palabras!
+Para saber de qué madera está hecho un Entrenador, no hay nada como combatir. ¿Qué clase de Pokémon tiene? ¿Qué movimientos les ha enseñado? ¿Con qué objetos los ha equipado? Bien, una vez entrados en materia, ¡sobran las palabras!
+Día sí y día también se afanan mis Pokémon en desenterrar Fósiles, lo cual conlleva un entrenamiento considerable. ¡A continuación te mostraré el resultado de todo su esfuerzo!
+Día sí y día también se afanan mis Pokémon en desenterrar Fósiles, lo cual conlleva un entrenamiento considerable. ¡A continuación te mostraré el resultado de todo su esfuerzo!
+Yo, Gardenia, amo a los Pokémon de tipo Planta. Ya sé que los Pokémon de tipo Planta tienen varios puntos débiles. ¡Pero voy a demostrarte que eso no es decisivo a la hora de combatir!
+Yo, Gardenia, amo a los Pokémon de tipo Planta. Ya sé que los Pokémon de tipo Planta tienen varios puntos débiles. ¡Pero voy a demostrarte que eso no es decisivo a la hora de combatir!
+He aprendido muchas cosas acerca de la región de Sinnoh. También he estudiado a los Pokémon a fondo para ser Líder de Gimnasio. Bueno, supongo que quieres retarme, ¿no es así? Pero me temo que seré yo quien gane, que soy la Líder del Gimnasio Corazón.
+He aprendido muchas cosas acerca de la región de Sinnoh. También he estudiado a los Pokémon a fondo para ser Líder de Gimnasio. Bueno, supongo que quieres retarme, ¿no es así? Pero me temo que seré yo quien gane, que soy la Líder del Gimnasio Corazón.
+Encantada de conocerte. No sabría decirte a ciencia cierta qué es la fortaleza. Pero, como Líder de Gimnasio que soy, me tomaré muy en serio el combate. Pues, nada, ¡podemos comenzar cuando te apetezca!
+Encantada de conocerte. No sabría decirte a ciencia cierta qué es la fortaleza. Pero, como Líder de Gimnasio que soy, me tomaré muy en serio el combate. Pues, nada, ¡podemos comenzar cuando te apetezca!
+Además de por mi nombre de pila, ¡también me conocen como Mananti el Destructor! ¡Mis Pokémon se han fortalecido en aguas bravas! No solo van a parar todos tus ataques, ¡sino que se alzarán con la victoria! Venga, venga. ¡Ven a por mí!
+Además de por mi nombre de pila, ¡también me conocen como Mananti el Destructor! ¡Mis Pokémon se han fortalecido en aguas bravas! No solo van a parar todos tus ataques, ¡sino que se alzarán con la victoria! Venga, venga. ¡Ven a por mí!
+Joven, me recuerdas a mi hijo Roco. Creo firmemente en que el futuro de los Pokémon será espléndido, pues serán entrenados por jóvenes como tú. Para ayudarte a que seas más fuerte, yo, Acerón, defensor de los noveles Entrenadores, te desafío a un combate.
+Joven, me recuerdas a mi hijo Roco. Creo firmemente en que el futuro de los Pokémon será espléndido, pues serán entrenados por jóvenes como tú. Para ayudarte a que seas más fuerte, yo, Acerón, defensor de los noveles Entrenadores, te desafío a un combate.
+¿Quieres desafiarme? ¡Será un placer! Estaba esperando a alguien digno de mí. Pero deja que te diga que soy dura de pelar, porque sé concentrarme. Pokémon, moda, amor... ¡Todo es cuestión de concentración! Ahora lo verás. ¡Prepárate para perder!
+¿Quieres desafiarme? ¡Será un placer! Estaba esperando a alguien digno de mí. Pero deja que te diga que soy dura de pelar, porque sé concentrarme. Pokémon, moda, amor... ¡Todo es cuestión de concentración! Ahora lo verás. ¡Prepárate para perder!
+Una conversación con Pokémon no discurre con palabras, sino mediante sentimientos. A través de un combate Pokémon puedes comprenderlo todo. ¡Empecemos!
+Una conversación con Pokémon no discurre con palabras, sino mediante sentimientos. A través de un combate Pokémon puedes comprenderlo todo. ¡Empecemos!
+¡Soy Guayo, el nieto de Mirto! ¡Ahora a combatir! ¡A ver quién es más fuerte!
+¡Soy Guayo, el nieto de Mirto! ¡Ahora a combatir! ¡A ver quién es más fuerte!
+Cuando mi mirada se cruza con la de un Entrenador Pokémon, mi corazón late a mil pulsaciones por ver quién es más fuerte. ¡Y, cuando me enzarzo en un combate, me pongo prácticamente al borde del infarto!
+Cuando mi mirada se cruza con la de un Entrenador Pokémon, mi corazón late a mil pulsaciones por ver quién es más fuerte. ¡Y, cuando me enzarzo en un combate, me pongo prácticamente al borde del infarto!
+Como científico e investigador que soy, mi sueño es hacer realidad el ideal que persigo, el cual consiste en sacar a relucir la fuerza latente de los Pokémon. ¿Cómo podré llevar a cabo tal tarea? En la medida de lo posible, me gustaría seguir estudiando la confianza mutua entre Entrenadores y Pokémon. Te agradecería en el alma si pudieras demostrar cuán cierto es mi propósito.
+Como científico e investigador que soy, mi sueño es hacer realidad el ideal que persigo, el cual consiste en sacar a relucir la fuerza latente de los Pokémon. ¿Cómo podré llevar a cabo tal tarea? En la medida de lo posible, me gustaría seguir estudiando la confianza mutua entre Entrenadores y Pokémon. Te agradecería en el alma si pudieras demostrar cuán cierto es mi propósito.
+"La mirada de ese hombre ardía con el fuego fraguado en la batalla, habiendo rechazado en su búsqueda de la justicia todo aquello que le era ajeno." Esto que te acabo de leer es un fragmento de mi novela. Perdón, ¡menuda cabeza que tengo! Soy, Anís, del Alto Mando y experta en Pokémon de tipo Fantasma.
+"La mirada de ese hombre ardía con el fuego fraguado en la batalla, habiendo rechazado en su búsqueda de la justicia todo aquello que le era ajeno." Esto que te acabo de leer es un fragmento de mi novela. Perdón, ¡menuda cabeza que tengo! Soy, Anís, del Alto Mando y experta en Pokémon de tipo Fantasma.
+La vida es una batalla en la que uno debe saber como usar las cartas que se le han dado. En vez de quejarse por lo que tiene el otro, es más importante tratar de dominar bien lo que uno posee. Bueno, empecemos, el que gane, se lo llevara todo. El que pierda, lo perderá todo. El combate Pokémon es la prueba irrefutable de que estamos vivos.
+La vida es una batalla en la que uno debe saber como usar las cartas que se le han dado. En vez de quejarse por lo que tiene el otro, es más importante tratar de dominar bien lo que uno posee. Bueno, empecemos, el que gane, se lo llevara todo. El que pierda, lo perderá todo. El combate Pokémon es la prueba irrefutable de que estamos vivos.
+Me llamo Lotto. Entreno con mi maestro, Mirto, para poder desentrañar la esencia del combate cuerpo a cuerpo. El mismo maestro que te ha reconocido como alguien digno de entrenar Pokémon. ¡¡Quiero comprobar hasta dónde llega esa fuerza que posees!!
+Me llamo Lotto. Entreno con mi maestro, Mirto, para poder desentrañar la esencia del combate cuerpo a cuerpo. El mismo maestro que te ha reconocido como alguien digno de entrenar Pokémon. ¡¡Quiero comprobar hasta dónde llega esa fuerza que posees!!
+Oh... Parece que eres tan fuerte como amable. Es interesante, pero no puedo evitar bostezar pensando en la vacuidad de otro combate... Huaaa... Discúlpame, por favor.
+Oh... Parece que eres tan fuerte como amable. Es interesante, pero no puedo evitar bostezar pensando en la vacuidad de otro combate... Huaaa... Discúlpame, por favor.
+He vivido mil y una peripecias, pero me alegro un montón de haber viajado por Teselia con mis Pokémon. Me he cruzado con Pokémon a tutiplén y he encontrado la horma de mi zapatit... Jo, no sé cómo explicarlo con palabras, ¡pero voy a intentar transmitirte esa sensación a través de mis Pokémon!
+He vivido mil y una peripecias, pero me alegro un montón de haber viajado por Teselia con mis Pokémon. Me he cruzado con Pokémon a tutiplén y he encontrado la horma de mi zapatit... Jo, no sé cómo explicarlo con palabras, ¡pero voy a intentar transmitirte esa sensación a través de mis Pokémon!
+La final del torneo, ni más ni menos. ¡Esto está que arde! Bueno, menos parlotear y más combatir. Con mis Pokémon de tipo Fuego, de ti no va a quedar más que carbonilla. ¡Como que me llamo Zeo!
+La final del torneo, ni más ni menos. ¡Esto está que arde! Bueno, menos parlotear y más combatir. Con mis Pokémon de tipo Fuego, de ti no va a quedar más que carbonilla. ¡Como que me llamo Zeo!
+El agua fluye de arriba abajo, siguiendo los designios de la madre naturaleza. Es algo tan natural como la victoria que hoy voy a lograr aquí.
+El agua fluye de arriba abajo, siguiendo los designios de la madre naturaleza. Es algo tan natural como la victoria que hoy voy a lograr aquí.
+Bueno, pues eso. Yo, Millo, amante de los Pokémon de tipo Planta, tendré el placer de convertirme en tu humilde oponente.
+Bueno, pues eso. Yo, Millo, amante de los Pokémon de tipo Planta, tendré el placer de convertirme en tu humilde oponente.
+¡Hola! La actual conservadora del museo y antigua Líder del Gimnasio de Ciudad Esmalte no es ni más ni menos que... yo misma, ¡la gran Aloe! Bueeeno... Vamos a analizar a fondo la forma de combatir del equipo Pokémon al que has entrenado con tanto mimo.
+¡Hola! La actual conservadora del museo y antigua Líder del Gimnasio de Ciudad Esmalte no es ni más ni menos que... yo misma, ¡la gran Aloe! Bueeeno... Vamos a analizar a fondo la forma de combatir del equipo Pokémon al que has entrenado con tanto mimo.
+Estar en compañía de otras personas y de los Pokémon es lo que me da fuerzas. Es una clase distinta de fuerza. ¡Permíteme que te la muestre!
+Estar en compañía de otras personas y de los Pokémon es lo que me da fuerzas. Es una clase distinta de fuerza. ¡Permíteme que te la muestre!
+¡Hola! Soy Iris. Dime... ¿Qué Pokémon vas a usar? ¿Cómo vas a luchar? ¡Oh, tengo muchísima curiosidad, así que empecemos!
+¡Hola! Soy Iris. Dime... ¿Qué Pokémon vas a usar? ¿Cómo vas a luchar? ¡Oh, tengo muchísima curiosidad, así que empecemos!
+Espero encontrar a una joven promesa que me muestre un futuro radiante. ¿Serás capaz de dar la talla? La dilatada experiencia acumulada y el amor que profeso por mis Pokémon... ¡caerán como un torrente sobre ti!
+Espero encontrar a una joven promesa que me muestre un futuro radiante. ¿Serás capaz de dar la talla? La dilatada experiencia acumulada y el amor que profeso por mis Pokémon... ¡caerán como un torrente sobre ti!
+Mi fuerza es vasta y profunda como el mar. Vamos, que soy la leche de fuerte. ¡Vas a flipar en colores y estéreo! Basta de teoría. ¡Pasemos a la práctica! ¿Empezamos de una vez? ¡Venga, a saco, Paco!
+Mi fuerza es vasta y profunda como el mar. Vamos, que soy la leche de fuerte. ¡Vas a flipar en colores y estéreo! Basta de teoría. ¡Pasemos a la práctica! ¿Empezamos de una vez? ¡Venga, a saco, Paco!
+¡Ya está aquí la ansiada final! Este combate Pokémon decidirá quién está en lo más alto, ¿no crees? Ay, ¡yo es que me pirro por las alturas! Desde una cima, puedes ver cosas que están lejos, pero lejos de verdad. Venga, ¡vamos a pasarlo chachi piruli!
+¡Ya está aquí la ansiada final! Este combate Pokémon decidirá quién está en lo más alto, ¿no crees? Ay, ¡yo es que me pirro por las alturas! Desde una cima, puedes ver cosas que están lejos, pero lejos de verdad. Venga, ¡vamos a pasarlo chachi piruli!
+Basta una sola orden mía para que mis Pokémon luchen a pesar de sus heridas. Eso es algo que tengo muy en cuenta y que me inspira una gran ternura y plena confianza en ellos. ¿Qué puede o debe hacer un Entrenador por tan magníficos Pokémon? ¡Yo lucho con todas mis fuerzas en pos de una relación ideal entre las personas y los Pokémon!
+Basta una sola orden mía para que mis Pokémon luchen a pesar de sus heridas. Eso es algo que tengo muy en cuenta y que me inspira una gran ternura y plena confianza en ellos. ¿Qué puede o debe hacer un Entrenador por tan magníficos Pokémon? ¡Yo lucho con todas mis fuerzas en pos de una relación ideal entre las personas y los Pokémon!
+¡Empieza el espectáculo! Te voy a meter un repaso que no te lo vas ni a creer. ¿Te enteras, contreras?
+¡Empieza el espectáculo! Te voy a meter un repaso que no te lo vas ni a creer. ¿Te enteras, contreras?
+Si logro sacar a relucir la belleza de mis Pokémon de tipo Bicho en el combate, vencer o perder me es indiferente, ¡pues será un espectáculo embelesador! Mis Pokémon de tipo Bicho arden en deseos de batirse en duelo con los tuyos. Bien, ya basta de cháchara. ¡Comencemos!
+Si logro sacar a relucir la belleza de mis Pokémon de tipo Bicho en el combate, vencer o perder me es indiferente, ¡pues será un espectáculo embelesador! Mis Pokémon de tipo Bicho arden en deseos de batirse en duelo con los tuyos. Bien, ya basta de cháchara. ¡Comencemos!
+¡Esta es la final finalísima! Mmm... Si es que ya, solo de pensarlo, ¡hasta mi cuerpo echa chispas a gogó! Y, para deleitarme con esa sensación, ¡mis hermosos Pokémon te van a dejar de una pieza!
+¡Esta es la final finalísima! Mmm... Si es que ya, solo de pensarlo, ¡hasta mi cuerpo echa chispas a gogó! Y, para deleitarme con esa sensación, ¡mis hermosos Pokémon te van a dejar de una pieza!
+Métetelo en la cabeza. Si quieres ganar, ¡no hay excusas que valgan! Si te vas a andar con remilgos, ¡ya estás tardando en salir por esa puerta! ¡Bah! En fin, tú a lo tuyo, ¡eh! No voy a meterme donde no me llaman.
+Métetelo en la cabeza. Si quieres ganar, ¡no hay excusas que valgan! Si te vas a andar con remilgos, ¡ya estás tardando en salir por esa puerta! ¡Bah! En fin, tú a lo tuyo, ¡eh! No voy a meterme donde no me llaman.

@@ -1,0 +1,68 @@
+﻿# Maps grouped under: Ruta 27 (Highest ID: 8)
+[Map8]
+\w[signskin]Cataratas Tohjo.\nLa conexión entre Kanto y Johto.
+\w[signskin]Cataratas Tohjo.\nLa conexión entre Kanto y Johto.
+Así que vienes de Pueblo Primavera... ¿Y te queda energía para luchar?
+Así que vienes de Pueblo Primavera... ¿Y te queda energía para luchar?
+¡Oh! ¡Qué fuerte eres!
+¡Oh! ¡Qué fuerte eres!
+No está mal... Ganarme ya es algo, aunque haya sido de chiripa... ¡Me caes chachi! ¡Dame tu teléfono!
+No está mal... Ganarme ya es algo, aunque haya sido de chiripa... ¡Me caes chachi! ¡Dame tu teléfono!
+¡Me caes chachi! ¡Dame tu teléfono!<<n>>¡Entrénate conmigo!
+¡Me caes chachi! ¡Dame tu teléfono! <<n>>¡Entrénate conmigo!
+Así que vienes de Pueblo Primavera... ¡Pues veamos hasta dónde llegarás!
+Así que vienes de Pueblo Primavera...  ¡Pues veamos hasta dónde llegarás!
+¡Que no se te suban los humos! ¡Ha sido<<n>>de chiripa!
+¡Que no se te suban los humos! ¡Ha sido <<n>>de chiripa!
+¡Toma esto!
+¡Toma esto!
+¡Con esa energía que tienes, te veo perfectamente en la liga Pokémon!
+¡Con esa energía que tienes, te veo perfectamente en la liga Pokémon!
+¡Far! ¡Far! ¡Feeetch!
+¡Far! ¡Far! ¡Feeetch!
+¡Far!
+¡Far!
+¡Fiuuuuu! ¡Fiuuuu! En cuanto Farfetch’d ve algo bonito, lo agarra con el pico y me lo trae.
+¡Fiuuuuu! ¡Fiuuuu! En cuanto Farfetch’d ve algo bonito, lo agarra con el pico y me lo trae.
+¿Te gustan las cosas bonitas? Si quieres, la próxima vez que me traiga algo, te lo doy.
+¿Te gustan las cosas bonitas? Si quieres, la próxima vez que me traiga algo, te lo doy.
+¿Me das tu número de teléfono?
+¿Me das tu número de teléfono?
+Los Ornitólogos imitamos el canto de los pájaros para controlar nuestros Pokémon.
+Los Ornitólogos imitamos el canto de los pájaros para controlar nuestros Pokémon.
+Te llamaré tan pronto como consiga algo bonito.
+Te llamaré tan pronto como consiga algo bonito.
+¡Voir! \n¡Llade!\wt[20]
+¡Voir! \n¡Llade!\wt[20]
+¡No digas nada! ¡Déjame adivinar lo que piensas! ¡Mmm...! ¡Listo! ¡Estás en la Liga Pokémon!
+¡No digas nada! ¡Déjame adivinar lo que piensas!  ¡Mmm...! ¡Listo! ¡Estás en la Liga Pokémon!
+¡Eres demasiado!
+¡Eres demasiado!
+Con tu habilidad, te irá bien en la Liga. Eso es lo que presiento.
+Con tu habilidad, te irá bien en la Liga. Eso es lo que presiento.
+Es raro que venga alguien por aquí. ¿Te entrenas sin compañía?
+Es raro que venga alguien por aquí. ¿Te entrenas sin compañía?
+¡Oh! ¡Eres muy fuerte!
+¡Oh! ¡Eres muy fuerte!
+Estoy investigando los Pokémon antes y después de que evolucionen. Se hacen más fuertes al evolucionar, pero aprenderán nuevos movimientos mucho más despacio que antes.
+Estoy investigando los Pokémon antes y después de que evolucionen. Se hacen más fuertes al evolucionar, pero aprenderán nuevos movimientos mucho más despacio que antes.
+¿A que Kanto es una región increíble?
+¿A que Kanto es una región increíble?
+Mmm... Sabes cómo entrenar, ¿verdad?
+Mmm... Sabes cómo entrenar, ¿verdad?
+Un buen Entrenador puede reconocer a otros buenos Entrenadores.
+Un buen Entrenador puede reconocer a otros buenos Entrenadores.
+\w[signskin4]\C[8]Ruta 27.\nAl este, Ruta 26.\nAl oeste, Pueblo Primavera.
+\w[signskin4]\C[8]Ruta 27.\nAl este, Ruta 26.\nAl oeste, Pueblo Primavera.
+¡Eh!
+¡Eh!
+¿Sabes lo que acabas de hacer?\nAcabas de dar tu primer paso en Kanto.
+¿Sabes lo que acabas de hacer?\nAcabas de dar tu primer paso en Kanto.
+Consulta el Mapa del Pokégear y lo verás. ¡Esto ya es otra región!
+Consulta el Mapa del Pokégear y lo verás. ¡Esto ya es otra región!
+Pareces muy fuerte. ¡Déjame luchar contigo!
+Pareces muy fuerte. ¡Déjame luchar contigo!
+¡Yau!
+¡Yau!
+Si continúas por este duro camino, ¡conocerás la verdad! Lo siento, pero me apetecía decir algo chulo.
+Si continúas por este duro camino, ¡conocerás la verdad! Lo siento, pero me apetecía decir algo chulo.

@@ -1,0 +1,465 @@
+﻿# Maps grouped under: Torre Radio (Highest ID: 115)
+[Map115]
+\tg[\v[14]]¡Voy a curar a tu equipo Pokémon!
+\tg[\v[14]]¡Voy a curar a tu equipo Pokémon!
+\tg[\v[14]]¡\PN!\n¿Tienes la llave magnética? ¿Y has encontrado al director?
+\tg[\v[14]]¡\PN!\n¿Tienes la llave magnética? ¿Y has encontrado al director?
+\tg[\v[14]]¡Eres la pera!\nAvísame si necesitas curar a tu equipo. ¿Vale?
+\tg[\v[14]]¡Eres la pera!\nAvísame si necesitas curar a tu equipo. ¿Vale?
+\w[menuskin]\C[8]P1 Ventas
+\w[menuskin]\C[8]P1 Ventas
+\tg[Atenea]¿¡Eh!? ¿¡Tú otra vez!?
+\tg[Atenea]¿¡Eh!? ¿¡Tú otra vez!?
+\tg[Atenea]¡Tsk! Mala hierba nunca muere, ¿eh?
+\tg[Atenea]¡Tsk! Mala hierba nunca muere, ¿eh?
+\tg[Atenea]Te voy a ser sincera, te detesto.\nNo eres más que una niñata sin respeto.
+\tg[Atenea]Te voy a ser sincera, te detesto.\nNo eres más que una niñata sin respeto.
+\tg[Atenea]Te voy a ser sincera, te detesto.\nNo eres más que un niñato sin respeto.
+\tg[Atenea]Te voy a ser sincera, te detesto.\nNo eres más que un niñato sin respeto.
+\tg[Atenea]Si tantas ganas tienes de pararnos los pies, tendrás que pasar por encima de mí.
+\tg[Atenea]Si tantas ganas tienes de pararnos los pies, tendrás que pasar por encima de mí.
+\tg[Atenea]¡Aprenderás a la fuerza a respetar a una dama como yo!
+\tg[Atenea]¡Aprenderás a la fuerza a respetar a una dama como yo!
+¡Nooo! ¡No me puede pasar esto! He luchado con toda mi alma y, aun así, he perdido...
+¡Nooo! ¡No me puede pasar esto! He luchado con toda mi alma y, aun así, he perdido...
+\tg[Atenea]¡M-menudo desperdicio!\nUtilizar una fuerza así al servicio de la justicia...
+\tg[Atenea]¡M-menudo desperdicio!\nUtilizar una fuerza así al servicio de la justicia...
+\tg[Atenea]Maldita niñata...
+\tg[Atenea]Maldita niñata...
+\tg[Atenea]Maldito niñato...
+\tg[Atenea]Maldito niñato...
+\tg[Atenea]Por culpa de un joven como tú, el Team Rocket cayó en el olvido.\nY ahora vienes a repetirlo, ¿eh?
+\tg[Atenea]Por culpa de un joven como tú, el Team Rocket cayó en el olvido.\nY ahora vienes a repetirlo, ¿eh?
+\tg[Atenea]Bah. Nuestra grandeza nunca será comprendida.\nYa se encargará Atlas de ponerte en tu sitio.
+\tg[Atenea]Bah. Nuestra grandeza nunca será comprendida.\nYa se encargará Atlas de ponerte en tu sitio.
+\tg[Atenea]Pero que conste, ¡no te lo perdonaré nunca!
+\tg[Atenea]Pero que conste, ¡no te lo perdonaré nunca!
+\tg[Blanca]¡Hola, \PN!
+\tg[Blanca]¡Hola, \PN!
+\tg[Blanca]¿Has oído lo del concurso para obtener una Tarjeta Radio? ¡Yo he venido porque quiero una!\nPero es que las preguntas... ¡son superdifíciles!
+\tg[Blanca]¿Has oído lo del concurso para obtener una Tarjeta Radio? ¡Yo he venido porque quiero una!\nPero es que las preguntas... ¡son superdifíciles!
+\w[menuskin]\C[8]Música Pokémon con DJ Nardo
+\w[menuskin]\C[8]Música Pokémon con DJ Nardo
+\w[menuskin]\C[8]P4 Oficina del Director
+\w[menuskin]\C[8]P4 Oficina del Director
+La radio es genial.\n¡Tiene música animada, información sobre los Pokémon, noticias sorprendentes y seriales emocionantes!
+La radio es genial.\n¡Tiene música animada, información sobre los Pokémon, noticias sorprendentes y seriales emocionantes!
+¡Si además tuviera imágenes sería la bomba!\n... Espera... ¡Eso es la tele!
+¡Si además tuviera imágenes sería la bomba!\n...  Espera... ¡Eso es la tele!
+Hace tres años, el Team Rocket tuvo que disolverse. ¡Pero nos estamos volviendo a reunir aquí!
+Hace tres años, el Team Rocket tuvo que disolverse. ¡Pero nos estamos volviendo a reunir aquí!
+¡No permitiremos que arruines nuestros planes!
+¡No permitiremos que arruines nuestros planes!
+¡Intruso!
+¡Intruso!
+¡Bah! ¡No vayas de perdonavidas!
+¡Bah! ¡No vayas de perdonavidas!
+Como hemos dicho, ahora mismo no se admiten visitas. Cuando abramos al público, se lo haremos saber.
+Como hemos dicho, ahora mismo no se admiten visitas. Cuando abramos al público, se lo haremos saber.
+¡Esperamos que disfrutes escuchando nuestros programas!
+¡Esperamos que disfrutes escuchando nuestros programas!
+¡Estamos de promoción!\n¡Si respondes correctamente a cinco preguntas, te obsequiaremos con una Tarjeta Radio!
+¡Estamos de promoción!\n¡Si respondes correctamente a cinco preguntas, te obsequiaremos con una Tarjeta Radio!
+Introdúcela en tu Pokégear para escuchar la radio siempre que quieras.\n¿Te gustaría participar?
+Introdúcela en tu Pokégear para escuchar la radio siempre que quieras.\n¿Te gustaría participar?
+¡Ahí va la primera pregunta!\n¿Se puede consultar el Mapa en el Pokégear?
+¡Ahí va la primera pregunta!\n¿Se puede consultar el Mapa en el Pokégear?
+Segunda pregunta:\n¿Es cierto que los Pokémon Nidorina son todos hembras?
+Segunda pregunta:\n¿Es cierto que los Pokémon Nidorina son todos hembras?
+Tercera pregunta:\n¿Es cierto que César utiliza Bongore para hacer las Poké Balls?
+Tercera pregunta:\n¿Es cierto que César utiliza Bongore para hacer las Poké Balls?
+Cuarta pregunta:\n¿Es cierto que no se puede usar una MT con Magikarp?
+Cuarta pregunta:\n¿Es cierto que no se puede usar una MT con Magikarp?
+Hemos llegado a la última pregunta.\n¿Es Rosi la compañera de Oak en La hora Pokémon?
+Hemos llegado a la última pregunta.\n¿Es Rosi la compañera de Oak en La hora Pokémon?
+Bien, eso es todo, dejáme comprobar tus respuestas\..\..\..
+Bien, eso es todo, dejáme comprobar tus respuestas\..\..\..
+Has acertado todas las preguntas.\n¡Enhorabuena!
+Has acertado todas las preguntas.\n¡Enhorabuena! 
+Has acertado casi todas las preguntas. \n¡Enhorabuena!
+Has acertado casi todas las preguntas. \n¡Enhorabuena!
+Este es tu premio: ¡la Tarjeta Radio!
+Este es tu premio: ¡la Tarjeta Radio!
+\w[menuskin]\C[8]¡Ahora se puede escuchar la radio en el Pokégear de \PN!
+\w[menuskin]\C[8]¡Ahora se puede escuchar la radio en el Pokégear de \PN!
+\tg[Blanca]¡Guau, \PN! ¡Eres la caña!\n¡Yo estaba convencida de que la tercera era Bongore!
+\tg[Blanca]¡Guau, \PN! ¡Eres la caña!\n¡Yo estaba convencida de que la tercera era Bongore!
+\tg[Blanca]Vaya líder de gimnsasio estoy hecha, ¿eh?\n¡E-eso sí! ¡Se me dará mal estudiar pero en combate soy la requetemejor!
+\tg[Blanca]Vaya líder de gimnsasio estoy hecha, ¿eh?\n¡E-eso sí! ¡Se me dará mal estudiar pero en combate soy la requetemejor!
+\tg[Blanca]¡Algún día te pediré la revancha, \PN!
+\tg[Blanca]¡Algún día te pediré la revancha, \PN!
+\tg[Blanca]¡Hola! ¡Soy Blanca!
+\tg[Blanca]¡Hola! ¡Soy Blanca!
+\tg[Blanca]Así que \PN, ¿eh?\n¡Mola!
+\tg[Blanca]Así que \PN, ¿eh?\n¡Mola!
+\tg[Blanca]Pareces muy inteligente... Yo estaba convencida de que la tercera era Bongore.
+\tg[Blanca]Pareces muy inteligente... Yo estaba convencida de que la tercera era Bongore.
+\tg[Blanca]¡Deberías venir a retarme algún día, \PN!
+\tg[Blanca]¡Deberías venir a retarme algún día, \PN!
+Lo siento mucho, pero te has equivocado. Vuelve a intentarlo en otra ocasión.
+Lo siento mucho, pero te has equivocado. Vuelve a intentarlo en otra ocasión.
+Como quieras. Ven a probar suerte si cambias de idea.
+Como quieras. Ven a probar suerte si cambias de idea.
+\w[menuskin]\C[8]La puerta está cerrada. Hace falta la Llave Magnética.
+\w[menuskin]\C[8]La puerta está cerrada. Hace falta la Llave Magnética.
+\w[menuskin]\C[8]¡\PN usó la Llave Magnética!
+\w[menuskin]\C[8]¡\PN usó la Llave Magnética!
+¡Has estado genial!
+¡Has estado genial!
+¿Está a salvo el Director?
+¿Está a salvo el Director?
+¡Gracias! ¡Eres un solete! Toma esto como agradecimiento.
+¡Gracias! ¡Eres un solete! Toma esto como agradecimiento.
+Contiene Día Soleado. Mejora los movimientos de tipo Fuego durante un tiempo.
+Contiene Día Soleado. Mejora los movimientos de tipo Fuego durante un tiempo.
+¡Estaría bien que alguien les diera su merecido a esos energúmenos del Team Rocket, igual que hace tres años!
+¡Estaría bien que alguien les diera su merecido a esos energúmenos del Team Rocket, igual que hace tres años!
+¡Acumula puntos en tu Tarjeta Azul y cámbialos por espléndidos regalos!
+¡Acumula puntos en tu Tarjeta Azul y cámbialos por espléndidos regalos!
+Llevas acumulados \v[52] puntos en tu Tarjeta Azul.\n¿Quieres intercambiarlos por algo?
+Llevas acumulados \v[52] puntos en tu Tarjeta Azul.\n¿Quieres intercambiarlos por algo?
+¡Vuelve a participar en el programa cuando quieras!
+¡Vuelve a participar en el programa cuando quieras!
+\w[menuskin]\C[8]Encima: Estudio 1
+\w[menuskin]\C[8]Encima: Estudio 1
+Me gusta Rosa, la chica de "La Hora Pokémon". Aunque solo conozco su voz, claro.
+Me gusta Rosa, la chica de "La Hora Pokémon".  Aunque solo conozco su voz, claro.
+Seguro que en el futuro se convierte en una estrella de calibre mundial. ¡Claro que sí!
+Seguro que en el futuro se convierte en una estrella de calibre mundial. ¡Claro que sí!
+El Ejecutivo Protón es quien ha urdido todo el plan de la Torre Radio. Es realmente admirable.
+El Ejecutivo Protón es quien ha urdido todo el plan de la Torre Radio. Es realmente admirable.
+¿Qué?... ¡¿Qué te has creído?!\n¡No pienso permitir que nadie se interponga en los planes de Prot...! Quiero decir... ¡del Team Rocket!
+¿Qué?... ¡¿Qué te has creído?!\n¡No pienso permitir que nadie se interponga en los planes de Prot...! Quiero decir... ¡del Team Rocket!
+¿Quién eres tú?
+¿Quién eres tú?
+¡Protón y el Team Rocket son los únicos que significan algo para mí!\n¡Los Pokémon me importan un pimiento!
+¡Protón y el Team Rocket son los únicos que significan algo para mí!\n¡Los Pokémon me importan un pimiento!
+\tg[Rosa]¿Por qué? ¿Por qué me pasan estas cosas a mí?\n¡Meowth, ayúdame!
+\tg[Rosa]¿Por qué? ¿Por qué me pasan estas cosas a mí?\n¡Meowth, ayúdame!
+\tg[Rosa]¡Oh! ¡Eres mi salvación!\nTe debería recompensar con algo... ¡Ya sé!\nToma, unos polvitos de maquillaje que tenía en el neceser.
+\tg[Rosa]¡Oh! ¡Eres mi salvación!\nTe debería recompensar con algo... ¡Ya sé!\nToma, unos polvitos de maquillaje que tenía en el neceser.
+\tg[Rosa]Se los podrías dar a tu Pokémon para que esté divino.
+\tg[Rosa]Se los podrías dar a tu Pokémon para que esté divino.
+\tg[Rosa]¡Yey! ¡En nada toca programa de La Hora Pokémon con el Profesor Oak!
+\tg[Rosa]¡Yey! ¡En nada toca programa de La Hora Pokémon con el Profesor Oak!
+\tg[Buena]¿Eh? ¿La contraseña de hoy?\nEs AYUDA.
+\tg[Buena]¿Eh? ¿La contraseña de hoy?\nEs AYUDA.
+\tg[Buena]¡Hola! ¡Me llamo Buena! ¿Conoces el programa de radio Las contraseñas de Buena?\nSi puedes decirme la contraseña del programa, ganarás puntos.
+\tg[Buena]¡Hola! ¡Me llamo Buena! ¿Conoces el programa de radio Las contraseñas de Buena?\nSi puedes decirme la contraseña del programa, ganarás puntos.
+\tg[Buena]¡Acumula puntos y esa chica de ahí te los cambiará por espléndidos regalos!\n¡Aquí tienes! ¡Es tu propia tarjeta de puntos!
+\tg[Buena]¡Acumula puntos y esa chica de ahí te los cambiará por espléndidos regalos!\n¡Aquí tienes! ¡Es tu propia tarjeta de puntos!
+\tg[Buena]¡Gracias por sintonizar nuestro programa!
+\tg[Buena]¡Gracias por sintonizar nuestro programa!
+\tg[Buena]¿Te sabes la contraseña de hoy?
+\tg[Buena]¿Te sabes la contraseña de hoy?
+\tg[Buena]¡Guau! ¡Gracias! ¿Cómo decías que te llamabas?\n... \PN, ¿eh? ¡Venga, \PN, únete al programa!
+\tg[Buena]¡Guau! ¡Gracias! ¿Cómo decías que te llamabas?\n... \PN, ¿eh? ¡Venga, \PN, únete al programa!
+\tg[Buena]Todos atentos. ¡Vamos allá!\n¡\PN, quiero oírte decir la contraseña de hoy!
+\tg[Buena]Todos atentos. ¡Vamos allá!\n¡\PN, quiero oírte decir la contraseña de hoy!
+\tg[Buena]¡Síii! ¡Correcto!\n¡Qué ilusión me hace que hayas escuchado el programa!\n¡Has ganado 1 punto! ¡Felicidades!
+\tg[Buena]¡Síii! ¡Correcto!\n¡Qué ilusión me hace que hayas escuchado el programa!\n¡Has ganado 1 punto! ¡Felicidades!
+\tg[Buena]¡Oooh! ¡Qué lástima!... No es correcto.\n¿No te acuerdas de la contraseña?
+\tg[Buena]¡Oooh! ¡Qué lástima!... No es correcto.\n¿No te acuerdas de la contraseña?
+\tg[Buena]¡Oh! ¡Has acumulado 30 puntos en tu Tarjeta Azul! ¡Increíble!\n\PN, has venido tantas veces que te mereces un premio especial. \n¡Voy a darte mi número de teléfono!
+\tg[Buena]¡Oh! ¡Has acumulado 30 puntos en tu Tarjeta Azul! ¡Increíble!\n\PN, has venido tantas veces que te mereces un premio especial. \n¡Voy a darte mi número de teléfono!
+\tg[Buena]¡Espero tu llamada!
+\tg[Buena]¡Espero tu llamada!
+\tg[Buena]¿No? Vuelve a intentarlo cuando hayas escuchado el programa, ¿vale?
+\tg[Buena]¿No? Vuelve a intentarlo cuando hayas escuchado el programa, ¿vale?
+\tg[Buena]¡Muchas gracias, \PN!\n¡No dejes de participar!
+\tg[Buena]¡Muchas gracias, \PN!\n¡No dejes de participar!
+\tg[Buena]¡Sintoniza el programa Las contraseñas de Buena!
+\tg[Buena]¡Sintoniza el programa Las contraseñas de Buena!
+\tg[Buena]Lo siento... Solo tienes una oportunidad al día.\n¡Vuelve a intentarlo mañana!
+\tg[Buena]Lo siento... Solo tienes una oportunidad al día.\n¡Vuelve a intentarlo mañana!
+\tg[Buena]¡No te pierdas el programa de mañana!
+\tg[Buena]¡No te pierdas el programa de mañana!
+¿Quieres rescatar al Director? ¡Pues ya te puedes ir olvidando, porque te voy a ganar!
+¿Quieres rescatar al Director? ¡Pues ya te puedes ir olvidando, porque te voy a ganar!
+¡No! ¡Increíble!
+¡No! ¡Increíble!
+¡Increíble! ¡He perdido!
+¡Increíble! ¡He perdido!
+Este es el Despacho de Lotería Pokémon.\nMe llamo Felicia Dades. Felicity para los amigos.
+Este es el Despacho de Lotería Pokémon.\nMe llamo Felicia Dades. Felicity para los amigos.
+Si el número que sacas coincide con el número de ID de uno de tus Pokémon, recibirás un estupendo premio.
+Si el número que sacas coincide con el número de ID de uno de tus Pokémon, recibirás un estupendo premio.
+¿Quieres ver el número premiado de hoy?
+¿Quieres ver el número premiado de hoy? 
+De acuerdo, veamos entonces cuál es el número premiado de hoy.\n\..\..\..
+De acuerdo, veamos entonces cuál es el número premiado de hoy.\n\..\..\..
+...
+...
+El número del Billete de Lotería es \v[1].
+El número del Billete de Lotería es \v[1].
+Voy a comprobar si este número coincide con el del ID de algún Pokémon tuyo.
+Voy a comprobar si este número coincide con el del ID de algún Pokémon tuyo.
+Lo siento... No coincide ningún número.
+Lo siento... No coincide ningún número.
+¡Felicidades!\nUna o más cifras del número ID del \v[2] de tu equipo coinciden con el número del Billete de Lotería.
+¡Felicidades!\nUna o más cifras del número ID del \v[2] de tu equipo coinciden con el número del Billete de Lotería.
+¡Felicidades!\nUna o más cifras del número ID del \v[2] de una caja de PC coinciden con el número del Billete de Lotería.
+¡Felicidades!\nUna o más cifras del número ID del \v[2] de una caja de PC coinciden con el número del Billete de Lotería.
+¡Vaya! ¡Coinciden los cinco dígitos! ¡Has ganado el premio gordo!
+¡Vaya! ¡Coinciden los cinco dígitos! ¡Has ganado el premio gordo!
+¡Qué alegría, qué alboroto ~! ¡Has ganado en la bonoloto ~!
+¡Qué alegría, qué alboroto ~! ¡Has ganado en la bonoloto ~!
+¡Ay, perdón! ¡Tu premio! ¡Que casi se me va!
+¡Ay, perdón! ¡Tu premio! ¡Que casi se me va!
+¿Eh? Parece que no tienes sitio para esto. \nVuelve cuando tengas hueco en la Bolsa.
+¿Eh?  Parece que no tienes sitio para esto. \nVuelve cuando tengas hueco en la Bolsa.
+¡Coinciden los cuatro últimos números! ¡Has ganado el primer premio!
+¡Coinciden los cuatro últimos números! ¡Has ganado el primer premio!
+¡Los tres últimos números coinciden! ¡Has ganado el segundo premio!
+¡Los tres últimos números coinciden! ¡Has ganado el segundo premio!
+¡Los dos últimos números coinciden! ¡Has ganado el tercer premio!
+¡Los dos últimos números coinciden! ¡Has ganado el tercer premio!
+¡El último número coincide! ¡Has ganado el cuarto premio!
+¡El último número coincide! ¡Has ganado el cuarto premio!
+Vuelve cuando quieras. ¡Estaré encantada de atenderte!
+Vuelve cuando quieras. ¡Estaré encantada de atenderte!
+Ah. Entiendo. En otra ocasión será.
+Ah. Entiendo. En otra ocasión será.
+Ya has sacado un Billete de Lotería hoy. Vuelve mañana, por favor.
+Ya has sacado un Billete de Lotería hoy. Vuelve mañana, por favor.
+¿\PN? Sí, te estaba esperando.\nEste era el premio que tenía guardado para ti. ¡Toma!
+¿\PN? Sí, te estaba esperando.\nEste era el premio que tenía guardado para ti. ¡Toma!
+Meow... owth...\wt[10]
+Meow... owth...\wt[10]
+¡Nardo es un DJ increíble! Es una pena que su nombre suene tan mal...
+¡Nardo es un DJ increíble! Es una pena que su nombre suene tan mal...
+\w[menuskin]\C[8]P1 Estudio 2
+\w[menuskin]\C[8]P1 Estudio 2
+¡Extraordinario! Esta Torre Radio completará nuestro gran plan.
+¡Extraordinario! Esta Torre Radio completará nuestro gran plan.
+¡Ja! ¿De verdad crees que puedes<<n>>detener al Team Rocket?
+¡Ja! ¿De verdad crees que puedes <<n>>detener al Team Rocket?
+Si amplificáramos nuestra peculiar señal y la difundiéramos por todo el país...\n¡Me emociono solo de pensarlo!
+Si amplificáramos nuestra peculiar señal y la difundiéramos por todo el país...\n¡Me emociono solo de pensarlo!
+\tg[???]El de hoy va a ser un programa ex-cep- cio-nal. ¡Hoy nos honra con su presencia el Team Rocket!
+\tg[???]El de hoy va a ser un programa ex-cep- cio-nal. ¡Hoy nos honra con su presencia el Team Rocket!
+\tg[???]Sin más dilación, empecemos...
+\tg[???]Sin más dilación, empecemos...
+\tg[???]¿Buscáis problemas? ¡Pues escuchad nuestro lema!
+\tg[???]¿Buscáis problemas? ¡Pues escuchad nuestro lema!
+\tg[???]Para infectar al mundo con la devas-
+\tg[???]Para infectar al mundo con la devas-
+\tg[???]¡Tú! ¡Tú eres la que frustró nuestros planes en Pueblo Caoba!
+\tg[???]¡Tú! ¡Tú eres la que frustró nuestros planes en Pueblo Caoba!
+\tg[???]¡Tú! ¡Tú eres el que frustró nuestros planes en Pueblo Caoba!
+\tg[???]¡Tú! ¡Tú eres el que frustró nuestros planes en Pueblo Caoba!
+\tg[???]¿No te acuerdas de mí? ¡Soy el maravilloso, el inimitable!
+\tg[???]¿No te acuerdas de mí? ¡Soy el maravilloso, el inimitable!
+\tg[Petrel]¡Petrel, el maestro del disfraz!
+\tg[Petrel]¡Petrel, el maestro del disfraz!
+\tg[Petrel]Me tienes hasta las narices. \n¡Prepárate, porque te voy a dar una lección que nunca olvidarás!
+\tg[Petrel]Me tienes hasta las narices. \n¡Prepárate, porque te voy a dar una lección que nunca olvidarás!
+Muy bien. Te diré dónde está el Director.
+Muy bien. Te diré dónde está el Director.<<n>>
+\tg[Petrel]¡Tsk! ¡Vaya incordio que estás hecha!
+\tg[Petrel]¡Tsk! ¡Vaya incordio que estás hecha!
+\tg[Petrel]¡Tsk! ¡Vaya incordio que estás hecho!
+\tg[Petrel]¡Tsk! ¡Vaya incordio que estás hecho!
+\tg[Petrel]Si venías a por el director... \n¡Llegas tarde! ¡Mua, ja, ja!
+\tg[Petrel]Si venías a por el director... \n¡Llegas tarde! ¡Mua, ja, ja!
+\tg[Petrel]Lo tenemos a buen recaudo en el Almacén Subterráneo. Al fondo del fondo y más al fondo aún del Túnel Trigal.
+\tg[Petrel]Lo tenemos a buen recaudo en el Almacén Subterráneo. Al fondo del fondo y más al fondo aún del Túnel Trigal.
+\tg[Petrel]Pero para entrar necesitarás la llave, ¡y no pienso dártela!
+\tg[Petrel]Pero para entrar necesitarás la llave, ¡y no pienso dártela!
+\tg[Petrel]¡Adiosito! ¡Bomba de humo!
+\tg[Petrel]¡Adiosito! ¡Bomba de humo!
+\tg[\v[14]]Vaya, así que quien estába aquí no era el director...
+\tg[\v[14]]Vaya, así que quien estába aquí no era el director...
+\tg[\v[14]]He oído un poco de vuestra conversación, bueno más bien la parte final.
+\tg[\v[14]]He oído un poco de vuestra conversación, bueno más bien la parte final.
+\tg[\v[14]]Voy a intentar investigar en el Túnel Trigal, ¿te vienes?
+\tg[\v[14]]Voy a intentar investigar en el Túnel Trigal, ¿te vienes?
+\tg[\v[14]]Venga, vamos.
+\tg[\v[14]]Venga, vamos.
+\tg[\v[14]]Vale. Yo te espero allí.
+\tg[\v[14]]Vale. Yo te espero allí. 
+\tg[Director]¡Ah, eres tú! Sabes que adoro a los Pokémon.\nConstruí la Torre Radio para transmitir ese sentimiento a todo el mundo.
+\tg[Director]¡Ah, eres tú! Sabes que adoro a los Pokémon.\nConstruí la Torre Radio para transmitir ese sentimiento a todo el mundo.
+\tg[Director]Quiero que todos disfruten con nuestras emisiones.
+\tg[Director]Quiero que todos disfruten con nuestras emisiones.
+\tg[Nardo]You, you...\n¡YEAH!
+\tg[Nardo]You, you...\n¡YEAH!
+\tg[Nardo]El Team Rocket ha llegado -\nSon un equipo malvado -\n¡You, you!\nEmito este comunicado -\nPorque me han obligado.
+\tg[Nardo]El Team Rocket ha llegado -\nSon un equipo malvado -\n¡You, you!\nEmito este comunicado -\nPorque me han obligado.
+\tg[Nardo]¿Alguna vez has escuchado nuestro programa? Se podría decir que estamos camino a la fama.
+\tg[Nardo]¿Alguna vez has escuchado nuestro programa? Se podría decir que estamos camino a la fama.
+\tg[Nardo]En este panorama solo gana quien proclama. ¡Espera! ¡Alguien nos llama!
+\tg[Nardo]En este panorama solo gana quien proclama. ¡Espera! ¡Alguien nos llama!
+\w[menuskin]\C[8]¡La popular Lotería Pokémon! \n¡Gana con los ID de los Pokémon! ¡Intercambia Pokémon y reúne diferentes números ID!
+\w[menuskin]\C[8]¡La popular Lotería Pokémon! \n¡Gana con los ID de los Pokémon! ¡Intercambia Pokémon y reúne diferentes números ID!
+¡Aviso! Prohibido entrar sin autorización. \nAntes no era así, pero el Director está algo raro últimamente...
+¡Aviso! Prohibido entrar sin autorización. \nAntes no era así, pero el Director está algo raro últimamente...
+¿Por qué se abrió la puerta? ¿Acaso has tenido algo que ver?
+¿Por qué se abrió la puerta? ¿Acaso has tenido algo que ver?
+¡Vaya! ¡Me la has jugado!
+¡Vaya! ¡Me la has jugado!
+¿Qué? ¿Esquivaste a nuestros hombres del Túnel Trigal? ¿Cómo lo hiciste?
+¿Qué? ¿Esquivaste a nuestros hombres del Túnel Trigal? ¿Cómo lo hiciste?
+\w[menuskin]\C[8]P3 Producción
+\w[menuskin]\C[8]P3 Producción
+\w[menuskin]\C[8]PB Recepción\nP1 Ventas\nP2 Personal\nP3 Producción\nP4 Oficina del Director\nP5 Observatorio
+\w[menuskin]\C[8]PB Recepción\nP1 Ventas\nP2 Personal\nP3 Producción\nP4 Oficina del Director\nP5 Observatorio
+\tg[\v[14]]¡Eh!\n¡Déjame pasar, lunático!
+\tg[\v[14]]¡Eh!\n¡Déjame pasar, lunático!
+\tg[\v[12]]¿Pero tú quién se supone que eres?\n ¡Ese disfraz no engañaría a nadie!
+\tg[\v[12]]¿Pero tú quién se supone que eres?\n ¡Ese disfraz no engañaría a nadie!
+\tg[\v[12]]Cómo no, tenías que ser tú.
+\tg[\v[12]]Cómo no, tenías que ser tú.
+\tg[\v[12]]¿Ha sido idea tuya esto de los disfraces?
+\tg[\v[12]]¿Ha sido idea tuya esto de los disfraces?
+\tg[\v[14]]\PN, ¿conoces a este tío?
+\tg[\v[14]]\PN, ¿conoces a este tío?
+\tg[\v[12]]No soy "este tío". Soy el que va a acabar con el Team Rocket.
+\tg[\v[12]]No soy "este tío". Soy el que va a acabar con el Team Rocket.
+\tg[\v[14]]Lo que tú digas, ¡pero déjame pasar de una vez!
+\tg[\v[14]]Lo que tú digas, ¡pero déjame pasar de una vez!
+\tg[\v[12]]Te dejaré pasar con una condición. \n¡Que \PN me gane en un combate!
+\tg[\v[12]]Te dejaré pasar con una condición. \n¡Que \PN me gane en un combate!
+\tg[\v[14]]¡Bah! \PN podría ganarte un millón de veces seguidas.
+\tg[\v[14]]¡Bah! \PN podría ganarte un millón de veces seguidas.
+\tg[\v[14]]Vamos, ¡enséñale lo fuerte que eres!
+\tg[\v[14]]Vamos, ¡enséñale lo fuerte que eres!
+\tg[\v[12]]Je. Eso digo yo. ¡Enséñame la fuerza de tu equipo, rival!
+\tg[\v[12]]Je. Eso digo yo. ¡Enséñame la fuerza de tu equipo, rival!
+¿Por qué? ¿Cómo he podido perder?
+¿Por qué? ¿Cómo he podido perder?
+\tg[\v[14]]¡Genial! ¡Qué bien se te da esto, \PN!
+\tg[\v[14]]¡Genial! ¡Qué bien se te da esto, \PN!
+\tg[\v[12]]Otra vez derrotado... ¡Este equipo no vale para nada!
+\tg[\v[12]]Otra vez derrotado... ¡Este equipo no vale para nada!
+\tg[\v[12]]Y encima me sigue torturando lo que dijo aquel tío...\n¿¡Cómo es posible esto!?
+\tg[\v[12]]Y encima me sigue torturando lo que dijo aquel tío...\n¿¡Cómo es posible esto!?
+\tg[\v[14]]Pareces un buen entrenador, pero esa actitud tuya es un problema.\nSi tratases mejor a tus Pokémon y al resto, serías capaz de cualquier cosa.
+\tg[\v[14]]Pareces un buen entrenador, pero esa actitud tuya es un problema.\nSi tratases mejor a tus Pokémon y al resto, serías capaz de cualquier cosa.
+\tg[\v[12]]¡No necesito que me deis un sermón! ¡Ni tú, ni el pringado de la capa, ni \PN-...!
+\tg[\v[12]]¡No necesito que me deis un sermón!  ¡Ni tú, ni el pringado de la capa, ni \PN-...!
+\tg[\v[12]]¡Ejem! ¡Me piro!
+\tg[\v[12]]¡Ejem! ¡Me piro!
+\tg[\v[12]]Voy a descubrir de qué va todo esto y demostrar que soy el mejor.\nHaced lo que queráis, pero no quiero veros cerca mientras me ocupo del Team Rocket.
+\tg[\v[12]]Voy a descubrir de qué va todo esto y demostrar que soy el mejor.\nHaced lo que queráis, pero no quiero veros cerca mientras me ocupo del Team Rocket.
+\tg[\v[12]]¡Que os den morcilla, pringados!
+\tg[\v[12]]¡Que os den morcilla, pringados!
+\tg[\v[14]]Vaya carácter, ¿no?
+\tg[\v[14]]Vaya carácter, ¿no?
+\tg[\v[14]]En fin. Yo también voy a adelantarme.
+\tg[\v[14]]En fin. Yo también voy a adelantarme.
+\tg[\v[14]]No soy tan bueno combatiendo, pero se me da bien escabullirme.
+\tg[\v[14]]No soy tan bueno combatiendo, pero se me da bien escabullirme.
+\tg[\v[14]]No soy tan buena combatiendo, pero se me da bien escabullirme.
+\tg[\v[14]]No soy tan buena combatiendo, pero se me da bien escabullirme.
+\tg[\v[14]]¡Nos vemos, \PN!
+\tg[\v[14]]¡Nos vemos, \PN!
+Puedes moverte a tus anchas. El Director vuelve a ser el de siempre.
+Puedes moverte a tus anchas. El Director vuelve a ser el de siempre.
+¿Qué haces merodeando por aquí? ¿Quién eres?
+¿Qué haces merodeando por aquí? ¿Quién eres?
+¡Vaya! ¡No te tomé muy en serio!
+¡Vaya! ¡No te tomé muy en serio!
+¡Ja, ja, ja! Desde aquí puedo transmitir todo tipo de señales.
+¡Ja, ja, ja! Desde aquí puedo transmitir todo tipo de señales.
+Jiggly...\wt[10]
+Jiggly...\wt[10]
+\tg[Protón]¡Detente! ¿No nos hemos visto antes tú y yo?\n¿En el Pozo Slowpoke?
+\tg[Protón]¡Detente! ¿No nos hemos visto antes tú y yo?\n¿En el Pozo Slowpoke?
+\tg[Protón]Sí... ¡Fuiste tú quien frustraste nuestros gloriosos planes! ¿Y ahora vienes aquí para provocarnos y encima disfrazado?
+\tg[Protón]Sí... ¡Fuiste tú quien frustraste nuestros gloriosos planes! ¿Y ahora vienes aquí para provocarnos y encima disfrazado?
+\tg[Protón]¿Qué pensabas infiltrarte aquí o solo parecer más fuerte?
+\tg[Protón]¿Qué pensabas infiltrarte aquí o solo parecer más fuerte?
+\tg[Protón]¡Bah, no tengo tiempo para mocosas como tu!
+\tg[Protón]¡Bah, no tengo tiempo para mocosas como tu!
+\tg[Protón]Encargate de ella.
+\tg[Protón]Encargate de ella.
+\tg[Protón]¡Bah, no tengo tiempo para mocosos como tu!
+\tg[Protón]¡Bah, no tengo tiempo para mocosos como tu!
+\tg[Protón]Encargate de el.
+\tg[Protón]Encargate de el.
+¡Leñe! ¡Si no eres del Team Rocket entonces te tengo que retar!
+¡Leñe! ¡Si no eres del Team Rocket entonces te tengo que retar!
+El uniforme te quedaba de fábula,<<n>>sinceramente.
+El uniforme te quedaba de fábula, <<n>>sinceramente.
+¡Mi madre! ¡Pues sí que eres fuerte!\n¡Toca avisar al resto o estamos perdidos!
+¡Mi madre! ¡Pues sí que eres fuerte!\n¡Toca avisar al resto o estamos perdidos!
+\w[menuskin]\C[8]P3 Estudio 2
+\w[menuskin]\C[8]P3 Estudio 2
+¡Somos el Team Rocket! ¡Nos gusta ser malos! ¿Qué? ¿Damos miedo?
+¡Somos el Team Rocket! ¡Nos gusta ser malos!  ¿Qué? ¿Damos miedo?
+¡Buuum!
+¡Buuum!
+No es que seamos malos. Solo hacemos lo que queremos.
+No es que seamos malos. Solo hacemos lo que queremos.
+Nuestro jefe se ha encerrado bajo llave tras esa puerta.\n¡Pero el Director puede abrirla! Está en el cuarto piso.\n¡Sálvalo, por favor!
+Nuestro jefe se ha encerrado bajo llave tras esa puerta.\n¡Pero el Director puede abrirla! Está en el cuarto piso.\n¡Sálvalo, por favor!
+Emitimos programas las 24 horas del día.\n¡Y yo trabajo sin parar las 24 horas! ¡Todo por la audiencia!
+Emitimos programas las 24 horas del día.\n¡Y yo trabajo sin parar las 24 horas! ¡Todo por la audiencia!
+Me encanta ordenar a los Pokémon que cometan delitos.
+Me encanta ordenar a los Pokémon que cometan delitos.
+¿Estás de broma?
+¿Estás de broma?
+¡No me gusta perder! ¡Maldición! ¡Odio a los Pokémon inútiles!
+¡No me gusta perder! ¡Maldición! ¡Odio a los Pokémon inútiles!
+¿Por qué querrían apoderarse de la Torre Radio? ¡Si aquí solo hay frikis!
+¿Por qué querrían apoderarse de la Torre Radio?  ¡Si aquí solo hay frikis!
+Cuando los Pokémon salvajes escuchan una nana se quedan dormidos. Quizás si sintonizas una nana los Pokémon salvajes te ataquen menos.
+Cuando los Pokémon salvajes escuchan una nana se quedan dormidos. Quizás si sintonizas una nana los Pokémon salvajes te ataquen menos.
+\tg[\v[14]]¡\PN-\nEjem...\n¡Intruso!\nCreo que ahí dentro está el director. Pero aquí hay Meowth encerrado...
+\tg[\v[14]]¡\PN-\nEjem...\n¡Intruso!\nCreo que ahí dentro está el director. Pero aquí hay Meowth encerrado...
+\tg[\v[14]]¿Podrías entrar y comprobar que no hay nada raro?
+\tg[\v[14]]¿Podrías entrar y comprobar que no hay nada raro?
+\tg[\v[14]]Avísame si necesitas curar a tu equipo. ¿Vale?
+\tg[\v[14]]Avísame si necesitas curar a tu equipo. ¿Vale?
+¡Ja, ja, ja! ¡Qué aburrimiento! ¡Fue tan sencillo apoderarse de este lugar! ¡Venga, entretenme!
+¡Ja, ja, ja! ¡Qué aburrimiento! ¡Fue tan sencillo apoderarse de este lugar!  ¡Venga, entretenme!
+¡Me venciste y no pienso olvidarlo!
+¡Me venciste y no pienso olvidarlo!
+\w[menuskin]\C[8]La hora Pokémon del Profesor Oak.\n¡El mejor programa de la radio!
+\w[menuskin]\C[8]La hora Pokémon del Profesor Oak.\n¡El mejor programa de la radio!
+A veces al sintonizar música en la radio aparecen Pokémon poco comunes.
+A veces al sintonizar música en la radio aparecen Pokémon poco comunes.
+¡Bienvenidos a la Torre Radio de Ciudad Trigal! \n... O eso me gustaría decir, pero en estos momentos no se admiten visitas.
+¡Bienvenidos a la Torre Radio de Ciudad Trigal! \n... O eso me gustaría decir, pero en estos momentos no se admiten visitas.
+¡Bienvenidos a la Torre Radio de Ciudad Trigal! Ahora sí que se admiten visitas.
+¡Bienvenidos a la Torre Radio de Ciudad Trigal!  Ahora sí que se admiten visitas.
+\w[menuskin]\C[8]P2 Personal
+\w[menuskin]\C[8]P2 Personal
+Sí
+Sí
+No
+No
+Si
+Si
+[Map116]
+\tg[Atlas]Vaya, vaya... ¿Cómo te las has apañado para llegar hasta aquí?\nDebes tener mucho talento...
+\tg[Atlas]Vaya, vaya... ¿Cómo te las has apañado para llegar hasta aquí?\nDebes tener mucho talento...
+\tg[Atlas]Nuestro plan es apoderarnos de esta emisora para anunciar nuestro regreso.
+\tg[Atlas]Nuestro plan es apoderarnos de esta emisora para anunciar nuestro regreso.
+\tg[Atlas]Gritarle a los cuatro vientos, mostrando nuestra grandeza...\n¡Esos somos nosotros!
+\tg[Atlas]Gritarle a los cuatro vientos, mostrando nuestra grandeza...\n¡Esos somos nosotros!
+\tg[Atlas]Así nuestro líder, el gran Giovanni, volverá con nosotros por fin.
+\tg[Atlas]Así nuestro líder, el gran Giovanni, volverá con nosotros por fin.
+\tg[Atlas]¿Ahora lo entiendes? Todo esto no era más que una misión de contacto, una forma de atraer a nuestro jefe.
+\tg[Atlas]¿Ahora lo entiendes? Todo esto no era más que una misión de contacto, una forma de atraer a nuestro jefe.
+\tg[Atlas]Una forma de volver a ser el Team Rocket del pasado, ¡una organización grandiosa sin escrúpulos o compasión!
+\tg[Atlas]Una forma de volver a ser el Team Rocket del pasado, ¡una organización grandiosa sin escrúpulos o compasión!
+\tg[Atlas]Pero si lo que buscas es interponerte en nuestro camino...
+\tg[Atlas]Pero si lo que buscas es interponerte en nuestro camino...
+\tg[Atlas]¡Tendré que mostrarte quiénes somos!
+\tg[Atlas]¡Tendré que mostrarte quiénes somos!
+¡No! ¡Que Giovanni me perdone!
+¡No! ¡Que Giovanni me perdone!
+\tg[Atlas]...N-no. ¡No puede ser!
+\tg[Atlas]...N-no. ¡No puede ser!
+\tg[Atlas]¡No, no y no!\nNo podemos acabar así, ¡otra vez no!
+\tg[Atlas]¡No, no y no!\nNo podemos acabar así, ¡otra vez no!
+\tg[Atlas]¿De verdad todo esto no ha valido para nada...?
+\tg[Atlas]¿De verdad todo esto no ha valido para nada...?
+\tg[Atlas]Por tu culpa el Team Rocket ha vuelto a caer. Una vez más, nos derrota un joven.
+\tg[Atlas]Por tu culpa el Team Rocket ha vuelto a caer. Una vez más, nos derrota un joven.
+\tg[Atlas]Pero una vez más, volveremos. Lo sé.
+\tg[Atlas]Pero una vez más, volveremos. Lo sé.
+\tg[Atlas]Y ese día, la primera persona a por la que iremos... ¡Serás tú!
+\tg[Atlas]Y ese día, la primera persona a por la que iremos... ¡Serás tú!

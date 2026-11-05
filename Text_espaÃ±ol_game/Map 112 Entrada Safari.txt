@@ -1,0 +1,137 @@
+﻿# Maps grouped under: Entrada Safari (Highest ID: 112)
+[Map112]
+La Zona Safari...\nCuando uno viene aquí tiene la extraña impresión de estar en un festival de algún país muy lejano.
+La Zona Safari...\nCuando uno viene aquí tiene la extraña impresión de estar en un festival de algún país muy lejano.
+\w[signskin]Zona Safari.\n¡Vive la emoción del mundo salvaje!
+\w[signskin]Zona Safari.\n¡Vive la emoción del mundo salvaje!
+Hola, te doy la bienvenida al Centro Pokémon.
+Hola, te doy la bienvenida al Centro Pokémon.
+Aquí tu equipo Pokémon se recuperará por completo.
+Aquí tu equipo Pokémon se recuperará por completo.
+¿Quieres que descanse hasta que se reponga?
+¿Quieres que descanse hasta que se reponga?
+Vale, dame unos segundos.
+Vale, dame unos segundos.
+Es posible que algún Pokémon esté infectado por el Pokérus.
+Es posible que algún Pokémon esté infectado por el Pokérus.
+No se sabe gran cosa del Pokérus, salvo que es una forma de vida microscópica que infecta a los Pokémon.\nAl parecer, los Pokémon infectados crecen de una forma extraordinaria.
+No se sabe gran cosa del Pokérus, salvo que es una forma de vida microscópica que infecta a los Pokémon.\nAl parecer, los Pokémon infectados crecen de una forma extraordinaria.
+Gracias por esperar.\nTu equipo Pokémon ha recobrado toda su energía.
+Gracias por esperar.\nTu equipo Pokémon ha recobrado toda su energía.
+¡Vuelve cuando quieras!
+¡Vuelve cuando quieras!
+¡Hay muchos Pokémon pero el mejor es Slowpoke! \nPorque es el más guapo, claro.
+¡Hay muchos Pokémon pero el mejor es Slowpoke! \nPorque es el más guapo, claro.
+Fíjate que a mí me dicen mucho que me parezco a un Slowpoke.\n¡Por algo será!
+Fíjate que a mí me dicen mucho que me parezco a un Slowpoke.\n¡Por algo será!
+¡Chaan!\wt[10]
+¡Chaan!\wt[10]
+...\n... ... ...\n
+...\n... ... ...\n
+<i>(Bostezo)...
+<i>(Bostezo)...
+... (Yo no soy de muchas palabras.)
+... (Yo no soy de muchas palabras.)
+He traído montones de bebidas Pokémon y he montado la parada.\nNo he hecho más que empezar el negocio, pero creo que irá bien...
+He traído montones de bebidas Pokémon y he montado la parada.\nNo he hecho más que empezar el negocio, pero creo que irá bien...
+Anda! ¿Vienes a comprarme algo?\nEspera un momento, que lo tengo todo patas arriba...\n...
+Anda! ¿Vienes a comprarme algo?\nEspera un momento, que lo tengo todo patas arriba...\n...
+...\nKanga.\wt[10]
+...\nKanga.\wt[10]
+¡He decidido que mi primer Pokémon lo capturaré en la Zona Safari!
+¡He decidido que mi primer Pokémon lo capturaré en la Zona Safari!
+Bufree.\wt[10]
+Bufree.\wt[10]
+¡La Zona Safari es un lugar de lo más entretenido!\nHe estado corriendo como un loco detrás de los Pokémon.
+¡La Zona Safari es un lugar de lo más entretenido!\nHe estado corriendo como un loco detrás de los Pokémon.
+Pero al Jigglypuff que me acompaña no le hace mucha gracia eso y se ha enfurruñado.
+Pero al Jigglypuff que me acompaña no le hace mucha gracia eso y se ha enfurruñado.
+¡Rueda la Safari Ball bajo el claro cielo azul! \n¡Rueda en la Safari Zone hasta donde quieras tú!\n¡Si te quieres divertir aquí tienes que venir!
+¡Rueda la Safari Ball bajo el claro cielo azul! \n¡Rueda en la Safari Zone hasta donde quieras tú!\n¡Si te quieres divertir aquí tienes que venir!
+Creo que tiene mucho gancho.\nA lo mejor algún productor me la compra para un anuncio de la tele.
+Creo que tiene mucho gancho.\nA lo mejor algún productor me la compra para un anuncio de la tele.
+¡La Zona Safari es algo genial!\n¡La Zona Safari es sensacional!\nCon tantísimos Pokémon... un lugar sin igual...
+¡La Zona Safari es algo genial!\n¡La Zona Safari es sensacional!\nCon tantísimos Pokémon... un lugar sin igual...
+Es una canción que me he inventado.\nLa canto mientras paseo por la Zona Safari.
+Es una canción que me he inventado.\nLa canto mientras paseo por la Zona Safari. 
+Viajo por todo el mundo en<<n>>busca de objetos raros; echa un<<n>>vistazo.
+Viajo por todo el mundo en <<n>>busca de objetos raros; echa un <<n>>vistazo.
+Si
+Si
+No
+No
+[Map140]
+¡Buenas!\n¿Te explico qué es la Zona Safari?
+¡Buenas!\n¿Te explico qué es la Zona Safari?
+En la Zona Safari, tendrás que usar Safari Balls para capturar Pokémon. ¡Es un verdadero Safari! \nEl juego termina cuando se te acaban las Safari Balls.
+En la Zona Safari, tendrás que usar Safari Balls para capturar Pokémon. ¡Es un verdadero Safari! \nEl juego termina cuando se te acaban las Safari Balls.
+Al encontrarte con un Pokémon, puedes lanzarles Cebo o un pegote de Lodo.\nCon el Cebo, consigues que sea más difícil que escapen y también es más difícil capturarlos.
+Al encontrarte con un Pokémon, puedes lanzarles Cebo o un pegote de Lodo.\nCon el Cebo, consigues que sea más difícil que escapen y también es más difícil capturarlos.
+Con el Lodo, por el contrario, son más fáciles de capturar, pero podrán huir más fácilmente. \n¡Espero que te lo pases bien!
+Con el Lodo, por el contrario, son más fáciles de capturar, pero podrán huir más fácilmente. \n¡Espero que te lo pases bien!
+¡Espero que te lo pases bien en la Zona Safari!
+¡Espero que te lo pases bien en la Zona Safari!
+\tg[Oak]¡\PN!\nMenuda sorpresa verte por aquí.
+\tg[Oak]¡\PN!\nMenuda sorpresa verte por aquí.
+\tg[Oak]¿Yo?\nHe venido a visitar la nueva Zona Safari, en ella viven muchos pokémon que no puedes encontrar en Johto o Kanto.
+\tg[Oak]¿Yo?\nHe venido a visitar la nueva Zona Safari, en ella viven muchos pokémon que no puedes encontrar en Johto o Kanto.
+\tg[Oak]Es una oportunidad de oro para seguir trabajando en la Pokédex. Déjame echarle un vistazo.
+\tg[Oak]Es una oportunidad de oro para seguir trabajando en la Pokédex. Déjame echarle un vistazo.
+\tg[Oak]Voy a mejorar tu Pokédex con el Modo Nacional.
+\tg[Oak]Voy a mejorar tu Pokédex con el Modo Nacional.
+\w[menuskin]\C[8]¡La Pokédex de \PN contiene ahora datos sobre el Modo Nacional!
+\w[menuskin]\C[8]¡La Pokédex de \PN contiene ahora datos sobre el Modo Nacional!
+\tg[Oak]Completar la Pokédex es un trabajo más que arduo, pero tienes que intentarlo.
+\tg[Oak]Completar la Pokédex es un trabajo más que arduo, pero tienes que intentarlo.
+\tg[Oak]¡Oh! ¡Es tardísimo!\nTengo que ir a grabar a la radio de Ciudad Trigal.\nNos vemos, \PN.
+\tg[Oak]¡Oh! ¡Es tardísimo!\nTengo que ir a grabar a la radio de Ciudad Trigal.\nNos vemos, \PN.
+¡Esta es la Zona Safari!
+¡Esta es la Zona Safari!
+\g¡Es enorme y por solo 500$, podrás atrapar todos los Pokémon que quieras!
+\g¡Es enorme y por solo 500$, podrás atrapar todos los Pokémon que quieras!
+\g¿Te gustaría probar?
+\g¿Te gustaría probar?
+Lo siento, las cajas de tu PC están llenas...
+Lo siento, las cajas de tu PC están llenas...
+\GLo siento, pero te falta dinero.
+\GLo siento, pero te falta dinero.
+\G¡Son $500, por favor!
+\G¡Son $500, por favor!
+\G\bAquí utilizamos solamente un tipo especial de Poké Ball.
+\G\bAquí utilizamos solamente un tipo especial de Poké Ball.
+\w[menuskin]\C[8]¡\PN ha recibido 30 Safari Balls!\wtnp[20]
+\w[menuskin]\C[8]¡\PN ha recibido 30 Safari Balls!\wtnp[20]
+En cuanto te quedes sin Safari Balls, te aviso. ¡Espero que te lo pases bien!\n¡Adelante!
+En cuanto te quedes sin Safari Balls, te aviso.  ¡Espero que te lo pases bien!\n¡Adelante!
+¡Hasta la próxima!
+¡Hasta la próxima!
+Todavía te quedan Safari Balls, ¿ya te quieres ir de la Zona Safari?
+Todavía te quedan Safari Balls, ¿ya te quieres ir de la Zona Safari?
+Como quieras.\nDevuélveme las Safari Balls que te queden.
+Como quieras.\nDevuélveme las Safari Balls que te queden.
+\b¡Buena suerte!
+\b¡Buena suerte!
+Espero que te haya ido bien. ¡Hasta la próxima!
+Espero que te haya ido bien. ¡Hasta la próxima!
+\tg[Baoba]¡Muy buenas! Habrás recorrido un largo camino para llegar hasta aquí.\nTe damos la bienvenida a la Zona Safari.
+\tg[Baoba]¡Muy buenas! Habrás recorrido un largo camino para llegar hasta aquí.\nTe damos la bienvenida a la Zona Safari.
+\tg[Baoba]¿Eso que llevas ahí es una Pokédex? ¡Qué recuerdos me trae!
+\tg[Baoba]¿Eso que llevas ahí es una Pokédex?  ¡Qué recuerdos me trae!
+\tg[Baoba]Yo soy Baoba.
+\tg[Baoba]Yo soy Baoba.
+\tg[Baoba]Antes era el encargado de la Zona Safari en Ciudad Fucsia, pero casi de un día para otro, los visitantes fueron perdiendo el interés y encontraron otros entretenimientos.
+\tg[Baoba]Antes era el encargado de la Zona Safari en Ciudad Fucsia, pero casi de un día para otro, los visitantes fueron perdiendo el interés y encontraron otros entretenimientos.
+\tg[Baoba]Decían que estaba pasado de moda.\n¡Mi Zona Safari!
+\tg[Baoba]Decían que estaba pasado de moda.\n¡Mi Zona Safari!
+\tg[Baoba]Entonces decidí irme al extranjero a aprender nuevas técnicas de gerencia y ahora he construido esta nueva Zona Safari.
+\tg[Baoba]Entonces decidí irme al extranjero a aprender nuevas técnicas de gerencia y ahora he construido esta nueva Zona Safari.
+\tg[Baoba]Toma, un pequeño presente de bienvenida.
+\tg[Baoba]Toma, un pequeño presente de bienvenida.
+\tg[Baoba]Acabamos de abrir, pero ya puedes disfrutar al máximo del Safari.
+\tg[Baoba]Acabamos de abrir, pero ya puedes disfrutar al máximo del Safari.
+Sí
+Sí
+No
+No
+Si
+Si

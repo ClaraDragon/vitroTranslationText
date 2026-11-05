@@ -1,0 +1,229 @@
+﻿# Maps grouped under: Ruta 34 (Highest ID: 20)
+[Map20]
+\tg[F.Otto]¡Hola! ¡Qué sorpresa! Soy el tío F. Otto, retratista.\n¡Tu cara es muy fotogénica!
+\tg[F.Otto]¡Hola! ¡Qué sorpresa! Soy el tío F.  Otto, retratista.\n¡Tu cara es muy fotogénica!
+\tg[F.Otto]¿Quieres una foto de recuerdo?
+\tg[F.Otto]¿Quieres una foto de recuerdo?
+\tg[F.Otto]¡Estupendo! ¡Prepárate para la foto! \nMira hacia el Spearow...
+\tg[F.Otto]¡Estupendo! ¡Prepárate para la foto! \nMira hacia el Spearow...
+\tg[F.Otto]¡Eso es! ¡Fantástico! ¡Ha quedado una foto de lujo!\nPuedes verla en la Carpeta <b>Album</b> cuando quieras.
+\tg[F.Otto]¡Eso es! ¡Fantástico! ¡Ha quedado una foto de lujo!\nPuedes verla en la Carpeta <b>Album</b> cuando quieras.
+\tg[F.Otto]¡Vaya, vaya! ¡No hay por qué tener vergüenza!
+\tg[F.Otto]¡Vaya, vaya! ¡No hay por qué tener vergüenza!
+Este descampado es un lugar perfecto para entrenar, ¡probémoslo!
+Este descampado es un lugar perfecto para entrenar, ¡probémoslo!
+¿He fallado en mi entrenamiento?
+¿He fallado en mi entrenamiento?
+Quizás debería llevar un Pokémon a la Guardería, o quizás debería usar objetos...
+Quizás debería llevar un Pokémon a la Guardería, o quizás debería usar objetos...
+¿Me das tu número de teléfono? Te<<n>>llamaré para volver a pelear.
+¿Me das tu número de teléfono? Te <<n>>llamaré para volver a pelear.
+¡Guay! ¡Vas a ver el nivel que tengo entrenando Pokémon!
+¡Guay! ¡Vas a ver el nivel que tengo entrenando Pokémon!
+¡Eres demasiado fuerte para practicar conmigo! ¡No vale!
+¡Eres demasiado fuerte para practicar conmigo!  ¡No vale!
+\w[signskin3]\C[8]Pista para Entrenadores:\nEn la Torre Radio de Ciudad Trigal, al norte de aquí, están de promoción.\nPuedes participar en un concurso de preguntas para ganar una Tarjeta Radio.
+\w[signskin3]\C[8]Pista para Entrenadores:\nEn la Torre Radio de Ciudad Trigal, al norte de aquí, están de promoción.\nPuedes participar en un concurso de preguntas para ganar una Tarjeta Radio.
+¡Eh, tú! ¿Qué se te ha perdido por aquí?
+¡Eh, tú! ¿Qué se te ha perdido por aquí?
+¡Lo siento mucho, Sam!
+¡Lo siento mucho, Sam!
+¡No bajes la guardia! ¡Mi hermana es fuerte!
+¡No bajes la guardia! ¡Mi hermana es fuerte!
+Soy el mejor de mi clase en lo referente a Pokémon, ¡te lo demostraré!
+Soy el mejor de mi clase en lo referente a Pokémon, ¡te lo demostraré!
+¡No! Hay mejores Entrenadores...
+¡No! Hay mejores Entrenadores...
+Estoy esforzándome para ser el mejor de mi clase.
+Estoy esforzándome para ser el mejor de mi clase.
+Dime, ¿me das tu número de telefono?
+Dime, ¿me das tu número de telefono?
+¡Te estaba esperando!
+¡Te estaba esperando!
+¡Horror! ¡No me<<n>>quedan más Pokémon!
+¡Horror! ¡No me <<n>>quedan más Pokémon!
+Gracias por combatir contra mí.
+Gracias por combatir contra mí.
+Toma. Con esto podrás ser aún mejor.
+Toma. Con esto podrás ser aún mejor. 
+Dime, ¿me das tu<<n>>número de telefono?
+Dime, ¿me das tu <<n>>número de telefono?
+¡Ah, eres tú!
+¡Ah, eres tú!
+¿Sabes qué? Tu Pokémon tenía un Huevo.\n¿Te gustaría quedártelo?
+¿Sabes qué? Tu Pokémon tenía un Huevo.\n¿Te gustaría quedártelo?
+\w[menuskin]\C[8]\PN ha recibido un Huevo.
+\w[menuskin]\C[8]\PN ha recibido un Huevo.
+¡Cuídalo bien!
+¡Cuídalo bien!
+Imagino que lo quieres, porque si no... \n¡Tortilla al canto!
+Imagino que lo quieres, porque si no... \n¡Tortilla al canto!
+Como quieras. Si quieres pasarte luego seguro que tenemos tuppers para que te lleves un poco.
+Como quieras. Si quieres pasarte luego seguro que tenemos tuppers para que te lleves un poco.
+¿Sabes algo acerca de los huevos? Los huevos Pokémon, claro.
+¿Sabes algo acerca de los huevos? Los huevos Pokémon, claro.
+He estado cuidando algunos Pokémon junto con mi esposa.\n¡Y hemos conseguido un huevo!
+He estado cuidando algunos Pokémon junto con mi esposa.\n¡Y hemos conseguido un huevo!
+¿A que es increíble?\n¿Qué? ¿Dices que te gusta este huevo?\n¡Pues quédatelo! ¡Hazte una tortilla si eso!
+¿A que es increíble?\n¿Qué? ¿Dices que te gusta este huevo?\n¡Pues quédatelo! ¡Hazte una tortilla si eso!
+Soy uno de los Encargados de la Guardería Pokémon.
+Soy uno de los Encargados de la Guardería Pokémon.
+Aquí cuidamos de los Pokémon de los Entrenadores.
+Aquí cuidamos de los Pokémon de los Entrenadores.
+Si quieres que nos ocupemos de alguno, habla con mi mujer.
+Si quieres que nos ocupemos de alguno, habla con mi mujer.
+Me alegro de que hayas venido.
+Me alegro de que hayas venido.
+A \v[3] le va muy bien.
+A \v[3] le va muy bien.
+¡Ah, eres tú! Me alegro de verte.
+¡Ah, eres tú! Me alegro de verte.
+\v[3] y \v[4] están estupendamente.
+\v[3] y \v[4] están estupendamente.
+Pero más que juntos, prefieren jugar con otros Pokémon...
+Pero más que juntos, prefieren jugar con otros Pokémon...
+Diría que no se quieren con locura.
+Diría que no se quieren con locura.
+Los dos se llevan bastante bien.
+Los dos se llevan bastante bien.
+Los dos se llevan estupendamente.
+Los dos se llevan estupendamente.
+\w[signskin4]\C[8]Ruta 34.\nAl norte, Ciudad Trigal.\nAl sur, el Encinar.
+\w[signskin4]\C[8]Ruta 34.\nAl norte, Ciudad Trigal.\nAl sur, el Encinar.
+¡Espera un momento! ¿Quién eres tú?
+¡Espera un momento! ¿Quién eres tú?
+¡Oooh! ¡Demasiado fuerte!
+¡Oooh! ¡Demasiado fuerte!
+¡Mi hermana me vengará!
+¡Mi hermana me vengará!
+¡Aquí es donde me entreno!
+¡Aquí es donde me entreno!
+¡Guau!
+¡Guau!
+¡No puedo abandonar el entrenamiento!\n¡Necesito seguir esforzándome para convertirme en Líder de Gimnasio!
+¡No puedo abandonar el entrenamiento!\n¡Necesito seguir esforzándome para convertirme en Líder de Gimnasio!
+\w[signskin]Guardería Pokémon.\n¡Déjanos criar tu Pokémon por ti!
+\w[signskin]Guardería Pokémon.\n¡Déjanos criar tu Pokémon por ti!
+¡¿Y a ti quién te ha invitado?!
+¡¿Y a ti quién te ha invitado?!
+¡He perdido! ¡Increíble!
+¡He perdido! ¡Increíble!
+Eres muy fuerte. No pude hacer nada.\nToma. Te lo mereces.
+Eres muy fuerte. No pude hacer nada.\nToma. Te lo mereces.
+Eres muy fuerte, no pude hacer nada. Sentimos haberte atacado pensamos que aquí nadie nos encontraría.\n¡Nos has sorprendido!
+Eres muy fuerte, no pude hacer nada. Sentimos haberte atacado pensamos que aquí nadie nos encontraría.\n¡Nos has sorprendido!
+Acabo de recoger mi Pokémon de la Guardería. Es un pedacito de pan... ¿¡A que sí!?
+Acabo de recoger mi Pokémon de la Guardería. Es un pedacito de pan... ¿¡A que sí!?
+¿Por qué acaba así?
+¿Por qué acaba así?
+N-no vuelvas a combatir conmigo... ¡Nadie le hace daño a mi bebé!
+N-no vuelvas a combatir conmigo... ¡Nadie le hace daño a mi bebé!
+\tg[Eusine]¡Eh, \PN! ¿Tú también lo has visto?
+\tg[Eusine]¡Eh, \PN! ¿Tú también lo has visto?
+\tg[Eusine]¡Era Suicune! ¡Ha pasado como una exhalación junto al agua!\nSu forma de correr... pura gracia.
+\tg[Eusine]¡Era Suicune! ¡Ha pasado como una exhalación junto al agua!\nSu forma de correr...  pura gracia.
+\tg[Eusine]Lo sigo, lo estudio, sueño con Suicune... y aun así, siempre se me escapa.
+\tg[Eusine]Lo sigo, lo estudio, sueño con Suicune... y aun así, siempre se me escapa.
+\tg[Eusine]Pero esta vez no. Ya sé lo que busca Suicune. Algo le llama desde el norte.
+\tg[Eusine]Pero esta vez no. Ya sé lo que busca Suicune. Algo le llama desde el norte.
+\tg[Eusine]Eso es. No sé por qué no lo vi antes. Suicune volverá a Ciudad Iris. Estoy convencido. \nY si quiere medir su fuerza con alguien... qué mejor escenario que la Torre Campana.
+\tg[Eusine]Eso es. No sé por qué no lo vi antes.  Suicune volverá a Ciudad Iris. Estoy convencido.  \nY si quiere medir su fuerza con alguien... qué mejor escenario que la Torre Campana.
+\tg[Eusine]\n¡Es allí! ¡Tiene que ser allí!
+\tg[Eusine]\n¡Es allí! ¡Tiene que ser allí!
+\tg[Eusine]Date prisa, \PN. Yo también iré.\nY esta vez... ¡esta vez no seré un simple espectador!
+\tg[Eusine]Date prisa, \PN. Yo también iré.\nY esta vez... ¡esta vez no seré un simple espectador!
+Estoy buscando individuos sospechosos... ¡Puedes pasar, joven!
+Estoy buscando individuos sospechosos... ¡Puedes pasar, joven!
+¿Quién anda ahí? ¿Qué es lo que quieres?\n¿¡Qué buscas, maleante!?
+¿Quién anda ahí? ¿Qué es lo que quieres?\n¿¡Qué buscas, maleante!?
+Con Pokémon fuertes a mi lado,<<n>>no le tengo miedo ni a la oscuridad<<n>>nocturna.
+Con Pokémon fuertes a mi lado, <<n>>no le tengo miedo ni a la oscuridad <<n>>nocturna.
+Últimamente se oyen muchos rumores de ladrones de Pokémon... ¡Ándate con ojo, joven!
+Últimamente se oyen muchos rumores de ladrones de Pokémon... ¡Ándate con ojo, joven!
+¿Entrenas Pokémon? Libremos un combate de prueba.
+¿Entrenas Pokémon? Libremos un combate de prueba.
+¡Oh, no! No puedo ganar...
+¡Oh, no! No puedo ganar...
+¡Eres demasiado fuerte para practicar conmigo!
+¡Eres demasiado fuerte para practicar conmigo!
+¡Has vuelto! ¡Vamos a practicar de nuevo!
+¡Has vuelto! ¡Vamos a practicar de nuevo!
+¡Te llamaré si surge algo!
+¡Te llamaré si surge algo!
+¡Alak Zam Zam!\wt[20]
+¡Alak Zam Zam!\wt[20]
+¡Qué bien que hayas vuelto! El Pokémon que me diste está muy bien.\nY tú también tienes buen aspecto.
+¡Qué bien que hayas vuelto! El Pokémon que me diste está muy bien.\nY tú también tienes buen aspecto.
+\tg[\v[14]]¡Ah, \PN!
+\tg[\v[14]]¡Ah, \PN!
+\tg[\v[14]]¡Voy a presentaros! Esta es \PN.\nEs Entrenadora de Pokémon.
+\tg[\v[14]]¡Voy a presentaros! Esta es \PN.\nEs Entrenadora de Pokémon.
+\tg[\v[14]]¡Voy a presentaros! Este es \PN.\nEs Entrenador de Pokémon.
+\tg[\v[14]]¡Voy a presentaros! Este es \PN.\nEs Entrenador de Pokémon.
+\tg[\v[14]]Se le da muy bien criarlos, pero seguro que no tanto como a ti.
+\tg[\v[14]]Se le da muy bien criarlos, pero seguro que no tanto como a ti.
+\tg[\v[14]]¡Ven conmigo, \PN!
+\tg[\v[14]]¡Ven conmigo, \PN!
+Sí
+Sí
+No
+No
+Si
+Si
+[Map120]
+\tg[\v[14]]¡Abuela!
+\tg[\v[14]]¡Abuela!
+\tg[\v[14]]Te presento a mi amiga \PN.
+\tg[\v[14]]Te presento a mi amiga \PN.
+¡Anda! Así que ya te has echado un novieta... El que no corre vuela...
+¡Anda! Así que ya te has echado un novieta... El que no corre vuela...
+\tg[\v[14]]¡¿Pero qué estás diciendo, abuela?! \nEs solo una chica de por aquí...
+\tg[\v[14]]¡¿Pero qué estás diciendo, abuela?! \nEs solo una chica de por aquí...
+\tg[\v[14]]Te presento a mi amigo \PN.
+\tg[\v[14]]Te presento a mi amigo \PN.
+¡Anda! Así que ya te has echado un noviete... El que no corre vuela...
+¡Anda! Así que ya te has echado un noviete... El que no corre vuela...
+\tg[\v[14]]¡¿Pero qué estás diciendo, abuela?! \nEs solo un chico de por aquí...
+\tg[\v[14]]¡¿Pero qué estás diciendo, abuela?! \nEs solo un chico de por aquí...
+Vale, vale, ya entiendo. Bueno, \PN, si \v[14] te ha traído debe ser porque te aprecia mucho. \nVuelve cuando te apetezca.
+Vale, vale, ya entiendo. Bueno, \PN, si \v[14] te ha traído debe ser porque te aprecia mucho. \nVuelve cuando te apetezca.
+\tg[\v[14]]¡Ya vale, abuela!
+\tg[\v[14]]¡Ya vale, abuela!
+\tg[\v[14]]Tengo que irme ya, ¡nos vemos \PN!
+\tg[\v[14]]Tengo que irme ya, ¡nos vemos \PN!
+¡Ah, ahí estás! Mi marido te estaba buscando.
+¡Ah, ahí estás! Mi marido te estaba buscando.
+Bienvenida a Cuidados Pokémon.\nDime, ¿te gustaría dejar algún Pokémon a nuestro cargo?
+Bienvenida a Cuidados Pokémon.\nDime, ¿te gustaría dejar algún Pokémon a nuestro cargo?
+Si me dejas ese Pokémon, ¿con quién te vas a defender?
+Si me dejas ese Pokémon, ¿con quién te vas a defender?
+¿Qué Pokémon quieres que criemos por ti?
+¿Qué Pokémon quieres que criemos por ti?
+Bien, ¡hasta la próxima!
+Bien, ¡hasta la próxima!
+Regresa en otro momento.
+Regresa en otro momento.
+No te preocupes, tu \v[3] está en buenas manos.
+No te preocupes, tu \v[3] está en buenas manos.
+Podemos cuidar a dos de tus Pokémon.\n¿Quieres que nos ocupemos de otro?
+Podemos cuidar a dos de tus Pokémon.\n¿Quieres que nos ocupemos de otro?
+Ven a hablar conmigo cuando quieras recoger alguno de tus Pokémon.
+Ven a hablar conmigo cuando quieras recoger alguno de tus Pokémon.
+Todos los Pokémon que están ahora mismo a nuestro cuidado están como una rosa.
+Todos los Pokémon que están ahora mismo a nuestro cuidado están como una rosa.
+¿Has venido a por algún Pokémon?
+¿Has venido a por algún Pokémon? 
+¿A quién quieres llevarte?
+¿A quién quieres llevarte?
+\GSi quieres llevarte tu \v[3], tendrás que pagar \v[4]$.
+\GSi quieres llevarte tu \v[3], tendrás que pagar \v[4]$.
+\GNo tienes suficiente dinero...
+\GNo tienes suficiente dinero...
+\G¡Perfecto!\nAquí tienes a tu Pokémon.
+\G¡Perfecto!\nAquí tienes a tu Pokémon.
+¿Quieres llevarte el otro Pokémon?
+¿Quieres llevarte el otro Pokémon?
+Sí
+Sí
+No
+No

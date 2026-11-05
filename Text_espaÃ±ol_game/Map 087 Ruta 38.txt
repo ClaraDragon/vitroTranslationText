@@ -1,0 +1,54 @@
+﻿# Maps grouped under: Ruta 38 (Highest ID: 87)
+[Map87]
+\w[signskin4]\C[8]Ruta 38.\nAl este, Ciudad Iris. \nAl oeste, Ruta 39.
+\w[signskin4]\C[8]Ruta 38.\nAl este, Ciudad Iris. \nAl oeste, Ruta 39.
+Parece que sabes de Pokémon.\nSi es así, ¿por qué no me das algún consejo?
+Parece que sabes de Pokémon.\nSi es así, ¿por qué no me das algún consejo?
+Ya veo. De modo que luchas así.
+Ya veo. De modo que luchas así.
+¡Tienes habilidad con los Pokémon! Los chicos me dan objetos tras las batallas, pero a veces son demasiados.
+¡Tienes habilidad con los Pokémon! Los chicos me dan objetos tras las batallas, pero a veces son demasiados.
+La próxima vez, puedo darte alguno si<<n>>quieres. Dame tu número.
+La próxima vez, puedo darte alguno si <<n>>quieres. Dame tu número.
+¡Has vuelto! ¡Has vuelto! ¡Quiero que me vuelvas a dar algún consejo de los tuyos!
+¡Has vuelto! ¡Has vuelto! ¡Quiero que me vuelvas a dar algún consejo de los tuyos!
+¡Tengo una buena noticia! La leche de la Granja Mu-mu es famosa por su sabor.
+¡Tengo una buena noticia! La leche de la Granja Mu-mu es famosa por su sabor.
+\w[signskin3]\C[8]Pistas para Entrenadores: \nCuando un Pokémon va a evolucionar, puedes pulsar el botón X para detener el proceso. \nEsto se llama cancelar la evolución.
+\w[signskin3]\C[8]Pistas para Entrenadores: \nCuando un Pokémon va a evolucionar, puedes pulsar el botón X para detener el proceso. \nEsto se llama cancelar la evolución.
+¡Auros!
+¡Auros!
+¡Volad alto hacia el cielo, queridos Pokémon pájaro!
+¡Volad alto hacia el cielo, queridos Pokémon pájaro!
+¡Me apetece salir volando ahora!
+¡Me apetece salir volando ahora!
+Pienso entrenarme en Ciudad Orquídea y enseñar a volar a mis Pokémon.
+Pienso entrenarme en Ciudad Orquídea y enseñar a volar a mis Pokémon.
+He estado en el extranjero.\n¡Así que conozco toda clase de Pokémon!
+He estado en el extranjero.\n¡Así que conozco toda clase de Pokémon!
+¡Tu destreza es de nivel mundial!
+¡Tu destreza es de nivel mundial!
+Gentes de todo el mundo viven felices con los Pokémon.
+Gentes de todo el mundo viven felices con los Pokémon.
+¡Hola! ¡Tienes buen aspecto!\n¿Me dejas ver tu equipo Pokémon?
+¡Hola! ¡Tienes buen aspecto!\n¿Me dejas ver tu equipo Pokémon?
+Encantada de haber visto tu equipo<<n>>Pokémon.
+Encantada de haber visto tu equipo <<n>>Pokémon.
+Cuando veo Pokémon me tranquilizo.
+Cuando veo Pokémon me tranquilizo.
+¡Puedo calcular cómo derrotar a cualquier Pokémon!
+¡Puedo calcular cómo derrotar a cualquier Pokémon!
+¿Qué? ¡Parece que me han fallado los cálculos!
+¿Qué? ¡Parece que me han fallado los cálculos!
+¿Eh? ¿Eso es una Pokédex? ¿Has conocido al Profesor Oak? ¿Eh? ¿De verdad? ¡Es genial! He soñado que yo era un investigador de Pokémon como el Profesor Oak.
+¿Eh? ¿Eso es una Pokédex? ¿Has conocido al Profesor Oak? ¿Eh? ¿De verdad? ¡Es genial! He soñado que yo era un investigador de Pokémon como el Profesor Oak.
+Por favor, ¿me das tu número de<<n>>teléfono?<br>Vamos a hablar de vez en<<n>>cuando sobre el Profesor Oak.
+Por favor, ¿me das tu número de <<n>>teléfono?<br>Vamos a hablar de vez en <<n>>cuando sobre el Profesor Oak.
+¡Has venido justa a tiempo! Déjame poner en práctica algo que he aprendido hoy.
+ ¡Has venido justa a tiempo! Déjame poner en práctica algo que he aprendido hoy.
+¿Cómo? ¡Déjame que repita los<<n>>cálculos!
+¿Cómo? ¡Déjame que repita los <<n>>cálculos!
+Tengo que hacer muchos exámenes y no tengo tiempo para los Pokémon. Así que, cuando puedo jugar, me concentro mucho.
+Tengo que hacer muchos exámenes y no tengo tiempo para los Pokémon. Así que, cuando puedo jugar, me concentro mucho.
+¡Ah! y toma esto.
+¡Ah! y toma esto.

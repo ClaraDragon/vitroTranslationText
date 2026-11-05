@@ -1,0 +1,80 @@
+﻿# Maps grouped under: Ruta 41 (Highest ID: 94)
+[Map94]
+Aquí el agua está templada. Estoy muy a gusto. ¡Claro que lucharé contigo!
+Aquí el agua está templada. Estoy muy a gusto.  ¡Claro que lucharé contigo!
+¡Estoy como una pasa!
+¡Estoy como una pasa!
+¡Que relajante es flotar así!
+¡Que relajante es flotar así!
+¡Guau! ¡Qué elegante estás ahí encima de tu Pokémon!
+¡Guau! ¡Qué elegante estás ahí encima de tu Pokémon!
+He perdido...
+He perdido...
+¿No había una canción famosa sobre un niño que montaba un Lapras?
+¿No había una canción famosa sobre un niño que montaba un Lapras?
+¿Estás buscando el secreto de las Islas Remolino?
+¿Estás buscando el secreto de las Islas Remolino?
+¡Ooh! ¡Tienes una gran resistencia!
+¡Ooh! ¡Tienes una gran resistencia!
+Un secreto sobre las Islas Remolino...\n¡Dentro está muy oscuro!
+Un secreto sobre las Islas Remolino...\n¡Dentro está muy oscuro!
+No me puedo creer el buen día que hace.
+ No me puedo creer el buen día que hace.
+¡Ooh!
+¡Ooh!
+El Sol es muy malo para la piel.\nPero yo no uso protección solar. No quiero ensuciar el agua.
+El Sol es muy malo para la piel.\nPero yo no uso protección solar. No quiero ensuciar el agua.
+El fluir del agua es paciente.\nEspera el momento preciso para revelar su poder.
+El fluir del agua es paciente.\nEspera el momento preciso para revelar su poder.
+Un aura de victoria te rodea. Has superado la prueba del maestro del Monte Mortero.
+Un aura de victoria te rodea. Has superado la prueba del maestro del Monte Mortero.
+Él, que luchaba por dominar el estilo para desafiar al Gimnasio de Ciudad Azafrán, te ha reconocido como un guerrero superior.
+Él, que luchaba por dominar el estilo para desafiar al Gimnasio de Ciudad Azafrán, te ha reconocido como un guerrero superior.
+Un espíritu tan decidido merece aprender el camino del agua. Que este manuscrito guíe a tu compañero hacia su forma más fluida.
+Un espíritu tan decidido merece aprender el camino del agua. Que este manuscrito guíe a tu compañero hacia su forma más fluida.
+Percibo que buscas el conocimiento de las aguas. Pero tu espíritu aún no ha sido puesto a prueba del modo correcto.
+Percibo que buscas el conocimiento de las aguas.  Pero tu espíritu aún no ha sido puesto a prueba del modo correcto.
+Un guerrero en la Cueva Cascada... el que llaman Rey del Kárate... entrena sin descanso con un Pokémon único. Él comprende la dificultad de dominar un estilo.
+Un guerrero en la Cueva Cascada... el que llaman Rey del Kárate... entrena sin descanso con un Pokémon único. Él comprende la dificultad de dominar un estilo.
+Demuéstrame la fuerza capaz de impresionar al maestro de la montaña. Solo entonces estarás listo para dominar el Estilo Fluido.
+Demuéstrame la fuerza capaz de impresionar al maestro de la montaña. Solo entonces estarás listo para dominar el Estilo Fluido.
+¿No crees que esas islas aisladas por torbellinos esconden algún secreto?
+¿No crees que esas islas aisladas por torbellinos esconden algún secreto?
+Esta fuerza que tienes... ¿Cuál es tu<<n>>secreto?
+Esta fuerza que tienes... ¿Cuál es tu <<n>>secreto?
+Era de noche y llovía...\nVi un Pokémon gigante volando desde las islas. Dejaba caer las plumas de sus alas plateadas.
+Era de noche y llovía...\nVi un Pokémon gigante volando desde las islas. Dejaba caer las plumas de sus alas plateadas.
+Por la noche los Staryu se reúnen cerca de la superficie en la playa de Ciudad Olivo.
+Por la noche los Staryu se reúnen cerca de la superficie en la playa de Ciudad Olivo.
+¡Caramba!
+¡Caramba!
+Los grupos de Staryu se iluminan al mismo tiempo.\n¡Es tan bonito que casi da miedo!
+Los grupos de Staryu se iluminan al mismo tiempo.\n¡Es tan bonito que casi da miedo!
+Voy hacia las Islas Remolino.\nVoy a explorarlas con unos amigos.
+Voy hacia las Islas Remolino.\nVoy a explorarlas con unos amigos.
+¿Así es como lo haces?
+¿Así es como lo haces?
+Dicen que hay un gran Pokémon bajo las Islas Remolino.\nMe pregunto cómo será...
+Dicen que hay un gran Pokémon bajo las Islas Remolino.\nMe pregunto cómo será...
+Si necesitas descansar, flota y déjate llevar por el viento...\n¡Así no malgastarás tus fuerzas!
+Si necesitas descansar, flota y déjate llevar por el viento...\n¡Así no malgastarás tus fuerzas!
+¡Oh! Tienes más energía que yo.
+¡Oh! Tienes más energía que yo.
+¡Ah!\nPues he oído rugidos procedentes de las islas.
+¡Ah!\nPues he oído rugidos procedentes de las islas.
+Estoy cansado. ¿Si gano me prestas tus Pokémon?
+Estoy cansado. ¿Si gano me prestas tus Pokémon?
+Uf, uf...
+Uf, uf...
+Ciudad Orquídea está muy lejos.\nPero tampoco es fácil volver a Ciudad Olivo. ¿Qué se puede hacer?
+Ciudad Orquídea está muy lejos.\nPero tampoco es fácil volver a Ciudad Olivo. ¿Qué se puede hacer?
+¡Cloys!\wt[20]
+¡Cloys!\wt[20]
+\w[menuskin]\C[8]Debería volver con el chico ahora que he atrapado el Cloyster.
+\w[menuskin]\C[8]Debería volver con el chico ahora que he atrapado el Cloyster.
+Aquí hay mucho oleaje. Cuesta mucho nadar.
+Aquí hay mucho oleaje. Cuesta mucho nadar.
+Me has vencido.
+Me has vencido.
+La corriente me impide llegar a las islas.
+La corriente me impide llegar a las islas.

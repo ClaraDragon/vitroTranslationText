@@ -1,0 +1,36 @@
+﻿# Maps grouped under: Gruta Acantilado (Highest ID: 109)
+[Map109]
+Cuando el camino se bifurca en una cueva, una dirección puede ser la correcta y tal vez la otra no tenga una salida.
+Cuando el camino se bifurca en una cueva, una dirección puede ser la correcta y tal vez la otra no tenga una salida.
+No obstante, la gente tiene la extraña tendencia de probar las dos o no se queda tranquila.\nUna escalera te lleva arriba. La otra conduce abajo.\n¿Cuál vas a elegir?
+No obstante, la gente tiene la extraña tendencia de probar las dos o no se queda tranquila.\nUna escalera te lleva arriba. La otra conduce abajo.\n¿Cuál vas a elegir?
+¡Tú! ¡Ven aquí!\nAquí cerca hay un sitio molón que se llama Zona Safari.\nHay un porrón de Pokémon raros y puedes capturar tantos como quieras.
+¡Tú! ¡Ven aquí!\nAquí cerca hay un sitio molón que se llama Zona Safari.\nHay un porrón de Pokémon raros y puedes capturar tantos como quieras.
+¿Por qué no te pasas? ¡Yo también me muero por ir!\n¡Espero que sea pronto!
+¿Por qué no te pasas? ¡Yo también me muero por ir!\n¡Espero que sea pronto!
+¿Por qué no te pasas?\nCréeme, está cerquísima. Sal, anda un poco y lo verás.\nNo lo dejes para después y ve ya.
+¿Por qué no te pasas?\nCréeme, está cerquísima.  Sal, anda un poco y lo verás.\nNo lo dejes para después y ve ya.
+¡Está cerquísima!\nSube las escaleras, sal y llegarás en un periquete.
+¡Está cerquísima!\nSube las escaleras, sal y llegarás en un periquete.
+Te lo pasarías muy bien...
+Te lo pasarías muy bien...
+¿A que te ha gustado el Safari?\nNo digas nada, ¿a que nunca te lo has pasado mejor? ¡Tu cara habla por sí sola!
+¿A que te ha gustado el Safari?\nNo digas nada, ¿a que nunca te lo has pasado mejor? ¡Tu cara habla por sí sola!
+Me alegro de que todos esperen mucho del Safari.\nLo que pasa es que la señora del mostrador tal vez exagere demasiado...\nTodo en su justa medida.
+Me alegro de que todos esperen mucho del Safari.\nLo que pasa es que la señora del mostrador tal vez exagere demasiado...\nTodo en su justa medida.
+\tg[Aníbal]¡Oh, \PN!\n¡Tienes buena cara! ¡Me alegro!
+\tg[Aníbal]¡Oh, \PN!\n¡Tienes buena cara! ¡Me alegro!
+\tg[Aníbal]Eres la última persona que esperaba encontrarme aquí.\n¡Ya está! ¡Vas a la Torre Oculta!
+\tg[Aníbal]Eres la última persona que esperaba encontrarme aquí.\n¡Ya está! ¡Vas a la Torre Oculta!
+\tg[Aníbal]Su origen está en la torre gigantesca que rasga el cielo y que aparece en la leyenda sobre los Pokémon que crearon el mar y la tierra.
+\tg[Aníbal]Su origen está en la torre gigantesca que rasga el cielo y que aparece en la leyenda sobre los Pokémon que crearon el mar y la tierra.
+\tg[Aníbal]Pero se desmoronó hace mucho tiempo.
+\tg[Aníbal]Pero se desmoronó hace mucho tiempo.
+\tg[Aníbal]El camino hasta la Torre Oculta es mucho más duro de lo que te puedes imaginar.
+\tg[Aníbal]El camino hasta la Torre Oculta es mucho más duro de lo que te puedes imaginar.
+\tg[Aníbal]¡Vaya, también has vencido al Campeón absoluto de Kanto!\nEntonces no te preocupes. \n¡Recorre el camino que tú veas más oportuno! ¡Ja, ja, ja!
+\tg[Aníbal]¡Vaya, también has vencido al Campeón absoluto de Kanto!\nEntonces no te preocupes. \n¡Recorre el camino que tú veas más oportuno!  ¡Ja, ja, ja!
+Sí
+Sí
+No
+No

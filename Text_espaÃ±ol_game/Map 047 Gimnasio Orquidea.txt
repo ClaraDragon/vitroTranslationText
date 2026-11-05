@@ -1,0 +1,70 @@
+﻿# Maps grouped under: Gimnasio Orquidea (Highest ID: 47)
+[Map47]
+A mis Pokémon y a mí nos une una gran amistad.\n¡Estamos unidos por un vínculo inquebrantable!
+A mis Pokémon y a mí nos une una gran amistad.\n¡Estamos unidos por un vínculo inquebrantable!
+¡No puede ser!
+¡No puede ser!
+¡Parece que tu equipo Pokémon y tú estáis muy unidos!
+¡Parece que tu equipo Pokémon y tú estáis muy unidos!
+Empecemos desde cero. Las palabras no sirven.\n¡Deja que hablen tus puños!
+Empecemos desde cero. Las palabras no sirven.\n¡Deja que hablen tus puños!
+...
+...
+¡He perdido! ¡No se qué decir!
+¡He perdido! ¡No se qué decir!
+¡Los expertos en artes marciales no le tememos a nada!
+¡Los expertos en artes marciales no le tememos a nada!
+¡Es increíble!
+¡Es increíble!
+Los Pokémon de tipo Lucha temen a los de tipo Psíquico, por todo eso de la fuerza bruta contra la inteligencia y bla, bla, bla.
+Los Pokémon de tipo Lucha temen a los de tipo Psíquico, por todo eso de la fuerza bruta contra la inteligencia y bla, bla, bla.
+\w[menuskin]\C[8]Hay una rueda grande. ¿Quieres girarla?
+\w[menuskin]\C[8]Hay una rueda grande. ¿Quieres girarla?
+\w[menuskin]\C[8]¡\PN gira la rueda con toda su fuerza!
+\w[menuskin]\C[8]¡\PN gira la rueda con toda su fuerza!
+\w[menuskin]\C[8]No hay motivo para girarla...
+\w[menuskin]\C[8]No hay motivo para girarla...
+¡Mis furiosos puños detrozarán a tu equipo Pokémon!
+¡Mis furiosos puños detrozarán a tu equipo Pokémon!
+¡Me has aplastado!
+¡Me has aplastado!
+¡Mis Pokémon han perdido!\n¡Has herido mi orgullo!
+¡Mis Pokémon han perdido!\n¡Has herido mi orgullo!
+\tg[Aníbal]¡UOOOOOOOH!\n¿DÓNDE ESTÁ LA CASCADA QUE GOLPEA VIOLENTAMENTE MIS SESOS?
+\tg[Aníbal]¡UOOOOOOOH!\n¿DÓNDE ESTÁ LA CASCADA QUE GOLPEA VIOLENTAMENTE MIS SESOS?
+\tg[Aníbal]¡UOOOOOOOOOOOOH!
+\tg[Aníbal]¡UOOOOOOOOOOOOH!
+\tg[Aníbal]Espera, ¿has cerrado la compuerta? \n¿¡Cómo te atreves a interrumpir mi entrenamiento!?
+\tg[Aníbal]Espera, ¿has cerrado la compuerta? \n¿¡Cómo te atreves a interrumpir mi entrenamiento!? 
+\tg[Aníbal]No sabes lo que acabas de hacer, todos los días medito bajo esta cascada y fortalezco mi cuerpo ante los golpes.
+\tg[Aníbal]No sabes lo que acabas de hacer, todos los días medito bajo esta cascada y fortalezco mi cuerpo ante los golpes.
+\tg[Aníbal]¿Qué? ¿Cómo que no ves relación entre mi cuerpo y mis Pokémon...?
+\tg[Aníbal]¿Qué? ¿Cómo que no ves relación entre mi cuerpo y mis Pokémon...?
+\tg[Aníbal]E-ejem. Quizás tienes razón...
+\tg[Aníbal]E-ejem. Quizás tienes razón...
+\tg[Aníbal]¡Pero eso da igual!\n¡La cuestión es que has interrumpido mi entrenamiento y debes pagar por ello!
+\tg[Aníbal]¡Pero eso da igual!\n¡La cuestión es que has interrumpido mi entrenamiento y debes pagar por ello!
+\tg[Aníbal]¡PREPÁRATE! ¡UOOOOOOOH!
+\tg[Aníbal]¡PREPÁRATE! ¡UOOOOOOOH!
+No... ¡He perdido!
+No... ¡He perdido!
+\tg[Aníbal]¿Qué? ¿He perdido? ¿¡CÓMO ES POSIBLE!?
+\tg[Aníbal]¿Qué? ¿He perdido? ¿¡CÓMO ES POSIBLE!? 
+\tg[Aníbal]Da igual, te mereces la Medalla Tormenta.
+\tg[Aníbal]Da igual, te mereces la Medalla Tormenta. 
+\tg[Aníbal]¡Y toma esto también! Contiene el movimiento Puño Certero.
+\tg[Aníbal]¡Y toma esto también! Contiene el movimiento Puño Certero.
+\tg[Aníbal]Si atacan a tu Pokémon mientras lo está usando, fallará.\nPero si completa el movimiento... ¡PUM!
+\tg[Aníbal]Si atacan a tu Pokémon mientras lo está usando, fallará.\nPero si completa el movimiento... ¡PUM!
+\w[menuskin]\C[8]Está tan concentrado que no oye nada.
+\w[menuskin]\C[8]Está tan concentrado que no oye nada.
+\tg[Aníbal]¡JO, JO, JO! ¡He disfrutado mucho! Pero una derrota es una derrota. Desde hoy, entrenaré 25 horas al día.
+\tg[Aníbal]¡JO, JO, JO! ¡He disfrutado mucho!  Pero una derrota es una derrota. Desde hoy, entrenaré 25 horas al día.
+\tg[Aníbal]¡Aquí estás!\n¡Vas a ver los resultados de mi entrenamiento intensivo!
+\tg[Aníbal]¡Aquí estás!\n¡Vas a ver los resultados de mi entrenamiento intensivo!
+\tg[Aníbal]¡Ja, ja, ja! ¡Siempre es un placer luchar contra ti!
+\tg[Aníbal]¡Ja, ja, ja! ¡Siempre es un placer luchar contra ti!
+Sí
+Sí
+No
+No

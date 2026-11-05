@@ -1,0 +1,200 @@
+﻿# Maps grouped under: Pueblo Primavera (Highest ID: 2)
+[Map2]
+Oye, ¿desde cuándo tienes un Pokémon tan adorable? ¡Quiero uno igual!
+Oye, ¿desde cuándo tienes un Pokémon tan adorable? ¡Quiero uno igual!
+Hola, \PN. Recuerda que salir del pueblo sin un Pokémon sería una imprudencia.
+Hola, \PN. Recuerda que salir del pueblo sin un Pokémon sería una imprudencia.
+Se que ya llevas unos cuantos años queriendo salir, pero el exterior es muy peligroso. ¡No me hagas repetírtelo!
+Se que ya llevas unos cuantos años queriendo salir, pero el exterior es muy peligroso. ¡No me hagas repetírtelo!
+¡Ay, qué desgraciada soy!\nAcabo de perder mi anillo por salir a pasear... ¡Maldita sea la Ruta 29!
+¡Ay, qué desgraciada soy!\nAcabo de perder mi anillo por salir a pasear... ¡Maldita sea la Ruta 29!
+Era un regalo de mi pobre y anciana madre...\nSi lo encuentras, ¿podrías traérmelo de vuelta?
+Era un regalo de mi pobre y anciana madre...\nSi lo encuentras, ¿podrías traérmelo de vuelta?
+¡Anda, ese es el anillo que estaba buscando!
+¡Anda, ese es el anillo que estaba buscando!
+Muchísimas gracias, de verdad.
+Muchísimas gracias, de verdad.
+Mi madre \.me lo dio antes de partir \.para siempre\..\..\..
+Mi madre \.me lo dio antes de partir \.para siempre\..\..\..
+\sh¡De todos los lugares se tuvo que ir a Kalos! \n¿¡Te lo puedes creer!?\wt[10]
+\sh¡De todos los lugares se tuvo que ir a Kalos! \n¿¡Te lo puedes creer!?\wt[10]
+En fin, muchas gracias. Aquí tienes un regalo por las molestias.
+En fin, muchas gracias. Aquí tienes un regalo por las molestias.
+Perdí el anillo cuando daba mi paseo diario por la Ruta 29...
+Perdí el anillo cuando daba mi paseo diario por la Ruta 29...
+Si es que de verdad...\n¿Ves? Esto es lo que pasa cuando sales del pueblo.
+Si es que de verdad...\n¿Ves? Esto es lo que pasa cuando sales del pueblo.
+\w[menuskin]\C[8]Algo pasa en el Laboratorio.
+\w[menuskin]\C[8]Algo pasa en el Laboratorio.
+\tg[Voz de Elm]¿¡P-PERO QUÉ HACES ENTRANDO POR LA VENTANA!?
+\tg[Voz de Elm]¿¡P-PERO QUÉ HACES ENTRANDO POR LA VENTANA!?
+\tg[Voz de Elm]¡AL LADRÓN!
+\tg[Voz de Elm]¡AL LADRÓN!
+\tg[Chico Pelirrojo]\..\..\..
+\tg[Chico Pelirrojo]\..\..\..
+\tg[Chico Pelirrojo]Así que este es el famoso Laboratorio Pokémon de Elm, ¿eh?
+\tg[Chico Pelirrojo]Así que este es el famoso Laboratorio Pokémon de Elm, ¿eh?
+\tg[Chico Pelirrojo]¡Vaya piltrafa está hecho!
+\tg[Chico Pelirrojo]¡Vaya piltrafa está hecho!
+\tg[Chico Pelirrojo]¿¡Qué estás mirando!?\....
+\tg[Chico Pelirrojo]¿¡Qué estás mirando!?\....
+\tg[\v[14]]¡Ah! Ahí estabas, te estaba buscando por todas partes.
+\tg[\v[14]]¡Ah! Ahí estabas, te estaba buscando por todas partes.
+\tg[\v[14]]¡Buenos días, \PN!
+\tg[\v[14]]¡Buenos días, \PN!
+\tg[\v[14]]¡Buenas noches, \PN!
+\tg[\v[14]]¡Buenas noches, \PN!
+\tg[\v[14]]Atiende, el Profesor Elm te andaba buscando.\nTiene algo para ti, o eso creo.
+\tg[\v[14]]Atiende, el Profesor Elm te andaba buscando.\nTiene algo para ti, o eso creo.
+\tg[\v[14]]En fin, no te entretengo más.\n¡Te veo luego!
+\tg[\v[14]]En fin, no te entretengo más.\n¡Te veo luego!
+\tg[\v[14]]¡Vamos, Marill!
+\tg[\v[14]]¡Vamos, Marill!
+\tg[Oak]Pues nada, aquí nos despedimos. Recuerda el encargo de Elm, que si le tenemos que dejar a ese hombre la tarea de salir de casa\..\..\..
+\tg[Oak]Pues nada, aquí nos despedimos. Recuerda el encargo de Elm, que si le tenemos que dejar a ese hombre la tarea de salir de casa\..\..\..
+\tg[Oak]¡Ah! Y voy a darte mi número de teléfono por lo que pudiera pasar.
+\tg[Oak]¡Ah! Y voy a darte mi número de teléfono por lo que pudiera pasar.
+Profesor Oak
+Profesor Oak
+\tg[Oak]¡Nos volveremos a ver, \PN!
+\tg[Oak]¡Nos volveremos a ver, \PN!
+Esta melodía me me recuerda a casa.
+Esta melodía me me recuerda a casa.
+\w[signskin2]\C[10]Pueblo Primavera.\nDonde soplan aires nuevos.
+\w[signskin2]\C[10]Pueblo Primavera.\nDonde soplan aires nuevos.
+\tg[Chico Pelirrojo]¿Quién narices eres tú?
+\tg[Chico Pelirrojo]¿Quién narices eres tú?
+\tg[Chico Pelirrojo]Aparta de mi camino, niñata.
+\tg[Chico Pelirrojo]Aparta de mi camino, niñata.
+\tg[Chico Pelirrojo]Aparta de mi camino, niñato.
+\tg[Chico Pelirrojo]Aparta de mi camino, niñato.
+\tg[Chico Pelirrojo]Si no te piensas mover, ¡lo haré yo a la fuerza!
+\tg[Chico Pelirrojo]Si no te piensas mover, ¡lo haré yo a la fuerza!
+Grrr... ¿Feliz de haber ganado?
+Grrr... ¿Feliz de haber ganado?
+\tg[Chico Pelirrojo]Grrr... Menuda pérdida de tiempo.
+\tg[Chico Pelirrojo]Grrr... Menuda pérdida de tiempo.
+\tg[Chico Pelirrojo]¿Quieres saber quién soy yo?\nPues...
+\tg[Chico Pelirrojo]¿Quieres saber quién soy yo?\nPues...
+\tg[Chico Pelirrojo]Soy el Entrenador Pokémon más fuerte del mundo.
+\tg[Chico Pelirrojo]Soy el Entrenador Pokémon más fuerte del mundo.
+\tg[Chico Pelirrojo]¡Dame eso! Es mi Ficha de Entrenador, que se me ha caído.
+\tg[Chico Pelirrojo]¡Dame eso! Es mi Ficha de Entrenador, que se me ha caído.
+\tg[Chico Pelirrojo]Mmm...\n¿Has visto mi nombre?\n\..\..\..
+\tg[Chico Pelirrojo]Mmm...\n¿Has visto mi nombre?\n\..\..\..
+\w[signskin]Laboratorio del Profesor Elm.
+\w[signskin]Laboratorio del Profesor Elm.
+\w[signskin5]Casa de \PN.
+\w[signskin5]Casa de \PN.
+¡Espera, \PN!
+¡Espera, \PN!
+¿¡Pero adónde crees que vas!?
+¿¡Pero adónde crees que vas!?
+¡Es súper peligroso salir sin un Pokémon!\nDe camino hacia la siguiente ciudad te encontrarás Pokémon salvajes que te atacarán.
+¡Es súper peligroso salir sin un Pokémon!\nDe camino hacia la siguiente ciudad te encontrarás Pokémon salvajes que te atacarán.
+¿¡Cuándo vas a dejar de intentar salir sin un Pokémon!?
+¿¡Cuándo vas a dejar de intentar salir sin un Pokémon!?
+\w[signskin5]Casa de \v[14].
+\w[signskin5]Casa de \v[14].
+¡Hey, \PN!\n¿Sabías que el Pokégear último modelo viene con fondos de pantalla intercambiables?
+¡Hey, \PN!\n¿Sabías que el Pokégear último modelo viene con fondos de pantalla intercambiables?
+¡La tecnología no solo es fascinante, ahora también es estética!
+¡La tecnología no solo es fascinante, ahora también es estética!
+[Map6]
+\tg[\v[14]]¡Ey, \PN!\nEl Profesor Elm me preguntó por ti. ¿Ya has ido a verle al Laboratorio?
+\tg[\v[14]]¡Ey, \PN!\nEl Profesor Elm me preguntó por ti. ¿Ya has ido a verle al Laboratorio? 
+\tg[\v[14]]¡\PN!\nEl Profesor Elm te andaba buscando. ¿Ya has ido a verle al Laboratorio?
+\tg[\v[14]]¡\PN!\nEl Profesor Elm te andaba buscando. ¿Ya has ido a verle al Laboratorio? 
+¡Maaarill!
+¡Maaarill!
+Pikachu es un Pokémon evolucionado, ¿verdad?\nEl Profesor Elm fue quien lo descubrió, aunque todos lo dedujimos antes...
+Pikachu es un Pokémon evolucionado, ¿verdad?\nEl Profesor Elm fue quien lo descubrió, aunque todos lo dedujimos antes...
+No hay duda de que el Profesor es una eminencia en lo que respecta a la evolución de los Pokémon, pero a veces peca de ser un poco obvio.
+No hay duda de que el Profesor es una eminencia en lo que respecta a la evolución de los Pokémon, pero a veces peca de ser un poco obvio. 
+Y despistado.
+Y despistado.
+\w[menuskin]\C[8]Es una nevera.
+\w[menuskin]\C[8]Es una nevera.
+\w[menuskin]\C[8]¡Su interior está tan frío como el saco de un Delibird!
+\w[menuskin]\C[8]¡Su interior está tan frío como el saco de un Delibird!
+¡Hola, \PN!\nMi marido está muy ocupado como siempre. A veces me preocupa, ¿sabes?\nCuando se mete en una investigación no hay quien le pare, ¡hasta se olvida de comer!
+¡Hola, \PN!\nMi marido está muy ocupado como siempre. A veces me preocupa, ¿sabes?\nCuando se mete en una investigación no hay quien le pare, ¡hasta se olvida de comer!
+Cuando sea mayor ayudaré a papá a investigar especies nuevas. ¡Voy a ser el mejor profesor Pokémon del mundo mundial!
+Cuando sea mayor ayudaré a papá a investigar especies nuevas. ¡Voy a ser el mejor profesor Pokémon del mundo mundial!
+\w[menuskin]\C[8]Pokémon... ¿De dónde vienen?\n¿Adónde van?\n¿Por qué nadie ha visto un Pokémon nacer?\n¿Y qué influencia tienen sobre ellos las personas con las que se relacionan?
+\w[menuskin]\C[8]Pokémon... ¿De dónde vienen?\n¿Adónde van?\n¿Por qué nadie ha visto un Pokémon nacer?\n¿Y qué influencia tienen sobre ellos las personas con las que se relacionan?
+\w[menuskin]\C[8]¡Quiero saberlo!\n¡Dedicaré mi vida al estudio de los Pokémon!
+\w[menuskin]\C[8]¡Quiero saberlo!\n¡Dedicaré mi vida al estudio de los Pokémon!
+Es parte de los papeles de la investigación del Profesor Elm.
+Es parte de los papeles de la investigación del Profesor Elm.
+¡Hola, \PN!
+¡Hola, \PN!
+\v[14] no está en casa.
+\v[14] no está en casa.
+Desde que empezó a ayudar al profesor está de un lado para otro, ¡nunca para!
+Desde que empezó a ayudar al profesor está de un lado para otro, ¡nunca para!
+¡Para ser tan joven, está más ocupado que yo!
+¡Para ser tan joven, está más ocupado que yo!
+¡Para ser tan joven, está más ocupada que yo!
+¡Para ser tan joven, está más ocupada que yo!
+\v[14] está en el piso de arriba.
+\v[14] está en el piso de arriba.
+Está jugando con su Pokémon, como siempre. ¿No es genial?
+Está jugando con su Pokémon, como siempre. ¿No es genial?
+Ups, es cierto. Tú todavía no tienes tu propio Pokémon.\nDiscúlpame. Espero no haber metido la pata...
+Ups, es cierto. Tú todavía no tienes tu propio Pokémon.\nDiscúlpame. Espero no haber metido la pata...
+[Map149]
+\tg[\v[12]]Eh, \PN.
+\tg[\v[12]]Eh, \PN.
+\tg[\v[12]]Ya me he disculpado con Elm por aquello del robo.
+\tg[\v[12]]Ya me he disculpado con Elm por aquello del robo.
+\tg[\v[12]]No pude devolverle su Pokémon, después de todo me he...
+\tg[\v[12]]No pude devolverle su Pokémon, después de todo me he...
+\tg[\v[12]]¡Ejem! Me he...
+\tg[\v[12]]¡Ejem! Me he...
+\tg[\v[12]]¡Me he encariñado de él! ¿¡Vale!?
+\tg[\v[12]]¡Me he encariñado de él! ¿¡Vale!?
+\tg[\v[12]]He aprendido mucho gracias a mis Pokémon, y sin ti no habría sido lo mismo.
+\tg[\v[12]]He aprendido mucho gracias a mis Pokémon, y sin ti no habría sido lo mismo.
+\tg[\v[12]]Has sido una buena rival, por mucho que me moleste decirlo.
+\tg[\v[12]]Has sido una buena rival, por mucho que me moleste decirlo.
+\tg[\v[12]]Así que ahora que tienes el título de Campeona debo pedirte algo.
+\tg[\v[12]]Así que ahora que tienes el título de Campeona debo pedirte algo.
+\tg[\v[12]]Has sido un buen rival, por mucho que me moleste decirlo.
+\tg[\v[12]]Has sido un buen rival, por mucho que me moleste decirlo.
+\tg[\v[12]]Así que ahora que tienes el título de Campeón debo pedirte algo.
+\tg[\v[12]]Así que ahora que tienes el título de Campeón debo pedirte algo.
+\tg[\v[12]]Sabes qué es lo que quiero, ¿verdad?
+\tg[\v[12]]Sabes qué es lo que quiero, ¿verdad?
+\tg[\v[12]]¡Exacto! ¡Mi revancha!
+\tg[\v[12]]¡Exacto! ¡Mi revancha!
+\tg[\v[12]]Te lo dije antes de que entrases a la Liga Pokémon. Prometí que te demostraría quién soy.
+\tg[\v[12]]Te lo dije antes de que entrases a la Liga Pokémon. Prometí que te demostraría quién soy.
+\tg[\v[12]]He intentado por activa y por pasiva ser el mejor en todo, y nunca me ha salido bien.
+\tg[\v[12]]He intentado por activa y por pasiva ser el mejor en todo, y nunca me ha salido bien.
+\tg[\v[12]]Pero este es el momento. Es mi oportunidad de enseñarte quién es el mejor entrenador de toda Johto.
+\tg[\v[12]]Pero este es el momento. Es mi oportunidad de enseñarte quién es el mejor entrenador de toda Johto.
+\tg[\v[12]]¡Vamos, \PN! ¡Combatamos una última vez!
+\tg[\v[12]]¡Vamos, \PN! ¡Combatamos una última vez!
+Je...
+Je...
+\tg[\v[12]]Je... ¿Acaso estoy condenado a perder siempre?
+\tg[\v[12]]Je... ¿Acaso estoy condenado a perder siempre?
+\tg[\v[12]]Bueno, podría ser peor.\nAl menos he perdido contra alguien que merece la pena.
+\tg[\v[12]]Bueno, podría ser peor.\nAl menos he perdido contra alguien que merece la pena.
+\tg[\v[12]]¡Ja! ¡Ya sabía yo que era el mejor!
+\tg[\v[12]]¡Ja! ¡Ya sabía yo que era el mejor!
+\tg[\v[12]]N-no te habrás dejado ganar, ¿no?
+\tg[\v[12]]N-no te habrás dejado ganar, ¿no?
+\tg[\v[12]]¡Bah, da igual! ¡La cosa es que por fin te he ganado!
+\tg[\v[12]]¡Bah, da igual! ¡La cosa es que por fin te he ganado!
+\tg[\v[12]]De todas formas, ha molado. Me lo paso genial cuando combato contigo.
+\tg[\v[12]]De todas formas, ha molado. Me lo paso genial cuando combato contigo.
+\tg[\v[12]]Gracias, \PN.\nGracias por ser mi ami-
+\tg[\v[12]]Gracias, \PN.\nGracias por ser mi ami-
+\tg[\v[12]]E-ejem... ¡Gracias por ser mi rival!
+\tg[\v[12]]E-ejem... ¡Gracias por ser mi rival!
+\tg[\v[12]]Ahora toca abrirse. Me piro, vampiro.
+\tg[\v[12]]Ahora toca abrirse. Me piro, vampiro.
+\tg[\v[12]]Nos volveremos a ver, te lo aseguro. \n¡Paz!
+\tg[\v[12]]Nos volveremos a ver, te lo aseguro. \n¡Paz!

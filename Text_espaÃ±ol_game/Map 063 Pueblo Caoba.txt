@@ -1,0 +1,157 @@
+﻿# Maps grouped under: Pueblo Caoba (Highest ID: 63)
+[Map63]
+Esta melodía me pone muy nostálgico.
+Esta melodía me pone muy nostálgico.
+¿Qué tal, joven? Veo que no eres de Pueblo Caoba.\n¡Por no ser de aquí, deberías probar los caramelos raros del pueblo!
+¿Qué tal, joven? Veo que no eres de Pueblo Caoba.\n¡Por no ser de aquí, deberías probar los caramelos raros del pueblo!
+¿Qué? ¿¡De verdad quieres caramelos!?\n¡Qué bien!
+¿Qué? ¿¡De verdad quieres caramelos!?\n¡Qué bien!
+¡Te vendo uno por solo 300$! ¿Quieres?
+¡Te vendo uno por solo 300$! ¿Quieres?
+Me viene a la memoria una persona que vino hace tiempo desde Kanto a comprarme un Caramelo Furia.\nPero en esa ocasión se me habían terminado.
+Me viene a la memoria una persona que vino hace tiempo desde Kanto a comprarme un Caramelo Furia.\nPero en esa ocasión se me habían terminado.
+Se puso hecho un basilisco y se volvió a casa. \nMe supo bastante mal...
+Se puso hecho un basilisco y se volvió a casa. \nMe supo bastante mal...
+¿Qué? Te dije que eran caramelos muy raros, no te mentí.
+¿Qué? Te dije que eran caramelos muy raros, no te mentí.
+Bueno, igual sí...\nDespués de todo, se pueden comprar en el Faro Olivo, en la farmacia de Ciudad Orquídea... Ya sabes, en cualquier lugar.
+Bueno, igual sí...\nDespués de todo, se pueden comprar en el Faro Olivo, en la farmacia de Ciudad Orquídea... Ya sabes, en cualquier lugar.
+No tienes suficiente dinero, hombre. Ahorra un poco y vuelve.
+No tienes suficiente dinero, hombre. Ahorra un poco y vuelve.
+Oh, de acuerdo... ¡Recuerda que son muy raros, eh!
+Oh, de acuerdo... ¡Recuerda que son muy raros, eh!
+\w[signskin2]\C[10]Pueblo Caoba.\nEl hogar de los ninjas.
+\w[signskin2]\C[10]Pueblo Caoba.\nEl hogar de los ninjas.
+¡Pueblo Caoba! ¡El hogar de los ninjas!\n¿Cómo? ¿Que por qué no hay ninjas?
+¡Pueblo Caoba! ¡El hogar de los ninjas!\n¿Cómo?  ¿Que por qué no hay ninjas?
+¡Pues porque están todos escondidos, alma de cántaro!
+¡Pues porque están todos escondidos, alma de cántaro!
+\w[signskin]Tienda de recuerdos.\n<b>Nada</b> de lo que sospechar aquí. Entren sin desconfiar.
+\w[signskin]Tienda de recuerdos.\n<b>Nada</b> de lo que sospechar aquí. Entren sin desconfiar.
+¿Has estado en el Morte Mortero?\nUf, se ha visto por ahí a un Ursaring cabreado... ¡Ademas era de un tono rojizo!
+¿Has estado en el Morte Mortero?\nUf, se ha visto por ahí a un Ursaring cabreado... ¡Ademas era de un tono rojizo!
+Te recomendaría ir con cuidado, pero pareces fuerte.\nMira, ¿sabes qué? Si lo derrotas te daré algo. Así, porque sí.
+Te recomendaría ir con cuidado, pero pareces fuerte.\nMira, ¿sabes qué? Si lo derrotas te daré algo. Así, porque sí.
+¿Cómo? ¿Que qué te voy a dar?\n¡Tsk, tsk, tsk! \nPrimero va el encargo.
+¿Cómo? ¿Que qué te voy a dar?\n¡Tsk, tsk, tsk! \nPrimero va el encargo.
+Ursaring en el Monte Mortero. Es fácil de recordar.
+Ursaring en el Monte Mortero. Es fácil de recordar.
+Y si lo derrotas, ¡regalito al canto!
+Y si lo derrotas, ¡regalito al canto!
+¡Anda, que lo has derrotado de verdad! Yo lo había dicho de broma...
+¡Anda, que lo has derrotado de verdad! Yo lo había dicho de broma...
+Bueno, una promesa es una promesa y todo eso. Aquí tienes.
+Bueno, una promesa es una promesa y todo eso.  Aquí tienes.
+Eres una persona interesante, debo admitirlo. Ojalá ser así de fuerte...
+Eres una persona interesante, debo admitirlo. Ojalá ser así de fuerte...
+\w[signskin]Gimnasio Pokémon de Pueblo Caoba. \nLíder: Fredo, el maestro del crudo invierno.
+\w[signskin]Gimnasio Pokémon de Pueblo Caoba. \nLíder: Fredo, el maestro del crudo invierno.
+¡Los Magikarp han vuelto al Lago de la Furia! \nPor fin podemos volver a pescar y tomar sopita.
+¡Los Magikarp han vuelto al Lago de la Furia! \nPor fin podemos volver a pescar y tomar sopita.
+¿Vas a visitar el lago?\n¡Ten cuidado, que hay Gyarados de muy mal café!
+¿Vas a visitar el lago?\n¡Ten cuidado, que hay Gyarados de muy mal café!
+¡Visita la tienda de la abuela!\nNo vende nada especial, pero ya puestos a comprar... ¡Cómpraselo a ella, hombre!
+¡Visita la tienda de la abuela!\nNo vende nada especial, pero ya puestos a comprar...  ¡Cómpraselo a ella, hombre!
+¿Has visto a los misteriosos hombres de negro? \nNo, leñe. No los de las pelis.
+¿Has visto a los misteriosos hombres de negro? \nNo, leñe. No los de las pelis.
+Aparentemente están usando ondas extrañas por el Lago de la Furia...
+Aparentemente están usando ondas extrañas por el Lago de la Furia...
+\tg[Lance]¿Qué, figura? ¿Me ayudarás?
+\tg[Lance]¿Qué, figura? ¿Me ayudarás?
+\tg[Lance]¡Oh...! Em, si cambias de opinión pues... Estaré aquí, supongo.
+\tg[Lance]¡Oh...! Em, si cambias de opinión pues... Estaré aquí, supongo.
+Eh, ¿quieres entrar a la tienda?
+Eh, ¿quieres entrar a la tienda?
+Pues date media vuelta. Aquí se está cociendo algo...
+Pues date media vuelta. Aquí se está cociendo algo...
+¡Ya decía yo que me sonabas de algo!\nEres \PN, ¿verdad? He escuchado muchas cosas sobre ti.
+¡Ya decía yo que me sonabas de algo!\nEres \PN, ¿verdad? He escuchado muchas cosas sobre ti.
+\tg[Lance]Me llamo Lance, y me dedico a los combates profesionalmente.\nAlgunos dicen que soy muy bueno. Je.
+\tg[Lance]Me llamo Lance, y me dedico a los combates profesionalmente.\nAlgunos dicen que soy muy bueno. Je.
+\tg[Lance]Los rumores dicen que tienes madera para los combates.\n¿Me ayudarías a investigar este lugar?
+\tg[Lance]Los rumores dicen que tienes madera para los combates.\n¿Me ayudarías a investigar este lugar?
+\tg[Lance]¡Claro, ese es el espíritu!\nTe necesito para echar un vistazo por aquí.
+\tg[Lance]¡Claro, ese es el espíritu!\nTe necesito para echar un vistazo por aquí.
+\tg[Lance]Unas ondas de radio muy específicas están siendo emitidas desde esta tienda, ¡y creo que están forzando a los Magikarp a evolucionar!
+\tg[Lance]Unas ondas de radio muy específicas están siendo emitidas desde esta tienda, ¡y creo que están forzando a los Magikarp a evolucionar!
+\tg[Lance]Estaré esperándote dentro. ¡Nos vemos ahora, figura!
+\tg[Lance]Estaré esperándote dentro. ¡Nos vemos ahora, figura!
+\tg[Fredo]Oh, eres tú...\nYa que has venido hasta aquí, ¿quieres hacerte una foto conmigo?
+\tg[Fredo]Oh, eres tú...\nYa que has venido hasta aquí, ¿quieres hacerte una foto conmigo?
+\tg[Fredo]Vale, pero antes de hacer la foto, voy a darte un consejo.\nCuando te saques una foto, tienes que aguantar la respiración, sacar pecho y sonreír.\n¡Vamos allá!
+\tg[Fredo]Vale, pero antes de hacer la foto, voy a darte un consejo.\nCuando te saques una foto, tienes que aguantar la respiración, sacar pecho y sonreír.\n¡Vamos allá!
+\tg[Fredo]¿Qué te parece? Yo creo que es buena.
+\tg[Fredo]¿Qué te parece? Yo creo que es buena.
+\tg[Fredo]Bien... Como quieras...
+\tg[Fredo]Bien... Como quieras...
+Sí
+Sí
+No
+No
+[Map66]
+¿Cómo habéis descubierto la escalera secreta? Con lo bien camuflada que está...
+¿Cómo habéis descubierto la escalera secreta?  Con lo bien camuflada que está...
+¡Uf!...\nLos Pokémon dragón de ese chico son demasiado fuertes...
+¡Uf!...\nLos Pokémon dragón de ese chico son demasiado fuertes...
+¡Je, je, je! ¡Mi estrategia ha sido un gran éxito!\nLos Magikarp no venden un carajo, pero los Gyarados me los quitan de las manos.
+¡Je, je, je! ¡Mi estrategia ha sido un gran éxito!\nLos Magikarp no venden un carajo, pero los Gyarados me los quitan de las manos. 
+\w[menuskin]\C[8]<i>Fiuuu fiuuu.</i>
+\w[menuskin]\C[8]<i>Fiuuu fiuuu.</i>
+¿Qué dices?\n¿Que oyes el silbido del viento colándose aquí por alguna parte?\nNo, ese <i>fiuuu fiuuu</i> lo hago yo ensayando mis silbidos.
+¿Qué dices?\n¿Que oyes el silbido del viento colándose aquí por alguna parte?\nNo, ese <i>fiuuu fiuuu</i> lo hago yo ensayando mis silbidos.
+Cambiando de tema, ¿quieres comprar algo?
+Cambiando de tema, ¿quieres comprar algo?
+¿Mi programa de radio favorito?\nPues La Hora Pokémon está muy guay.
+¿Mi programa de radio favorito?\nPues La Hora Pokémon está muy guay.
+El Profesor Oak se viene muy arriba recitando haikus...
+El Profesor Oak se viene muy arriba recitando haikus...
+El otro día puse la radio y solo escuché risas malévolas, ¡estas radios ya no saben qué poner!
+El otro día puse la radio y solo escuché risas malévolas, ¡estas radios ya no saben qué poner!
+¿Te inquieta ese ruido? Es el aire silbando entre los huecos de mi dentadura.\nSi no te gusta, ¡a pastar!
+¿Te inquieta ese ruido? Es el aire silbando entre los huecos de mi dentadura.\nSi no te gusta, ¡a pastar!
+Cambiando de tema, ¿quieres algo?
+Cambiando de tema, ¿quieres algo?
+No llegas a comprenderlas, pero parece que el locutor está dando una serie de indicaciones.
+No llegas a comprenderlas, pero parece que el locutor está dando una serie de indicaciones.
+\tg[Lance]Dragonite, ¡Carga Dragón!
+\tg[Lance]Dragonite, ¡Carga Dragón!
+\tg[Lance]¡Ya estás aquí, \PN!\nTal y como creía, esa extraña señal de radio proviene de aquí.
+\tg[Lance]¡Ya estás aquí, \PN!\nTal y como creía, esa extraña señal de radio proviene de aquí.
+\tg[Lance]A saber qué se estará tramando entre estas paredes...
+\tg[Lance]A saber qué se estará tramando entre estas paredes...
+\tg[Lance]Las escaleras están justo aquí.
+\tg[Lance]Las escaleras están justo aquí.
+\tg[Lance]\PN, debemos separarnos para inspeccionar el lugar.\nIré yo primero.
+\tg[Lance]\PN, debemos separarnos para inspeccionar el lugar.\nIré yo primero.
+Ummmm... estoy seguro de que se me olvida algo... Pero no sabría decir el qué.
+Ummmm... estoy seguro de que se me olvida algo... Pero no sabría decir el qué.
+¿Eh? ¿Un visitante? ¡Qué ilusión!
+¿Eh? ¿Un visitante? ¡Qué ilusión!
+Normalmente no se ven caras nuevas por el pueblo, solo veo a los repartidores y al cartero, y eso cuando no se olvidan de mí...
+Normalmente no se ven caras nuevas por el pueblo, solo veo a los repartidores y al cartero, y eso cuando no se olvidan de mí...
+¡Oh, oh, oh! ¿Eso es para mí?
+¡Oh, oh, oh! ¿Eso es para mí?
+¡Es mi pedido de flores secas de Ciudad Trigal! \n¡Por fin! ¡Qué alegría!
+¡Es mi pedido de flores secas de Ciudad Trigal! \n¡Por fin! ¡Qué alegría!
+¡Llevo esperándolo\..\..\.. bueno, ni me acuerdo de cuánto!\nLa memoria ya no es lo que era, hijo.
+¡Llevo esperándolo\..\..\.. bueno, ni me acuerdo de cuánto!\nLa memoria ya no es lo que era, hijo.
+Y dime, ¿cómo es que ha tardado tanto el envío? ¿Es que las flores crecen ahora a paso de Slowpoke?
+Y dime, ¿cómo es que ha tardado tanto el envío?  ¿Es que las flores crecen ahora a paso de Slowpoke?
+Bueno, bueno, ¡no importa el motivo!\nLo importante es que ya está aquí. Eres un sol por traérmelo.
+Bueno, bueno, ¡no importa el motivo!\nLo importante es que ya está aquí. Eres un sol por traérmelo.
+¿Sabes para qué lo quiero?\nFabrico saquitos aromáticos para mis Pokémon.
+¿Sabes para qué lo quiero?\nFabrico saquitos aromáticos para mis Pokémon.
+¿Tienes curiosidad eh?\nToma, aquí tengo uno, es para ti, por las molestias.
+¿Tienes curiosidad eh?\nToma, aquí tengo uno, es para ti, por las molestias.
+Úsalo bien, y que tus Pokémon huelan siempre a felicidad.
+Úsalo bien, y que tus Pokémon huelan siempre a felicidad.
+¡Oh! Eres tu. ¿Quieres más bolsitas aromaticas?
+¡Oh! Eres tu. ¿Quieres más bolsitas aromaticas?
+Mmm... lavanda, romero, un toquecito de pétalos de Meganium... ¡exquisito!
+Mmm... lavanda, romero, un toquecito de pétalos de Meganium... ¡exquisito!
+Dale las gracias de mi parte a la empresa de mensajería. Son un poco lentos, pero al final cumplen.
+Dale las gracias de mi parte a la empresa de mensajería. Son un poco lentos, pero al final cumplen.
+Dicen que ha aparecido un Gyarados rojo en el lago.\n¿Desde cuándo los Gyarados son rojos? ¡Vaya región!
+Dicen que ha aparecido un Gyarados rojo en el lago.\n¿Desde cuándo los Gyarados son rojos?  ¡Vaya región!
+Dragooo...
+Dragooo...

@@ -1,0 +1,8 @@
+﻿# Maps grouped under: Torre Oculta (Highest ID: 132)
+[Map132]
+\sh¡Kyokyokyokyokyo!\wt[15]
+\sh¡Kyokyokyokyokyo!\wt[15]
+\sh¡Grouuuuu!\wt[15]
+\sh¡Grouuuuu!\wt[15]
+\sh¡Rayqua, qua, quaaa!\wt[15]
+\sh¡Rayqua, qua, quaaa!\wt[15]

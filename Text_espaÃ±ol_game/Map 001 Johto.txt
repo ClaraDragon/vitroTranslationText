@@ -1,0 +1,93 @@
+﻿# Maps grouped under: Johto (Highest ID: 1)
+[Map1]
+\w[menuskin]\C[8]¿Quieres saltarte la intro?
+\w[menuskin]\C[8]¿Quieres saltarte la intro?
+...\n...
+...\n...
+Huaaa... ...\n¿Qué? ¿Ya se ha hecho de día? ¡Vaya!
+Huaaa... ...\n¿Qué? ¿Ya se ha hecho de día?  ¡Vaya!
+Huaaa... ...\nMmm... ¿Qué? ¿Ya se ha hecho tan tarde? ¡Vaya siesta! ¡Jo, jo!
+Huaaa... ...\nMmm... ¿Qué? ¿Ya se ha hecho tan tarde? ¡Vaya siesta! ¡Jo, jo!
+Mmm... Parece que el sol se está poniendo ya... \nÚltimamente el tiempo se me pasa muy rápido. ¡Jo, jo!
+Mmm... Parece que el sol se está poniendo ya... \nÚltimamente el tiempo se me pasa muy rápido.  ¡Jo, jo!
+Huaaa... ...\n¿Qué? ¿Una visita? ¡¿A estas horas?!
+Huaaa... ...\n¿Qué? ¿Una visita? ¡¿A estas horas?!
+Ajá... Ya veo, ya... ...\n¡Oh! Perdona, perdona... Estaba leyendo este compilatorio de poemas.
+Ajá... Ya veo, ya... ...\n¡Oh! Perdona, perdona... Estaba leyendo este compilatorio de poemas.
+¡Perdona por la espera!\n¡Estás en el mundo de los Pokémon!
+¡Perdona por la espera!\n¡Estás en el mundo de los Pokémon!
+Me llamo Oak, Profesor Oak.\nAunque a veces me llaman Profesor Pokémon. ¡Un título excelente como podrás intuir!
+Me llamo Oak, Profesor Oak.\nAunque a veces me llaman Profesor Pokémon. ¡Un título excelente como podrás intuir!
+Pero antes de seguir, dime, ¿es esta tu primera aventura?
+Pero antes de seguir, dime, ¿es esta tu primera aventura?
+Puedo hablarte de todo lo que necesites saber de este mundo.
+Puedo hablarte de todo lo que necesites saber de este mundo.
+Por fin, tras tanto tiempo esperando, vas a vivir aventuras por doquier junto a tus compañeros.
+Por fin, tras tanto tiempo esperando, vas a vivir aventuras por doquier junto a tus compañeros.
+Te encontrarás con imponentes rivales y poderosos aliados. Y quizás hasta descubras algún misterio...
+Te encontrarás con imponentes rivales y poderosos aliados. Y quizás hasta descubras algún misterio...
+La región de Johto es un destino popular por sus tradiciones e icónicas localizaciones.
+La región de Johto es un destino popular por sus tradiciones e icónicas localizaciones.
+Como Ciudad Iris, un lugar arraigado en el pasado, donde los viajeros quedan anonadados por sus bellos paisajes.
+Como Ciudad Iris, un lugar arraigado en el pasado, donde los viajeros quedan anonadados por sus bellos paisajes.
+O quizás te interesa más visitar el Lago de la Furia y comprar algunos de sus famosos caramelos.
+O quizás te interesa más visitar el Lago de la Furia y comprar algunos de sus famosos caramelos.
+¡Oh!\nPerdona, me estaba yendo por las ramas. \nJohto me trae muchos recuerdos, ¿sabes?
+¡Oh!\nPerdona, me estaba yendo por las ramas. \nJohto me trae muchos recuerdos, ¿sabes?
+Lo más importante es que te diviertas, aprendas y crezcas como persona.\n¡Para algo están las aventuras!
+Lo más importante es que te diviertas, aprendas y crezcas como persona.\n¡Para algo están las aventuras!
+Este mundo está habitado por criaturas llamadas Pokémon. Aunque eso ya lo sabías, ¿no?
+Este mundo está habitado por criaturas llamadas Pokémon. Aunque eso ya lo sabías, ¿no?
+¡Mira qué contento se ha puesto Marill!
+¡Mira qué contento se ha puesto Marill!
+Los humanos y los Pokémon vivimos juntos como compañeros, o bueno, como amigos.
+Los humanos y los Pokémon vivimos juntos como compañeros, o bueno, como amigos.
+Jugamos, trabajamos juntos y nos ayudamos en todo.\nAunque también hay algunos que combaten con sus Pokémon, a esos los llamamos "entrenadores".
+Jugamos, trabajamos juntos y nos ayudamos en todo.\nAunque también hay algunos que combaten con sus Pokémon, a esos los llamamos "entrenadores".
+En fin, que me enrollo más que una persiana. ¿Qué te parece si me cuentas algo sobre ti?
+En fin, que me enrollo más que una persiana.  ¿Qué te parece si me cuentas algo sobre ti?
+¿Cómo te identificas?\nTómate tu tiempo.
+¿Cómo te identificas?\nTómate tu tiempo.
+Pues ya está todo listo, \PN. Ha llegado el momento de que empieces tu aventura.\n¡A ver si forjas una leyenda, zagala!
+Pues ya está todo listo, \PN. Ha llegado el momento de que empieces tu aventura.\n¡A ver si forjas una leyenda, zagala!
+Pues ya está todo listo, \PN. Ha llegado el momento de que empieces tu aventura.\n¡A ver si forjas una leyenda, zagal!
+Pues ya está todo listo, \PN. Ha llegado el momento de que empieces tu aventura.\n¡A ver si forjas una leyenda, zagal!
+El mundo se abre a tus pies, así que no tengas miedo de explorar hasta el último rincón de la región.
+El mundo se abre a tus pies, así que no tengas miedo de explorar hasta el último rincón de la región.
+Todos los entrenadores y Pokémon de Johto te esperan, \PN.\n¡Ven, entra en el mundo Pokémon!
+Todos los entrenadores y Pokémon de Johto te esperan, \PN.\n¡Ven, entra en el mundo Pokémon!
+Sí
+Sí
+No
+No
+Información Controles
+Información Controles
+Información Aventura
+Información Aventura
+No necesito nada
+No necesito nada
+[Map150]
+Créditos
+Créditos
+Creado por
+Creado por
+Con colaboraciones de
+Con colaboraciones de
+Contribuidores de<<n>>PokéLiberty
+Contribuidores de <<n>>PokéLiberty
+Colaboradores Pokémon Essentials
+Colaboradores Pokémon Essentials
+Sprites, Diseños y Gráficos
+Sprites, Diseños y Gráficos
+Scripts y Programación
+Scripts y Programación
+Animaciones
+Animaciones
+Música y Sonidos
+Música y Sonidos
+Traducción y Localización
+Traducción y Localización
+Ingles
+Ingles
+Francés
+Francés

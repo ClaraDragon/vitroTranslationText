@@ -1,0 +1,27 @@
+﻿# REGION_LOCATION_DESCRIPTIONS
+# To localize this text, translate every second line.
+[20]
+Laboratorio
+Laboratorio
+Cueva Oscura
+Cueva Oscura
+Gimnasio, Guarida Dragón
+Gimnasio, Guarida Dragón
+Gimnasio, Torre Bellsprout
+Gimnasio, Torre Bellsprout
+Cueva Unión
+Cueva Unión
+Gimnasio
+Gimnasio
+Gimnasio, Torre Radio
+Gimnasio, Torre Radio
+Granja Mu-mu
+Granja Mu-mu
+Gimnasio, Faro, Puerto
+Gimnasio, Faro, Puerto
+Islas Remolino
+Islas Remolino
+Liga Pokémon
+Liga Pokémon
+Cabo Celeste
+Cabo Celeste

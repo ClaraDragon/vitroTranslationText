@@ -1,0 +1,96 @@
+﻿# Maps grouped under: Ruta 32 (Highest ID: 41)
+[Map41]
+¿Mi Pokémon? ¡Recién pescado!
+¿Mi Pokémon? ¡Recién pescado!
+¡Chof!
+¡Chof!
+Los Pokémon recién atrapados no son comparables con los criados. Pero yo sigo pescando. Siempre.
+Los Pokémon recién atrapados no son comparables con los criados. Pero yo sigo pescando. Siempre.
+Esa mirada...\nSe te nota en la mirada, que vives enamorada ~
+Esa mirada...\nSe te nota en la mirada, que vives enamorada ~
+¡Mmm! ¡Que decepción!
+¡Mmm! ¡Que decepción!
+No me mires así... ¡Que me voy a sonrojar!
+No me mires así... ¡Que me voy a sonrojar!
+Intentaré ser el mejor con mis favoritos. Como soy tan fuerte, no uso los mismos Pokémon que todo el mundo.
+Intentaré ser el mejor con mis favoritos. Como soy tan fuerte, no uso los mismos Pokémon que todo el mundo.
+Nunca te había visto antes por aquí. ¿Quién te crees? ¿Eh?
+Nunca te había visto antes por aquí. ¿Quién te crees? ¿Eh?
+¡Eres fuerte!
+¡Eres fuerte!
+Sí. ¡No me digas! ¿Y sabes qué...?
+Sí. ¡No me digas! ¿Y sabes qué...?
+¿Cómo? ¿Luchar? ¡Pero si estoy al teléfono! Venga, vale. ¡Pero que sea rápido!
+¿Cómo? ¿Luchar? ¡Pero si estoy al teléfono!  Venga, vale. ¡Pero que sea rápido!
+¡Bah! He perdido justamente cuando estaba empezando a entrar en calor.
+¡Bah! He perdido justamente cuando estaba empezando a entrar en calor.
+Nos podríamos contar un montón de cosas por teléfono...
+Nos podríamos contar un montón de cosas por teléfono...
+¿Quieres luchar<<n>>de nuevo en otro momento?
+¿Quieres luchar <<n>>de nuevo en otro momento?
+¡Eh, llegas tarde! ¡Empecemos!
+¡Eh, llegas tarde! ¡Empecemos!
+¡Vaya! ¡He perdido justo cuando estaba<<n>>empezando a animarme!
+¡Vaya! ¡He perdido justo cuando estaba <<n>>empezando a animarme!
+¡Cuando quiera volver a luchar, te llámare!
+¡Cuando quiera volver a luchar, te llámare!
+¡Plufff!\wt[20]
+¡Plufff!\wt[20]
+¡He encontrado Pokémon muy buenos en la hierba alta! Este equipo me va a llevar a la Liga Pokémon, ¿me oyes?
+¡He encontrado Pokémon muy buenos en la hierba alta! Este equipo me va a llevar a la Liga Pokémon, ¿me oyes?
+¡Maldición! Creía que podía ganar.
+¡Maldición! Creía que podía ganar.
+Pues me da a mí que a la Liga Pokémon no voy, eh...
+Pues me da a mí que a la Liga Pokémon no voy, eh...
+\w[signskin4]\C[8]Ruta 32.\nAl norte, ciudad Malva. \nAl sureste, Ruta 49.\nAl suroeste, Ruta 32.
+\w[signskin4]\C[8]Ruta 32.\nAl norte, ciudad Malva. \nAl sureste, Ruta 49.\nAl suroeste, Ruta 32.
+\tg[Vicki]¡Yuju! ¡Es viernes! Soy Vicki, por viernes. ¡Mucho gusto!\n¡Toma una Flecha Venenosa!
+\tg[Vicki]¡Yuju! ¡Es viernes! Soy Vicki, por viernes. ¡Mucho gusto!\n¡Toma una Flecha Venenosa!
+\tg[Vicki]Dásela a un Pokémon de tipo Veneno. \n¡Oh! ¡Es terrible! ¡Te sorprenderá ver cómo mejora los movimientos de tipo Veneno!
+\tg[Vicki]Dásela a un Pokémon de tipo Veneno. \n¡Oh! ¡Es terrible! ¡Te sorprenderá ver cómo mejora los movimientos de tipo Veneno!
+\tg[Vicki]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no?\nY, en prueba de esta amistad, ¡te voy a dar la Cinta Relax!
+\tg[Vicki]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no?\nY, en prueba de esta amistad, ¡te voy a dar la Cinta Relax!
+\tg[Vicki]Yo creo que la Cinta Relax le quedará a tu Pokémon divinamente.
+\tg[Vicki]Yo creo que la Cinta Relax le quedará a tu Pokémon divinamente.
+\tg[Vicki]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Vicki]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Vicki]¡Ey! ¿Qué día prefieres? A mí me gusta el viernes. Sin duda.\n¿No crees que es genial?
+\tg[Vicki]¡Ey! ¿Qué día prefieres? A mí me gusta el viernes. Sin duda.\n¿No crees que es genial?
+Soy muy bueno con la caña...¡Pero soy mejor aún mejor con los Pokémon!
+Soy muy bueno con la caña...¡Pero soy mejor aún mejor con los Pokémon!
+Intenté acelerar las cosas...
+Intenté acelerar las cosas...
+¡Pescar es una pasión eterna, y los Pokémon, amigos eternos!
+¡Pescar es una pasión eterna, y los Pokémon, amigos eternos!
+¡Uy! ¡Pero qué joven eres! ¡Que sepas que aunque sea mayor no voy a perder!
+¡Uy! ¡Pero qué joven eres! ¡Que sepas que aunque sea mayor no voy a perder!
+Intenté acelerar<<n>>las cosas...
+Intenté acelerar <<n>>las cosas...
+Cuando quiera volver a luchar, te llámare! \nCuando se repite un combate, hay que hacerlo en el terreno del adversario.
+Cuando quiera volver a luchar, te llámare! \nCuando se repite un combate, hay que hacerlo en el terreno del adversario.
+¿Te gustaría tener esta sabrosa y nutritiva Cola Slowpoke?\n¡Solo te costará 1 000 000 $! ¡Te gustará!
+¿Te gustaría tener esta sabrosa y nutritiva Cola Slowpoke?\n¡Solo te costará 1 000 000 $!  ¡Te gustará!
+Un placer hacer negocios contigo, joven.
+Un placer hacer negocios contigo, joven.
+¡Vaya! Pensaba que los niños de hoy en día estaban forrados...
+¡Vaya! Pensaba que los niños de hoy en día estaban forrados...
+¿No la quieres? Pues pírate.
+¿No la quieres? Pues pírate.
+Esa Medalla... ¡Es de Ciudad Malva! ¿Ganaste a Pegaso?
+Esa Medalla... ¡Es de Ciudad Malva! ¿Ganaste a Pegaso?
+Los Pokémon voladores son tan majestuosos...
+Los Pokémon voladores son tan majestuosos...
+Conozco mis debilidades.
+Conozco mis debilidades.
+Debería volver a entrenarme en el Gimnasio de Ciudad Malva. Debería...
+Debería volver a entrenarme en el Gimnasio de Ciudad Malva. Debería...
+\w[signskin4]\C[8]Entrada de la Cueva Unión.
+\w[signskin4]\C[8]Entrada de la Cueva Unión.
+Se me ha escapado un pez por tu culpa. ¡A pagar!
+Se me ha escapado un pez por tu culpa. ¡A pagar!
+Paciencia... El fundamento de la pesca y de los Pokémon es el mismo.\n¡Y yo no la tengo! ¡Argh! ¿¡Por qué elegí ser de la clase "Pescador"!?
+Paciencia... El fundamento de la pesca y de los Pokémon es el mismo.\n¡Y yo no la tengo! ¡Argh!  ¿¡Por qué elegí ser de la clase "Pescador"!?
+Sí
+Sí
+No
+No

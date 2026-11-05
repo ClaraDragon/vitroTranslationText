@@ -1,0 +1,26 @@
+﻿# Maps grouped under: Ruta 50 (Highest ID: 114)
+[Map114]
+¡Vas a ver la fuerza de alguien que ha entrenado duro junto a sus Pokémon!
+¡Vas a ver la fuerza de alguien que ha entrenado duro junto a sus Pokémon!
+¡Vaya paliza! Todavía tengo que mejorar<<n>>mucho.
+¡Vaya paliza! Todavía tengo que mejorar <<n>>mucho.
+¡Si me esfuerzo más, seré capaz de vencer incluso al Campeón!
+¡Si me esfuerzo más, seré capaz de vencer incluso al Campeón!
+¡He terminado de calentar! ¡Es hora de darlo todo en combate!
+¡He terminado de calentar! ¡Es hora de darlo todo en combate!
+Creo que tanto mis Pokémon como yo nos<<n>>hemos pasado calentando y estamos<<n>>agotados.
+Creo que tanto mis Pokémon como yo nos <<n>>hemos pasado calentando y estamos <<n>>agotados.
+Dicen que hay que hacer las cosas poco a poco, pero a mí no me gusta quedarme a medias.
+Dicen que hay que hacer las cosas poco a poco, pero a mí no me gusta quedarme a medias.
+¡Contempla estos músculos tan entrenados tras kilómetros y kilómetros a nado!
+¡Contempla estos músculos tan entrenados tras kilómetros y kilómetros a nado!
+Voy a nadar hasta el horizonte para<<n>>olvidar esta humillación.
+Voy a nadar hasta el horizonte para <<n>>olvidar esta humillación.
+¡Hay maestros de la natación que son capaces de llegar a nado hasta la región de Kalos!
+¡Hay maestros de la natación que son capaces de llegar a nado hasta la región de Kalos!
+¡Golpear el punto débil del rival con un ataque certero!\nEse es el secreto para la victoria.
+¡Golpear el punto débil del rival con un ataque certero!\nEse es el secreto para la victoria.
+¡Dominar cuatro movimientos no debería<<n>>ser tan complicado!
+¡Dominar cuatro movimientos no debería <<n>>ser tan complicado!
+He llegado muy lejos en la vida gracias a mis clases de kárate por internet.
+He llegado muy lejos en la vida gracias a mis clases de kárate por internet.

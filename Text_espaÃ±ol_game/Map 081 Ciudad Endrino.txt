@@ -1,0 +1,237 @@
+﻿# Maps grouped under: Ciudad Endrino (Highest ID: 81)
+[Map81]
+\tg[Débora]Tras este Gimnasio hay un lugar llamado Guarida Dragón.\nHay un pequeño santuario en el centro.
+\tg[Débora]Tras este Gimnasio hay un lugar llamado Guarida Dragón.\nHay un pequeño santuario en el centro. 
+\tg[Débora]Ve allí. ¡Si pruebas tu valía, reconoceré que te mereces luchar por la Medalla del Gimnasio!
+\tg[Débora]Ve allí. ¡Si pruebas tu valía, reconoceré que te mereces luchar por la Medalla del Gimnasio!
+\tg[Débora]¡Soy Débora! ¡La mejor Domadragones del mundo mundial!
+\tg[Débora]¡Soy Débora! ¡La mejor Domadragones del mundo mundial!
+\tg[Débora]¡Soy tan fuerte que hasta el Alto Mando se postraría antes mí!\nSolo mantengo esta posición porque... pues...
+\tg[Débora]¡Soy tan fuerte que hasta el Alto Mando se postraría antes mí!\nSolo mantengo esta posición porque... pues...
+\tg[Débora]¡Ejem! ¡Da igual!\nAún sabiendo todo esto te quieres enfrentar a mí, ¿verdad?
+\tg[Débora]¡Ejem! ¡Da igual!\nAún sabiendo todo esto te quieres enfrentar a mí, ¿verdad?
+\tg[Débora]¿¡L-las 7 medallas!? ¡Ejem!
+\tg[Débora]¿¡L-las 7 medallas!? ¡Ejem!
+\tg[Débora]Bah, con tan pocas medallas...
+\tg[Débora]Bah, con tan pocas medallas...
+\tg[Débora]Mi equipo Pokémon destrozaría al tuyo en segundos. ¡Claro que sí!
+\tg[Débora]Mi equipo Pokémon destrozaría al tuyo en segundos. ¡Claro que sí!
+\tg[Débora]¡Ya sé!\nTras este Gimnasio hay un lugar llamado Guarida Dragón, donde hay un pequeño santuario en el centro.
+\tg[Débora]¡Ya sé!\nTras este Gimnasio hay un lugar llamado Guarida Dragón, donde hay un pequeño santuario en el centro. 
+¿Creo que mi radio está rota? Solo recibo esta rara señal...
+¿Creo que mi radio está rota? Solo recibo esta rara señal...
+¡Auu! ¡Voces en mi cabeza!\n¿Cómo? ¡Estoy escuchando la radio!
+¡Auu! ¡Voces en mi cabeza!\n¿Cómo? ¡Estoy escuchando la radio!
+Siempre que paso por aquí, siento como si alguien me mirara intensamente pero, cuando me giro a ver, nunca hay nadie ahí.
+Siempre que paso por aquí, siento como si alguien me mirara intensamente pero, cuando me giro a ver, nunca hay nadie ahí.
+¿S-será cosa de esta estatua?\nLa verdad es que da algo de yuyu...
+¿S-será cosa de esta estatua?\nLa verdad es que da algo de yuyu...
+En el corazón de la remota Meseta Añil se celebra la Liga Pokémon.\nDicen que allí se reúnen los mejores Entrenadores de la región.
+En el corazón de la remota Meseta Añil se celebra la Liga Pokémon.\nDicen que allí se reúnen los mejores Entrenadores de la región.
+¡Guau! ¿Has ido por la Ruta Helada alguna vez? ¡No sé cómo la gente aguanta su temperatura!
+¡Guau! ¿Has ido por la Ruta Helada alguna vez? ¡No sé cómo la gente aguanta su temperatura!
+\w[signskin2]\C[10]Ciudad Endrino.\nUn tranquilo paraje de montaña.
+\w[signskin2]\C[10]Ciudad Endrino.\nUn tranquilo paraje de montaña.
+\w[signskin3]\C[8]Pistas para Entrenadores:\nSi, en lugar de ir corriendo, caminas por la hierba alta, te encontrarás con menos Pokémon salvajes.
+\w[signskin3]\C[8]Pistas para Entrenadores:\nSi, en lugar de ir corriendo, caminas por la hierba alta, te encontrarás con menos Pokémon salvajes.
+\w[signskin3]\C[8]Es algo a tener en cuenta si tu equipo se ha debilitado y necesitas llegar a un Centro Pokémon pasando por la hierba alta.
+\w[signskin3]\C[8]Es algo a tener en cuenta si tu equipo se ha debilitado y necesitas llegar a un Centro Pokémon pasando por la hierba alta.
+¿Quieres que tus Pokémon olviden algún movimiento?\n¡Lleválos a la casa de los tutores!
+¿Quieres que tus Pokémon olviden algún movimiento?\n¡Lleválos a la casa de los tutores!
+\tg[Débora]Supongo que no tendrás nada importante que hacer a esta hora de la mañana, ¿verdad?
+\tg[Débora]Supongo que no tendrás nada importante que hacer a esta hora de la mañana, ¿verdad?
+\tg[Débora]¿Te importa que hablemos un rato? ¡Y también podríamos intercambiar nuestros números de teléfono!
+\tg[Débora]¿Te importa que hablemos un rato? ¡Y también podríamos intercambiar nuestros números de teléfono!
+Débora
+Débora
+\tg[Débora]Si quieres podemos combatir el viernes por la noche.\n¡Has insistido tanto!
+\tg[Débora]Si quieres podemos combatir el viernes por la noche.\n¡Has insistido tanto!
+\tg[Débora]...
+\tg[Débora]...
+\tg[Débora]¡Ah, eres tú!\n¿Quieres sacarte una foto conmigo?
+\tg[Débora]¡Ah, eres tú!\n¿Quieres sacarte una foto conmigo?
+\tg[Débora]¡Venga, sonríe!
+\tg[Débora]¡Venga, sonríe!
+\tg[Débora]Ha quedado una foto muy chula.
+\tg[Débora]Ha quedado una foto muy chula.
+\tg[Débora]¿No? Es una lástima.
+\tg[Débora]¿No? Es una lástima.
+En el alpinismo como en los combates Pokémon, a la hora de la verdad, las habilidades naturales lo deciden todo.
+En el alpinismo como en los combates Pokémon, a la hora de la verdad, las habilidades naturales lo deciden todo.
+Yo no dependo de objetos y Pociones. ¡Un combate se gana a base de talento y entrenamiento!
+Yo no dependo de objetos y Pociones. ¡Un combate se gana a base de talento y entrenamiento!
+\w[signskin]Ruta Helada.\n¡Cuidado con resbalarse, caerse o quedarse helado!
+\w[signskin]Ruta Helada.\n¡Cuidado con resbalarse, caerse o quedarse helado!
+¡Frigii!\wt[10]
+¡Frigii!\wt[10]
+\w[signskin]Gimnasio Pokémon de Ciudad Endrino \nLíder: Débora, la gran experta en Pokémon tipo Dragón.
+\w[signskin]Gimnasio Pokémon de Ciudad Endrino \nLíder: Débora, la gran experta en Pokémon tipo Dragón.
+Esta melodía me pone muy nostálgico.
+Esta melodía me pone muy nostálgico.
+Si Débora lo permite, entonces el Maestro también.\nPuedes entrar.
+Si Débora lo permite, entonces el Maestro también.\nPuedes entrar.
+No. Solo los elegidos pueden entrenarse aquí. \nPor favor, vete.
+No. Solo los elegidos pueden entrenarse aquí. \nPor favor, vete.
+¡Eh, tú! ¡Espera un momento! Tú eres un entrenador que va de aquí para allá, ¿a que sí?
+¡Eh, tú! ¡Espera un momento! Tú eres un entrenador que va de aquí para allá, ¿a que sí?
+Mira, te cuento. Mi hermano mayor está entrenando en la Calle Victoria. Dice que se está preparando para la Liga, que quiere ser el mejor, que blablablá...
+Mira, te cuento. Mi hermano mayor está entrenando en la Calle Victoria. Dice que se está preparando para la Liga, que quiere ser el mejor, que blablablá...
+Pero lleva semanas sin dar señales de vida.
+Pero lleva semanas sin dar señales de vida.
+Le escribí una carta. Nada cursi, ¿eh? Solo le digo que la abuela pregunta por él y que se deje de tonterías y mande un mensaje de vez en cuando.
+Le escribí una carta. Nada cursi, ¿eh? Solo le digo que la abuela pregunta por él y que se deje de tonterías y mande un mensaje de vez en cuando.
+¿Te importaría entregársela? Estará cerca de la Calle Victoria, seguro.
+¿Te importaría entregársela? Estará cerca de la Calle Victoria, seguro.
+¡Genial! Toma la carta. Y si se pone chulo, le plantas un combate, que sé que lleva una racha regular y a lo mejor eso le espabila.
+¡Genial! Toma la carta. Y si se pone chulo, le plantas un combate, que sé que lleva una racha regular y a lo mejor eso le espabila.
+¿Que no vas para la Calle Victoria? Venga, que todo entrenador que se precie acaba allí tarde o temprano. Cuando pases, me la entregas.
+¿Que no vas para la Calle Victoria? Venga, que todo entrenador que se precie acaba allí tarde o temprano. Cuando pases, me la entregas.
+Carta
+Carta
+Estará cerca de la Calle Victoria, seguro.
+Estará cerca de la Calle Victoria, seguro.
+Cuando le veas dile que su querida hermana le manda un abrazo y una colleja!
+Cuando le veas dile que su querida hermana le manda un abrazo y una colleja!
+¡Mi hermano ha vuelto y me ha contado que le diste una tunda de las que hacen historia! ¡Y justo lo que necesitaba para espabilar!
+¡Mi hermano ha vuelto y me ha contado que le diste una tunda de las que hacen historia! ¡Y justo lo que necesitaba para espabilar!
+\w[signskin]Casa de los movimientos.\nDonde se les pueden enseñar y hacer olvidar movimientos a los Pokémon.
+\w[signskin]Casa de los movimientos.\nDonde se les pueden enseñar y hacer olvidar movimientos a los Pokémon.
+No.\nSolo los elegidos pueden entrenarse aquí. \nPor favor, vete.
+No.\nSolo los elegidos pueden entrenarse aquí. \nPor favor, vete.
+¿Has vencido a Débora? ¡Impresionante!\nNunca oí que perdiera contra nadie, excepto contra Lance.
+¿Has vencido a Débora? ¡Impresionante!\nNunca oí que perdiera contra nadie, excepto contra Lance.
+Débora, la Líder del Gimnasio, te espera.\nEs muy querida en la ciudad. Se suele decir que de-vo-ró.
+Débora, la Líder del Gimnasio, te espera.\nEs muy querida en la ciudad. Se suele decir que de-vo-ró.
+¿Lo pillas? Débora. Devoró. Somos muy originales.
+¿Lo pillas? Débora. Devoró. Somos muy originales.
+¡\PN! ¿Qué tal te trata la vida?\nMi hermana se alegro un montón de que volviese a casa, mi abuela tambien.
+¡\PN! ¿Qué tal te trata la vida?\nMi hermana se alegro un montón de que volviese a casa, mi abuela tambien.
+Gracias, de verdad. A veces hace falta un desconocido para recordarte lo que tienes en casa.
+Gracias, de verdad. A veces hace falta un desconocido para recordarte lo que tienes en casa.
+Detrás del Gimnasio Pokémon hay una cueva donde se entrena Débora.\nLas pocas veces que alguien la ve dentro... ¡Brrrr! ¡Dicen que su poder es terrorífico!
+Detrás del Gimnasio Pokémon hay una cueva donde se entrena Débora.\nLas pocas veces que alguien la ve dentro... ¡Brrrr! ¡Dicen que su poder es terrorífico!
+\tg[Sabino]\..\..\..Es sábado\..\..\.. Soy Sabino, por sábado\..\..\..\n¡Toma esto!
+\tg[Sabino]\..\..\..Es sábado\..\..\.. Soy Sabino, por sábado\..\..\..\n¡Toma esto!
+\tg[Sabino]\..\..\..\nArena Fina\..\..\..\nLos movimientos de tipo Tierra son más potentes\.. \..\.. ¡Ya verás!
+\tg[Sabino]\..\..\..\nArena Fina\..\..\..\nLos movimientos de tipo Tierra son más potentes\.. \..\.. ¡Ya verás!
+\tg[Sabino]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no?\nY, en prueba de esta amistad, ¡te voy a dar la Cinta Cabezada!
+\tg[Sabino]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no?\nY, en prueba de esta amistad, ¡te voy a dar la Cinta Cabezada!
+\tg[Sabino]Yo creo que la Cinta Relax le quedará a tu Pokémon divinamente.
+\tg[Sabino]Yo creo que la Cinta Relax le quedará a tu Pokémon divinamente.
+\tg[Sabino]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Sabino]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Sabino]\..\..\..\nNos vemos otro sábado\.. \..\..
+\tg[Sabino]\..\..\..\nNos vemos otro sábado\.. \..\..
+\w[signskin]Entrada a la Guarida Dragón.
+\w[signskin]Entrada a la Guarida Dragón.
+Sí
+Sí
+No
+No
+[Map84]
+Dragonair es un Pokémon tan majestuoso... ¡Daría lo que fuera por tener uno!
+Dragonair es un Pokémon tan majestuoso... ¡Daría lo que fuera por tener uno!
+¿Tienes un Dragonair?\n¡Cámbialo por mi Rhydon! ¡Porfa, porfa, porfa!
+¿Tienes un Dragonair?\n¡Cámbialo por mi Rhydon! ¡Porfa, porfa, porfa!
+¿N-no quieres cambiarlo...?
+¿N-no quieres cambiarlo...?
+¡Yujuuuu! ¡Esto sí que no me lo esperaba!
+¡Yujuuuu! ¡Esto sí que no me lo esperaba!
+¿Cómo está el Rhydon que te intercambie? ¡Tu Dragonair es tan mono...!
+¿Cómo está el Rhydon que te intercambie? ¡Tu Dragonair es tan mono...!
+¡Draa!
+¡Draa!
+Je, je, je,... Soy la Abuela Ela.\nAlgo me dice que posees las cualidades de los Domadragones.
+Je, je, je,... Soy la Abuela Ela.\nAlgo me dice que posees las cualidades de los Domadragones.
+Dime... ¿Quieres que enseñe un movimiento a uno de tus Pokémon?
+Dime... ¿Quieres que enseñe un movimiento a uno de tus Pokémon?
+Como quieras... Si cambias de idea, aquí estoy.
+Como quieras... Si cambias de idea, aquí estoy.
+Mmm... Tú otra vez...\n¿Quieres que le enseñe mi movimiento Domadragón más poderoso a algún Pokémon?
+Mmm... Tú otra vez...\n¿Quieres que le enseñe mi movimiento Domadragón más poderoso a algún Pokémon?
+¿A qué Pokémon quieres que se lo enseñe?
+¿A qué Pokémon quieres que se lo enseñe?
+¡La potencia de Cometa Draco es tremenda!\nPero el Ataque Especial del Pokémon que lo use bajará.
+¡La potencia de Cometa Draco es tremenda!\nPero el Ataque Especial del Pokémon que lo use bajará.
+¿Eh? Tu \v[1] parece que...
+¿Eh? Tu \v[1] parece que...
+\r¡Oh! ¡Tu \v[1], esa Cinta Esfuerzo le queda muy bien!
+\r¡Oh! ¡Tu \v[1], esa Cinta Esfuerzo le queda muy bien!
+Ha trabajado muy duro, ¿verdad?
+Ha trabajado muy duro, ¿verdad?
+Como recompensa, entrégale esta Cinta Esfuerzo.
+Como recompensa, entrégale esta Cinta Esfuerzo.
+\w[menuskin]\c[8]\PN ha recibido la Cinta Esfuerzo.\wtnp[20]
+\w[menuskin]\c[8]\PN ha recibido la Cinta Esfuerzo.\wtnp[20]
+\w[menuskin]\c[8]\PN puso la Cinta Esfuerzo en \v[1].
+\w[menuskin]\c[8]\PN puso la Cinta Esfuerzo en \v[1].
+Tiene que esforzarse más.\nSi lo hace, le daré a tu Pokémon algo muy bonito.
+Tiene que esforzarse más.\nSi lo hace, le daré a tu Pokémon algo muy bonito.
+Percibo un potencial en ti como Entrenador realmente fuerte...
+Percibo un potencial en ti como Entrenador realmente fuerte...
+¿Quieres que le enseñe el movimiento especial, Metaláser, a uno de tus Pokémon?
+¿Quieres que le enseñe el movimiento especial, Metaláser, a uno de tus Pokémon?
+El movimiento Metaláser posee una potencia increíble, pero también hiere a quien lo usa.
+El movimiento Metaláser posee una potencia increíble, pero también hiere a quien lo usa.
+Hasta más ver, entonces.
+Hasta más ver, entonces.
+Um... ¿Quién has dicho que eras?\n... ...\n¿Yo? ¡Soy el Quita-Movimientos!
+Um... ¿Quién has dicho que eras?\n... ...\n¿Yo?  ¡Soy el Quita-Movimientos!
+¿Quieres que haga que uno de tus Pokémon olvide un movimiento?
+¿Quieres que haga que uno de tus Pokémon olvide un movimiento?
+¿Qué Pokémon debe olvidar movimientos?
+¿Qué Pokémon debe olvidar movimientos?
+¿Cómo? Un Huevo no puede saber ningún movimiento.
+¿Cómo? Un Huevo no puede saber ningún movimiento.
+¿Qué? No puedo hacer que un Pokémon Oscuro olvide un movimiento.
+¿Qué? No puedo hacer que un Pokémon Oscuro olvide un movimiento.
+Ese Pokémon solo conoce un movimiento, así que no puede olvidarlo...
+Ese Pokémon solo conoce un movimiento, así que no puede olvidarlo...
+¿Qué movimiento debería olvidar?
+¿Qué movimiento debería olvidar?
+Ajá. ¿\v[4] ¿Ese quieres? ¿De verdad?
+Ajá. ¿\v[4] ¿Ese quieres? ¿De verdad?
+¡Ha salido de perlas!
+¡Ha salido de perlas!
+Tu Pokémon ha olvidado \v[4] completamente.
+Tu Pokémon ha olvidado \v[4] completamente.
+Vuelve por aquí si quieres que tus Pokémon olviden algún movimiento.
+Vuelve por aquí si quieres que tus Pokémon olviden algún movimiento.
+¿Tu anhelo de poder te ha traído hasta mí? \nBien... Recompensaré tu empeño.\nVoy a enseñarte el movimiento que andas buscando.
+¿Tu anhelo de poder te ha traído hasta mí? \nBien... Recompensaré tu empeño.\nVoy a enseñarte el movimiento que andas buscando.
+¡El movimiento definitivo!
+¡El movimiento definitivo!
+¿Quieres que alguno de tus Pokémon lo aprenda?
+¿Quieres que alguno de tus Pokémon lo aprenda?
+¿Quieres que le enseñe el movimiento definitivo a otro Pokémon?
+¿Quieres que le enseñe el movimiento definitivo a otro Pokémon?
+Mmm... Como quieras... Si cambias de idea, aquí estaré.
+Mmm... Como quieras... Si cambias de idea, aquí estaré.
+\w[menuskin]\c[8]Solo enseñamos movimientos a los siguientes Pokémon:
+\w[menuskin]\c[8]Solo enseñamos movimientos a los siguientes Pokémon:
+\w[menuskin]\c[8]Pokémon de llamas ardientes: CHARIZARD, TYPHLOSION BLAZIKEN, INFERNAPE, EMBOAR, DELPHOX, INCINEROAR, CINDERACE y SKELEDIRGE.
+\w[menuskin]\c[8]Pokémon de llamas ardientes: CHARIZARD, TYPHLOSION BLAZIKEN, INFERNAPE, EMBOAR, DELPHOX, INCINEROAR, CINDERACE y SKELEDIRGE.
+\w[menuskin]\c[8]Pokémon de aguas dispersas: BLASTOISE, FERALIGATR, SWAMPERT, EMPOLEON, SAMUROTT, GRENINJA, PRIMARINA, INTELEON y QUAQUAVAL.
+\w[menuskin]\c[8]Pokémon de aguas dispersas: BLASTOISE, FERALIGATR, SWAMPERT, EMPOLEON, SAMUROTT, GRENINJA, PRIMARINA, INTELEON y QUAQUAVAL.
+\w[menuskin]\c[8]Pokémon de flora serena: VENUSAUR, MEGANIUM, SCEPTILE, TORTERRA, SERPERIOR, CHESNAUGHT, DECIDUEYE, RILLABOOM y MEOWSCARADA.
+\w[menuskin]\c[8]Pokémon de flora serena: VENUSAUR, MEGANIUM, SCEPTILE, TORTERRA, SERPERIOR, CHESNAUGHT, DECIDUEYE, RILLABOOM y MEOWSCARADA.
+Aquí es donde Débora y Lance se entrenan para perfeccionar sus habilidades de Entrenadores Pokémon.
+Aquí es donde Débora y Lance se entrenan para perfeccionar sus habilidades de Entrenadores Pokémon.
+En Ciudad Endrino vive un ancestral clan dedicado a la doma de dragones.\nQuizás por eso hay tantas leyendas sobre dragones por aquí.
+En Ciudad Endrino vive un ancestral clan dedicado a la doma de dragones.\nQuizás por eso hay tantas leyendas sobre dragones por aquí.
+¿Te apasionan los combates de Pokémon? Pues bien, yo, un Tutor de movimientos, voy a serte de gran ayuda!
+¿Te apasionan los combates de Pokémon? Pues bien, yo, un Tutor de movimientos, voy a serte de gran ayuda!
+Sí
+Sí
+No
+No
+Si
+Si
+Planta Feroz
+Planta Feroz
+Anillo Ígneo
+Anillo Ígneo
+Hidrocañón
+Hidrocañón
+Salir
+Salir

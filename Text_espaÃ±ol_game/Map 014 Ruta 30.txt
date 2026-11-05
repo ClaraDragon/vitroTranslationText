@@ -1,0 +1,131 @@
+﻿# Maps grouped under: Ruta 30 (Highest ID: 14)
+[Map14]
+Acabo de perder un combate, así que estoy buscando más Pokémon...\n¡Espera, tú pareces débil! ¡Venga, luchemos!
+Acabo de perder un combate, así que estoy buscando más Pokémon...\n¡Espera, tú pareces débil! ¡Venga, luchemos!
+¡Aaau...!
+¡Aaau...!
+Dime, ¿me das tu número de teléfono?
+Dime, ¿me das tu número de teléfono?
+¡Te esperaba! ¡A luchar!
+¡Te esperaba! ¡A luchar!
+¡Horror! ¡No me<<n>>quedan más Pokémon!
+¡Horror! ¡No me <<n>>quedan más Pokémon!
+He perdido otra vez... No hay manera de vencerte. ¡Tanta derrota me hace sentir bien!
+He perdido otra vez... No hay manera de vencerte. ¡Tanta derrota me hace sentir bien! 
+Toma. Con esto podrás ser aún mejor.
+Toma. Con esto podrás ser aún mejor. 
+¡Yo también trataré de superarme!\nComo presentía, para no pasar apuros en los combates necesito más Pokémon.\n¡Tendré que ir a atrapar más!
+¡Yo también trataré de superarme!\nComo presentía, para no pasar apuros en los combates necesito más Pokémon.\n¡Tendré que ir a atrapar más!
+Como presentía, para no pasar apuros en los combates necesito más Pokémon. ¡Tendré que ir a atrapar más!
+Como presentía, para no pasar apuros en los combates necesito más Pokémon. ¡Tendré que ir a atrapar más!
+Me enfada bastante perder. Tendré que entrenarme mucho más.
+Me enfada bastante perder. Tendré que entrenarme mucho más. 
+\w[signskin3]\C[8]Pistas para Entrenadores: \n¡No robes los Pokémon de otros entrenadores! \n¡Las Poké Balls solo se lanzan a los Pokémon salvajes!
+\w[signskin3]\C[8]Pistas para Entrenadores: \n¡No robes los Pokémon de otros entrenadores! \n¡Las Poké Balls solo se lanzan a los Pokémon salvajes!
+Entrenas Pokémon, ¿verdad? ¡Pues, entonces, luchemos!
+Entrenas Pokémon, ¿verdad? ¡Pues, entonces, luchemos!
+¡Qué extraño! ¡Creí que ganaría!
+¡Qué extraño! ¡Creí que ganaría!
+Es muy duro llegar a ser un buen entrenador. ¡Venga! ¡Tengo que luchar contra más gente para mejorar!
+Es muy duro llegar a ser un buen entrenador.  ¡Venga! ¡Tengo que luchar contra más gente para mejorar!
+\w[signskin2]\C[10]Casa del Sr. Pokémon: ¡Todo recto!
+\w[signskin2]\C[10]Casa del Sr. Pokémon: ¡Todo recto!
+¿Eso que llevas son unas Deportivas? ¡Es un gustazo correr con ellas!
+¿Eso que llevas son unas Deportivas? ¡Es un gustazo correr con ellas!
+Pero ten en cuenta que cuando corres, los Pokémon salvajes y los Entrenadores oyen tus pisadas fácilmente, así que ándate con ojo.
+Pero ten en cuenta que cuando corres, los Pokémon salvajes y los Entrenadores oyen tus pisadas fácilmente, así que ándate con ojo.
+En lugar de un Pokémon de tipo Bicho, ¡acabas de encontrar a alguien que los entrena!
+En lugar de un Pokémon de tipo Bicho, ¡acabas de encontrar a alguien que los entrena!
+¡Arg! ¡Eres muy fuerte!
+¡Arg! ¡Eres muy fuerte!
+Me quedé sin Poké Balls mientras atrapaba Pokémon. ¡Debería haber comprado más!
+Me quedé sin Poké Balls mientras atrapaba Pokémon. ¡Debería haber comprado más!
+\w[signskin]Casa del Sr. Pokémon.
+\w[signskin]Casa del Sr. Pokémon.
+¡Drill!\wt[20]
+¡Drill!\wt[20]
+Oye viajero, ya que estás por aquí.
+Oye viajero, ya que estás por aquí.
+Me he quedado sin provisiones para el camino y estoy un poco lejos de Ciudad Malva.
+Me he quedado sin provisiones para el camino y estoy un poco lejos de Ciudad Malva.
+¿Me podrías ayudar?\nLo que ocurre es que tengo un Restaurar Todo pero necesito curar a 3 de mis Pokémon.
+¿Me podrías ayudar?\nLo que ocurre es que tengo un Restaurar Todo pero necesito curar a 3 de mis Pokémon.
+¿Me puedes cambiar 2 Pociones y un Antídoto por mi Restaurar Todo?
+¿Me puedes cambiar 2 Pociones y un Antídoto por mi Restaurar Todo?
+Veo que tienes 2 Pociones y un Antídoto.\n¿Me lo quieres cambiar por mi Restaura Todo?
+Veo que tienes 2 Pociones y un Antídoto.\n¿Me lo quieres cambiar por mi Restaura Todo?
+¡Muchas gracias por tu ayuda! De verdad.
+¡Muchas gracias por tu ayuda! De verdad.
+Me has salvado, lo estaba pasando bastante mal.\n¡Me alegra que siga existiendo gente como tu!
+Me has salvado, lo estaba pasando bastante mal.\n¡Me alegra que siga existiendo gente como tu!
+¿Me puedes cambiar 2 Pociones y un Antídoto por mi Restaura Todo?
+¿Me puedes cambiar 2 Pociones y un Antídoto por mi Restaura Todo?
+Un Pokémon solo puede usar un movimiento mientras tenga Puntos de Poder o PPs.
+Un Pokémon solo puede usar un movimiento mientras tenga Puntos de Poder o PPs.
+Se recuperan en los Centros Pokémon. También puedes usar objetos como el Éter o el Elixir, pero son muy difíciles de encontrar.
+Se recuperan en los Centros Pokémon. También puedes usar objetos como el Éter o el Elixir, pero son muy difíciles de encontrar.
+¡Nooowl!\wt[20]
+¡Nooowl!\wt[20]
+No soy una Entrenadora, pero si miras a uno a los ojos... ¡Prepárate para luchar!
+No soy una Entrenadora, pero si miras a uno a los ojos... ¡Prepárate para luchar!
+\w[signskin4]\C[8]Ruta 30.\nAl norte, Ruta 31 y Cueva Oscura.\nAl sur, Ciudad Cerezo.
+\w[signskin4]\C[8]Ruta 30.\nAl norte, Ruta 31 y Cueva Oscura.\nAl sur, Ciudad Cerezo.
+Sí
+Sí
+No
+No
+[Map15]
+\tg[Sr. Pokémon]¿Mmm? ¡Pero bueno! ¿Qué es esa escama? ¿¡Un Gyarados rojo!?\n¡Vaya descubrimiento! La quiero...\n¿\PN, quieres intercambiarla?
+\tg[Sr. Pokémon]¿Mmm? ¡Pero bueno! ¿Qué es esa escama? ¿¡Un Gyarados rojo!?\n¡Vaya descubrimiento! La quiero...\n¿\PN, quieres intercambiarla?
+\tg[Sr. Pokémon]Puedo ofrecerte este Mineral Evolutivo que me dio un conocido.
+\tg[Sr. Pokémon]Puedo ofrecerte este Mineral Evolutivo que me dio un conocido.
+\tg[Sr. Pokémon]Es una pena. Es realmente rara.
+\tg[Sr. Pokémon]Es una pena. Es realmente rara.
+\tg[Sr. Pokémon]¡Muy buenas, \PN!\nTengo algo para ti.\nJusto ahora estaba a punto de escribirle al Profesor Oak.
+\tg[Sr. Pokémon]¡Muy buenas, \PN!\nTengo algo para ti.\nJusto ahora estaba a punto de escribirle al Profesor Oak.
+\tg[Sr. Pokémon]Resulta que un amigo mío de la región de Hoenn me ha traído esto.
+\tg[Sr. Pokémon]Resulta que un amigo mío de la región de Hoenn me ha traído esto.
+\tg[Sr. Pokémon]Esa Esfera guarda una estrecha relación con unas ruinas de Ciudad Orquídea, conocidas como la Torre Oculta.
+\tg[Sr. Pokémon]Esa Esfera guarda una estrecha relación con unas ruinas de Ciudad Orquídea, conocidas como la Torre Oculta.
+\tg[Sr. Pokémon]Pero se trata de un lugar al que no puede llegar cualquier Entrenador...
+\tg[Sr. Pokémon]Pero se trata de un lugar al que no puede llegar cualquier Entrenador...
+\tg[Sr. Pokémon]Por eso he pensado en ti.\nEl Profesor Oak confía en tus habilidades y además has vencido al Campeón.
+\tg[Sr. Pokémon]Por eso he pensado en ti.\nEl Profesor Oak confía en tus habilidades y además has vencido al Campeón.
+\tg[Sr. Pokémon]¡Estoy seguro de que serás capaz de desvelar el misterio de esta Esfera y las ruinas!
+\tg[Sr. Pokémon]¡Estoy seguro de que serás capaz de desvelar el misterio de esta Esfera y las ruinas!
+\tg[Sr. Pokémon]La Torre Oculta se encuentra pasada Ciudad Orquídea.
+\tg[Sr. Pokémon]La Torre Oculta se encuentra pasada Ciudad Orquídea.
+\tg[Sr. Pokémon]Se yergue sobre un gran precipicio.\nO al menos eso creo.\nEso es lo que he oído.\nVamos, me parece...
+\tg[Sr. Pokémon]Se yergue sobre un gran precipicio.\nO al menos eso creo.\nEso es lo que he oído.\nVamos, me parece...
+\tg[Sr. Pokémon]¡Es tan emocionante explorar el mundo! ¡Siempre hay tanto por descubrir!
+\tg[Sr. Pokémon]¡Es tan emocionante explorar el mundo! ¡Siempre hay tanto por descubrir!
+\tg[Sr. Pokémon]Siento hacerte ir y venir, pero es necesario que le lleves ese Huevo al Profesor Elm.
+\tg[Sr. Pokémon]Siento hacerte ir y venir, pero es necesario que le lleves ese Huevo al Profesor Elm.
+\tg[Sr. Pokémon]¡Muy buenas! Tú debes de ser \PN, ¿no?\nYo soy quien le mandó la Carta al Profesor Elm hace poco.
+\tg[Sr. Pokémon]¡Muy buenas! Tú debes de ser \PN, ¿no?\nYo soy quien le mandó la Carta al Profesor Elm hace poco.
+\tg[Sr. Pokémon]Esto es lo que quiero que examine el Profesor Elm.
+\tg[Sr. Pokémon]Esto es lo que quiero que examine el Profesor Elm.
+\tg[Sr. Pokémon]Alguien que conozco en Ciudad Iris me dio este bonito huevo.
+\tg[Sr. Pokémon]Alguien que conozco en Ciudad Iris me dio este bonito huevo.
+\tg[Sr. Pokémon]¿Alguna vez habías visto uno de estos Huevos en Johto? Seguro que no, son extremadamente raros.
+\tg[Sr. Pokémon]¿Alguna vez habías visto uno de estos Huevos en Johto? Seguro que no, son extremadamente raros.
+\tg[Sr. Pokémon]Imagino que al Profesor Elm le interesará.\nEs toda una eminencia en lo que respecta a la cría de Pokémon.
+\tg[Sr. Pokémon]Imagino que al Profesor Elm le interesará.\nEs toda una eminencia en lo que respecta a la cría de Pokémon.
+¿Qué tal la cosecha?\n¿Sabías que cada clase de planta da Bonguri de colores diferentes?\nMás te vale recordar dónde crece cada clase.
+¿Qué tal la cosecha?\n¿Sabías que cada clase de planta da Bonguri de colores diferentes?\nMás te vale recordar dónde crece cada clase.
+Mucha gente confunde mi casa con la del Sr. Pokémon, supongo que es lo que tiene vivir en una ruta, ¿no?
+Mucha gente confunde mi casa con la del Sr.  Pokémon, supongo que es lo que tiene vivir en una ruta, ¿no?
+Ya que has entrado sin pedir permiso, al menos déjame hablarte de los Bonguri.
+Ya que has entrado sin pedir permiso, al menos déjame hablarte de los Bonguri.
+Los Bonguri son los frutos que maduran una vez al día en las plantas Bonguri.
+Los Bonguri son los frutos que maduran una vez al día en las plantas Bonguri.
+Además de ser un material para fabricar Poké Balls, tienen otros varios usos.\n¡Son de lo más útil!
+Además de ser un material para fabricar Poké Balls, tienen otros varios usos.\n¡Son de lo más útil!
+Je. Me alegro de que hayas venido. Llévate esto como recuerdo.
+Je. Me alegro de que hayas venido. Llévate esto como recuerdo.
+¡Seguro que tú también tienes maña en esto de recolectar Bonguri!
+¡Seguro que tú también tienes maña en esto de recolectar Bonguri!
+Sí
+Sí
+No
+No

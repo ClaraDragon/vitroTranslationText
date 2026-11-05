@@ -1,0 +1,111 @@
+﻿# Maps grouped under: Faro Olivo (Highest ID: 126)
+[Map126]
+Aquí estamos a gran altura.\n¡El ambiente perfecto para mis Pokémon!
+Aquí estamos a gran altura.\n¡El ambiente perfecto para mis Pokémon!
+¡Uff!... ¡Todo lo que sube baja!
+¡Uff!... ¡Todo lo que sube baja!
+Mi Pokémon pájaro se ha estado entrenado en Ciudad Orquídea.\nComo soy un perdedor, cruzaré el mar y me iré a algún sitio.
+Mi Pokémon pájaro se ha estado entrenado en Ciudad Orquídea.\nComo soy un perdedor, cruzaré el mar y me iré a algún sitio.
+Antiguamente había unos Pokémon que iluminaban el mar alrededor de Ciudad Olivo.\nEl faro se construyó en honor a ellos, y supongo que por eso la gente combate dentro de él.
+Antiguamente había unos Pokémon que iluminaban el mar alrededor de Ciudad Olivo.\nEl faro se construyó en honor a ellos, y supongo que por eso la gente combate dentro de él.
+¡Los hombres de mar siempre quieren luchar!
+¡Los hombres de mar siempre quieren luchar!
+¡Ay! ¡He perdido!
+¡Ay! ¡He perdido!
+¡Guay! ¡Es la primera vez que pierdo desde hace mucho!
+¡Guay! ¡Es la primera vez que pierdo desde hace mucho!
+Dame tu número de teléfono. Me lo paso<<n>>pipa luchando contigo.<br>Te llamaré cuando<<n>>me supere...
+Dame tu número de teléfono. Me lo paso <<n>>pipa luchando contigo.<br>Te llamaré cuando <<n>>me supere...
+¡Eh, luchemos de nuevo!
+¡Eh, luchemos de nuevo!
+¡Uf! ¡El combate ha sido muy duro!\nHe luchado contra ti una y otra vez, pero no te he ganado nunca.
+¡Uf! ¡El combate ha sido muy duro!\nHe luchado contra ti una y otra vez, pero no te he ganado nunca.
+Me preparé comprando muchos artículos para mejorar mis Pokémon, pero... parece que no son la solución.\nAhí debe de estar el problema...
+Me preparé comprando muchos artículos para mejorar mis Pokémon, pero... parece que no son la solución.\nAhí debe de estar el problema...
+Toma esto, \PN. No lo voy a necesitar más.
+Toma esto, \PN. No lo voy a necesitar más.
+¡Qué poderío! ¿Te gustaría navegar conmigo por estos mares?
+¡Qué poderío! ¿Te gustaría navegar conmigo por estos mares?
+Te llamaré cuando me supere...
+Te llamaré cuando me supere...
+En este faro se entrena la gente.\n¿Por qué? No lo sé, sinceramente.
+En este faro se entrena la gente.\n¿Por qué? No lo sé, sinceramente.
+¿Qué? ¿Pero qué estás haciendo? ¡Aquí no se juega!
+¿Qué? ¿Pero qué estás haciendo? ¡Aquí no se juega!
+¡Ah, ya veo que va enserio!
+¡Ah, ya veo que va enserio!
+Maldita sea, ¡estos jóvenes!
+Maldita sea, ¡estos jóvenes!
+En señal de que nos hemos relajado, lo<<n>>mejor es intercambiar números de teléfono,<<n>>¿qué me dices?
+En señal de que nos hemos relajado, lo <<n>>mejor es intercambiar números de teléfono, <<n>>¿qué me dices?
+¡Has venido! ¡Justo cuando empezaba a impacientarme!
+¡Has venido! ¡Justo cuando empezaba a impacientarme!
+Arriba hay un Pokémon que ilumina el faro. Pero dicen que está enfermo y que la medicina normal no puede curarle.
+Arriba hay un Pokémon que ilumina el faro. Pero dicen que está enfermo y que la medicina normal no puede curarle.
+Tranquila, Yasmina.\n¡Yo ayudaré al Pokémon ese enfermo!
+Tranquila, Yasmina.\n¡Yo ayudaré al Pokémon ese enfermo!
+Yo tampoco puedo sonreír...
+Yo tampoco puedo sonreír...
+Pues viendo el panorama... No, no lo ayudaré...
+Pues viendo el panorama... No, no lo ayudaré...
+¿Se puede saber qué haces aquí? ¿Estás de miranda o de parranda?\n¡Pues será mejor que te largues!
+¿Se puede saber qué haces aquí? ¿Estás de miranda o de parranda?\n¡Pues será mejor que te largues!
+¡Vaya! Pues lo tuyo era verdad. Venías<<n>>de visita.
+¡Vaya! Pues lo tuyo era verdad. Venías <<n>>de visita.
+¿Cómo diablos se sube?\nQuiero visitar al Pokémon enfermo, pero no puedo subir...
+¿Cómo diablos se sube?\nQuiero visitar al Pokémon enfermo, pero no puedo subir...
+¡Barco con tormenta, en cualquier puerto entra!
+¡Barco con tormenta, en cualquier puerto entra!
+¡Guau! ¡Tu fuerza es increíble!
+¡Guau! ¡Tu fuerza es increíble!
+¡Pues parece que me he ido a pique! ¡Jo, jo, jo!
+¡Pues parece que me he ido a pique! ¡Jo, jo, jo!
+Yasmina debe estar preocupada por ese Pokémon. \n¡Ni siquiera sonríe!
+Yasmina debe estar preocupada por ese Pokémon. \n¡Ni siquiera sonríe!
+Hay una farmacia en Ciudad Orquídea donde venden remedios muy útiles. Quizás ese Pokémon se pondría mejor con alguna medicina...
+Hay una farmacia en Ciudad Orquídea donde venden remedios muy útiles. Quizás ese Pokémon se pondría mejor con alguna medicina...
+[Map127]
+\tg[Yasmina]¿Le servirá de algo a Amphy la medicina?
+\tg[Yasmina]¿Le servirá de algo a Amphy la medicina?
+\w[menuskin]\C[8]\PN entregó la Poción Secreta a Yasmina.
+\w[menuskin]\C[8]\PN entregó la Poción Secreta a Yasmina.
+\tg[Yasmina]Mmm... Por favor, no te ofendas... \nAmphy no aceptaría nada de nadie. Solo confía en mí.
+\tg[Yasmina]Mmm... Por favor, no te ofendas... \nAmphy no aceptaría nada de nadie. Solo confía en mí.
+\tg[Yasmina]\..\..\..\nAmphy, ¿cómo te sientes?
+\tg[Yasmina]\..\..\..\nAmphy, ¿cómo te sientes?
+\tg[Amphy]¡Amphy! ¡Amphy!\wt[15]
+\tg[Amphy]¡Amphy! ¡Amphy!\wt[15]
+\tg[Yasmina]¡Oh!... ¡Menos mal!...
+\tg[Yasmina]¡Oh!... ¡Menos mal!...
+\tg[Yasmina]Es tan estupendo... Muchísimas gracias \PN.
+\tg[Yasmina]Es tan estupendo... Muchísimas gracias \PN.
+\tg[Yasmina]Toma esto, por ayudarnos.
+\tg[Yasmina]Toma esto, por ayudarnos.
+\tg[Yasmina]Regresaré al Gimnasio...
+\tg[Yasmina]Regresaré al Gimnasio...
+\tg[Yasmina]Ya veo...
+\tg[Yasmina]Ya veo...
+\tg[Yasmina]¡Amphy, aguanta!
+\tg[Yasmina]¡Amphy, aguanta!
+\tg[Yasmina]Quisiera pedirte un favor.\n¿Podrías ir a buscar la medicina por mí?
+\tg[Yasmina]Quisiera pedirte un favor.\n¿Podrías ir a buscar la medicina por mí?
+\tg[Amphy]¡Am... Am... phyphy...!\wt[15]
+\tg[Amphy]¡Am... Am... phyphy...!\wt[15]
+\w[menuskin]\C[8]Apenas puede respirar...
+\w[menuskin]\C[8]Apenas puede respirar...
+\tg[Yasmina]¿Tu tambien has venido a visitar a Amphy?
+\tg[Yasmina]¿Tu tambien has venido a visitar a Amphy?
+\tg[Yasmina]Este pequeñín siempre iluminaba el mar por la noche.
+\tg[Yasmina]Este pequeñín siempre iluminaba el mar por la noche.
+\tg[Yasmina]Pero de pronto enfermó... Le cuesta respirar.
+\tg[Yasmina]Pero de pronto enfermó... Le cuesta respirar.
+\tg[Yasmina]Dicen que hay una farmacia estupenda en Ciudad Orquídea... pero está al otro lado del mar... y no puedo dejar solo a Amphy...
+\tg[Yasmina]Dicen que hay una farmacia estupenda en Ciudad Orquídea... pero está al otro lado del mar... y no puedo dejar solo a Amphy...
+\tg[Yasmina]Quisiera pedirte un favor. ¿Podrías ir a buscar la medicina por mí?
+\tg[Yasmina]Quisiera pedirte un favor. ¿Podrías ir a buscar la medicina por mí?
+\tg[Yasmina]Dejaré esta entrada abierta...
+\tg[Yasmina]Dejaré esta entrada abierta...
+Sí
+Sí
+No
+No

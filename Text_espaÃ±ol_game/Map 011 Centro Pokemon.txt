@@ -1,0 +1,175 @@
+﻿# Maps grouped under: Centro Pokemon (Highest ID: 11)
+[Map11]
+El estilo en el que \v[12] está dibujado te recuerda a una bruja muy fuerte.
+El estilo en el que \v[12] está dibujado te recuerda a una bruja muy fuerte.
+Puedo curar a mis Pokémon, dormir a pierna suelta y gestionar mi equipo en el PC.
+Puedo curar a mis Pokémon, dormir a pierna suelta y gestionar mi equipo en el PC.
+¿Hay algo que no pueda hacer en el Centro Pokémon?
+¿Hay algo que no pueda hacer en el Centro Pokémon?
+Cualquier Entrenador puede usar libremente ese PC. Pero échale desinfectante, que lo tocan todos...
+Cualquier Entrenador puede usar libremente ese PC. Pero échale desinfectante, que lo tocan todos...
+Han construido una especie de posada en el piso de arriba. ¡Seguro que le viene bien a los entrenadores que vayan de viaje!
+Han construido una especie de posada en el piso de arriba. ¡Seguro que le viene bien a los entrenadores que vayan de viaje!
+[Map26]
+Los Pokémon son seres inteligentes.\nBueno, la mayoría.
+Los Pokémon son seres inteligentes.\nBueno, la mayoría.
+Mi Bidoof no es exactamente un lumbreras.
+Mi Bidoof no es exactamente un lumbreras.
+¡Muy buenas!\n¡Soy Cástor, famoso entre los fans de Pokémon por mi programa en la Poké Tele!\nHoy quiero saber qué piensa mi público de mí.\n¿Me cuentas cómo me ven mis fans?
+¡Muy buenas!\n¡Soy Cástor, famoso entre los fans de Pokémon por mi programa en la Poké Tele!\nHoy quiero saber qué piensa mi público de mí.\n¿Me cuentas cómo me ven mis fans?
+¡¿Cómo?! ¿Es así como me veis?\nCaramba, uno nunca llega a conocerse bien a sí mismo.\nY dime, ¿qué opinas de mi carácter?
+¡¿Cómo?! ¿Es así como me veis?\nCaramba, uno nunca llega a conocerse bien a sí mismo.\nY dime, ¿qué opinas de mi carácter?
+¿Qué?...\nSi conoces esas palabras significa que no eres alguien cualquiera.
+¿Qué?...\nSi conoces esas palabras significa que no eres alguien cualquiera.
+Seguro que entrenas Pokémon, ¿verdad?\nEntonces voy a echar mano de mis contactos y voy a darte este Huevo.\n¡Cuídalo bien!
+Seguro que entrenas Pokémon, ¿verdad?\nEntonces voy a echar mano de mis contactos y voy a darte este Huevo.\n¡Cuídalo bien!
+¿E-estás diciendo que no tienes el más mínimo interés?\n¡Pero eso no puede ser!\nDebe de ser porque estás demasiado ocupada, ¿no?
+¿E-estás diciendo que no tienes el más mínimo interés?\n¡Pero eso no puede ser!\nDebe de ser porque estás demasiado ocupada, ¿no?
+Me haría muy feliz que pudieras responder a mis preguntas cuando tengas un poco de tiempo.
+Me haría muy feliz que pudieras responder a mis preguntas cuando tengas un poco de tiempo.
+¡Hasta la vista!
+¡Hasta la vista!
+El estilo en el que \v[12] está dibujado te recuerda a un mundo digital.
+El estilo en el que \v[12] está dibujado te recuerda a un mundo digital.
+Mmm...\n¿Sabrías decirme qué estilo de entrenamiento te gusta más?
+Mmm...\n¿Sabrías decirme qué estilo de entrenamiento te gusta más?
+No sé si atar a mis Pokémon a pesas de 100kg o si darles abracitos y chuches.
+No sé si atar a mis Pokémon a pesas de 100kg o si darles abracitos y chuches.
+El creador del Sistema de Almacenamiento de Pokémon en los PC es un tal Bill.
+El creador del Sistema de Almacenamiento de Pokémon en los PC es un tal Bill.
+He escuchado historias de que en realidad es un Rattata que se hace pasar por humano. Vaya conspiraciones circulan por ahí, ¿eh?
+He escuchado historias de que en realidad es un Rattata que se hace pasar por humano. Vaya conspiraciones circulan por ahí, ¿eh?
+Voy a contarte algo que pasó hace tres años. Una banda que se hacía llamar Team Rocket utilizaba los Pokémon para hacer fechorías...
+Voy a contarte algo que pasó hace tres años. Una banda que se hacía llamar Team Rocket utilizaba los Pokémon para hacer fechorías...
+¡Pero todos los culpables reciben su castigo tarde o temprano!\n¡Un joven les plantó cara y los derrotó, y el Team Rocket se disolvió!
+¡Pero todos los culpables reciben su castigo tarde o temprano!\n¡Un joven les plantó cara y los derrotó, y el Team Rocket se disolvió!
+Qué historia tan emocionante... A saber qué estarán haciendo ahora esos vagos maleantes.
+Qué historia tan emocionante... A saber qué estarán haciendo ahora esos vagos maleantes.
+Sí
+Sí
+No
+No
+[Map39]
+El estilo en el que \v[12] está dibujado te recuerda a un hombre bello y extraño.
+El estilo en el que \v[12] está dibujado te recuerda a un hombre bello y extraño.
+Morti, es un líder muy fuerte. El tipo Fantasma es duro de roer.
+Morti, es un líder muy fuerte. El tipo Fantasma es duro de roer.
+¿Que se ha visto un Gyarados rojo en el Lago de la Furia...? ¡Vaya tontería!
+¿Que se ha visto un Gyarados rojo en el Lago de la Furia...? ¡Vaya tontería!
+Todos saben que los Gyarados son azules; los que digan eso deben de tener daltonismo.
+Todos saben que los Gyarados son azules; los que digan eso deben de tener daltonismo.
+Las Chicas Kimono son hermosas.\nTanto cuando usan Pokémon como cuando danzan, son unos bellezones...
+Las Chicas Kimono son hermosas.\nTanto cuando usan Pokémon como cuando danzan, son unos bellezones...
+[Map42]
+El estilo en el que \v[12] está dibujado te recuerda a un niño que no sale de su casa.
+El estilo en el que \v[12] está dibujado te recuerda a un niño que no sale de su casa.
+¡Bonjour! ¿Qué tal todo? ¿Vas recogiendo Bonguri?
+¡Bonjour! ¿Qué tal todo? ¿Vas recogiendo Bonguri?
+Así me gusta. Acabas de empezar a recolectar Bonguri, pero ya se te da muy bien.\nComo estoy de buen humor, voy a darte esto.
+Así me gusta. Acabas de empezar a recolectar Bonguri, pero ya se te da muy bien.\nComo estoy de buen humor, voy a darte esto.
+¿Qué? ¡Eso no puede ser!\nVoy a enseñarte ahora mismo las delicias del arte de la recolección. \nLo primero, toma esto.
+¿Qué? ¡Eso no puede ser!\nVoy a enseñarte ahora mismo las delicias del arte de la recolección. \nLo primero, toma esto.
+Con una Cebo Ball como esta, es mucho más fácil atrapar los Pokémon que has pescado con la Caña.\n¿Sabías que se usan Bonguri para fabricarlas?
+Con una Cebo Ball como esta, es mucho más fácil atrapar los Pokémon que has pescado con la Caña.\n¿Sabías que se usan Bonguri para fabricarlas?
+Como soy tan generoso, te doy dos. Si quieres más, tendrás que ir hasta Pueblo Azalea.
+Como soy tan generoso, te doy dos. Si quieres más, tendrás que ir hasta Pueblo Azalea.
+Allí encontrarás a alguien llamado César, que fabrica Poké Balls especiales a partir de Bonguri.\n¡Los Bonguri son una maravilla!
+Allí encontrarás a alguien llamado César, que fabrica Poké Balls especiales a partir de Bonguri.\n¡Los Bonguri son una maravilla!
+Cualquier recolector de Bonguri que se precie aspira a tener los conocimientos de César.\nSi vas a Pueblo Azalea, tienes que ir a verlo.
+Cualquier recolector de Bonguri que se precie aspira a tener los conocimientos de César.\nSi vas a Pueblo Azalea, tienes que ir a verlo.
+¡Buena cosecha!
+¡Buena cosecha!
+¿Cómo equipar mi Pokémon?\nQuizá con un objeto que aumente su Ataque...
+¿Cómo equipar mi Pokémon?\nQuizá con un objeto que aumente su Ataque...
+¡Espera! ¡Pero si mi Pokémon usa movimientos de categoría especial!
+¡Espera! ¡Pero si mi Pokémon usa movimientos de categoría especial!
+Sí
+Sí
+No
+No
+[Map54]
+Gracias al Sistema de Almacenamiento de Bill se pueden depositar hasta 30 Pokémon por Caja.
+Gracias al Sistema de Almacenamiento de Bill se pueden depositar hasta 30 Pokémon por Caja.
+El estilo en el que \v[12] está dibujado te recuerda a un gato muy molesto.
+El estilo en el que \v[12] está dibujado te recuerda a un gato muy molesto.
+Tus Pokémon... ¿te has fijado en esos iconos que salen en su registro?
+Tus Pokémon... ¿te has fijado en esos iconos que salen en su registro?
+Son movimientos de campo, que puedes usar fuera de combate para abrir caminos nuevos. ¿A qué mola?
+Son movimientos de campo, que puedes usar fuera de combate para abrir caminos nuevos. ¿A qué mola?
+¿Sabes lo que son los Bonguri?\nSon unos frutos muy duros que pueden capturar Pokémon dentro de ellos si se procesan correctamente.
+¿Sabes lo que son los Bonguri?\nSon unos frutos muy duros que pueden capturar Pokémon dentro de ellos si se procesan correctamente.
+Son el material usado para hacer Poké Balls, aunque ya casi nadie lo hace al estilo tradicional.
+Son el material usado para hacer Poké Balls, aunque ya casi nadie lo hace al estilo tradicional.
+[Map64]
+Ah, el Team Rocket...
+Ah, el Team Rocket...
+Me pregunto cuántos Pokémon diferentes hay en el mundo.
+Me pregunto cuántos Pokémon diferentes hay en el mundo.
+Creo recordar que hace tiempo, el Profesor Oak dijo que había 151... pero desde entonces no han dejado de descubrir nuevas especies por todo el país.
+Creo recordar que hace tiempo, el Profesor Oak dijo que había 151... pero desde entonces no han dejado de descubrir nuevas especies por todo el país.
+No me extrañaría que actualmente se hayan descubierto unas 500...
+No me extrañaría que actualmente se hayan descubierto unas 500...
+Creo que te he visto en alguna parte...\n¿Hay alguna razón especial para que te vistas así?
+Creo que te he visto en alguna parte...\n¿Hay alguna razón especial para que te vistas así?
+La compatibilidad entre los tipos de Pokémon importa tanto como su nivel.\nNo creo que haya un único Pokémon que sea el más fuerte.
+La compatibilidad entre los tipos de Pokémon importa tanto como su nivel.\nNo creo que haya un único Pokémon que sea el más fuerte.
+El estilo en el que \v[12] está dibujado te recuerda a algo ciertamente animal.
+El estilo en el que \v[12] está dibujado te recuerda a algo ciertamente animal.
+[Map65]
+El estilo en el que \v[12] está dibujado te recuerda a un calvorota.
+El estilo en el que \v[12] está dibujado te recuerda a un calvorota.
+Los Pokémon se vuelven más fuertes al evolucionar, pero muchos se vuelven... \n"Más feos que una nevera por detrás", como dice mi amigo.
+Los Pokémon se vuelven más fuertes al evolucionar, pero muchos se vuelven... \n"Más feos que una nevera por detrás", como dice mi amigo.
+No me gusta evolucionar a mis Pokémon... \n¡Quiero que sean redonditos y adorables para siempre!
+No me gusta evolucionar a mis Pokémon... \n¡Quiero que sean redonditos y adorables para siempre!
+¿Qué pasa? ¿Ha vuelto la Interpok?\nHe visto hombres de negro en el Lago de la Furia.
+¿Qué pasa? ¿Ha vuelto la Interpok?\nHe visto hombres de negro en el Lago de la Furia.
+¡Esos ya nos la liaron hace cuatro décadas!
+¡Esos ya nos la liaron hace cuatro décadas!
+[Map82]
+Cuando vas por un largo camino de montaña a punto de caerte de cansancio y ves el tejado de un Centro Pokémon, es como si vieras el paraíso.
+Cuando vas por un largo camino de montaña a punto de caerte de cansancio y ves el tejado de un Centro Pokémon, es como si vieras el paraíso.
+Las personas que se pasan con frecuencia por un Centro Pokémon son las que más quieren a los Pokémon.\n¿No te parece?
+Las personas que se pasan con frecuencia por un Centro Pokémon son las que más quieren a los Pokémon.\n¿No te parece?
+O las que más los dejan hacerse daño...
+O las que más los dejan hacerse daño...
+El estilo en el que \v[12] está dibujado te recuerda a un chico en una habitación azul.
+El estilo en el que \v[12] está dibujado te recuerda a un chico en una habitación azul.
+¡La casa de los tutores es genial!\nSi quiero olvidar o enseñar un movimiento, ¡me ayudan en el momento!
+¡La casa de los tutores es genial!\nSi quiero olvidar o enseñar un movimiento, ¡me ayudan en el momento!
+[Map91]
+El estilo en el que \v[12] está dibujado te recuerda a una criatura insaciable.
+El estilo en el que \v[12] está dibujado te recuerda a una criatura insaciable.
+Pueden iluminar las noches oscuras y guiarnos por el mar.\nY nos llevan a sus espaldas a través de las aguas si no tenemos barca en la que navegar.
+Pueden iluminar las noches oscuras y guiarnos por el mar.\nY nos llevan a sus espaldas a través de las aguas si no tenemos barca en la que navegar.
+Los Pokémon nos hacen la vida más fácil de distintas formas.\n¡No puedo imaginarme cómo sería la vida sin ellos!
+Los Pokémon nos hacen la vida más fácil de distintas formas.\n¡No puedo imaginarme cómo sería la vida sin ellos!
+¡Cruzando el mar, en Ciudad Orquídea, hay una persona que presume de sus Pokémon raros!
+¡Cruzando el mar, en Ciudad Orquídea, hay una persona que presume de sus Pokémon raros!
+Cuanto más tiempo pases con los Pokémon, más te querrán.
+Cuanto más tiempo pases con los Pokémon, más te querrán.
+[Map107]
+El estilo en el que \v[12] está dibujado te recuerda a un niño y la trompa de un Donphan.
+El estilo en el que \v[12] está dibujado te recuerda a un niño y la trompa de un Donphan.
+¿Eh? No me digas que...\n¿solo tienes un Pokémon? Pues lo llevas mal.
+¿Eh? No me digas que...\n¿solo tienes un Pokémon? Pues lo llevas mal.
+\..\..\.. ¡Tengo una idea!
+\..\..\.. ¡Tengo una idea!
+¡Voy a darte un Pokémon!
+¡Voy a darte un Pokémon!
+¡Voy a darte mi Tentacool!\nHe capturado un montón y pensaba liberarlo de todas formas.
+¡Voy a darte mi Tentacool!\nHe capturado un montón y pensaba liberarlo de todas formas.
+¡Sin compromiso!
+¡Sin compromiso!
+¡Me dan ganas de enseñarle mis Pokémon a todo el mundo!\nQuiero que mi amigo de Ciudad Malva vea los que he criado...
+¡Me dan ganas de enseñarle mis Pokémon a todo el mundo!\nQuiero que mi amigo de Ciudad Malva vea los que he criado...
+¡\PN! ¿Has ganado? ¡Lo llevas escrito en la cara!
+¡\PN! ¿Has ganado? ¡Lo llevas escrito en la cara!
+¡El Gimnasio Pokémon de esta ciudad está lleno de chusma!\nYo ni me acerco por miedo a que me hagan daño.\nVoy a darte un consejo: el Líder utiliza Pokémon de tipo Lucha.
+¡El Gimnasio Pokémon de esta ciudad está lleno de chusma!\nYo ni me acerco por miedo a que me hagan daño.\nVoy a darte un consejo: el Líder utiliza Pokémon de tipo Lucha.
+Así que tú deberías confundirlos con Pokémon de tipo Psíquico, para derrotarlos antes de que puedan usar la fuerza bruta.
+Así que tú deberías confundirlos con Pokémon de tipo Psíquico, para derrotarlos antes de que puedan usar la fuerza bruta.
+Y una cosa más... el Líder, Aníbal, suele meditar bajo una cascada.\nMientras está ahí debajo, no hay forma de que pueda oírte, hagas lo que hagas.
+Y una cosa más... el Líder, Aníbal, suele meditar bajo una cascada.\nMientras está ahí debajo, no hay forma de que pueda oírte, hagas lo que hagas.
+¿Conoces al coleccionista de Pokémon que vive en la ciudad?\nSiempre está presumiendo de los Pokémon raros que tiene. ¡Qué plasta es!
+¿Conoces al coleccionista de Pokémon que vive en la ciudad?\nSiempre está presumiendo de los Pokémon raros que tiene. ¡Qué plasta es!

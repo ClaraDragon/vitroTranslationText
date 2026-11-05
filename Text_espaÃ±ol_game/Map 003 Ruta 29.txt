@@ -1,0 +1,62 @@
+﻿# Maps grouped under: Ruta 29 (Highest ID: 3)
+[Map3]
+Anillo Perdido
+Anillo Perdido
+\w[menuskin]\C[8]Deberías entregárselo a su dueña.
+\w[menuskin]\C[8]Deberías entregárselo a su dueña.
+\tg[\v[14]]¡Pero bueno, \PN!
+\tg[\v[14]]¡Pero bueno, \PN!
+\tg[\v[14]]¡Así que Elm te ha dado un \v[1]! \n¡Cómo mola! ¡Es un Pokémon genial!\nSi lo llevas junto a ti, te irá tomando cada vez más cariño.
+\tg[\v[14]]¡Así que Elm te ha dado un \v[1]! \n¡Cómo mola! ¡Es un Pokémon genial!\nSi lo llevas junto a ti, te irá tomando cada vez más cariño.
+\tg[\v[14]]Ya que estás aquí, déjame enseñarte una cosita.
+\tg[\v[14]]Ya que estás aquí, déjame enseñarte una cosita.
+\tg[\v[14]]¿Ves esa roca resquebrajada?
+\tg[\v[14]]¿Ves esa roca resquebrajada?
+\tg[\v[14]]Puedes romperla con ayuda de un Pokémon.\n¡Te mostraré cómo usar los movimientos de campo!
+\tg[\v[14]]Puedes romperla con ayuda de un Pokémon.\n¡Te mostraré cómo usar los movimientos de campo!
+\tg[\v[14]]Por ejemplo, Marill, puede usar el movimiento de campo <b>Golpe Roca</b>.
+\tg[\v[14]]Por ejemplo, Marill, puede usar el movimiento de campo <b>Golpe Roca</b>.
+\tg[\v[14]]¡Vamos, Marill!
+\tg[\v[14]]¡Vamos, Marill!
+\tg[\v[14]]Así es como se hace, ¿lo has entendido?
+\tg[\v[14]]Así es como se hace, ¿lo has entendido?
+\tg[\v[14]]Cada especie tiene sus propios movimientos de campo únicos.\nCon estos movimientos podrás sortear obstáculos sin problemas.
+\tg[\v[14]]Cada especie tiene sus propios movimientos de campo únicos.\nCon estos movimientos podrás sortear obstáculos sin problemas.
+\tg[\v[14]]Ahora deberías atrapar más Pokémon y probar por tu cuenta, ¡seguro que te ayudan en tu viaje!
+\tg[\v[14]]Ahora deberías atrapar más Pokémon y probar por tu cuenta, ¡seguro que te ayudan en tu viaje!
+\tg[\v[14]]¡Ah! Y apúntate mi número de Pokégear.
+\tg[\v[14]]¡Ah! Y apúntate mi número de Pokégear.
+\tg[\v[14]]Hala, ¡hasta la vista!
+\tg[\v[14]]Hala, ¡hasta la vista!
+Quería descansar un poco, pero se me olvidó guardar y... ¡Puf!
+Quería descansar un poco, pero se me olvidó guardar y... ¡Puf! 
+Te recomiendo guardar siempre que puedas. No queremos un desastre, ¿verdad?
+Te recomiendo guardar siempre que puedas. No queremos un desastre, ¿verdad?
+Mira, si saltas por aquí puedes llegar a Pueblo Primavera sin tocar la hierba alta.\nPero recuerda, ¡solo puedes saltar en una dirección!
+Mira, si saltas por aquí puedes llegar a Pueblo Primavera sin tocar la hierba alta.\nPero recuerda, ¡solo puedes saltar en una dirección!
+Estoy esperando los Pokémon especiales que aparecen solo por la noche, ¡dormir es para los débiles!
+Estoy esperando los Pokémon especiales que aparecen solo por la noche, ¡dormir es para los débiles!
+Estoy esperando los Pokémon especiales que aparecen solo por el día. *bostezo*
+Estoy esperando los Pokémon especiales que aparecen solo por el día. *bostezo*
+(Llevo toda la noche sin dormir, a ver si aparece algo de una vez...)
+(Llevo toda la noche sin dormir, a ver si aparece algo de una vez...)
+\w[signskin4]\C[8]Ruta 29.\nAl norte, Ruta 46. \nAl este, Pueblo Primavera.\nAl oeste, Ciudad Cerezo.
+\w[signskin4]\C[8]Ruta 29.\nAl norte, Ruta 46. \nAl este, Pueblo Primavera.\nAl oeste, Ciudad Cerezo.
+Tengo la impresión de que es la primera vez que nos encontramos.
+Tengo la impresión de que es la primera vez que nos encontramos.
+\tg[Marta]Permíteme que me presente. Me llamo Marta, por martes.\nAcepta este regalo de presentación: ¡una Cuchara Tor!
+\tg[Marta]Permíteme que me presente. Me llamo Marta, por martes.\nAcepta este regalo de presentación: ¡una Cuchara Tor!
+\tg[Marta]Tiene una forma un tanto peculiar, ¿no crees?
+\tg[Marta]Tiene una forma un tanto peculiar, ¿no crees?
+\tg[Marta]Sirve para fortalecer los movimientos de tipo Psíquico.\nEstoy segura de que te va a resultar de gran utilidad.
+\tg[Marta]Sirve para fortalecer los movimientos de tipo Psíquico.\nEstoy segura de que te va a resultar de gran utilidad.
+\tg[Marta]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no? Y, en prueba de esta amistad, ¡te voy a dar la Cinta Impacto!
+\tg[Marta]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no? Y, en prueba de esta amistad, ¡te voy a dar la Cinta Impacto!
+\tg[Marta]Yo creo que la Cinta Impacto le quedará a tu Pokémon divinamente.
+\tg[Marta]Yo creo que la Cinta Impacto le quedará a tu Pokémon divinamente.
+\tg[Marta]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Marta]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Marta]¿Has visto ya a Luna, mi hermana mayor? ¿Y a Miguel, mi hermano menor?\nSoy la segunda de siete hermanos.
+\tg[Marta]¿Has visto ya a Luna, mi hermana mayor? ¿Y a Miguel, mi hermano menor?\nSoy la segunda de siete hermanos.
+¿Cómo está tu equipo Pokémon?\nRecuerda que si está débil deberías evitar la hierba alta.
+¿Cómo está tu equipo Pokémon?\nRecuerda que si está débil deberías evitar la hierba alta.

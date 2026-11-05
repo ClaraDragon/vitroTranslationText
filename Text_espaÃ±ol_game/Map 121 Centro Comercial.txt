@@ -1,0 +1,235 @@
+﻿# Maps grouped under: Centro Comercial (Highest ID: 121)
+[Map121]
+¡Ah, la siniestra mano del Team Rocket ha llegado a esta noble institución!
+¡Ah, la siniestra mano del Team Rocket ha llegado a esta noble institución!
+En esta planta se venden objetos que potencian características. Ojalá hubiera uno que potenciase mi Pokédisfraz...
+En esta planta se venden objetos que potencian características. Ojalá hubiera uno que potenciase mi Pokédisfraz...
+Mamá me ha dicho que no me acerque a los señores que van de negro. A saber qué harían conmigo...
+Mamá me ha dicho que no me acerque a los señores que van de negro. A saber qué harían conmigo...
+Mamá es experta en conseguir gangas.\nSiempre compra cosas a precios más bajos.
+Mamá es experta en conseguir gangas.\nSiempre compra cosas a precios más bajos.
+Debo pedir disculpas a mi Skiploom.\nLe he comprado un peluche de Malamar diciéndole que era "nuestro nuevo líder espiritual".
+Debo pedir disculpas a mi Skiploom.\nLe he comprado un peluche de Malamar diciéndole que era "nuestro nuevo líder espiritual".
+El pobre, me ha mirado con una cara...
+El pobre, me ha mirado con una cara...
+¿Qué se le ha perdido aquí a esos fósiles del Team Rocket? ¡Ya se acabó esa época! ¡Atrasados!
+¿Qué se le ha perdido aquí a esos fósiles del Team Rocket? ¡Ya se acabó esa época! ¡Atrasados!
+Las MT que venden aquí son muy útiles.\nYo le enseñé Campo de Hierba a mi Skiploom para poder hacerme ensaladas donde quiera.
+Las MT que venden aquí son muy útiles.\nYo le enseñé Campo de Hierba a mi Skiploom para poder hacerme ensaladas donde quiera.
+\w[menuskin]\C[8]Personaliza tus Pokémon\nP4 - Tienda de MT
+\w[menuskin]\C[8]Personaliza tus Pokémon\nP4 - Tienda de MT
+Ey, ¿no os queda algún puesto libre en el Team Rocket? Necesito darle un giro de 180º a mi vida ya de ya.
+Ey, ¿no os queda algún puesto libre en el Team Rocket? Necesito darle un giro de 180º a mi vida ya de ya.
+¿A quién quiero engañar? Ni como miembro del Team Rocket serviría para algo...
+¿A quién quiero engañar? Ni como miembro del Team Rocket serviría para algo...
+Pues nada, a seguir rascando boletos hasta que me toque la lotería...
+Pues nada, a seguir rascando boletos hasta que me toque la lotería...
+No hay manera, por más boletos que compre no consigo que ninguno salga premiado.
+No hay manera, por más boletos que compre no consigo que ninguno salga premiado.
+A este paso nunca podré dejar la vida de oficinista fracasado...
+A este paso nunca podré dejar la vida de oficinista fracasado...
+¿Eh? ¿Los miembros del Team Rocket también van de compras?
+¿Eh? ¿Los miembros del Team Rocket también van de compras?
+¡Eh! ¿Has utilizado algún Especial X en combate?\n¡No te lo vas a creer! ¡Sube el Ataque Especial!
+¡Eh! ¿Has utilizado algún Especial X en combate?\n¡No te lo vas a creer! ¡Sube el Ataque Especial!
+Ahora que lo pienso, si el Ataque puede ser especial... ¿Puede haber también un Ataque Común?
+Ahora que lo pienso, si el Ataque puede ser especial... ¿Puede haber también un Ataque Común?
+¿Malamar? ¿Yo diciendo "amigo Malamar"?\nSi yo soy más de Inkay, que es más mono... ¿Qué me ha pasado?
+¿Malamar? ¿Yo diciendo "amigo Malamar"?\nSi yo soy más de Inkay, que es más mono... ¿Qué me ha pasado?
+No me importa si sois el Team Rocket o el Team Pocket, ¡pero fuera de mi camino!\n¡A mí nadie me toca las narices cuando estoy comprando!
+No me importa si sois el Team Rocket o el Team Pocket, ¡pero fuera de mi camino!\n¡A mí nadie me toca las narices cuando estoy comprando!
+¡Me encanta ir de tiendeteo! Aunque a veces me encuentro con otras madres en busca de los descuentos...
+¡Me encanta ir de tiendeteo! Aunque a veces me encuentro con otras madres en busca de los descuentos...
+¡Pues no! ¡Son todos míos! ¡MÍOS!
+¡Pues no! ¡Son todos míos! ¡MÍOS!
+¡Hola! Gracias por comprar en nuestro establecimiento.
+¡Hola! Gracias por comprar en nuestro establecimiento.
+¿A qué planta quiere ir?\ch[1,- 1,PB,P1,P2,P3,P4,P5,PS]
+¿A qué planta quiere ir?\ch[1,- 1,PB,P1,P2,P3,P4,P5,PS]
+¡Vuelve siempre que quieras!
+¡Vuelve siempre que quieras!
+Ya estamos en esa planta.
+Ya estamos en esa planta.
+¡Pruebe suerte en la tómbola de la Plaza Tranquila!
+¡Pruebe suerte en la tómbola de la Plaza Tranquila!
+Encuentre los movimientos que siempre quiso en la Tienda de MT.
+Encuentre los movimientos que siempre quiso en la Tienda de MT.
+Todos los remedios para sus Pokémon en El Botiquín.
+Todos los remedios para sus Pokémon en El Botiquín.
+Sus Pokémon podrán ser más fuertes y robustos con nuestros Artículos de Combate.
+Sus Pokémon podrán ser más fuertes y robustos con nuestros Artículos de Combate.
+Encontrará un amplio surtido de objetos en la Tienda de Entrenadores.
+Encontrará un amplio surtido de objetos en la Tienda de Entrenadores.
+Hay un almacén en el sótano, pero el acceso está terminantemente prohibido a los clientes.
+Hay un almacén en el sótano, pero el acceso está terminantemente prohibido a los clientes.
+En el vestíbulo encontrará la salida.\n¿Ha comprado todo lo que necesitaba?
+En el vestíbulo encontrará la salida.\n¿Ha comprado todo lo que necesitaba?
+¡Iplo!\wt[10]
+¡Iplo!\wt[10]
+¿Eh? ¿Desde cuando eres tú del Team Rocket? ¡Policía! ¡Criminal!
+¿Eh? ¿Desde cuando eres tú del Team Rocket?  ¡Policía! ¡Criminal!
+Hola, ¿cómo está mi Machop?
+Hola, ¿cómo está mi Machop?
+Colecciono Pokémon, pero últimamente este Machop no hace más que darme puñetazos.\n¿Tienes un Drowzee? ¿Quieres cambiarlo por mi Machop?
+Colecciono Pokémon, pero últimamente este Machop no hace más que darme puñetazos.\n¿Tienes un Drowzee? ¿Quieres cambiarlo por mi Machop?
+¿De verdad no quieres cambiarlo? ¡Pues me quedo yo con su...! ¡Violencia, eso! ¡Tú te lo pierdes!
+¿De verdad no quieres cambiarlo? ¡Pues me quedo yo con su...! ¡Violencia, eso! ¡Tú te lo pierdes!
+¡Un Drowzee! ¡Genial!\nNo sabes las ganas que tenía de un Pokémon con su capacidad de hipnosis.
+¡Un Drowzee! ¡Genial!\nNo sabes las ganas que tenía de un Pokémon con su capacidad de hipnosis.
+Era eso o una tila.
+Era eso o una tila.
+\w[menuskin]\C[8]¡Descansa de tantas compras!\nP5 - Plaza Tranquila
+\w[menuskin]\C[8]¡Descansa de tantas compras!\nP5 - Plaza Tranquila
+¿El Malaraíl? ¿Pero qué es eso? ¡Si yo trabajo en el Magentotrén!\n¡Casi monto una línea nueva!
+¿El Malaraíl? ¿Pero qué es eso? ¡Si yo trabajo en el Magentotrén!\n¡Casi monto una línea nueva!
+Mira que yo no soy trigo limpio, pero esa gentuza del Team Rocket... ¡Vaya mastuerzos!
+Mira que yo no soy trigo limpio, pero esa gentuza del Team Rocket... ¡Vaya mastuerzos!
+Me encantan los Pokémon fuertes, así que les doy Proteínas para mejorar su Ataque.
+Me encantan los Pokémon fuertes, así que les doy Proteínas para mejorar su Ataque.
+\w[menuskin]\C[8]PB - Vestíbulo
+\w[menuskin]\C[8]PB - Vestíbulo
+\w[menuskin]\C[8]\GEs una Máquina Expendedora. \nNo sé si tomarme algo...
+\w[menuskin]\C[8]\GEs una Máquina Expendedora. \nNo sé si tomarme algo...
+\w[menuskin]\C[8]\G¡Vaya, pero si esta no funciona!
+\w[menuskin]\C[8]\G¡Vaya, pero si esta no funciona!
+\tg[\v[14]]\PN\..\..\..
+\tg[\v[14]]\PN\..\..\..
+\tg[\v[14]]¿Tú también escuchas esa voz?
+\tg[\v[14]]¿Tú también escuchas esa voz?
+\tg[\v[14]]Siento que me intenta decir algo...
+\tg[\v[14]]Siento que me intenta decir algo...
+\tg[\v[14]]No.\nNo hay nada que temer.\nÉl tiene razón.
+\tg[\v[14]]No.\nNo hay nada que temer.\nÉl tiene razón.
+\tg[\v[14]]Después de todo...
+\tg[\v[14]]Después de todo...
+\shES NUESTRO AMIGO MALAMAR.
+\shES NUESTRO AMIGO MALAMAR.
+\tg[\v[14]]¿Quieres este peluche de nuestro amigo Malamar?\n¡Son sólo 2000$!
+\tg[\v[14]]¿Quieres este peluche de nuestro amigo Malamar?\n¡Son sólo 2000$!
+\tg[\v[14]]También tenemos panfletos turísticos de Johto, ¡algunos hablan de cosas interesantes!
+\tg[\v[14]]También tenemos panfletos turísticos de Johto, ¡algunos hablan de cosas interesantes!
+\tg[\v[14]]El Malamar del Lago de la Furia\., la famosa Torre Malamar\., el Malaraíl hacia Kanto \..\..\..
+\tg[\v[14]]El Malamar del Lago de la Furia\., la famosa Torre Malamar\., el Malaraíl hacia Kanto \..\..\..
+\tg[\v[14]]Venga, \PN.\nÚnete a nosotros.
+\tg[\v[14]]Venga, \PN.\nÚnete a nosotros.
+\tg[\v[14]]¿No quieres comprar, \PN?\nQué pena...\nNuestro amigo Malamar se va a enfadar mucho.
+\tg[\v[14]]¿No quieres comprar, \PN?\nQué pena...\nNuestro amigo Malamar se va a enfadar mucho.
+\tg[\v[14]]Dice que si no compras su merchandising... tendrá que convencerte de otra manera.
+\tg[\v[14]]Dice que si no compras su merchandising... tendrá que convencerte de otra manera.
+\tg[\v[14]]¿Eh? ¿Qué... qué ha pasado? ¿Por qué tengo un peluche de Malamar en la mano?
+\tg[\v[14]]¿Eh? ¿Qué... qué ha pasado? ¿Por qué tengo un peluche de Malamar en la mano?
+¿He gastado 8000$ en llaveros de Malamar?\n¡Pero si ni siquiera tengo tantas llaves!
+¿He gastado 8000$ en llaveros de Malamar?\n¡Pero si ni siquiera tengo tantas llaves!
+¡Mi alquiler! ¡Me iban a desahuciar! ¡Y yo aquí comprando pósters de Malamar!
+¡Mi alquiler! ¡Me iban a desahuciar! ¡Y yo aquí comprando pósters de Malamar!
+Vaya... un caso fascinante de hipnosis colectiva con fines comerciales. Esto tengo que publicarlo.\n¡Seré famoso en la comunidad terapéutica!
+Vaya... un caso fascinante de hipnosis colectiva con fines comerciales. Esto tengo que publicarlo.\n¡Seré famoso en la comunidad terapéutica!
+\tg[\v[14]]¡Anda, una megapiedra!\n¡De Malamar, nada menos!
+\tg[\v[14]]¡Anda, una megapiedra!\n¡De Malamar, nada menos!
+\tg[\v[14]]Qué irónico... Intenta hipnotizarnos para vendernos sus peluches y acaba perdiendo su tesoro.\nEl karma existe, \PN.
+\tg[\v[14]]Qué irónico... Intenta hipnotizarnos para vendernos sus peluches y acaba perdiendo su tesoro.\nEl karma existe, \PN.
+\tg[\v[14]]En fin, vamos afuera, necesito aire fresco...
+\tg[\v[14]]En fin, vamos afuera, necesito aire fresco...
+Te doy la bienvenida a la famosa tóm-tóm-tómbola del Centro Comercial Trigal.
+Te doy la bienvenida a la famosa tóm-tóm-tómbola del Centro Comercial Trigal.
+\g¡Por 300$ puedes ganar un premio estupendo! \n¿Quieres probar suerte, figura?
+\g¡Por 300$ puedes ganar un premio estupendo! \n¿Quieres probar suerte, figura?
+¡Muy bien, adelante!\n\..\..\.. \..\..\..
+¡Muy bien, adelante!\n\..\..\.. \..\..\..
+¡Vuelve otro día y gracias por venir!
+¡Vuelve otro día y gracias por venir!
+Las dependientas del Centro Comercial tratan con el mismo respeto tanto a los clientes normales como a los miembros del Team Rocket.\nSon unas profesionales.
+Las dependientas del Centro Comercial tratan con el mismo respeto tanto a los clientes normales como a los miembros del Team Rocket.\nSon unas profesionales.
+Las dependientas del Centro Comercial saludan educadamente hasta a los niños como yo.\nSon unas profesionales.
+Las dependientas del Centro Comercial saludan educadamente hasta a los niños como yo.\nSon unas profesionales.
+El Team Rocket ha venido aquí a... ¿Robar, supongo?\nNo sé que van robar, quizás Hierros... ¡Yo sí que les voy a dar hierro! ¡De una viga!
+El Team Rocket ha venido aquí a... ¿Robar, supongo?\nNo sé que van robar, quizás Hierros...  ¡Yo sí que les voy a dar hierro! ¡De una viga!
+El objeto Hierro mejora la Defensa de tus Pokémon. Recuerda, las vitaminas son importantes.
+El objeto Hierro mejora la Defensa de tus Pokémon. Recuerda, las vitaminas son importantes.
+\w[menuskin]\C[8]Tu Compañero de Viaje\nP1 Tienda de Entrenadores
+\w[menuskin]\C[8]Tu Compañero de Viaje\nP1 Tienda de Entrenadores
+He escrito un artículo: "Síndrome de Estocolmo con Pokémon Cefalópodos".\nVa a ser un exitazo en el próximo congreso de psicología Pokémon.
+He escrito un artículo: "Síndrome de Estocolmo con Pokémon Cefalópodos".\nVa a ser un exitazo en el próximo congreso de psicología Pokémon.
+Así que eres del Team Rocket, ¿eh?\nVen, vamos a tener una charla tú y yo.\n¿Qué te ha hecho la vida para acabar así? ¿Necesitas ayuda?
+Así que eres del Team Rocket, ¿eh?\nVen, vamos a tener una charla tú y yo.\n¿Qué te ha hecho la vida para acabar así? ¿Necesitas ayuda?
+Tengo una clínica psiquiátrica en Ciudad Azafrán donde te podemos dar ayuda si la necesitas. \n¡Clínica Azafrán! ¡Donde tu mente es igual de importante que tu cuerpo!
+Tengo una clínica psiquiátrica en Ciudad Azafrán donde te podemos dar ayuda si la necesitas. \n¡Clínica Azafrán! ¡Donde tu mente es igual de importante que tu cuerpo!
+Si te cansas, prueba las bebidas de las máquinas.\nA tus Pokémon les gustarán.
+Si te cansas, prueba las bebidas de las máquinas.\nA tus Pokémon les gustarán.
+Conseguí a mi fiel Abra en el casino. ¡Espero que me "abra" más posibilidades en combate!
+Conseguí a mi fiel Abra en el casino. ¡Espero que me "abra" más posibilidades en combate!
+¡El Team Rocket quiere robarme a mi Abra! ¡Yo sí que les abriré la cabeza como sigan así!
+¡El Team Rocket quiere robarme a mi Abra! ¡Yo sí que les abriré la cabeza como sigan así!
+¿Qué hace el Team Rocket en el Centro Comercial?\n¿Han venido a comprar decencia? Pues no sé yo si eso lo venden aquí...
+¿Qué hace el Team Rocket en el Centro Comercial?\n¿Han venido a comprar decencia?  Pues no sé yo si eso lo venden aquí...
+El Centro Comercial tiene buenos artículos. \nPero algunos objetos solo se consiguen en el Casino... ¡Malditos ludópatas!
+El Centro Comercial tiene buenos artículos. \nPero algunos objetos solo se consiguen en el Casino... ¡Malditos ludópatas!
+Pues a mí el peluche me gustaba...\nPero ahora que lo pienso, prefiero uno de Snorlax.
+Pues a mí el peluche me gustaba...\nPero ahora que lo pienso, prefiero uno de Snorlax.
+Que por lo menos ese no me hipnotiza, solo me da envidia de lo bien que duerme.
+Que por lo menos ese no me hipnotiza, solo me da envidia de lo bien que duerme.
+Seguro que los miembros del Team Rocket no os robáis los Pokémon los unos a los otros. ¿Me equivoco?\n¡Vaya sinvergüenzas!
+Seguro que los miembros del Team Rocket no os robáis los Pokémon los unos a los otros. ¿Me equivoco?\n¡Vaya sinvergüenzas!
+Algunos Pokémon solo evolucionan al intercambiarlos.\nPero esos Pokémon también reaccionan al poder del Cordón Unión.
+Algunos Pokémon solo evolucionan al intercambiarlos.\nPero esos Pokémon también reaccionan al poder del Cordón Unión.
+Es un objeto raro, pero podría ayudarte.
+Es un objeto raro, pero podría ayudarte.
+\w[menuskin]\C[8]¡Fortalecemos a tus Pokémon! \nP3 - El Botiquín
+\w[menuskin]\C[8]¡Fortalecemos a tus Pokémon! \nP3 - El Botiquín
+Así que eres del Team Rocket... ¿¡Tú estás bien de la azotea!? ¡Mira, da gracias que quitaron el acceso a la azotea! Porque si no... ¡Te ibas volando por ella!
+Así que eres del Team Rocket... ¿¡Tú estás bien de la azotea!? ¡Mira, da gracias que quitaron el acceso a la azotea! Porque si no... ¡Te ibas volando por ella!
+Oye, ¿escuchas la radio?\n¿Qué programas te gustan?
+Oye, ¿escuchas la radio?\n¿Qué programas te gustan?
+¡Mi favorito es el podcast del Profesor Oak! A veces hasta canta alguna de sus canciones favoritas...\n¡Qué talento tiene el viejales!
+¡Mi favorito es el podcast del Profesor Oak! A veces hasta canta alguna de sus canciones favoritas...\n¡Qué talento tiene el viejales!
+El Team Rocket no hace nada más que molestar... \n¡No son payasos, son el circo entero!
+El Team Rocket no hace nada más que molestar... \n¡No son payasos, son el circo entero!
+¡Corte, forte, mezzoforte...!\n¿Eh? ¡Vaya, me has pillado cantando el himno del Centro Comercial!
+¡Corte, forte, mezzoforte...!\n¿Eh? ¡Vaya, me has pillado cantando el himno del Centro Comercial!
+Este es el Centro Comercial de Ciudad Trigal. \n¿El Team Rocket? Bah, mientras a mi me sigan pagando...
+Este es el Centro Comercial de Ciudad Trigal. \n¿El Team Rocket? Bah, mientras a mi me sigan pagando...
+Este es el Centro Comercial de Ciudad Trigal.
+Este es el Centro Comercial de Ciudad Trigal.
+Yo solo quería un trabajo temporal para pagar el gimnasio... y acabé vendiendo peluches de un Malamar malvado.
+Yo solo quería un trabajo temporal para pagar el gimnasio... y acabé vendiendo peluches de un Malamar malvado.
+¿Sabes lo difícil que es explicar eso en una entrevista de trabajo?
+¿Sabes lo difícil que es explicar eso en una entrevista de trabajo?
+Si vas así de negro se van a pensar que eres del Team Rocket.\n¿Qué? ¿Que es verdad?
+Si vas así de negro se van a pensar que eres del Team Rocket.\n¿Qué? ¿Que es verdad?
+No puedes cambiar el nombre de un Pokémon que has intercambiado.\nEl registro civil no lo permite por alguna razón.
+No puedes cambiar el nombre de un Pokémon que has intercambiado.\nEl registro civil no lo permite por alguna razón.
+\w[menuskin]\C[8]Para los amantes de la victoria\nP2 - Artículos de combate
+\w[menuskin]\C[8]Para los amantes de la victoria\nP2 - Artículos de combate
+\tg[Blanca]¡Nunca habría esperado encontrarte aquí!\n¡Esto tiene que ser cosa del destino!\n ¡Seguro!
+\tg[Blanca]¡Nunca habría esperado encontrarte aquí!\n¡Esto tiene que ser cosa del destino!\n ¡Seguro!
+\tg[Blanca]¿Quieres que te dé mi número de teléfono? ¿Eh? ¿Eh?
+\tg[Blanca]¿Quieres que te dé mi número de teléfono? ¿Eh? ¿Eh?
+Blanca
+Blanca
+\tg[Blanca]¡Chupi! Los sábados a mediodía siempre tengo un rato libre.\nSi tú tampoco tienes nada que hacer podrías darme un toque, ya sabes...
+\tg[Blanca]¡Chupi! Los sábados a mediodía siempre tengo un rato libre.\nSi tú tampoco tienes nada que hacer podrías darme un toque, ya sabes...
+\tg[Blanca]No me voy a ir de aquí hasta que me digas que sí, ¿estamos?
+\tg[Blanca]No me voy a ir de aquí hasta que me digas que sí, ¿estamos?
+\tg[Blanca]Oye, ¿nos sacamos un selfi juntas?
+\tg[Blanca]Oye, ¿nos sacamos un selfi juntas?
+\tg[Blanca]Oye, ¿nos sacamos un selfi juntos?
+\tg[Blanca]Oye, ¿nos sacamos un selfi juntos?
+\tg[Blanca]¡Guay! Venga, ponte aquí.
+\tg[Blanca]¡Guay! Venga, ponte aquí.
+\tg[Blanca]¡Sí! ¡Cómo mola esta foto!
+\tg[Blanca]¡Sí! ¡Cómo mola esta foto!
+\tg[Blanca]Pues vaya...
+\tg[Blanca]Pues vaya...
+Ehm...
+Ehm...
+No
+No
+Sí
+Sí
+[Map129]
+¡Macho choke!\wt[10]
+¡Macho choke!\wt[10]
+\w[menuskin]\C[8]La puerta está cerrada...
+\w[menuskin]\C[8]La puerta está cerrada...
+Gracias a MACHOKE vamos a tenerlo todo listo en un santiamén.\nAlgunas cosas se han quedado tiradas por ahí. Puedes cogerlas si quieres.
+Gracias a MACHOKE vamos a tenerlo todo listo en un santiamén.\nAlgunas cosas se han quedado tiradas por ahí. Puedes cogerlas si quieres.

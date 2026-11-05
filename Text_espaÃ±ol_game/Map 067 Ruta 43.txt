@@ -1,0 +1,70 @@
+﻿# Maps grouped under: Ruta 43 (Highest ID: 67)
+[Map67]
+¡Eh! ¿Tienes algún Pokémon raro?
+¡Eh! ¿Tienes algún Pokémon raro?
+¡Oh, mis pobres Pokémon!
+¡Oh, mis pobres Pokémon!
+A propósito, tú debes de adorar a los Pokémon. \nSe te nota a leguas.
+A propósito, tú debes de adorar a los Pokémon. \nSe te nota a leguas.
+¡Pero tus conocimientos aún no son más que la punta del iceberg! ¿Conoces a Bill?\nEs un Gran Pokémaníaco. Lo venero.
+¡Pero tus conocimientos aún no son más que la punta del iceberg! ¿Conoces a Bill?\nEs un Gran Pokémaníaco. Lo venero.
+Te enseñaré todo lo que sé acerca de<<n>>él, así que déjame tu número de<<n>>teléfono.
+Te enseñaré todo lo que sé acerca de <<n>>él, así que déjame tu número de <<n>>teléfono.
+¡Te estaba esperando! ¿Has traído algún Pokémon raro?
+¡Te estaba esperando! ¿Has traído algún Pokémon raro?
+Sería feliz con solo tener un Pokémon raro.
+Sería feliz con solo tener un Pokémon raro.
+¡Bill es más que asombroso!\nQuiero ser un Gran Pokémaníaco, tan bueno como él. Ese es mi sueño. Sería feliz con sólo tener un Pokémon raro.
+¡Bill es más que asombroso!\nQuiero ser un Gran Pokémaníaco, tan bueno como él. Ese es mi sueño.  Sería feliz con sólo tener un Pokémon raro.
+A propósito, tú debes de adorar a los Pokémon. Se te nota a leguas.
+A propósito, tú debes de adorar a los Pokémon.  Se te nota a leguas.
+Hay tantas cosas que puedes hacer con los Pokémon... ¡Es como si la sociedad girase alrededor de ellos o algo así!
+Hay tantas cosas que puedes hacer con los Pokémon... ¡Es como si la sociedad girase alrededor de ellos o algo así!
+Perder no es nada divertido...
+Perder no es nada divertido...
+A saber qué está pasando en el Lago de la Furia, está todo lleno de hombres de negro...
+A saber qué está pasando en el Lago de la Furia, está todo lleno de hombres de negro...
+\w[signskin4]\C[8]Ruta 43.\nAl norte, Lago de la Furia\nAl sur, Pueblo Caoba
+\w[signskin4]\C[8]Ruta 43.\nAl norte, Lago de la Furia\nAl sur, Pueblo Caoba
+\sh¡Poli!\wt[20]
+\sh¡Poli!\wt[20]
+¡Oye! ¡Este es mi lugar secreto! ¡Fuera de aquí, cotilla!
+¡Oye! ¡Este es mi lugar secreto! ¡Fuera de aquí, cotilla!
+Mi Nidoking lo ha hecho muy bien.
+Mi Nidoking lo ha hecho muy bien.
+Es bueno que a la gente le gusten distintos tipos de Pokémon. No solo se trata de tener el más fuerte.
+Es bueno que a la gente le gusten distintos tipos de Pokémon. No solo se trata de tener el más fuerte.
+\w[signskin3]\C[8]Pistas para Entrenadores:\nExisten compatibilidades entre los distintos tipos de Pokémon.
+\w[signskin3]\C[8]Pistas para Entrenadores:\nExisten compatibilidades entre los distintos tipos de Pokémon.
+\w[signskin3]\C[8]Que un Pokémon tenga un nivel muy alto no significa que vaya a ganar.\nEs necesario conocer los puntos fuertes y débiles de cada Pokémon.
+\w[signskin3]\C[8]Que un Pokémon tenga un nivel muy alto no significa que vaya a ganar.\nEs necesario conocer los puntos fuertes y débiles de cada Pokémon.
+¡Me encantan los Pokémon!\n¡Por eso me disfrazo de ellos! ¡ROAAAAR!
+¡Me encantan los Pokémon!\n¡Por eso me disfrazo de ellos! ¡ROAAAAR!
+¿Cómo me has podido hacer esto?
+¿Cómo me has podido hacer esto?
+¿Que qué me gusta además de los Pokémon? Oír a Rosa en la radio.\n¡Seguro que es muy guapa...!
+¿Que qué me gusta además de los Pokémon? Oír a Rosa en la radio.\n¡Seguro que es muy guapa...!
+¡Se me ha escapado un pez por tu culpa, maldito!
+¡Se me ha escapado un pez por tu culpa, maldito!
+He perdido, pero me siento mejor.
+He perdido, pero me siento mejor.
+Por tu culpa ya no pican...
+Por tu culpa ya no pican...
+¿Tu también vas al Lago de la Furia? ¡Juguemos un ratito!
+¿Tu también vas al Lago de la Furia? ¡Juguemos un ratito!
+¡He jugado mucho!
+¡He jugado mucho!
+¡Hola! ¿También te gustan los Clefairy? Son encantadores, ¿verdad? Presiento que este es el comienzo de una hermosa amistad.
+¡Hola! ¿También te gustan los Clefairy? Son encantadores, ¿verdad? Presiento que este es el comienzo de una hermosa amistad.
+¡Dame tu número de teléfono! ¡Quiero<<n>>charlotear sobre Clefairy!
+¡Dame tu número de teléfono! ¡Quiero <<n>>charlotear sobre Clefairy!
+¡Hey, estás aquí!¡Juguemos!
+¡Hey, estás aquí!¡Juguemos!
+Jugué demasiado
+Jugué demasiado
+Tendré un picnic con Pokémon.\n¿Te nos unes?
+Tendré un picnic con Pokémon.\n¿Te nos unes?
+¿No? ¡Pues toma este regalo!
+¿No? ¡Pues toma este regalo!
+¿A que mi Clefairy es monísimo? Es muy cuco y graciosín. Voy a ir de picnic con mis Pokémon. ¿Te apuntas?
+¿A que mi Clefairy es monísimo? Es muy cuco y graciosín. Voy a ir de picnic con mis Pokémon.  ¿Te apuntas?

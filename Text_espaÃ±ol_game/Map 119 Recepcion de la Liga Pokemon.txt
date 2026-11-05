@@ -1,0 +1,46 @@
+﻿# Maps grouped under: Recepcion de la Liga Pokemon (Highest ID: 119)
+[Map119]
+\tg[Sachiko]Voy a llevarle la cena a mi padre. \nComo ayudante del Alto Mando no tengo un minuto de descanso, ni de día ni de noche. Es agotador.
+\tg[Sachiko]Voy a llevarle la cena a mi padre. \nComo ayudante del Alto Mando no tengo un minuto de descanso, ni de día ni de noche. Es agotador.
+\tg[Sachiko]¡Ya sé! ¿Intercambiamos nuestros números de teléfono?
+\tg[Sachiko]¡Ya sé! ¿Intercambiamos nuestros números de teléfono?
+Sachiko
+Sachiko
+\tg[Sachiko]A primera vista no pensaba que fueras una persona tan tímida.
+\tg[Sachiko]A primera vista no pensaba que fueras una persona tan tímida.
+\tg[Sachiko]Si quieres combatir conmigo, llámame el jueves durante el día.
+\tg[Sachiko]Si quieres combatir conmigo, llámame el jueves durante el día.
+\tg[Sachiko]Vengo de llevarle la cena a mi padre. ¿Quieres que nos hagamos una foto?
+\tg[Sachiko]Vengo de llevarle la cena a mi padre. ¿Quieres que nos hagamos una foto?
+\tg[Sachiko]Venga, a ver si puedes posar tan bien como yo.
+\tg[Sachiko]Venga, a ver si puedes posar tan bien como yo.
+\tg[Sachiko]Ha quedado una buena foto.
+\tg[Sachiko]Ha quedado una buena foto.
+\tg[Sachiko]¿No? ¡Es una lástima!
+\tg[Sachiko]¿No? ¡Es una lástima!
+Solo pueden pasar los Entrenadores que demuestren su valía.
+Solo pueden pasar los Entrenadores que demuestren su valía.
+¡Oh! ¡Las ocho Medallas de Johto! ¡Le ruego que pase, por favor!
+¡Oh! ¡Las ocho Medallas de Johto! ¡Le ruego que pase, por favor!
+¿Cuantas medallas de Johto tienes? ¿\v[1]?
+¿Cuantas medallas de Johto tienes? ¿\v[1]?
+Necesitas 8 para acceder a la Meseta Añil.
+Necesitas 8 para acceder a la Meseta Añil.
+Vuelve por donde has venido.
+Vuelve por donde has venido.
+Con todo el revuelo que ha causado el regreso del Team Rocket, los de arriba nos han dado la orden de cortar el paso.
+Con todo el revuelo que ha causado el regreso del Team Rocket, los de arriba nos han dado la orden de cortar el paso.
+¡Espera un momento!
+¡Espera un momento!
+Este camino lleva al Monte Plateado. Ahí habitan Pokémon demasiado fuertes. Tú todavía no estás preparado.\nSería mejor que lo dejaras correr.
+Este camino lleva al Monte Plateado. Ahí habitan Pokémon demasiado fuertes. Tú todavía no estás preparado.\nSería mejor que lo dejaras correr.
+Por el oeste se va al Monte Plateado y por el este a la región de Kanto.\nSi vas a enfrentarte al Alto Mando, ve al norte.
+Por el oeste se va al Monte Plateado y por el este a la región de Kanto.\nSi vas a enfrentarte al Alto Mando, ve al norte.
+Pero bueno... ¡tú que has vencido al Campeón ya debes de saber estas cosas!
+Pero bueno... ¡tú que has vencido al Campeón ya debes de saber estas cosas!
+Por aquí se va a Kanto, pero... de momento este camino está bloqueado.
+Por aquí se va a Kanto, pero... de momento este camino está bloqueado.
+Sí
+Sí
+No
+No

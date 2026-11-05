@@ -1,0 +1,80 @@
+﻿# Maps grouped under: Casa de _PN (Highest ID: 4)
+[Map4]
+\tg[Mamá]¡Ah, \PN! ¡Aquí estás!
+\tg[Mamá]¡Ah, \PN! ¡Aquí estás!
+Eco
+Eco
+\tg[Mamá]Tu amigo \v[14] se pasó por aquí hace un rato.
+\tg[Mamá]Tu amigo \v[14] se pasó por aquí hace un rato.
+Cristi
+Cristi
+\tg[Mamá]Tu amiga \v[14] se pasó por aquí hace un rato.
+\tg[Mamá]Tu amiga \v[14] se pasó por aquí hace un rato.
+\tg[Mamá]Creo que estaba buscando a su Marill.
+\tg[Mamá]Creo que estaba buscando a su Marill.
+\tg[Mamá]Y hablando de gente del pueblo, nuestro vecino, el Profesor Elm, te andaba buscando.\nSe ve que quiere pedirte un favor, ¡ve y dale un saludito de mi parte!
+\tg[Mamá]Y hablando de gente del pueblo, nuestro vecino, el Profesor Elm, te andaba buscando.\nSe ve que quiere pedirte un favor, ¡ve y dale un saludito de mi parte!
+\tg[Mamá]¡Ah, sí! Que casi se me olvida...
+\tg[Mamá]¡Ah, sí! Que casi se me olvida...
+\tg[Mamá]Por fin ha llegado el Pokégear que enviamos al servicio técnico, mira que han tardado...
+\tg[Mamá]Por fin ha llegado el Pokégear que enviamos al servicio técnico, mira que han tardado...
+\w[menuskin]\C[8]¡\PN ha recibido el Pokégear! \wt[20]
+\w[menuskin]\C[8]¡\PN ha recibido el Pokégear! \wt[20]
+Mamá
+Mamá
+\tg[Mamá]Hecho, ahora vete pitando al laboratorio del Profesor Elm. ¡Recuerda que te está esperando!
+\tg[Mamá]Hecho, ahora vete pitando al laboratorio del Profesor Elm. ¡Recuerda que te está esperando!
+\tg[Mamá]¡Ah, \PN! El Profesor Elm ha dicho que tenía algo para ti.
+\tg[Mamá]¡Ah, \PN! El Profesor Elm ha dicho que tenía algo para ti.
+\tg[Mamá]¿Por qué no vas a verlo al Laboratorio?
+\tg[Mamá]¿Por qué no vas a verlo al Laboratorio?
+\w[menuskin]\C[8]Es una de tus viejas gorras.\nVerla te hace sentir cierta nostalgia.
+\w[menuskin]\C[8]Es una de tus viejas gorras.\nVerla te hace sentir cierta nostalgia.
+\w[menuskin]\C[8]La nevera está llena de Agua Fresca y Limonada.
+\w[menuskin]\C[8]La nevera está llena de Agua Fresca y Limonada.
+\w[menuskin]\C[8]¡El fregadero está reluciente! \nMamá es una maniática de la limpieza.
+\w[menuskin]\C[8]¡El fregadero está reluciente! \nMamá es una maniática de la limpieza.
+\w[menuskin]\C[8]Es la especialidad de mamá. \n¡Volcamburguesa al estilo Isla Canela!
+\w[menuskin]\C[8]Es la especialidad de mamá. \n¡Volcamburguesa al estilo Isla Canela!
+\tg[Mamá]¡Ah, \PN! ¡Qué Pokémon más mono!
+\tg[Mamá]¡Ah, \PN! ¡Qué Pokémon más mono!
+\tg[Mamá]¿Te lo ha dado el Profesor Elm?\n¿Y qué te ha pedido? \..\..\..
+\tg[Mamá]¿Te lo ha dado el Profesor Elm?\n¿Y qué te ha pedido? \..\..\..
+\tg[Mamá]¡Oh, eso no va a ser nada fácil! Pero si el Profesor confía en ti es por algo.
+\tg[Mamá]¡Oh, eso no va a ser nada fácil! Pero si el Profesor confía en ti es por algo.
+\tg[Mamá]¡Está bien! Puedes contar con todo mi apoyo.\nPero, ¿cómo podría ayudarte?
+\tg[Mamá]¡Está bien! Puedes contar con todo mi apoyo.\nPero, ¿cómo podría ayudarte?
+\tg[Mamá]¡Ya lo sé!\nCada vez que ganes algo de dinero, yo puedo ir guardándotelo.
+\tg[Mamá]¡Ya lo sé!\nCada vez que ganes algo de dinero, yo puedo ir guardándotelo.
+\tg[Mamá]Es muy importante ahorrar dinero para un viaje tan largo.\n¿Quieres que te guarde el dinero?
+\tg[Mamá]Es muy importante ahorrar dinero para un viaje tan largo.\n¿Quieres que te guarde el dinero?
+\tg[Mamá]¡Muy bien, yo me encargaré!\n\..\..\..
+\tg[Mamá]¡Muy bien, yo me encargaré!\n\..\..\..
+\tg[Mamá]Prométeme que tendrás cuidado.\nEstoy convencida de que si tus amigos Pokémon y tú trabajáis en equipo, seréis capaces de cualquier cosa.\n¡Hasta pronto!
+\tg[Mamá]Prométeme que tendrás cuidado.\nEstoy convencida de que si tus amigos Pokémon y tú trabajáis en equipo, seréis capaces de cualquier cosa.\n¡Hasta pronto!
+\tg[Mamá]¡Venga, cariño! ¡Que el Profesor Elm te está esperando!
+\tg[Mamá]¡Venga, cariño! ¡Que el Profesor Elm te está esperando!
+\tg[Mamá]¡Ay, cariño! ¡Cómo me alegro de que hayas vuelto! \nParece que has tenido toda una aventura, ¿no?
+\tg[Mamá]¡Ay, cariño! ¡Cómo me alegro de que hayas vuelto! \nParece que has tenido toda una aventura, ¿no?
+\tg[Mamá]¿Qué necesitas, cariño?
+\tg[Mamá]¿Qué necesitas, cariño?
+\tg[Mamá]Deberías tomarte un descansito para recuperar fuerzas. ¡Te prepararé un chocolate Mu-mu!\n... ...
+\tg[Mamá]Deberías tomarte un descansito para recuperar fuerzas. ¡Te prepararé un chocolate Mu-mu!\n... ...
+\tg[Mamá]Listo, tú y tus Pokémon estáis como nuevos.
+\tg[Mamá]Listo, tú y tus Pokémon estáis como nuevos.
+\tg[Mamá]¡Espero que no hayas vaciado mucho la hucha, ji, ji, ji!
+\tg[Mamá]¡Espero que no hayas vaciado mucho la hucha, ji, ji, ji!
+\tg[Mamá]Cuídate, \PN.
+\tg[Mamá]Cuídate, \PN.
+\tg[Mamá]¡Por cierto!\nCada vez que ganes algo de dinero, yo puedo ir guardándotelo.
+\tg[Mamá]¡Por cierto!\nCada vez que ganes algo de dinero, yo puedo ir guardándotelo.
+Sí
+Sí
+No
+No
+Descansar
+Descansar
+Gestionar Ahorros
+Gestionar Ahorros
+Pasaba a saludar
+Pasaba a saludar

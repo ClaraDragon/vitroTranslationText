@@ -1,0 +1,133 @@
+﻿# Maps grouped under: Ruinas Sinjoh (Highest ID: 153)
+[Map153]
+¿Sabes?\nHay una persona muy rara en la cabaña.
+¿Sabes?\nHay una persona muy rara en la cabaña.
+Dicen que es una chica muy famosa que todo Entrenador de Sinnoh conoce.
+Dicen que es una chica muy famosa que todo Entrenador de Sinnoh conoce.
+Viaja por el mundo investigando mitos y ruinas milenarias.\n¡Impone mucho!
+Viaja por el mundo investigando mitos y ruinas milenarias.\n¡Impone mucho!
+\w[signskin]Ruinas de Sinjoh
+\w[signskin]Ruinas de Sinjoh
+¡Buenas!\nHace frío, ¿eh? Nos vamos a congelar.
+¡Buenas!\nHace frío, ¿eh? Nos vamos a congelar.
+A pesar de tu corta edad, te interesas por las Ruinas de Sinjoh.\nImpresionante.
+A pesar de tu corta edad, te interesas por las Ruinas de Sinjoh.\nImpresionante.
+El diseño de estas columnas pone de manifiesto la fusión entre las culturas de Sinnoh y Johto.
+El diseño de estas columnas pone de manifiesto la fusión entre las culturas de Sinnoh y Johto.
+Soy un maleducado, perdona.
+Soy un maleducado, perdona.
+Ven conmigo a la cabaña que hay aquí cerca y hablamos tranquilamente.
+Ven conmigo a la cabaña que hay aquí cerca y hablamos tranquilamente.
+[Map154]
+\tg[Cintia]Tu decisión es Palkia, señor del espacio, ¿seguro?
+\tg[Cintia]Tu decisión es Palkia, señor del espacio, ¿seguro?
+\tg[Cintia]Tu decisión es Dialga, señor del tiempo, ¿seguro?
+\tg[Cintia]Tu decisión es Dialga, señor del tiempo, ¿seguro?
+\tg[Cintia]Tu decisión es Giratina, señor del Mundo Distorsión, ¿seguro?
+\tg[Cintia]Tu decisión es Giratina, señor del Mundo Distorsión, ¿seguro?
+Es posible que te sientas fuera de lugar en un sitio como este.
+Es posible que te sientas fuera de lugar en un sitio como este.
+Si quieres volver a tu casa, mi querido Abra te puede ayudar con su poder.
+Si quieres volver a tu casa, mi querido Abra te puede ayudar con su poder.
+¿Quieres regresar?
+¿Quieres regresar?
+¡Vaya, vaya! Entonces encuentra tu hogar en los recuerdos que hay en tu corazón.
+¡Vaya, vaya! Entonces encuentra tu hogar en los recuerdos que hay en tu corazón.
+¡Ah, ya veo! ¡Pues adelante!
+¡Ah, ya veo! ¡Pues adelante!
+La leyenda cuenta que Arceus surgió de un Huevo.\nEn Johto, los Huevos de Pokémon están considerados origen de vida, son casi sagrados.
+La leyenda cuenta que Arceus surgió de un Huevo.\nEn Johto, los Huevos de Pokémon están considerados origen de vida, son casi sagrados.
+Es curioso que existan leyendas similares en lugares tan lejanos.
+Es curioso que existan leyendas similares en lugares tan lejanos.
+\w[menuskin]\C[8]¡La esfera misteriosa se ha transformado en un Pokémon!
+\w[menuskin]\C[8]¡La esfera misteriosa se ha transformado en un Pokémon!
+\tg[Cintia]Eso que brilla... tal vez sea un... ¡Huevo!
+\tg[Cintia]Eso que brilla... tal vez sea un...  ¡Huevo!
+\tg[Cintia]Tal vez hayamos sido testigos del nacimiento de un nuevo Huevo.
+\tg[Cintia]Tal vez hayamos sido testigos del nacimiento de un nuevo Huevo.
+\tg[Cintia]Los Huevos son cunas de las que nacen nuevas vidas.\nEste planeta es como un Huevo.
+\tg[Cintia]Los Huevos son cunas de las que nacen nuevas vidas.\nEste planeta es como un Huevo.
+\tg[Cintia]Las vidas que un día nacieron, acaban extinguiéndose otro día. Y estas dan lugar a otras vidas.
+\tg[Cintia]Las vidas que un día nacieron, acaban extinguiéndose otro día. Y estas dan lugar a otras vidas.
+\tg[Cintia]Me parece que Arceus ha tratado de enseñarnos precisamente eso.
+\tg[Cintia]Me parece que Arceus ha tratado de enseñarnos precisamente eso.
+\tg[Cintia]¿Qué ha sido eso?
+\tg[Cintia]¿Qué ha sido eso?
+\tg[Cintia]Ha surgido una poderosa fuerza.
+\tg[Cintia]Ha surgido una poderosa fuerza.
+Abrrr...\wt[10]
+Abrrr...\wt[10]
+\tg[Cintia]Este es el Estrado Mistrío.\nEste lugar se creó expresamente para venerar a Arceus.
+\tg[Cintia]Este es el Estrado Mistrío.\nEste lugar se creó expresamente para venerar a Arceus.
+\tg[Cintia]Antiguamente, se representaba la tremenda fuerza de Arceus mediante música y danzas.\nDicen que todavía hay personas en Johto que conservan esta tradición.
+\tg[Cintia]Antiguamente, se representaba la tremenda fuerza de Arceus mediante música y danzas.\nDicen que todavía hay personas en Johto que conservan esta tradición.
+\tg[Cintia]Ya está aquí el señor del Estrado Mistrío.
+\tg[Cintia]Ya está aquí el señor del Estrado Mistrío.
+\tg[Cintia]Trae tu Arceus.\nSi llevas otro Pokémon, es posible que no resista la energía que desprenden las ruinas y salgáis despedidos.
+\tg[Cintia]Trae tu Arceus.\nSi llevas otro Pokémon, es posible que no resista la energía que desprenden las ruinas y salgáis despedidos.
+\tg[Cintia]Tal vez la verdadera razón por la que he estado tanto tiempo investigando sobre las ruinas y mitos de Sinnoh era para guiarte hasta aquí.
+\tg[Cintia]Tal vez la verdadera razón por la que he estado tanto tiempo investigando sobre las ruinas y mitos de Sinnoh era para guiarte hasta aquí.
+\tg[Cintia]En el Estrado Mistrío están representados los Pokémon que crearon el mundo. \nEn el centro está el origen de todo, Arceus.
+\tg[Cintia]En el Estrado Mistrío están representados los Pokémon que crearon el mundo. \nEn el centro está el origen de todo, Arceus.
+\tg[Cintia]Este es el emblema de Palkia, señor del espacio...
+\tg[Cintia]Este es el emblema de Palkia, señor del espacio...
+\tg[Cintia]Este es el emblema de Dialga, señor del tiempo.\nY...
+\tg[Cintia]Este es el emblema de Dialga, señor del tiempo.\nY...
+\tg[Cintia]Este es el de Giratina, señor de un mundo opuesto a este, compuesto de antimateria y cuyo espacio y tiempo son simétricamente opuestos a los nuestros.
+\tg[Cintia]Este es el de Giratina, señor de un mundo opuesto a este, compuesto de antimateria y cuyo espacio y tiempo son simétricamente opuestos a los nuestros.
+\tg[Cintia]Los textos antiguos dicen que Arceus subió al Estrado Mistrío y entonces se creó el tiempo, el espacio... y la antimateria. El mundo entero.
+\tg[Cintia]Los textos antiguos dicen que Arceus subió al Estrado Mistrío y entonces se creó el tiempo, el espacio... y la antimateria. El mundo entero.
+\tg[Cintia]Arceus ha reconocido tu valía al entrenar y convivir con los Pokémon.\nLa leyenda cuenta que Arceus, semilla del universo, es capaz de hacer gala de un poder extremo.
+\tg[Cintia]Arceus ha reconocido tu valía al entrenar y convivir con los Pokémon.\nLa leyenda cuenta que Arceus, semilla del universo, es capaz de hacer gala de un poder extremo.
+\tg[Cintia]Un poder, con toda probabilidad, capaz de generar vida de la nada...\n¡El poder de la creación!
+\tg[Cintia]Un poder, con toda probabilidad, capaz de generar vida de la nada...\n¡El poder de la creación!
+\tg[Cintia]Una vez que escojas uno de los tres círculos, ocurrirá algo.\nProcede cuando quieras.
+\tg[Cintia]Una vez que escojas uno de los tres círculos, ocurrirá algo.\nProcede cuando quieras.
+\tg[Cintia]Piénsalo con calma y escoge uno de los tres círculos.\nPara ello, camina hasta el centro del elegido.
+\tg[Cintia]Piénsalo con calma y escoge uno de los tres círculos.\nPara ello, camina hasta el centro del elegido.
+¡Buenas!\n¡Nos volvemos a encontrar!
+¡Buenas!\n¡Nos volvemos a encontrar!
+Cintia ya se ha marchado.\nEs Campeona de Sinnoh, siempre está muy ocupada, pero hizo un hueco para venir a investigar la ruinas.\nSu dedicación es loable.
+Cintia ya se ha marchado.\nEs Campeona de Sinnoh, siempre está muy ocupada, pero hizo un hueco para venir a investigar la ruinas.\nSu dedicación es loable.
+No puedo creerme que hayas llegado hasta aquí sin ayuda.\nLa nieve cubre el paisaje y es capaz de congelar el más cálido de los cuerpos.
+No puedo creerme que hayas llegado hasta aquí sin ayuda.\nLa nieve cubre el paisaje y es capaz de congelar el más cálido de los cuerpos.
+Además, bloquea la zona todo el año.\nCuando quieras volver, habla con el anciano. Te puede devolver a donde estabas con la fuerza de Abra.
+Además, bloquea la zona todo el año.\nCuando quieras volver, habla con el anciano. Te puede devolver a donde estabas con la fuerza de Abra.
+\tg[Cintia]Me llamo Cintia. Soy Entrenadora Pokémon.
+\tg[Cintia]Me llamo Cintia. Soy Entrenadora Pokémon.
+\tg[Cintia]Cuando vengo a estas Ruinas de Sinjoh, me acuerdo de Sinnoh, el lugar donde nací.
+\tg[Cintia]Cuando vengo a estas Ruinas de Sinjoh, me acuerdo de Sinnoh, el lugar donde nací.
+\tg[Cintia]Aquí nieva tanto como en Sinnoh, pero no es lo único que los conecta.\nResulta que hace mucho tiempo, gente de Sinnoh se trasladó a esta zona y edificó las Ruinas de Sinjoh.
+\tg[Cintia]Aquí nieva tanto como en Sinnoh, pero no es lo único que los conecta.\nResulta que hace mucho tiempo, gente de Sinnoh se trasladó a esta zona y edificó las Ruinas de Sinjoh.
+\tg[Cintia]¿Entrenas Pokémon?\nSiento una fuerza espectacular emanando de una de tus Poké Balls.
+\tg[Cintia]¿Entrenas Pokémon?\nSiento una fuerza espectacular emanando de una de tus Poké Balls.
+\tg[Cintia]Este aura... esta fuerza... ¿Será Dialga? ¿Será Palkia? ¿O quizás Giratina?\nSe parece mucho...
+\tg[Cintia]Este aura... esta fuerza... ¿Será Dialga? ¿Será Palkia? ¿O quizás Giratina?\nSe parece mucho...
+\tg[Cintia]¿Tienes tiempo?\n¿Te vienes conmigo a ver las Ruinas de Sinjoh?
+\tg[Cintia]¿Tienes tiempo?\n¿Te vienes conmigo a ver las Ruinas de Sinjoh?
+\tg[Cintia]Mi intuición me dice que cuando subas hasta allí, ocurrirá algo grande.
+\tg[Cintia]Mi intuición me dice que cuando subas hasta allí, ocurrirá algo grande.
+\tg[Cintia]Una se pregunta cosas al conocer a alguien como tú en medio de unas ruinas inhóspitas.\nEl tiempo y espacio rigen el destino y alteran todo a su antojo.
+\tg[Cintia]Una se pregunta cosas al conocer a alguien como tú en medio de unas ruinas inhóspitas.\nEl tiempo y espacio rigen el destino y alteran todo a su antojo.
+\tg[Cintia]Dejan algo. Lo mezclan con otro algo. Sinnoh, Johto...
+\tg[Cintia]Dejan algo. Lo mezclan con otro algo.  Sinnoh, Johto...
+\tg[Cintia]Aunque uno se crea que comprende cómo funciona el mundo, es una ilusión.\nSimplemente ajusta a su realidad lo poco que conoce.
+\tg[Cintia]Aunque uno se crea que comprende cómo funciona el mundo, es una ilusión.\nSimplemente ajusta a su realidad lo poco que conoce.
+\tg[Cintia]Los hombres de antaño eran otorgados con la vida de los Pokémon y, a su vez, ellos generaban vida.
+\tg[Cintia]Los hombres de antaño eran otorgados con la vida de los Pokémon y, a su vez, ellos generaban vida.
+\tg[Cintia]Eran tiempos en los que el hombre y los Pokémon estaban unidos por lazos inquebrantables.
+\tg[Cintia]Eran tiempos en los que el hombre y los Pokémon estaban unidos por lazos inquebrantables.
+\tg[Cintia]Por eso, siempre que esos hombres iban a vivir a nuevas tierras, se llevaban con ellos mitos y leyendas sobre el poder de los Pokémon.
+\tg[Cintia]Por eso, siempre que esos hombres iban a vivir a nuevas tierras, se llevaban con ellos mitos y leyendas sobre el poder de los Pokémon.
+\tg[Cintia]Las ruinas milenarias de esta zona son receptoras de la tradición de las Ruinas Alfa de Johto y de la Columna Lanza de Sinnoh.
+\tg[Cintia]Las ruinas milenarias de esta zona son receptoras de la tradición de las Ruinas Alfa de Johto y de la Columna Lanza de Sinnoh.
+\tg[Cintia]Es la prueba de que los habitantes de Johto y Sinnoh convivieron en este lugar.
+\tg[Cintia]Es la prueba de que los habitantes de Johto y Sinnoh convivieron en este lugar.
+\tg[Cintia]La leyenda cuenta que Arceus surgió de un Huevo.\nEn Johto, los Huevos de Pokémon están considerados origen de vida, son casi sagrados.
+\tg[Cintia]La leyenda cuenta que Arceus surgió de un Huevo.\nEn Johto, los Huevos de Pokémon están considerados origen de vida, son casi sagrados.
+\tg[Cintia]Es curioso que existan leyendas similares en lugares tan lejanos.
+\tg[Cintia]Es curioso que existan leyendas similares en lugares tan lejanos.
+Sí
+Sí
+No
+No

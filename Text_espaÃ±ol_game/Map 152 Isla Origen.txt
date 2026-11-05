@@ -1,0 +1,14 @@
+﻿# Maps grouped under: Isla Origen (Highest ID: 152)
+[Map152]
+\w[signskin2]\C[10]Isla Origen
+\w[signskin2]\C[10]Isla Origen
+¿Quieres volver ya a Ciudad Olivo?
+¿Quieres volver ya a Ciudad Olivo?
+¡Muy bien!\n¡Pues todos a bordo!
+¡Muy bien!\n¡Pues todos a bordo!
+\sh¡Oxys!\wt[15]
+\sh¡Oxys!\wt[15]
+Sí
+Sí
+No
+No

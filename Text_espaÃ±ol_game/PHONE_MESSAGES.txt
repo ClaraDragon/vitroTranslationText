@@ -1,0 +1,71 @@
+﻿# PHONE_MESSAGES
+# To localize this text, translate every second line.
+[22]
+¡Hola! Soy \TN.
+¡Hola! Soy \TN.
+¡Buenos días, \PN! Hola. Soy \TN.
+¡Buenos días, \PN! Hola. Soy \TN.
+¿Cómo vas? ¡\PN, qué tal! Soy \TN. ¿No te parece que está agradable afuera?
+¿Cómo vas? ¡\PN, qué tal! Soy \TN. ¿No te parece que está agradable afuera?
+¡\PN, buenos días! Soy yo, \TN. ¿Tienes un minuto?
+¡\PN, buenos días! Soy yo, \TN. ¿Tienes un minuto?
+¡Hola, \PN. Soy \TN. ¿Cómo están tus cosas?
+¡Hola, \PN. Soy \TN. ¿Cómo están tus cosas?
+Buenos días, \PN.\mSoy \TN. ¿Te he despertado?
+Buenos días, \PN.\mSoy \TN. ¿Te he despertado?
+¡\PN, buenas noches! Hola.\mSoy \TN.
+¡\PN, buenas noches! Hola.\mSoy \TN.
+¿Aceptas un combate? No se repetirá lo de la última vez.\mTe estaré esperando cerca de \TM.
+¿Aceptas un combate? No se repetirá lo de la última vez.\mTe estaré esperando cerca de \TM.
+¿Quieres tener un combate? ¡Ganaré esta vez!\mTe estaré esperando cerca de \TM.\mBúscame, ¿quieres? Mi \TP te estará esperando también.
+¿Quieres tener un combate? ¡Ganaré esta vez!\mTe estaré esperando cerca de \TM.\mBúscame, ¿quieres? Mi \TP te estará esperando también.
+Sé que te pilla de sopetón, pero ¿querrías luchar conmigo?\nTe espero con \TP en \TM.
+Sé que te pilla de sopetón, pero ¿querrías luchar conmigo?\nTe espero con \TP en \TM.
+¡Jo, jo! ¿Quieres volver a enfrentarte a mí?\nTe espero en \TM.
+¡Jo, jo! ¿Quieres volver a enfrentarte a mí?\nTe espero en \TM.
+¿Quieres volver a luchar? Por alguna razón, mi \TP está entusiasmado y quiere empezar ya.\nEstoy en \TM. Mira a ver si me ves, ¿vale?
+¿Quieres volver a luchar? Por alguna razón, mi \TP está entusiasmado y quiere empezar ya.\nEstoy en \TM. Mira a ver si me ves, ¿vale?
+¿Luchamos de nuevo? ¡Esta vez no perderé!\n¡Te espero en \TM!
+¿Luchamos de nuevo? ¡Esta vez no perderé!\n¡Te espero en \TM!
+¿Cómo van tus Pokémon?\mMi \TP está lleno de energía. ¡Es una bestia!
+¿Cómo van tus Pokémon?\mMi \TP está lleno de energía. ¡Es una bestia!
+¿Cómo van tus Pokémon?\mYo siempre mantengo a mi \TP a su máximo yendo seguido a un Centro Pokémon.
+¿Cómo van tus Pokémon?\mYo siempre mantengo a mi \TP a su máximo yendo seguido a un Centro Pokémon.
+Mi \TP tiene muy buena pinta. Me gustaría poder mostrártelo.
+Mi \TP tiene muy buena pinta. Me gustaría poder mostrártelo.
+Yo vestí a mi \TP y ahora se ve mucho más adorable que antes.
+Yo vestí a mi \TP y ahora se ve mucho más adorable que antes.
+¡Me encanta poner ropita bonita a mi \TP!
+¡Me encanta poner ropita bonita a mi \TP!
+Mi \TP es adorable, ¿no crees? Duermo con él. Es tierno y cálido.
+Mi \TP es adorable, ¿no crees? Duermo con él. Es tierno y cálido.
+Mis \TP están mucho más fuertes que antes.\n¡Hasta la vista!
+Mis \TP están mucho más fuertes que antes.\n¡Hasta la vista!
+Ah, sí, me las arreglé para vencer a un duro \TE.\mPero necesito fortalecer mi equipo.
+Ah, sí, me las arreglé para vencer a un duro \TE.\mPero necesito fortalecer mi equipo.
+¡Tienes que escuchar esto! Vencí a un \TE el otro día.\m¡Fue muy fácil! Tenía ventaja por el tipo.
+¡Tienes que escuchar esto! Vencí a un \TE el otro día.\m¡Fue muy fácil! Tenía ventaja por el tipo.
+¡Ey, escucha! Casi atrapo a un \TE el otro día.\m¡Oh, estuve tan cerca!
+¡Ey, escucha! Casi atrapo a un \TE el otro día.\m¡Oh, estuve tan cerca!
+Adivina qué pasó el otro día. Volví a fallar al intentar capturar un \TE.\mTal vez no sea muy bueno en esto.
+Adivina qué pasó el otro día. Volví a fallar al intentar capturar un \TE.\mTal vez no sea muy bueno en esto.
+El otro día tuvimos que luchar contra un \TE...\n¡Mi \TP estaba muerto de miedo y nos fuimos por patas!\nEs tan tierno que dan ganas de protegerlo en todo momento.\n¡Odio los \TE! ¡Hasta lueguito!
+El otro día tuvimos que luchar contra un \TE...\n¡Mi \TP estaba muerto de miedo y nos fuimos por patas!\nEs tan tierno que dan ganas de protegerlo en todo momento.\n¡Odio los \TE! ¡Hasta lueguito!
+¡Qué sorpresa!\nEl otro día me hice con un \TP en un intercambio y resultó que era el mismo que yo le di hace un montón a otro Entrenador.\nLa vida da muchas vueltas, pero reconforta saber que el mundo está completamente interconectado.
+¡Qué sorpresa!\nEl otro día me hice con un \TP en un intercambio y resultó que era el mismo que yo le di hace un montón a otro Entrenador.\nLa vida da muchas vueltas, pero reconforta saber que el mundo está completamente interconectado.
+¡Qué mala pata!\nEl otro día me hice con un \TP en un intercambio y... la verdad es que me sonaba la cara. Pues bien, era justamente uno que estaba criando y acabó volviendo a mis manos.\n¡La vida da muchas vueltas!\nEso era lo que creía yo, pero me fijé bien y no, era un \TP completamente desconocido.\n¡El mundo no se mueve siempre como uno quiere!
+¡Qué mala pata!\nEl otro día me hice con un \TP en un intercambio y... la verdad es que me sonaba la cara. Pues bien, era justamente uno que estaba criando y acabó volviendo a mis manos.\n¡La vida da muchas vueltas!\nEso era lo que creía yo, pero me fijé bien y no, era un \TP completamente desconocido.\n¡El mundo no se mueve siempre como uno quiere!
+Me encontré con un \TE.\nIntenté atraparlo, pero huyó más rápido de lo que pensaba.\nMe llevé un chasco pero, qué se le va a hacer. ¡Hasta la vista!
+Me encontré con un \TE.\nIntenté atraparlo, pero huyó más rápido de lo que pensaba.\nMe llevé un chasco pero, qué se le va a hacer. ¡Hasta la vista!
+Pues... ¡Acabo de derrotar a \TE!\n¡Se ve que mi entrenamiento ha surtido efecto!\n¡Hasta la vista!
+Pues... ¡Acabo de derrotar a \TE!\n¡Se ve que mi entrenamiento ha surtido efecto!\n¡Hasta la vista!
+¿Sabes? ¿Sabes? ¿Sabes?\nSe me ha vuelto a escapar un \TE salvaje... ¡No es justo!\n¡Hasta la vista!
+¿Sabes? ¿Sabes? ¿Sabes?\nSe me ha vuelto a escapar un \TE salvaje... ¡No es justo!\n¡Hasta la vista!
+¿Cómo van tus Pokémon?\mMi \TP está lleno de energía. ¡Es una bestia!\mAh, sí, me las arreglé para vencer a un duro \TE.\mPero necesito fortalecer mi equipo.
+¿Cómo van tus Pokémon?\mMi \TP está lleno de energía. ¡Es una bestia!\mAh, sí, me las arreglé para vencer a un duro \TE.\mPero necesito fortalecer mi equipo.
+Mi \TP tiene muy buena pinta. Me gustaría poder mostrártelo.\m¡Ey, escucha! Casi atrapo a un \TE el otro día.\m¡Oh, estuve tan cerca!
+Mi \TP tiene muy buena pinta. Me gustaría poder mostrártelo.\m¡Ey, escucha! Casi atrapo a un \TE el otro día.\m¡Oh, estuve tan cerca!
+Es horrible. Mi \TP...\n¿Eh? ¿\PN? ¡Huy, lo siento! Tenía prisa y...\lme he confundido de número.\n¡Debo irme! ¡Hasta lueguito!
+Es horrible. Mi \TP...\n¿Eh? ¿\PN? ¡Huy, lo siento! Tenía prisa y...\lme he confundido de número.\n¡Debo irme! ¡Hasta lueguito!
+A mí se me escapan casi siempre los Pokémon salvajes cuando intento capturarlos.\nHace nada, mismamente, se me escapó un \TE.\nMe quité el sombrero para saludar educadamente y justo entonces, ¡zas!, salió corriendo. Estos \TE salvajes no tienen modales.
+A mí se me escapan casi siempre los Pokémon salvajes cuando intento capturarlos.\nHace nada, mismamente, se me escapó un \TE.\nMe quité el sombrero para saludar educadamente y justo entonces, ¡zas!, salió corriendo. Estos \TE salvajes no tienen modales.

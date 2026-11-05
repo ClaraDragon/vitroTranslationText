@@ -1,0 +1,303 @@
+﻿# Maps grouped under: Ciudad Iris (Highest ID: 31)
+[Map31]
+¡Hola! ¿Necesitas bayas? A los<<n>>pokémon les encantan.
+¡Hola! ¿Necesitas bayas? A los <<n>>pokémon les encantan.
+\w[signskin]En memoria de nuestra torre, caída en el incendio de aquella fatídica noche.\nSe aconseja precaución.
+\w[signskin]En memoria de nuestra torre, caída en el incendio de aquella fatídica noche.\nSe aconseja precaución.
+¡Piedras evolutivas, piedras<<n>>evolutivas!
+¡Piedras evolutivas, piedras <<n>>evolutivas!
+\w[signskin]Punto de control de la Torre Campana.
+\w[signskin]Punto de control de la Torre Campana.
+Las Chicas Kimono acostumbran a ensayar a todas horas en el Teatro de Danza.\nAunque hay mucho loquillo que solo va al teatro por ellas...
+Las Chicas Kimono acostumbran a ensayar a todas horas en el Teatro de Danza.\nAunque hay mucho loquillo que solo va al teatro por ellas...
+¿Eh?\nMe ha parecido oír a alguien gritando desde el Teatro de Danza...\n¿Me lo habré imaginado...?
+¿Eh?\nMe ha parecido oír a alguien gritando desde el Teatro de Danza...\n¿Me lo habré imaginado...?
+\w[signskin]Gimnasio Pokémon de Ciudad Iris. \nLíder: Morti, el místico adivino del futuro.
+\w[signskin]Gimnasio Pokémon de Ciudad Iris. \nLíder: Morti, el místico adivino del futuro.
+\tg[\v[12]]\..\..\..\nOh, eres tú.
+\tg[\v[12]]\..\..\..\nOh, eres tú.
+\tg[\v[12]]¿Te crees que puedes derrotar al líder de gimnasio?\nAcabo de hacerlo yo y ha sido... Ejem. Fácil.
+\tg[\v[12]]¿Te crees que puedes derrotar al líder de gimnasio?\nAcabo de hacerlo yo y ha sido... Ejem. Fácil.
+\tg[\v[12]]Claro que para ti eso será una masacre.\nMejor búsca escoria de tu nivel, como el Team Rocket por ejemplo.
+\tg[\v[12]]Claro que para ti eso será una masacre.\nMejor búsca escoria de tu nivel, como el Team Rocket por ejemplo.
+\tg[\v[12]]Ya que acabo de curar a mi equipo, ¿por qué no te enseño la diferencia de nivel que hay entre nosotros?
+\tg[\v[12]]Ya que acabo de curar a mi equipo, ¿por qué no te enseño la diferencia de nivel que hay entre nosotros?
+\tg[\v[12]]Pongámonos a ello.\n¡No te preocupes, tardaré poco!
+\tg[\v[12]]Pongámonos a ello.\n¡No te preocupes, tardaré poco!
+¡Bah! ¡Por eso no me gusta enfrentarme a debiluchos: ¡a la mínima, me paso con ellos!
+¡Bah! ¡Por eso no me gusta enfrentarme a debiluchos: ¡a la mínima, me paso con ellos!
+\tg[\v[12]]¡P-pero...! ¡Tú...!
+\tg[\v[12]]¡P-pero...! ¡Tú...!
+\tg[\v[12]]\..\..\..Da igual. Mi equipo estaba muy cansado. Seguro que era eso.
+\tg[\v[12]]\..\..\..Da igual. Mi equipo estaba muy cansado. Seguro que era eso.
+\tg[\v[12]]Hala, ¡que te den morcilla!
+\tg[\v[12]]Hala, ¡que te den morcilla!
+¿Te apasionan los combates de Pokémon, piltrafa?\n¡Pues bien! Yo, el Tutor de Movimientos, te ayudaré.
+¿Te apasionan los combates de Pokémon, piltrafa?\n¡Pues bien! Yo, el Tutor de Movimientos, te ayudaré.
+Disculpa, ¿tienes un momento?
+Disculpa, ¿tienes un momento?
+¿Por tus ropas, me imagino que vienes de lejos y te habrás enfrentado a muchos peligros?
+¿Por tus ropas, me imagino que vienes de lejos y te habrás enfrentado a muchos peligros?
+Si es así, me vienes bien. Resulta que el otro día estaba con mis amigas en la Torre Quemada y...
+Si es así, me vienes bien. Resulta que el otro día estaba con mis amigas en la Torre Quemada y...
+Bueno, fui algo despistada y se me cayó un libro.
+Bueno, fui algo despistada y se me cayó un libro.
+Podría volver por él, pero es que se me cayó cuando huía... ¡del miedo!
+Podría volver por él, pero es que se me cayó cuando huía... ¡del miedo!
+Está llena de fantasmas, seres de otro planeta o lo que narices sea eso. ¡Yo por ahí no paso! ¡No señor!
+Está llena de fantasmas, seres de otro planeta o lo que narices sea eso. ¡Yo por ahí no paso! ¡No señor!
+Venga, ayúdame, anda. Que tienes pinta de ser una persona muy maja, ¿eh?
+Venga, ayúdame, anda. Que tienes pinta de ser una persona muy maja, ¿eh?
+¡Anda, es mi libro! ¡Muchísimas gracias!
+¡Anda, es mi libro! ¡Muchísimas gracias!
+Toma, llévate esto. A ver si te sirve de algo, porque a mí no...
+Toma, llévate esto. A ver si te sirve de algo, porque a mí no...
+Esa torre está llena de fantasmas, seres de otro planeta o lo que narices sea eso. ¡Yo por ahí no paso! ¡No señor!
+Esa torre está llena de fantasmas, seres de otro planeta o lo que narices sea eso. ¡Yo por ahí no paso! ¡No señor!
+El Hechizo que te he regalado es de buena suerte, sobre todo para los Pokémon de tipo Fantasma.
+El Hechizo que te he regalado es de buena suerte, sobre todo para los Pokémon de tipo Fantasma.
+Puedes dárselo a uno para que sea más fuerte, ¡pero mantenlo alejado de mí!
+Puedes dárselo a uno para que sea más fuerte, ¡pero mantenlo alejado de mí!
+Si vas hacia el oeste desde aquí, llegarás a Ciudad Olivo.
+Si vas hacia el oeste desde aquí, llegarás a Ciudad Olivo.
+Es una bonita ciudad portuaria, donde el aire huele a sal y el viento levanta las olas.
+Es una bonita ciudad portuaria, donde el aire huele a sal y el viento levanta las olas.
+Aunque no tengas un barco, si uno de tus Pokémon sabe surfear puedes hacerte a la mar desde la Ruta 40.
+Aunque no tengas un barco, si uno de tus Pokémon sabe surfear puedes hacerte a la mar desde la Ruta 40.
+\w[signskin2]\C[10]Ciudad Iris.\nLa ciudad llena de historia.
+\w[signskin2]\C[10]Ciudad Iris.\nLa ciudad llena de historia.
+¡Bonguri de todos los tipos y<<n>>colores!
+¡Bonguri de todos los tipos y <<n>>colores!
+\tg[Eusine]¡Mira! ¡Suicune te está esperando! \nQuiere enfrentarse a alguien con quien pueda medir sus fuerzas de igual a igual.
+\tg[Eusine]¡Mira! ¡Suicune te está esperando! \nQuiere enfrentarse a alguien con quien pueda medir sus fuerzas de igual a igual.
+\tg[\v[14]]¡Por fin has llegado, \PN!
+\tg[\v[14]]¡Por fin has llegado, \PN!
+\tg[\v[14]]La función está a puntito de comenzar, ¡vamos!
+\tg[\v[14]]La función está a puntito de comenzar, ¡vamos!
+\tg[\v[14]]Pues al final te ha salido bien la jugada, ¿eh?
+\tg[\v[14]]Pues al final te ha salido bien la jugada, ¿eh?
+\tg[\v[14]]Te invito a ver a las famosas Chicas Kimono y sales con un artefacto antiguo en las manos.
+\tg[\v[14]]Te invito a ver a las famosas Chicas Kimono y sales con un artefacto antiguo en las manos.
+\tg[\v[14]]Me da un poco de envidia que seas tan bueno en todo...
+\tg[\v[14]]Me da un poco de envidia que seas tan bueno en todo...
+\tg[\v[14]]Pero somos amigos, ¿no?\n¡En el fondo me alegro de que tengas tanto éxito!
+\tg[\v[14]]Pero somos amigos, ¿no?\n¡En el fondo me alegro de que tengas tanto éxito!
+\tg[\v[14]]Ahora toca volver a nuestras aventuras solo para reencontrarnos de vez en cuando, supongo.
+\tg[\v[14]]Ahora toca volver a nuestras aventuras solo para reencontrarnos de vez en cuando, supongo.
+\tg[\v[14]]Eso sí, cuando termines todo lo que quieres hacer...\n¡Tenemos que echarnos unas partidas o algo!
+\tg[\v[14]]Eso sí, cuando termines todo lo que quieres hacer...\n¡Tenemos que echarnos unas partidas o algo!
+\tg[\v[14]]Suerte con lo tuyo, \PN.\nYo también haré cosas increíbles.
+\tg[\v[14]]Suerte con lo tuyo, \PN.\nYo también haré cosas increíbles.
+\tg[\v[14]]¡Espera y verás!
+\tg[\v[14]]¡Espera y verás!
+\tg[\v[14]]Me da un poco de envidia que seas tan buena en todo...
+\tg[\v[14]]Me da un poco de envidia que seas tan buena en todo...
+Tenemos dulces regionales, ideales para<<n>>aquellos que buscan sabores<<n>>exóticos.
+Tenemos dulces regionales, ideales para <<n>>aquellos que buscan sabores <<n>>exóticos.
+\tg[Eusine]\PN... Ha sido admirable...\nTodo un privilegio presenciar este combate...
+\tg[Eusine]\PN... Ha sido admirable...\nTodo un privilegio presenciar este combate...
+\tg[Eusine]¡Adiós, Suicune!\n¡Adiós\..\..\..
+\tg[Eusine]¡Adiós, Suicune!\n¡Adiós\..\..\..
+¡El Pokémon del Faro Olivo ya se ha curado!\nLos barcos pueden volver a navegar seguros de noche.
+¡El Pokémon del Faro Olivo ya se ha curado!\nLos barcos pueden volver a navegar seguros de noche.
+¡Oh! Veo que llevas un buen Pokémon.\nCuando uno lleva un Pokémon a su lado se siente mucho mejor, ¿eh?
+¡Oh! Veo que llevas un buen Pokémon.\nCuando uno lleva un Pokémon a su lado se siente mucho mejor, ¿eh?
+Para mí, los Pokémon son un rayo de esperanza que guía mi vida.\nY hablando de guiar...
+Para mí, los Pokémon son un rayo de esperanza que guía mi vida.\nY hablando de guiar...
+Dicen que el Pokémon que ilumina el Faro de Ciudad Olivo se ha puesto enfermo.\nParece que es bastante grave...
+Dicen que el Pokémon que ilumina el Faro de Ciudad Olivo se ha puesto enfermo.\nParece que es bastante grave...
+La torre que había aquí...\nEra alta. Altísima. Gargantuesca.
+La torre que había aquí...\nEra alta. Altísima.  Gargantuesca.
+Pero el fuego se la llevó por delante. Las llamas arrasaron con todo.
+Pero el fuego se la llevó por delante. Las llamas arrasaron con todo.
+Pssst, \PN. Si mi hermana me vuelve a buscar, dile que me he ido a buscar a Ho-Oh... \n¡No, es broma!... ¿O no?
+Pssst, \PN. Si mi hermana me vuelve a buscar, dile que me he ido a buscar a Ho-Oh... \n¡No, es broma!... ¿O no?
+El Pokémon de los colores del arcoíris danza con elegancia en lo alto de la torre...\nEl Pokémon plateado duerme en las arremolinadas aguas del mar...
+El Pokémon de los colores del arcoíris danza con elegancia en lo alto de la torre...\nEl Pokémon plateado duerme en las arremolinadas aguas del mar...
+No llego a imaginarme del todo cómo serán.
+No llego a imaginarme del todo cómo serán.
+Ey, ¿quieres incienso?
+Ey, ¿quieres incienso?
+En Ciudad Iris siempre hubieron dos torres, una al este, otra al oeste.
+En Ciudad Iris siempre hubieron dos torres, una al este, otra al oeste.
+Ambas atadas a nuestras leyendas, como debería ser.
+Ambas atadas a nuestras leyendas, como debería ser.
+Hace mucho tiempo... cuando la torre se incendió, tres Pokémon cuyo nombre nadie conoce murieron abrasados por las llamas.
+Hace mucho tiempo... cuando la torre se incendió, tres Pokémon cuyo nombre nadie conoce murieron abrasados por las llamas.
+Pero un Pokémon de los colores del arcoíris descendió del cielo y los resucitó.
+Pero un Pokémon de los colores del arcoíris descendió del cielo y los resucitó.
+Los habitantes de la ciudad se sintieron amenazados por el inmenso poder de tales Pokémon y decidieron atacarlos.
+Los habitantes de la ciudad se sintieron amenazados por el inmenso poder de tales Pokémon y decidieron atacarlos.
+Sin embargo, en lugar de contraatacar, los Pokémon se sintieron defraudados por la actitud de los humanos y abandonaron esta región por el mar...
+Sin embargo, en lugar de contraatacar, los Pokémon se sintieron defraudados por la actitud de los humanos y abandonaron esta región por el mar...
+Se trata de una leyenda que los Líderes del Gimnasio de Ciudad Iris han ido transmitiendo de unos a otros.\n¿Yo?\nYo también fui Líder del Gimnasio hace mucho tiempo.\n¡Je, je, je, je!
+Se trata de una leyenda que los Líderes del Gimnasio de Ciudad Iris han ido transmitiendo de unos a otros.\n¿Yo?\nYo también fui Líder del Gimnasio hace mucho tiempo.\n¡Je, je, je, je! 
+¡Gengar!\wt[20]
+¡Gengar!\wt[20]
+\tg[Eusine]\PN...
+\tg[Eusine]\PN...
+\tg[Eusine]Suicune está justo ahí, aguardando tu llegada.
+\tg[Eusine]Suicune está justo ahí, aguardando tu llegada.
+\tg[Eusine]Mi búsqueda podría terminar hoy mismo, pero antes debo hacer una cosa.
+\tg[Eusine]Mi búsqueda podría terminar hoy mismo, pero antes debo hacer una cosa.
+\tg[Eusine]Sé que eres la persona indicada, no, la elegida por Suicune.
+\tg[Eusine]Sé que eres la persona indicada, no, la elegida por Suicune.
+\tg[Eusine]¡Y ahora me toca ponerte a prueba por mi cuenta!
+\tg[Eusine]¡Y ahora me toca ponerte a prueba por mi cuenta!
+No... ¡He perdido!
+No... ¡He perdido!
+\tg[Eusine]Parece que tenía razón.
+\tg[Eusine]Parece que tenía razón.
+\tg[Eusine]Ja, ja...\nEstaba claro que no estoy a tu nivel.
+\tg[Eusine]Ja, ja...\nEstaba claro que no estoy a tu nivel.
+\tg[Eusine]En cuanto nos vimos en la Torre Quemada lo supe.
+\tg[Eusine]En cuanto nos vimos en la Torre Quemada lo supe.
+\tg[Eusine]Y ahora te toca demostrárselo a Suicune.
+\tg[Eusine]Y ahora te toca demostrárselo a Suicune.
+\tg[Eusine]¡Vamos, \PN! ¡El legendario Suicune te espera!
+\tg[Eusine]¡Vamos, \PN! ¡El legendario Suicune te espera!
+El otro día subí a la torre Campana a ver Pokémon pájaros, ya sabes, los típicos Pidgey, Pidgeotto y con suerte un Pidgeot.
+El otro día subí a la torre Campana a ver Pokémon pájaros, ya sabes, los típicos Pidgey, Pidgeotto y con suerte un Pidgeot.
+¡Y en vez de pájaros vi otros cuatro Pokémon voladores totalmente diferentes!
+¡Y en vez de pájaros vi otros cuatro Pokémon voladores totalmente diferentes!
+Cada uno salió volando en una dirección, y había uno de cada color verde, azul, naranja, rosa.
+Cada uno salió volando en una dirección, y había uno de cada color verde, azul, naranja, rosa.
+Todo muy raro, es la primera vez que veo algo así... Me pregunto qué Pokémon serán...
+Todo muy raro, es la primera vez que veo algo así... Me pregunto qué Pokémon serán...
+\w[signskin]Teatro de Danza de Ciudad Iris.\nLa danza en su máximo esplendor.
+\w[signskin]Teatro de Danza de Ciudad Iris.\nLa danza en su máximo esplendor.
+¡Ay, por Arceus! ¡Ya está tardando!... ¿Eh? ¿Eres un entrenador?\nPerdona, perdona, es que estoy que no vivo.
+¡Ay, por Arceus! ¡Ya está tardando!... ¿Eh?  ¿Eres un entrenador?\nPerdona, perdona, es que estoy que no vivo.
+Es por mi hermana pequeña. Le encanta subirse a lo más alto del Monte Mortero para "sentir la brisa", dice. Una chiquilla irresponsable, vamos.
+Es por mi hermana pequeña. Le encanta subirse a lo más alto del Monte Mortero para "sentir la brisa", dice. Una chiquilla irresponsable, vamos.
+Prometió por su colección de cromos de Eevee que estaría de vuelta para la cena, y ya ha anochecido. Seguro que se ha despistado persiguiendo un Zubat o algo.
+Prometió por su colección de cromos de Eevee que estaría de vuelta para la cena, y ya ha anochecido. Seguro que se ha despistado persiguiendo un Zubat o algo.
+¿Podrías ir a echarle un vistazo? Me quedaría más tranquila si alguien con Pokémon la busca. Te recompensaré, ¡palabra de hermana mayor!
+¿Podrías ir a echarle un vistazo? Me quedaría más tranquila si alguien con Pokémon la busca.  Te recompensaré, ¡palabra de hermana mayor!
+Busca a una renacuaja que no para quieta. Suele estar en las cornisas más altas del Monte Mortero. ¡Y date prisa, que se enfría la cena!
+Busca a una renacuaja que no para quieta. Suele estar en las cornisas más altas del Monte Mortero. ¡Y date prisa, que se enfría la cena!
+El Monte Mortero está por esa dirección. La brisa sopla fuerte arriba... espero que no se haya resfriado, o peor, ¡que la haya levantado un Drifloon!
+El Monte Mortero está por esa dirección. La brisa sopla fuerte arriba... espero que no se haya resfriado, o peor, ¡que la haya levantado un Drifloon!
+¡\PN, estás de vuelta! ¡Has encontrado a este torbellino con patas!
+¡\PN, estás de vuelta! ¡Has encontrado a este torbellino con patas!
+¡Oye! ¡No soy un torbellino! ¡Soy una brisa errante y libre!
+¡Oye! ¡No soy un torbellino! ¡Soy una brisa errante y libre!
+Pues como vuelvas a errar tanto, te ato con una cuerda a un poste. Menos mal que \PN ha ido a por ti.
+Pues como vuelvas a errar tanto, te ato con una cuerda a un poste. Menos mal que \PN ha ido a por ti.
+En serio, muchísimas gracias.\nToma, esto es para ti.
+En serio, muchísimas gracias.\nToma, esto es para ti.
+Ahora la cena es doble: coliflor fría y un buen rapapolvo. ¡Gracias de nuevo!
+Ahora la cena es doble: coliflor fría y un buen rapapolvo. ¡Gracias de nuevo!
+\tg[Morti]En la Torre Campana los Entrenadores comprueban la fortaleza de los vínculos con sus Pokémon.\nTal vez tengas cualidades innatas...
+\tg[Morti]En la Torre Campana los Entrenadores comprueban la fortaleza de los vínculos con sus Pokémon.\nTal vez tengas cualidades innatas...
+\tg[Morti]¿Me das tu número de teléfono?\nQuiero ver mejor cómo son tus vínculos con tus Pokémon.
+\tg[Morti]¿Me das tu número de teléfono?\nQuiero ver mejor cómo son tus vínculos con tus Pokémon.
+Morti
+Morti
+\tg[Morti]¿Por qué no me llamas el martes por la noche?\nMe gustaría volver a combatir si tienes tiempo.
+\tg[Morti]¿Por qué no me llamas el martes por la noche?\nMe gustaría volver a combatir si tienes tiempo.
+\tg[Morti]Quería ver mejor cómo son tus vínculos con los Pokémon.
+\tg[Morti]Quería ver mejor cómo son tus vínculos con los Pokémon.
+\tg[Morti]¡Ah! ¡Eres tú!\n¿Te gustaría hacerte una foto de recuerdo conmigo?
+\tg[Morti]¡Ah! ¡Eres tú!\n¿Te gustaría hacerte una foto de recuerdo conmigo?
+\tg[Morti]¡Venga! ¡Vamos a ponernos los dos aquí para la foto!
+\tg[Morti]¡Venga! ¡Vamos a ponernos los dos aquí para la foto!
+\tg[Morti]¡Sí señor! ¡Es una foto estupenda!
+\tg[Morti]¡Sí señor! ¡Es una foto estupenda!
+\tg[Morti]Bueno... Si estás ocupada, lo entiendo.
+\tg[Morti]Bueno... Si estás ocupada, lo entiendo.
+\tg[Morti]Bueno... Si estás ocupado, lo entiendo.
+\tg[Morti]Bueno... Si estás ocupado, lo entiendo.
+Sí
+Sí
+No
+No
+[Map44]
+\w[menuskin]\C[8]Es una nevera.
+\w[menuskin]\C[8]Es una nevera.
+\w[menuskin]\C[8]¡Su interior está tan frío como el saco de un Delibird!
+\w[menuskin]\C[8]¡Su interior está tan frío como el saco de un Delibird!
+El yayo ya está un poco mayor. Dice cosas sobre un resplandor, un pum y qué sé yo.
+El yayo ya está un poco mayor. Dice cosas sobre un resplandor, un pum y qué sé yo.
+Las plantas son seres vivos. ¡Incluso hay algunas que se mueven de vez en cuando!
+Las plantas son seres vivos. ¡Incluso hay algunas que se mueven de vez en cuando!
+Pero, ¿qué son las plantas?\n¿Sólo seres vivos o tendrán algo más?
+Pero, ¿qué son las plantas?\n¿Sólo seres vivos o tendrán algo más?
+¿Si te las comes eres un asesino?\n¿Si las arrancas, un criminal?
+¿Si te las comes eres un asesino?\n¿Si las arrancas, un criminal?
+¿Acaso los Pokémon tipo Planta son plantas?\n¿Si te comes un Oddish es lo mismo que comerte una coliflor?
+¿Acaso los Pokémon tipo Planta son plantas?\n¿Si te comes un Oddish es lo mismo que comerte una coliflor?
+¿Cuántas plantas puedes comer hasta que se considere un planticidio en masa?\n¿Acaso el veganismo es un atentado a la naturaleza?
+¿Cuántas plantas puedes comer hasta que se considere un planticidio en masa?\n¿Acaso el veganismo es un atentado a la naturaleza?
+¿Qué somos frente a una planta? ¿Qué es una planta frente al humano y que es capaz de transmitirle, enseñarle, comunicarle?
+¿Qué somos frente a una planta? ¿Qué es una planta frente al humano y que es capaz de transmitirle, enseñarle, comunicarle?
+Leí un ensayo increíble sobre la alteridad de las plantas.
+Leí un ensayo increíble sobre la alteridad de las plantas.
+"Pensar la alteridad y desde la alteridad, nos sitúa en el lugar de la extrañeza y la familiaridad." -Profesora Magnolia
+"Pensar la alteridad y desde la alteridad, nos sitúa en el lugar de la extrañeza y la familiaridad." -Profesora Magnolia
+Quizás sumergirnos en la vida de las plantas nos permitirá dar los pasos para descentrarnos del vicioso antropocentrismo.
+Quizás sumergirnos en la vida de las plantas nos permitirá dar los pasos para descentrarnos del vicioso antropocentrismo.
+Hay algo que nos une, que nos vincula con ese otro, con esa planta, con ese bosque. Pero al mismo tiempo hay una extrañeza, una distancia infinita.
+Hay algo que nos une, que nos vincula con ese otro, con esa planta, con ese bosque. Pero al mismo tiempo hay una extrañeza, una distancia infinita.
+Reconocernos en este entramado de alteridades permitirá una mejor polinización humano-planta, una fluidez en la corresponsabilidad y mutua fecundación.
+Reconocernos en este entramado de alteridades permitirá una mejor polinización humano-planta, una fluidez en la corresponsabilidad y mutua fecundación.
+Mejor citar al poeta Oak:
+Mejor citar al poeta Oak:
+"Si quieres lograr la existencia de un árbol, \n Invístelo de espacio interno, ese espacio \n Que tiene su ser en ti."\nCíñelo de restricciones.
+"Si quieres lograr la existencia de un árbol, \n Invístelo de espacio interno, ese espacio \n Que tiene su ser en ti."\nCíñelo de restricciones. 
+Virar el timón del antropocentrismo y de la ruptura o negación de la relación es un deber para, como pueblo de pueblos, como nación humano-vegetal, ser unos con la naturaleza.
+Virar el timón del antropocentrismo y de la ruptura o negación de la relación es un deber para, como pueblo de pueblos, como nación humano-vegetal, ser unos con la naturaleza.
+En fin, las plantas me emocionan tanto...
+En fin, las plantas me emocionan tanto...
+Si a ti también te emocionan, tengo un regalo para ti.
+Si a ti también te emocionan, tengo un regalo para ti.
+Es un Exeggcute que atrapé en Alola. Me encantaría cuidarle en mi huerto de amapolas y mentas, pero no parece muy por la labor.
+Es un Exeggcute que atrapé en Alola. Me encantaría cuidarle en mi huerto de amapolas y mentas, pero no parece muy por la labor.
+Llévale contigo y esparce el mensaje plantífero por todo el mundo. Confío en ti, mi apóstol verde.
+Llévale contigo y esparce el mensaje plantífero por todo el mundo. Confío en ti, mi apóstol verde.
+Dicen que los Exeggutor de Alola son bastante diferentes...
+Dicen que los Exeggutor de Alola son bastante diferentes... 
+¡No tienes espacio en el equipo!
+¡No tienes espacio en el equipo!
+¡Y las Cajas de Almacenamiento Pokémon está llenas! ¡Vaya faena, colmena!
+¡Y las Cajas de Almacenamiento Pokémon está llenas! ¡Vaya faena, colmena!
+Si quieres volver a escucharme, habla conmigo de nuevo. Pero bajo ningún concepto pulses la tecla Q.
+Si quieres volver a escucharme, habla conmigo de nuevo. Pero bajo ningún concepto pulses la tecla Q.
+Recuerda, no pulses la Q.
+Recuerda, no pulses la Q.
+Por aquí hay muchos objetos que no se ven tan fácilmente.\nSujeta el Zahorí firmemente y cuando veas un brillo encontrarás un objeto oculto.
+Por aquí hay muchos objetos que no se ven tan fácilmente.\nSujeta el Zahorí firmemente y cuando veas un brillo encontrarás un objeto oculto.
+Es más fácil usarlo mientras vas caminando. \n¡Ah, sí! Dicen que hay muchos objetos en la Torre Quemada.
+Es más fácil usarlo mientras vas caminando. \n¡Ah, sí! Dicen que hay muchos objetos en la Torre Quemada.
+¡Ah! ¿Vas de aventura con tus Pokémon?\n¡Buscar tesoros, eso sí que es una aventura!
+¡Ah! ¿Vas de aventura con tus Pokémon?\n¡Buscar tesoros, eso sí que es una aventura!
+¿Tengo razón o tengo razón?
+¿Tengo razón o tengo razón?
+¡Bien! Entiendes el verdadero espíritu de la aventura.\n¡Me gusta! Toma esto.
+¡Bien! Entiendes el verdadero espíritu de la aventura.\n¡Me gusta! Toma esto.
+Bueno, pues a tu bola, caracola.
+Bueno, pues a tu bola, caracola.
+La Torre Campana se construyó para ofrecer a Ho-Oh, el Pokémon legendario que surca los cielos, un lugar en el que reposar.
+La Torre Campana se construyó para ofrecer a Ho-Oh, el Pokémon legendario que surca los cielos, un lugar en el que reposar.
+Muchos han subido la torre con la intención de hacerlo aparecer una vez más, pero nadie lo ha conseguido hasta ahora.
+Muchos han subido la torre con la intención de hacerlo aparecer una vez más, pero nadie lo ha conseguido hasta ahora.
+Incluso Morti, el Líder del Gimnasio, fracasó \..\..\..\n\..\..\..
+Incluso Morti, el Líder del Gimnasio, fracasó \..\..\..\n\..\..\..
+Oh... Eso es la Medalla Niebla.\n...\nDe todos modos, no creo que te baste solo con eso...
+Oh... Eso es la Medalla Niebla.\n...\nDe todos modos, no creo que te baste solo con eso...
+Morti, el Líder del Gimnasio, subió la torre con la intención de hacerlo aparecer una vez más, pero él tampoco lo consiguió.
+Morti, el Líder del Gimnasio, subió la torre con la intención de hacerlo aparecer una vez más, pero él tampoco lo consiguió.
+En la región de Johto hay dos leyendas:\nla de las Islas Remolino y la de la Torre Campana... \nNosotros nos encargamos de transmitir y preservar la leyenda de la Torre Campana.
+En la región de Johto hay dos leyendas:\nla de las Islas Remolino y la de la Torre Campana... \nNosotros nos encargamos de transmitir y preservar la leyenda de la Torre Campana.
+¡La Torre Campana está temblando!\nTiene que ser... ¡El arcoíris ha regresado!
+¡La Torre Campana está temblando!\nTiene que ser... ¡El arcoíris ha regresado!
+Contemplar a Ho-Oh posándose sobre esta torre...\nSolo con eso, el entrenamiento que he estado realizando por fin tendrá un significado...
+Contemplar a Ho-Oh posándose sobre esta torre...\nSolo con eso, el entrenamiento que he estado realizando por fin tendrá un significado...
+Han pasado 84 años... El cielo se oscureció de repente, y un resplandor... ¡Pum!
+Han pasado 84 años... El cielo se oscureció de repente, y un resplandor... ¡Pum!
+Un enorme Pokémon estaba delante del sol.\nUn pájaro majestuoso que jamás podré volver a ver.
+Un enorme Pokémon estaba delante del sol.\nUn pájaro majestuoso que jamás podré volver a ver.
+Sí
+Sí
+No
+No

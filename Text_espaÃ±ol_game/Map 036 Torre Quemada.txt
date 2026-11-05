@@ -1,0 +1,58 @@
+﻿# Maps grouped under: Torre Quemada (Highest ID: 36)
+[Map36]
+Libro Perdido
+Libro Perdido
+\w[menuskin]\C[8]Deberías entregárselo a su dueña.
+\w[menuskin]\C[8]Deberías entregárselo a su dueña.
+\tg[Morti]Oh, eres tú.
+\tg[Morti]Oh, eres tú.
+\tg[Morti]Soy Morti, el Líder del Gimnasio de Ciudad Iris.
+\tg[Morti]Soy Morti, el Líder del Gimnasio de Ciudad Iris.
+\tg[Morti]Circula una antigua leyenda por Ciudad Iris que describe a Suicune, Entei y Raikou como Pokémon legendarios.
+\tg[Morti]Circula una antigua leyenda por Ciudad Iris que describe a Suicune, Entei y Raikou como Pokémon legendarios.
+\tg[Morti]Como Líder del Gimnasio de Ciudad Iris, es mi deber averiguar más cosas sobre este tema.
+\tg[Morti]Como Líder del Gimnasio de Ciudad Iris, es mi deber averiguar más cosas sobre este tema.
+\tg[Eusine]¡¿H-has visto eso?!
+\tg[Eusine]¡¿H-has visto eso?!
+\tg[Eusine]¡Suicune ha salido corriendo como un rayo, delante de mis narices!
+\tg[Eusine]¡Suicune ha salido corriendo como un rayo, delante de mis narices!
+\tg[Eusine]¡Suicune! ¡Si es que no me lo creo!
+\tg[Eusine]¡Suicune! ¡Si es que no me lo creo!
+\tg[Eusine]Me he pasado los diez últimos años persiguiéndolo y por fin he podido verlo de cerca.\n¡Alucino pepinillos!
+\tg[Eusine]Me he pasado los diez últimos años persiguiéndolo y por fin he podido verlo de cerca.\n¡Alucino pepinillos!
+\tg[Eusine]\..\..\..No te he preguntado si estás bien.\nLo estás, ¿no?
+\tg[Eusine]\..\..\..No te he preguntado si estás bien.\nLo estás, ¿no?
+\tg[Eusine]De cualquier modo...\nEs evidente que has llamado la atención de Suicune.
+\tg[Eusine]De cualquier modo...\nEs evidente que has llamado la atención de Suicune.
+\tg[Eusine]Los Pokémon legendarios de Ciudad Iris suelen acercarse a aquellas personas que consideran lo bastante fuertes.
+\tg[Eusine]Los Pokémon legendarios de Ciudad Iris suelen acercarse a aquellas personas que consideran lo bastante fuertes.
+\tg[Eusine]La próxima vez haré como tú y me acercaré a Suicune con más decisión.
+\tg[Eusine]La próxima vez haré como tú y me acercaré a Suicune con más decisión.
+\tg[Eusine]Bien, \PN. ¡Ya nos veremos!
+\tg[Eusine]Bien, \PN. ¡Ya nos veremos!
+Saludos. Parece que algo nos trae a los dos por esta desolada torre.
+Saludos. Parece que algo nos trae a los dos por esta desolada torre.
+\tg[Eusine]Mi nombre es Eusine.\nEstoy tras la pista de un Pokémon llamado Suicune.
+\tg[Eusine]Mi nombre es Eusine.\nEstoy tras la pista de un Pokémon llamado Suicune.
+\tg[Eusine]El bello y solemne Suicune, que con su melena trae la lluvia allá donde pisa.
+\tg[Eusine]El bello y solemne Suicune, que con su melena trae la lluvia allá donde pisa.
+\tg[Eusine]¿Tú eres...?\n¿\PN? Encantado de conocerte.
+\tg[Eusine]¿Tú eres...?\n¿\PN? Encantado de conocerte.
+\tg[Eusine]He venido porque dicen que es aquí donde habita Suicune...
+\tg[Eusine]He venido porque dicen que es aquí donde habita Suicune...
+\tg[Eusine]Échale un vistazo a la sala de abajo por ese agujero que hay en el suelo.
+\tg[Eusine]Échale un vistazo a la sala de abajo por ese agujero que hay en el suelo.
+\tg[Eusine]Ahí está Suicune. Siempre impasible. \nEso sí, solo se muestra ante aquellos que considera adecuados.
+\tg[Eusine]Ahí está Suicune. Siempre impasible. \nEso sí, solo se muestra ante aquellos que considera adecuados.
+\tg[Eusine]¡Se me ha ocurrido algo!\nCombatamos, \PN. Así lograremos atraer la atención de Suicune.
+\tg[Eusine]¡Se me ha ocurrido algo!\nCombatamos, \PN. Así lograremos atraer la atención de Suicune.
+\tg[Eusine]Su majestuosa presencia debe ser honrada con un combate a la altura.\n¡En guardia!
+\tg[Eusine]Su majestuosa presencia debe ser honrada con un combate a la altura.\n¡En guardia!
+...
+...
+\tg[Eusine]Uf, uf...\nBien hecho, \PN. Suicune estará contento después de semejante demostración de fuerza.
+\tg[Eusine]Uf, uf...\nBien hecho, \PN. Suicune estará contento después de semejante demostración de fuerza.
+\tg[Eusine]¡\PN, cuidado!\.\.\^
+\tg[Eusine]¡\PN, cuidado!\.\.\^
+¡Giusss!\wt[20]
+¡Giusss!\wt[20]

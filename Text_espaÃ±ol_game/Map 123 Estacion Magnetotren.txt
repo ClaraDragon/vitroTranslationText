@@ -1,0 +1,36 @@
+﻿# Maps grouped under: Estacion Magnetotren (Highest ID: 123)
+[Map123]
+Disfruta de un viaje cargado de glamour y magnetismo.
+Disfruta de un viaje cargado de glamour y magnetismo.
+Trigal, Trigal, con acento en “gal”.
+Trigal, Trigal, con acento en “gal”.
+Azafrán, Azafrán, con acento en “frán”.
+Azafrán, Azafrán, con acento en “frán”.
+Soy el Presidente.\nMi sueño era crear un tren que fuera más rápido que cualquier Pokémon. \nHace que Johto esté mucho más cerca de Kanto.
+Soy el Presidente.\nMi sueño era crear un tren que fuera más rápido que cualquier Pokémon. \nHace que Johto esté mucho más cerca de Kanto.
+¡Qué bien!\nAlguien ha reparado el generador de la Central Energía y el Magnetotrén vuelve a funcionar.
+¡Qué bien!\nAlguien ha reparado el generador de la Central Energía y el Magnetotrén vuelve a funcionar.
+Permíteme que introduzca tu Magnetopase en el lector...
+Permíteme que introduzca tu Magnetopase en el lector...
+¡Din Don! Toma tu Magnetopase, gracias.\nEl tren con destino a Ciudad Trigal efectuará su salida en breve.
+¡Din Don! Toma tu Magnetopase, gracias.\nEl tren con destino a Ciudad Trigal efectuará su salida en breve.
+Uh... uh...\nLo siento en el alma, pero sin un Magnetopase no puedes viajar en el Magnetotrén.
+Uh... uh...\nLo siento en el alma, pero sin un Magnetopase no puedes viajar en el Magnetotrén.
+¡Ah, menudo problema!\n¡El generador de la Central Energía no funciona y no tenemos electricidad!\n¡Así no podemos poner en marcha el Magnetotrén!
+¡Ah, menudo problema!\n¡El generador de la Central Energía no funciona y no tenemos electricidad!\n¡Así no podemos poner en marcha el Magnetotrén!
+Hola. ¿Tienes un Magnetopase para el tren?\nYo sí. Todos los de Azafrán que toman el Magnetotrén tienen uno.
+Hola. ¿Tienes un Magnetopase para el tren?\nYo sí. Todos los de Azafrán que toman el Magnetotrén tienen uno.
+¡El Magnetotrén vuelve a funcionar sin problemas!\nLos pasajeros pueden validar su Magnetopase en este lector.
+¡El Magnetotrén vuelve a funcionar sin problemas!\nLos pasajeros pueden validar su Magnetopase en este lector.
+¡Din Don! Toma tu Magnetopase, gracias.\nEl tren con destino a Ciudad Azafrán efectuará su salida en breve.
+¡Din Don! Toma tu Magnetopase, gracias.\nEl tren con destino a Ciudad Azafrán efectuará su salida en breve.
+El tren no ha llegado...\n¡Tengo una idea! ¡Llevaré a cuestas a los pasajeros!\nAunque no creo que funcione.
+El tren no ha llegado...\n¡Tengo una idea!  ¡Llevaré a cuestas a los pasajeros!\nAunque no creo que funcione.
+Antes de que se construyera la estación, ahí había una casa en la que vivía una niña a la que llamaban Copiona.
+Antes de que se construyera la estación, ahí había una casa en la que vivía una niña a la que llamaban Copiona.
+\w[menuskin]\C[8]Rogamos guarden los Pokémon de gran tamaño dentro de sus Poké Balls para no molestar al resto de pasajeros en esta estación.\nGracias.
+\w[menuskin]\C[8]Rogamos guarden los Pokémon de gran tamaño dentro de sus Poké Balls para no molestar al resto de pasajeros en esta estación.\nGracias.
+¡Caramba...!\n¡Cuántas veces habré hecho el trayecto entre Kanto y Johto!
+¡Caramba...!\n¡Cuántas veces habré hecho el trayecto entre Kanto y Johto!
+El Magnetotrén es un tren de alta velocidad que utiliza energía electromagnética para desplazarse.\nPero sin electricidad no es más que un montón de chatarra.
+El Magnetotrén es un tren de alta velocidad que utiliza energía electromagnética para desplazarse.\nPero sin electricidad no es más que un montón de chatarra.

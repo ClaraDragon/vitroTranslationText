@@ -1,0 +1,52 @@
+﻿# Maps grouped under: Ruta 31 (Highest ID: 16)
+[Map16]
+He atrapado un montón de Pokémon. ¡Luchemos!
+He atrapado un montón de Pokémon. ¡Luchemos!
+¡Aaau...!
+¡Aaau...!
+¡Eres increíble! ¡Me caes bien!\nBusco Pokémon por aquí todos los días.\nCuando salgo al campo, encuentro toda clase de Bayas.\nSi quieres, te doy algunas.
+¡Eres increíble! ¡Me caes bien!\nBusco Pokémon por aquí todos los días.\nCuando salgo al campo, encuentro toda clase de Bayas.\nSi quieres, te doy algunas. 
+¿Me das tu número de teléfono?
+¿Me das tu número de teléfono?
+Te esperaba. ¡Luchemos!
+Te esperaba. ¡Luchemos!
+Puedes atrapar Pokémon aunque ya lleves seis contigo. Si atrapas alguno más, será enviado a una caja de tu PC.
+Puedes atrapar Pokémon aunque ya lleves seis contigo. Si atrapas alguno más, será enviado a una caja de tu PC.
+¡Ah! y toma esto.
+¡Ah! y toma esto.
+Oirás de mí tan pronto como encuentre algo que te pueda interesar.
+Oirás de mí tan pronto como encuentre algo que te pueda interesar.
+¡Arg!... ¿Eh?
+¡Arg!... ¿Eh?
+Hoy he caminado mucho buscando Pokémon.\nMe duelen los pies y tengo sueño...\nSi fuera un Pokémon salvaje, sería fácil atraparme... \n¡Zzz!...
+Hoy he caminado mucho buscando Pokémon.\nMe duelen los pies y tengo sueño...\nSi fuera un Pokémon salvaje, sería fácil atraparme... \n¡Zzz!...
+Mmm... Snif...\nMe gustaría leer algo parecido a una Carta... Aunque solo fuera un pedazo de papel con algo escrito...\nZzz... ¡...!
+Mmm... Snif...\nMe gustaría leer algo parecido a una Carta... Aunque solo fuera un pedazo de papel con algo escrito...\nZzz... ¡...!
+¡Oh! ¡Una Carta de un amigo!\n¿Eh?... Yo no sé mucho de Pokémon. Te lo puedes quedar.
+¡Oh! ¡Una Carta de un amigo!\n¿Eh?... Yo no sé mucho de Pokémon. Te lo puedes quedar.
+\w[menuskin]\C[8]¡\PN entregó la Carta!
+\w[menuskin]\C[8]¡\PN entregó la Carta!
+A ver, a ver...
+A ver, a ver...
+"Gracias por tu Carta.\nMe lo pasé muy bien en nuestra aventura.\nAunque los Zubat no me gustaron nada..."
+"Gracias por tu Carta.\nMe lo pasé muy bien en nuestra aventura.\nAunque los Zubat no me gustaron nada..."
+Te explico... Fuimos juntos a explorar la Cueva Oscura.\nSe trata de una cueva que conduce a otro camino.\nTengo que darte las gracias por haber sido tan amable.
+Te explico... Fuimos juntos a explorar la Cueva Oscura.\nSe trata de una cueva que conduce a otro camino.\nTengo que darte las gracias por haber sido tan amable.
+La MT44 contiene... Zzz... ...\n¡Ah, perdón! Contiene Descanso.\nEs un movimiento que duerme a los Pokémon y les permite recuperarse mientras descansan.
+La MT44 contiene... Zzz... ...\n¡Ah, perdón!  Contiene Descanso.\nEs un movimiento que duerme a los Pokémon y les permite recuperarse mientras descansan.
+Mmm... Qué sueño...
+Mmm... Qué sueño...
+He encontrado un buen Pokémon en la Cueva Oscura, así que voy a entrenarlo para poder enfrentarme a Pegaso.
+He encontrado un buen Pokémon en la Cueva Oscura, así que voy a entrenarlo para poder enfrentarme a Pegaso.
+¿No sabes quién es Pegaso? Es un gran entrenador de tipo Volador y el líder de Ciudad Malva.
+¿No sabes quién es Pegaso? Es un gran entrenador de tipo Volador y el líder de Ciudad Malva.
+Esto es la Cueva Oscura. Evidentemente está oscura.
+Esto es la Cueva Oscura. Evidentemente está oscura.
+Si no se llamaría... "Cueva".
+Si no se llamaría... "Cueva".
+¡Dian!\wt[20]
+¡Dian!\wt[20]
+\w[signskin4]\C[8]Ruta 31.\nAl sur, Ruta 30. \nAl oeste, Ciudad Malva.
+\w[signskin4]\C[8]Ruta 31.\nAl sur, Ruta 30. \nAl oeste, Ciudad Malva.
+\w[signskin]Cueva Oscura.
+\w[signskin]Cueva Oscura.

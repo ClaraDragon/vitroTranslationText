@@ -1,0 +1,80 @@
+﻿# Maps grouped under: Cueva Union (Highest ID: 33)
+[Map33]
+¡Arak!\wt[20]
+¡Arak!\wt[20]
+\w[menuskin]\C[8]Parece muy nervioso, ¡va a atacar!
+\w[menuskin]\C[8]Parece muy nervioso, ¡va a atacar!
+\w[menuskin]\C[8]Tomaste a Spinarak y lo devolviste a su Pokéball.
+\w[menuskin]\C[8]Tomaste a Spinarak y lo devolviste a su Pokéball.
+Si hay luz, no me asusta la cueva.\nSi eres fuerte, los Pokémon no se asustarán.
+Si hay luz, no me asusta la cueva.\nSi eres fuerte, los Pokémon no se asustarán.
+¡Rayos y centellas!
+¡Rayos y centellas!
+El fuego de mi Pokémon ilumina la cueva.
+El fuego de mi Pokémon ilumina la cueva.
+El supersónico de Zubat confunde a mis Pokémon. \n¡Y eso me preocupa!
+El supersónico de Zubat confunde a mis Pokémon. \n¡Y eso me preocupa!
+¡Fallé!
+¡Fallé!
+He estado practicando muchísimo para convertirme en Comefuego.\nChicos, ¡No intenten esto en casa!
+He estado practicando muchísimo para convertirme en Comefuego.\nChicos, ¡No intenten esto en casa!
+¡Guau! ¡Qué sorpresa! ¡No esperaba ver a nadie por aquí!
+¡Guau! ¡Qué sorpresa! ¡No esperaba ver a nadie por aquí!
+¡Guau vaya victoria aplastante!
+¡Guau vaya victoria aplastante!
+Me obligaron a comprar una Colaslowpoke.\nLo siento por el pobre Pokémon.
+Me obligaron a comprar una Colaslowpoke.\nLo siento por el pobre Pokémon.
+¿Te diriges a Pueblo Azalea? Demuestra a mis Pokémon que vales para luchar.
+¿Te diriges a Pueblo Azalea? Demuestra a mis Pokémon que vales para luchar.
+¡Oh, oh, oh!
+¡Oh, oh, oh!
+¡Muy bien! Ya lo he decidido. ¡No me iré hasta que mis Pokémon se hagan más fuertes!
+¡Muy bien! Ya lo he decidido. ¡No me iré hasta que mis Pokémon se hagan más fuertes!
+Merodeo por todas partes en busca de Pokémon. \n¿Tú también? ¡Pues entonces eres mi rival coleccionista!
+Merodeo por todas partes en busca de Pokémon. \n¿Tú también? ¡Pues entonces eres mi rival coleccionista!
+¡Ugh! Mis pobres Pokémon...
+¡Ugh! Mis pobres Pokémon...
+Todos los viernes se escucha el rugido de un Pokémon procedente de lo más profundo de la cueva.
+Todos los viernes se escucha el rugido de un Pokémon procedente de lo más profundo de la cueva.
+[Map34]
+¡Bien! ¡Por fin recibo visita!
+¡Bien! ¡Por fin recibo visita!
+¡Ja, ja, ja! Tienes energía para dar y<<n>>tomar, ¿eh?
+¡Ja, ja, ja! Tienes energía para dar y <<n>>tomar, ¿eh?
+Vivo aquí abajo.\nY tú también podrías si quisieras. Como ves, hay mucho sitio.
+Vivo aquí abajo.\nY tú también podrías si quisieras. Como ves, hay mucho sitio.
+¿Quién anda ahí?\n¡Déjame en paz, a mí y a mis Pokémon!
+¿Quién anda ahí?\n¡Déjame en paz, a mí y a mis Pokémon!
+¡Fuera...! ¡Lárgate!
+¡Fuera...! ¡Lárgate!
+Solo yo y mis Pokémon. ¡Aaah! ¡Me muero de alegría!
+Solo yo y mis Pokémon. ¡Aaah! ¡Me muero de alegría!
+¡Aaarg...!
+¡Aaarg...!
+He venido hasta aquí para estudiar los Pokémon.\n¡Te demostraré mis hallazgos en un combate real!
+He venido hasta aquí para estudiar los Pokémon.\n¡Te demostraré mis hallazgos en un combate real!
+¡Al final has sido tú quien me ha dado<<n>>una lección!
+¡Al final has sido tú quien me ha dado <<n>>una lección!
+Debería reunir mis hallazgos y publicarlos.\nPodría hacerme tan famoso como el Profesor Elm.
+Debería reunir mis hallazgos y publicarlos.\nPodría hacerme tan famoso como el Profesor Elm.
+¡Steel!\wt[20]
+¡Steel!\wt[20]
+[Map46]
+Iré donde haga falta para atrapar los Pokémon que me gustan. Eso es lo que hace un gran entrenador.
+Iré donde haga falta para atrapar los Pokémon que me gustan. Eso es lo que hace un gran entrenador.
+¡Preferiría mimar a mis Pokémon en<<n>>lugar de hacerlos combatir!
+¡Preferiría mimar a mis Pokémon en <<n>>lugar de hacerlos combatir!
+Hay un Pokémon que viene cada semana hasta la orilla. Me gustaría tanto verlo...
+Hay un Pokémon que viene cada semana hasta la orilla. Me gustaría tanto verlo...
+En este mundo hay dos tipos de personas: las que tienen estilo y las que no tienen ¿A qué tipo perteneces tú?
+En este mundo hay dos tipos de personas: las que tienen estilo y las que no tienen ¿A qué tipo perteneces tú?
+¡Tu estilo es deslumbrante!
+¡Tu estilo es deslumbrante!
+Tu increíble fuerza es incalculable.
+Tu increíble fuerza es incalculable. 
+Estoy entrenando. ¿Quieres luchar?
+Estoy entrenando. ¿Quieres luchar?
+No. Lo admito. Eres demasiado para<<n>>mí.
+No. Lo admito. Eres demasiado para <<n>>mí.
+Seguiré entrenando hasta que mejore
+Seguiré entrenando hasta que mejore

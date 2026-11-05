@@ -1,0 +1,127 @@
+﻿# Maps grouped under: Ruta 39 (Highest ID: 89)
+[Map89]
+Déjame ver de qué son capaces tus Pokémon.
+Déjame ver de qué son capaces tus Pokémon.
+¡Ooh! Tus Pokémon tienen potencial.
+¡Ooh! Tus Pokémon tienen potencial.
+¿Sabes que los Pokémon tienen distintas habilidades? Son como las personas.\nCada uno tiene su propio potencial.
+¿Sabes que los Pokémon tienen distintas habilidades? Son como las personas.\nCada uno tiene su propio potencial.
+¿Miiiii?
+¿Miiiii?
+\w[signskin4]\C[8]Ruta 39.\nAl sur, Ciudad Olivo. \nAl este, Ruta 38.
+\w[signskin4]\C[8]Ruta 39.\nAl sur, Ciudad Olivo. \nAl este, Ruta 38.
+¡Miiiii!
+¡Miiiii!
+\w[signskin2]\C[10]Granja Mu-mu. \n¡Prueba nuestra rica leche fresca!
+\w[signskin2]\C[10]Granja Mu-mu. \n¡Prueba nuestra rica leche fresca!
+Acabo de volver a Ciudad Olivo.\n¿Te apetece luchar con los Pokémon?
+Acabo de volver a Ciudad Olivo.\n¿Te apetece luchar con los Pokémon?
+¡Aarg!
+¡Aarg!
+Mis Pokémon han sido obtenidos y entrenados en el extranjero.\nMe han acompañado en esos largos viajes.
+Mis Pokémon han sido obtenidos y entrenados en el extranjero.\nMe han acompañado en esos largos viajes.
+\w[signskin3]\C[8]Pistas para Entrenadores: \nDependiendo del tipo de árbol, pueden caer diferentes Pokémon cuando los sacudes con Golpe Cabeza.\n¡Pruébalo contra distintos árboles!
+\w[signskin3]\C[8]Pistas para Entrenadores: \nDependiendo del tipo de árbol, pueden caer diferentes Pokémon cuando los sacudes con Golpe Cabeza.\n¡Pruébalo contra distintos árboles!
+¡Es buen momento para presumir de Pikachu!
+¡Es buen momento para presumir de Pikachu!
+Al final no he podido presumir de<<n>>Pikachu...
+Al final no he podido presumir de <<n>>Pikachu...
+¡Los Pokéfans tenemos por norma no escuchar a la gente presumida!
+¡Los Pokéfans tenemos por norma no escuchar a la gente presumida!
+\tg[Lt. Surge]¡Eh, tú!\n¿Quieres que nos hagamos una foto para recordar nuestro encuentro?
+\tg[Lt. Surge]¡Eh, tú!\n¿Quieres que nos hagamos una foto para recordar nuestro encuentro?
+\tg[Lt. Surge]¡Muy bien!\n¡Venga, quiero ver una sonrisa de oreja a oreja!
+\tg[Lt. Surge]¡Muy bien!\n¡Venga, quiero ver una sonrisa de oreja a oreja!
+\tg[Lt. Surge]¡Guau! ¡Ha salido una foto genial!\n¡Gracias, Ruta 39!
+\tg[Lt. Surge]¡Guau! ¡Ha salido una foto genial!\n¡Gracias, Ruta 39!
+\tg[Lt. Surge]¿Cómo que no?\nBueno, a ver si la próxima vez estás más de humor...
+\tg[Lt. Surge]¿Cómo que no?\nBueno, a ver si la próxima vez estás más de humor...
+¡Auros!
+¡Auros!
+¡Qué Pokémon más encantadores!\nEnseñemos nuestros Pokémon al mismo tiempo.
+¡Qué Pokémon más encantadores!\nEnseñemos nuestros Pokémon al mismo tiempo.
+No me importa perder.
+No me importa perder.
+¿Sabes algo sobre los Pokémon bebés?\n¡Seguro que son adorables!
+¿Sabes algo sobre los Pokémon bebés?\n¡Seguro que son adorables!
+Poké Ball Perdida
+Poké Ball Perdida
+\w[menuskin]\C[8]Deberías entregárselo a su dueño.
+\w[menuskin]\C[8]Deberías entregárselo a su dueño.
+¡Oh, a ver...!\n¿Eso que llevas ahí es una Pokédex?
+¡Oh, a ver...!\n¿Eso que llevas ahí es una Pokédex?
+¡Qué recuerdos me trae!\nYo soy Baoba.
+¡Qué recuerdos me trae!\nYo soy Baoba.
+\tg[Baoba]Antes era el encargado de la Zona Safari en Ciudad Fucsia, pero casi de un día para otro, los visitantes fueron perdiendo el interés y encontraron otros entretenimientos.
+\tg[Baoba]Antes era el encargado de la Zona Safari en Ciudad Fucsia, pero casi de un día para otro, los visitantes fueron perdiendo el interés y encontraron otros entretenimientos.
+\tg[Baoba]Decían que estaba pasado de moda. ¡Mi Zona Safari!
+\tg[Baoba]Decían que estaba pasado de moda. ¡Mi Zona Safari!
+\tg[Baoba]Entonces decidí irme al extranjero a aprender nuevas técnicas de gerencia y ahora he construido una Zona Safari nueva en Ciudad Orquídea.
+\tg[Baoba]Entonces decidí irme al extranjero a aprender nuevas técnicas de gerencia y ahora he construido una Zona Safari nueva en Ciudad Orquídea.
+\tg[Baoba]Y ahora el destino ha hecho que tú y yo nos encontremos por alguna razón.\nCreo que es una señal para que nos demos nuestros números de teléfono.
+\tg[Baoba]Y ahora el destino ha hecho que tú y yo nos encontremos por alguna razón.\nCreo que es una señal para que nos demos nuestros números de teléfono.
+\tg[Baoba]¡Cuando la Zona Safari esté a punto, tú serás el primero en saberlo!
+\tg[Baoba]¡Cuando la Zona Safari esté a punto, tú serás el primero en saberlo!
+\tg[Baoba]¡Cuando esté todo listo, te avisaré con el Pokégear!
+\tg[Baoba]¡Cuando esté todo listo, te avisaré con el Pokégear!
+Sí
+Sí
+No
+No
+[Map111]
+Nosotros vendemos la Leche Mu-mu. Ven a comprarla siempre que te apetezca.
+Nosotros vendemos la Leche Mu-mu. Ven a comprarla siempre que te apetezca.
+¡Gracias!\nMu-mu ya está muchisisísimo mejor. \nVoy a darte esta piedra bonita que encontré el otro día como agradecimiento.
+¡Gracias!\nMu-mu ya está muchisisísimo mejor. \nVoy a darte esta piedra bonita que encontré el otro día como agradecimiento.
+Mu-mu está enferma. La única solución es darle muchas Bayas Aranja, sus favoritas.
+Mu-mu está enferma. La única solución es darle muchas Bayas Aranja, sus favoritas.
+¡Miiiiil!
+¡Miiiiil!
+\w[menuskin]\C[8]¡Está rebosante de energía!
+\w[menuskin]\C[8]¡Está rebosante de energía!
+Tank...
+Tank...
+\w[menuskin]\C[8]Por su voz se nota que no está bien...
+\w[menuskin]\C[8]Por su voz se nota que no está bien...
+\w[menuskin]\C[8]¿Quieres darle una Baya Aranja a Miltank?
+\w[menuskin]\C[8]¿Quieres darle una Baya Aranja a Miltank?
+\w[menuskin]\C[8]¡\PN le ha dado una Baya Aranja a Miltank!
+\w[menuskin]\C[8]¡\PN le ha dado una Baya Aranja a Miltank!
+\w[menuskin]\C[8]\PN no le da una Baya Aranja. \nMILTANK parece triste...
+\w[menuskin]\C[8]\PN no le da una Baya Aranja. \nMILTANK parece triste...
+\w[menuskin]\C[8]¡MILTANK se ha recuperado!
+\w[menuskin]\C[8]¡MILTANK se ha recuperado!
+\w[menuskin]\C[8]¡MILTANK está bastante mejor!
+\w[menuskin]\C[8]¡MILTANK está bastante mejor!
+\w[menuskin]\C[8]¡MILTANK está un poco mejor!
+\w[menuskin]\C[8]¡MILTANK está un poco mejor!
+¿Te gusta la Leche Mu-mu?\nEs mi orgullo y mi alegría.
+¿Te gusta la Leche Mu-mu?\nEs mi orgullo y mi alegría.
+\g¡Dásela a los Pokémon para restaurar sus PS! \nTuya es por solo 500 $.
+\g¡Dásela a los Pokémon para restaurar sus PS! \nTuya es por solo 500 $.
+¡Toma! ¡Bébetela y disfruta!
+¡Toma! ¡Bébetela y disfruta!
+Lo siento.\n¡Si no hay dinero, no hay trato!
+Lo siento.\n¡Si no hay dinero, no hay trato!
+¿No la quieres? Vuelve otro día.
+¿No la quieres? Vuelve otro día.
+Mi Miltank ya no me da leche.\nLa leche de esta Granja es famosa.
+Mi Miltank ya no me da leche.\nLa leche de esta Granja es famosa.
+Casi todos quieren probarla.\nSupongo que si le doy muchas Bayas Aranja me dará mucha leche.
+Casi todos quieren probarla.\nSupongo que si le doy muchas Bayas Aranja me dará mucha leche.
+Casi mejor que me voy a ordeñar.
+Casi mejor que me voy a ordeñar.
+¡Ay, hijo! ¡Que has curado a nuestra Mu-mu! Ya vuelve a dar leche.\nToma esto por las molestias, mozo.
+¡Ay, hijo! ¡Que has curado a nuestra Mu-mu! Ya vuelve a dar leche.\nToma esto por las molestias, mozo.
+Nuestra leche se vende hasta en Kanto.\nAsí que como nuestra Mu-mu no nos dé leche... ojo cuidado tocará apretarse bien bien el cinturón.
+Nuestra leche se vende hasta en Kanto.\nAsí que como nuestra Mu-mu no nos dé leche...  ojo cuidado tocará apretarse bien bien el cinturón.
+Sí
+Sí
+No
+No
+Una botella
+Una botella
+Una docena
+Una docena
+Nada
+Nada

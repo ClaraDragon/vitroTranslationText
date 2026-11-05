@@ -1,0 +1,66 @@
+﻿# Maps grouped under: Gimnasio Caoba (Highest ID: 75)
+[Map75]
+Parece que el bloque de hielo está esperando el ardor de una batalla para derretirse.
+Parece que el bloque de hielo está esperando el ardor de una batalla para derretirse.
+Este Gimnasio tiene un suelo resbaladizo.\n¿A que viene bien para patinar?
+Este Gimnasio tiene un suelo resbaladizo.\n¿A que viene bien para patinar?
+¿Ves lo serios que somos?
+¿Ves lo serios que somos?
+Este Gimnasio es genial. ¡Me encanta patinar con mis Pokémon!
+Este Gimnasio es genial. ¡Me encanta patinar con mis Pokémon!
+\tg[Fredo]Los Pokémon viven todo tipo de experiencias. Yo también he visto y sufrido mucho en mi vida.
+\tg[Fredo]Los Pokémon viven todo tipo de experiencias. Yo también he visto y sufrido mucho en mi vida.
+\tg[Fredo]Soy mayor, así que te enseñaré lo que quiero decir. He estado con los Pokémon desde antes de que tú nacieras.
+\tg[Fredo]Soy mayor, así que te enseñaré lo que quiero decir. He estado con los Pokémon desde antes de que tú nacieras.
+\tg[Fredo]Y no pierdo fácilmente. Yo, Fredo, el Entrenador del invierno, ¡te mostraré mi poder!
+\tg[Fredo]Y no pierdo fácilmente. Yo, Fredo, el Entrenador del invierno, ¡te mostraré mi poder!
+Mmm... He jugado todas mis bazas...
+Mmm... He jugado todas mis bazas...
+\tg[Fredo]¡Ah! Me impresiona tu valor.
+\tg[Fredo]¡Ah! Me impresiona tu valor.
+\tg[Fredo]Con tu gran voluntad, sé que superarás todos los obstáculos.\n¡Te mereces esta Medalla!
+\tg[Fredo]Con tu gran voluntad, sé que superarás todos los obstáculos.\n¡Te mereces esta Medalla! 
+\tg[Fredo]Además, voy a darte esto. Es el movimiento Paisaje Nevado.
+\tg[Fredo]Además, voy a darte esto. Es el movimiento Paisaje Nevado.
+\tg[Fredo]Provoca una nevada durante un rato que no les hará ninguna gracia a los Pokémon que no sean de tipo Hielo.
+\tg[Fredo]Provoca una nevada durante un rato que no les hará ninguna gracia a los Pokémon que no sean de tipo Hielo.
+\tg[Fredo]Seguro que les hace comprender la dureza del invierno.
+\tg[Fredo]Seguro que les hace comprender la dureza del invierno.
+\tg[Fredo]La primavera llega cuando se derriten el hielo y la nieve. Tus Pokémon y tú pasareis juntos muchos años. ¡Pasadlo bien!
+\tg[Fredo]La primavera llega cuando se derriten el hielo y la nieve. Tus Pokémon y tú pasareis juntos muchos años. ¡Pasadlo bien!
+\tg[Fredo]Te estaba esperando.\nNo, no hace falta que digas nada. Dejemos que nuestros Pokémon hablen por nosotros en el combate.
+\tg[Fredo]Te estaba esperando.\nNo, no hace falta que digas nada. Dejemos que nuestros Pokémon hablen por nosotros en el combate.
+\tg[Fredo]Mmm... Eres formidable.
+\tg[Fredo]Mmm... Eres formidable.
+Para vencer a Fredo, el Líder del Gimnasio, piensa antes de patinar.
+Para vencer a Fredo, el Líder del Gimnasio, piensa antes de patinar.
+¡No perderé ante ti esquiando!
+¡No perderé ante ti esquiando!
+Si no patinas con precisión, te perderás toda la gracia de este Gimnasio.
+Si no patinas con precisión, te perderás toda la gracia de este Gimnasio.
+¡Fredo es bueno, pero tú eres aún mejor!\n¡Ha sido un combate intergeneracional!
+¡Fredo es bueno, pero tú eres aún mejor!\n¡Ha sido un combate intergeneracional!
+Fredo es un veterano que lleva entrenando Pokémon desde hace 50 años.\nTal como has visto ya, este Gimnasio está recubierto de hielo y hace temblar de frío a todo el mundo.
+Fredo es un veterano que lleva entrenando Pokémon desde hace 50 años.\nTal como has visto ya, este Gimnasio está recubierto de hielo y hace temblar de frío a todo el mundo.
+Hay que estar preparados para el frío. Como por ejemplo...\n¡Teniendo un espíritu de combate ardiente!
+Hay que estar preparados para el frío. Como por ejemplo...\n¡Teniendo un espíritu de combate ardiente!
+¡Mira qué bien patino! ¿Qué? ¿Cómo que estoy esquiando?
+¡Mira qué bien patino! ¿Qué? ¿Cómo que estoy esquiando?
+¡No! ¡Has conseguido que me caiga de<<n>>bruces!
+¡No! ¡Has conseguido que me caiga de <<n>>bruces!
+No tendría que haber presumido tanto sobre mi destreza con los patines.\n¿Qué? ¡Que no, leñe! ¡Que estoy patinando!
+No tendría que haber presumido tanto sobre mi destreza con los patines.\n¿Qué? ¡Que no, leñe!  ¡Que estoy patinando!
+Vaya, vaya... ¿Estás tiritando? ¿Acaso te da miedo luchar contra mí?
+Vaya, vaya... ¿Estás tiritando? ¿Acaso te da miedo luchar contra mí?
+¡El miedo te ha hecho más fuerte!
+¡El miedo te ha hecho más fuerte!
+Pues me has dejado tiritando tú a mí, prima.
+Pues me has dejado tiritando tú a mí, prima.
+Pues me has dejado tiritando tú a mí, primo.
+Pues me has dejado tiritando tú a mí, primo.
+Soñando, soñando... ¡Triunfé patinando!
+Soñando, soñando... ¡Triunfé patinando!
+No me queda más remedio: tendré que<<n>>contarte su secreto.
+No me queda más remedio: tendré que <<n>>contarte su secreto.
+¡Cómo me gusta patinar sobre hielo!
+¡Cómo me gusta patinar sobre hielo!

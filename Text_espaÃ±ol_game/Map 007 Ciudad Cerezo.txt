@@ -1,0 +1,143 @@
+﻿# Maps grouped under: Ciudad Cerezo (Highest ID: 7)
+[Map7]
+La casa del Sr. Pokémon está más adelante. Se trata de un hombre muy curioso, o eso dicen los que han hablado con él.
+La casa del Sr. Pokémon está más adelante. Se trata de un hombre muy curioso, o eso dicen los que han hablado con él.
+He intentado combatir con todos los entrenadores de la ruta.\n¡Pero es que yo no valgo para esto!
+He intentado combatir con todos los entrenadores de la ruta.\n¡Pero es que yo no valgo para esto!
+Voy a tener que estudiar para poder ganarme la vida.
+Voy a tener que estudiar para poder ganarme la vida.
+Pues a seguir pescando. A ver si esta vez consigo un objeto raro...
+Pues a seguir pescando. A ver si esta vez consigo un objeto raro...
+Acabo de atrapar a un Pokémon que lleva un objeto, pero tengo la bolsa llena.
+Acabo de atrapar a un Pokémon que lleva un objeto, pero tengo la bolsa llena.
+A ver qué es...
+A ver qué es...
+¡Tsk! ¿Un Agua Mística? La quinta hoy.
+¡Tsk! ¿Un Agua Mística? La quinta hoy.
+Ya que estás aquí, toma. No la necesito.
+Ya que estás aquí, toma. No la necesito.
+¿Qué tal va la pesca? ¡Sigue adelante, figura!
+¿Qué tal va la pesca? ¡Sigue adelante, figura!
+Eh, tú. Tienes cara de que te gusta pescar. ¿A quién no le gusta pescar?
+Eh, tú. Tienes cara de que te gusta pescar. ¿A quién no le gusta pescar?
+Toma, ¡pesca hasta que el mundo se acabe!
+Toma, ¡pesca hasta que el mundo se acabe!
+¡Tret!\wt[10]
+¡Tret!\wt[10]
+Mmmm... Empezaste hace poco, ¿eh?\nNo te preocupes, soy un experto. Je, je, je.
+Mmmm... Empezaste hace poco, ¿eh?\nNo te preocupes, soy un experto. Je, je, je.
+Yo puedo enseñarte algunas cositas, pero solo si no se lo dices a nadie.\n¿Vale?
+Yo puedo enseñarte algunas cositas, pero solo si no se lo dices a nadie.\n¿Vale?
+Vale, voy a ir despacito y con paciencia, para que puedas seguirme el ritmo.
+Vale, voy a ir despacito y con paciencia, para que puedas seguirme el ritmo.
+Esto es un Centro Pokémon, donde puedes curar a tu equipo.
+Esto es un Centro Pokémon, donde puedes curar a tu equipo.
+Además las enfermeras son muy... agradables.
+Además las enfermeras son muy... agradables.
+Esto es una Tienda Pokémon. En ellas puedes comprar casi de todo, pero hay cosas que solo le puedes comprar a un servidor.
+Esto es una Tienda Pokémon. En ellas puedes comprar casi de todo, pero hay cosas que solo le puedes comprar a un servidor.
+La Ruta 30 está por aquí. En ella los entrenadores luchan entre ellos hasta cansarse. \nTodo recto tienes la casa del Sr. Pokémon.
+La Ruta 30 está por aquí. En ella los entrenadores luchan entre ellos hasta cansarse. \nTodo recto tienes la casa del Sr. Pokémon.
+Como podrás adivinar, esto es el mar.\nAlgunos Pokémon solo viven en el agua, aunque los podrás sacar igualmente a combatir en tierra.\n¿Por qué? ¡No preguntes!
+Como podrás adivinar, esto es el mar.\nAlgunos Pokémon solo viven en el agua, aunque los podrás sacar igualmente a combatir en tierra.\n¿Por qué? ¡No preguntes!
+Y... esta es mi casa.\nPor haberme seguido todo el rato sin rechistar, voy a darte una muestra de mi cariño.\n...
+Y... esta es mi casa.\nPor haberme seguido todo el rato sin rechistar, voy a darte una muestra de mi cariño.\n...
+¡Es broma!\nToma una de mis especialidades. La primera siempre es gratis.
+¡Es broma!\nToma una de mis especialidades. La primera siempre es gratis.
+Podrás comprar más dentro de mi casa. Visítame, je, je, je...
+Podrás comprar más dentro de mi casa. Visítame, je, je, je...
+Ret...\wt[10]
+Ret...\wt[10]
+\w[signskin2]\C[10]Ciudad Cerezo.\nLa ciudad que huele a flores.
+\w[signskin2]\C[10]Ciudad Cerezo.\nLa ciudad que huele a flores.
+\sh¡Grrr! ¡Maldito cabo, maldita red rota, maldito Pidgey que ha hecho sus cosas en mi gorra!
+\sh¡Grrr! ¡Maldito cabo, maldita red rota, maldito Pidgey que ha hecho sus cosas en mi gorra!
+\sh¡Y encima no hay viento!\n¡Estoy que ardo, leñe!
+\sh¡Y encima no hay viento!\n¡Estoy que ardo, leñe!
+¡Eh, tú! ¡Sí, tú!\n¿Qué miras, eh?
+¡Eh, tú! ¡Sí, tú!\n¿Qué miras, eh?
+Verás, tengo un problema. No sé si se nota, pero tengo peor genio que un Primeape con hemorroides.\nEstoy que salto a la mínima.
+Verás, tengo un problema. No sé si se nota, pero tengo peor genio que un Primeape con hemorroides.\nEstoy que salto a la mínima.
+El otro día lancé un remo tan lejos que le di a un Mantine en la cabeza.\nY luego me sentí fatal, porque el pobre bicho estaba tan tranquilo.
+El otro día lancé un remo tan lejos que le di a un Mantine en la cabeza.\nY luego me sentí fatal, porque el pobre bicho estaba tan tranquilo.
+He oído que los Medicham son la mar de tranquilos, muy zen y esas cosas.
+He oído que los Medicham son la mar de tranquilos, muy zen y esas cosas.
+Todo el dia meditando y esas cosas, que son la paz hecha Pokémon, vamos.\nY yo necesito un poco de eso.
+Todo el dia meditando y esas cosas, que son la paz hecha Pokémon, vamos.\nY yo necesito un poco de eso.
+¿Podrías traerme un Medicham? Aunque solo sea un rato, para que me enseñe sus trucos.\nNo te pido que me lo regales, ni mucho menos. Solo verlo, hablar con él... o eso que hacen los Medicham.
+¿Podrías traerme un Medicham? Aunque solo sea un rato, para que me enseñe sus trucos.\nNo te pido que me lo regales, ni mucho menos. Solo verlo, hablar con él... o eso que hacen los Medicham.
+¡Te recompensaré bien, palabra de marinero!
+¡Te recompensaré bien, palabra de marinero!
+¡Mil gracias! Te espero aquí mismo, en la playa.
+¡Mil gracias! Te espero aquí mismo, en la playa.
+Tráeme un Medicham y ya verás cómo me relajo.
+Tráeme un Medicham y ya verás cómo me relajo.
+¿Que no tienes un Medicham? Pues búscalo, que yo no puedo ir.
+¿Que no tienes un Medicham? Pues búscalo, que yo no puedo ir.
+¡Ah, ya tienes un Medicham!
+¡Ah, ya tienes un Medicham!
+¡Míralo! Ahí está, con esa postura de "todo fluye, tío". ¡Qué paz transmite!
+¡Míralo! Ahí está, con esa postura de "todo fluye, tío". ¡Qué paz transmite!
+A ver, Medicham... yo soy Bernardo, marinero de profesión y volcán de pasiones. Enséñame eso de la calma.
+A ver, Medicham... yo soy Bernardo, marinero de profesión y volcán de pasiones. Enséñame eso de la calma.
+¿Cómo lo haces?\n¿Respiras?\n¿Piensas en el mar en calma?\n¿Le das patadas a cosas pero por dentro?
+¿Cómo lo haces?\n¿Respiras?\n¿Piensas en el mar en calma?\n¿Le das patadas a cosas pero por dentro?
+Medi, medi... Chan...\wt[10]
+Medi, medi... Chan...\wt[10]
+\..\..\..\nVale. Vale. Esto... esto no está mal.\nSiento la brisa, oigo las olas, huelo la sal\..\..\..
+\..\..\..\nVale. Vale. Esto... esto no está mal.\nSiento la brisa, oigo las olas, huelo la sal\..\..\..
+¡Pero estoy en calma!\n¡No le he pegado a nadie!
+¡Pero estoy en calma!\n¡No le he pegado a nadie!
+¡Lo estoy pillando! ¡Medicham, eres un crack!
+¡Lo estoy pillando! ¡Medicham, eres un crack!
+Oye, entrenador, tráelo de vez en cuando, que esto es mejor que ir al bar de Ciudad Orquídea.
+Oye, entrenador, tráelo de vez en cuando, que esto es mejor que ir al bar de Ciudad Orquídea.
+Aquí tienes lo prometido.\nUn Cinturón de Experto y una Banda Aguante.
+Aquí tienes lo prometido.\nUn Cinturón de Experto y una Banda Aguante.
+Yo ya no los necesito, porque voy a ser la calma personificada.
+Yo ya no los necesito, porque voy a ser la calma personificada.
+¡Pero sácalo para que lo vea, que en la Poké Ball puede estar!
+¡Pero sácalo para que lo vea, que en la Poké Ball puede estar!
+Yo estare por aquí, en la playa.
+Yo estare por aquí, en la playa.
+Mmmmmmm... estoy en calma... en calma total... ¡Mmm!\n¡Si hasta me está dando hambre! Meditar cansa, ¿eh?
+Mmmmmmm... estoy en calma... en calma total...  ¡Mmm!\n¡Si hasta me está dando hambre! Meditar cansa, ¿eh?
+¡Sen!\wt[10]
+¡Sen!\wt[10]
+\w[signskin5]Casa del Guía. \nEl anciano que va a cien por hora.
+\w[signskin5]Casa del Guía. \nEl anciano que va a cien por hora.
+\w[signskin5]Casa del Turboviejo. \nEl anciano que va a cien por hora.
+\w[signskin5]Casa del Turboviejo. \nEl anciano que va a cien por hora.
+Cuando vas con tu equipo Pokémon, da igual con qué obstáculos te encuentres.
+Cuando vas con tu equipo Pokémon, da igual con qué obstáculos te encuentres.
+Si tus Pokémon conocen movimientos de campo, ¡esos obstáculos no serán nada para ti!
+Si tus Pokémon conocen movimientos de campo, ¡esos obstáculos no serán nada para ti!
+A veces una misma especie de Pokémon puede tener ligeras variaciones en su color.
+A veces una misma especie de Pokémon puede tener ligeras variaciones en su color.
+Como puedes ver en mis tres Sentret aquí, ¿no son una monada?
+Como puedes ver en mis tres Sentret aquí, ¿no son una monada?
+Sí
+Sí
+No
+No
+[Map13]
+Los Pokémon tienen personalidades distintas.\nY parece que la personalidad puede ser importante en combate.
+Los Pokémon tienen personalidades distintas.\nY parece que la personalidad puede ser importante en combate.
+Si un Pokémon tuviese una personalidad como la de mi hermano, tendría una clara desventaja.
+Si un Pokémon tuviese una personalidad como la de mi hermano, tendría una clara desventaja.
+Con esos chistes tan malos seguro que los Pokémon enemigos se enfadarían...
+Con esos chistes tan malos seguro que los Pokémon enemigos se enfadarían...
+¡Zuri!\wt[10]
+¡Zuri!\wt[10]
+¡Cuando sea mayor, voy a ser Líder de Gimnasio! \nSiempre gano a mi mejor amigo con mi Azurill, ¿será que tiene una habilidad especial?
+¡Cuando sea mayor, voy a ser Líder de Gimnasio! \nSiempre gano a mi mejor amigo con mi Azurill, ¿será que tiene una habilidad especial?
+\w[menuskin]\C[8]Es una nevera.
+\w[menuskin]\C[8]Es una nevera.
+\w[menuskin]\C[8]¡Su interior está tan frío como el saco de un Delibird!
+\w[menuskin]\C[8]¡Su interior está tan frío como el saco de un Delibird!
+¿Quieres saber si vales o no con los Pokémon? \nPues vete a los Gimnasios Pokémon de Johto y gana muchas Medallas, ¡si lo consigues serás una gran promesa!
+¿Quieres saber si vales o no con los Pokémon? \nPues vete a los Gimnasios Pokémon de Johto y gana muchas Medallas, ¡si lo consigues serás una gran promesa!
+Hola, hola.\n¿Vienes a por más hierbitas?
+Hola, hola.\n¿Vienes a por más hierbitas?
+A veces los Pokémon se transforman al beber mucha agua. A esto se le llama bebolución.
+A veces los Pokémon se transforman al beber mucha agua. A esto se le llama bebolución.

@@ -1,0 +1,249 @@
+﻿# Maps grouped under: Teatro de Danza (Highest ID: 43)
+[Map43]
+Además de ser expertas bailarinas, las Chicas Kimono también dominan el arte de los combates Pokémon.\nSin embargo, raramente entablan un combate.
+Además de ser expertas bailarinas, las Chicas Kimono también dominan el arte de los combates Pokémon.\nSin embargo, raramente entablan un combate.
+En el caso de que te retaran, ¿serías capaz de derrotarlas?
+En el caso de que te retaran, ¿serías capaz de derrotarlas?
+¡Fantástico!\nPese a tu edad, has demostrado que no te acobardas fácilmente.\nToma esto, te lo mereces.
+¡Fantástico!\nPese a tu edad, has demostrado que no te acobardas fácilmente.\nToma esto, te lo mereces.
+Es Surf, un movimiento muy poderoso.
+Es Surf, un movimiento muy poderoso.
+¿Qué se ha creído ese rufián del Team Rocket? \n¿Cómo se atreve a molestar a MI Chica Kimono?
+¿Qué se ha creído ese rufián del Team Rocket? \n¿Cómo se atreve a molestar a MI Chica Kimono?
+¡No le toques un pelo, descocado!
+¡No le toques un pelo, descocado!
+¡Psy psy!
+¡Psy psy!
+Ese anciano siempre va con su Psyduck con el movimiento Surf.\nMe gustaría poder enseñar a bailar a los Pokémon que conocen ese movimiento... ¡Harían natación sincronizada!
+Ese anciano siempre va con su Psyduck con el movimiento Surf.\nMe gustaría poder enseñar a bailar a los Pokémon que conocen ese movimiento... ¡Harían natación sincronizada!
+Ay, ayyy...\nSi no fuera porque me duele la barriga, ¡ya le enseñaría yo modales a ese tipejo!
+Ay, ayyy...\nSi no fuera porque me duele la barriga, ¡ya le enseñaría yo modales a ese tipejo!
+¡Buuu, fuera!
+¡Buuu, fuera!
+¡Vaya peñazo de danza!\n¡Ya podríais marcaros una jota o cualquier cosa más animada!
+¡Vaya peñazo de danza!\n¡Ya podríais marcaros una jota o cualquier cosa más animada!
+\tg[Chica Kimono]Caballero...\nLamento deciros que vuestras peticiones están fuera de lugar.
+\tg[Chica Kimono]Caballero...\nLamento deciros que vuestras peticiones están fuera de lugar.
+¿Cómo?\n¿Te atreves a llevarle la contraria a un espectador?
+¿Cómo?\n¿Te atreves a llevarle la contraria a un espectador?
+¿Hace falta que haga una demostración?\n¡Fíjate bien en cómo hay que mover las caderas! ¡Ja, ja, ja, ja!
+¿Hace falta que haga una demostración?\n¡Fíjate bien en cómo hay que mover las caderas! ¡Ja, ja, ja, ja!
+¡Es... es mi oportunidad!\n¡Ahora podría conocer a esa Chica Kimono!
+¡Es... es mi oportunidad!\n¡Ahora podría conocer a esa Chica Kimono!
+Calma, Manolo... Tú puedes...
+Calma, Manolo... Tú puedes...
+Ay, ayyy...\nMe duele tanto la espalda... ¡Uy, qué dolor! Encárgate tú de ese esperpento.
+Ay, ayyy...\nMe duele tanto la espalda... ¡Uy, qué dolor! Encárgate tú de ese esperpento.
+\tg[Satsuki]Cada día sin excepción practicamos nuestra danza en este escenario de la vida.
+\tg[Satsuki]Cada día sin excepción practicamos nuestra danza en este escenario de la vida.
+\tg[Satsuki]Y, de igual modo, ni un solo día eludimos el cuidado de nuestros Pokémon para que, poco a poco, vayan progresando.
+\tg[Satsuki]Y, de igual modo, ni un solo día eludimos el cuidado de nuestros Pokémon para que, poco a poco, vayan progresando.
+Disculpadme... Vuestro nombre es \PN, ¿cierto? \nHa sido un magnífico combate.
+Disculpadme... Vuestro nombre es \PN, ¿cierto? \nHa sido un magnífico combate.
+Mi nombre es Satsuki, de las Chicas Kimono.
+Mi nombre es Satsuki, de las Chicas Kimono.
+\tg[Satsuki]Vuestra destreza a la hora de entrenar Pokémon con ternura y dureza al mismo tiempo es admirable.
+\tg[Satsuki]Vuestra destreza a la hora de entrenar Pokémon con ternura y dureza al mismo tiempo es admirable.
+\tg[Satsuki]Ansío ver en qué se convierten tales Pokémon, \PN.
+\tg[Satsuki]Ansío ver en qué se convierten tales Pokémon, \PN.
+\tg[Satsuki]Espero que esto os sea útil.
+\tg[Satsuki]Espero que esto os sea útil.
+\tg[Satsuki]Seguramente os encontreis a mis hermanas en vuestro viaje.\nMucha suerte, noble \PN.
+\tg[Satsuki]Seguramente os encontreis a mis hermanas en vuestro viaje.\nMucha suerte, noble \PN.
+¡Menuda falta de respeto! ¡Los jóvenes de hoy son unos maleducados!
+¡Menuda falta de respeto! ¡Los jóvenes de hoy son unos maleducados!
+Las Chicas Kimono son tan gráciles...\nPero seguro que tienen que soportar un entrenamiento muy estricto antes de salir a escena.\nSupongo que, si algo te gusta, aguantas lo que te echen.
+Las Chicas Kimono son tan gráciles...\nPero seguro que tienen que soportar un entrenamiento muy estricto antes de salir a escena.\nSupongo que, si algo te gusta, aguantas lo que te echen.
+¿Eh? ¿Y tú qué quieres?\n¡Estoy en plena coreografía!
+¿Eh? ¿Y tú qué quieres?\n¡Estoy en plena coreografía!
+¡Quítate de en medio o te quitaré yo con mis pasos prohibidos!
+¡Quítate de en medio o te quitaré yo con mis pasos prohibidos!
+¡Pero yo no soy un esbirro<<n>>cualquiera!
+¡Pero yo no soy un esbirro <<n>>cualquiera!
+¡Ahora que caigo!\nNo debería estar perdiendo el tiempo aquí.\nEstamos en medio de una misión importante.\n¡Si me pillan me pasaré el resto de mis días pelando patatas!
+¡Ahora que caigo!\nNo debería estar perdiendo el tiempo aquí.\nEstamos en medio de una misión importante.\n¡Si me pillan me pasaré el resto de mis días pelando patatas!
+¡Mejor me las piro a tiempo!\n¡El bailarín Rocket se abre!
+¡Mejor me las piro a tiempo!\n¡El bailarín Rocket se abre!
+[Map145]
+\tg[\v[14]]¡Vaya! Que las mismísimas Chicas Kimono te den ese honor...
+\tg[\v[14]]¡Vaya! Que las mismísimas Chicas Kimono te den ese honor...
+\tg[\v[14]]¡Me das mucha envidia, \PN!
+\tg[\v[14]]¡Me das mucha envidia, \PN!
+\tg[\v[14]]Las Chicas Kimono te han dado una oportunidad de oro.
+\tg[\v[14]]Las Chicas Kimono te han dado una oportunidad de oro.
+\tg[\v[14]]¡No la líes, \PN!
+\tg[\v[14]]¡No la líes, \PN!
+\tg[Tamao]¿Deseais comenzar la prueba?
+\tg[Tamao]¿Deseais comenzar la prueba?
+\tg[Tamao]Aquí os esperaremos.
+\tg[Tamao]Aquí os esperaremos.
+\tg[Tamao]Comencemos pues.
+\tg[Tamao]Comencemos pues.
+\tg[Tamao]Me gustaría ser la primera en poneros a prueba.
+\tg[Tamao]Me gustaría ser la primera en poneros a prueba.
+\tg[Tamao]¡Demostradnos aquella fuerza con la que vencisteis al Gyarados encolerado!
+\tg[Tamao]¡Demostradnos aquella fuerza con la que vencisteis al Gyarados encolerado!
+No me queda ningún Pokémon...
+No me queda ningún Pokémon...
+\tg[Tamao]No cabe duda, sois un equipo inigualable.
+\tg[Tamao]No cabe duda, sois un equipo inigualable.
+\tg[Tamao]Más todavía debéis derrotar a las demás.\nOs deseo suerte.
+\tg[Tamao]Más todavía debéis derrotar a las demás.\nOs deseo suerte.
+\tg[Umeko]Pueblo Azalea se salvó gracias a vuestra presencia.\nCésar, los Slowpoke y hasta el mismísimo Encinar os lo agradecen.
+\tg[Umeko]Pueblo Azalea se salvó gracias a vuestra presencia.\nCésar, los Slowpoke y hasta el mismísimo Encinar os lo agradecen.
+\tg[Umeko]Ahora, demostradnos vuestra fuerza en un feroz combate.
+\tg[Umeko]Ahora, demostradnos vuestra fuerza en un feroz combate.
+¡Hay que ver lo fuerte que eres!
+¡Hay que ver lo fuerte que eres!
+\tg[Umeko]Nada menos se podía esperar de vos.
+\tg[Umeko]Nada menos se podía esperar de vos.
+\tg[Umeko]Le cedo el turno a la siguiente.\nY a vos os deseo suerte.
+\tg[Umeko]Le cedo el turno a la siguiente.\nY a vos os deseo suerte.
+\tg[Satsuki]Yo me encargo de vigilar el Teatro de Danza cada vez que las demás están fuera.
+\tg[Satsuki]Yo me encargo de vigilar el Teatro de Danza cada vez que las demás están fuera.
+\tg[Satsuki]Aquella vez que me ayudasteis contra aquel desvergonzado criminal me di cuenta.\nSois alguien especial.
+\tg[Satsuki]Aquella vez que me ayudasteis contra aquel desvergonzado criminal me di cuenta.\nSois alguien especial.
+\tg[Satsuki]Ahora pongamos eso a prueba.
+\tg[Satsuki]Ahora pongamos eso a prueba.
+Os admiro. Vos habéis demostrado mucha<<n>>pericia con vuestros Pokémon.
+Os admiro. Vos habéis demostrado mucha <<n>>pericia con vuestros Pokémon.
+\tg[Satsuki]Un resultado esperable.\nPero recordad, todavía os faltan dos.
+\tg[Satsuki]Un resultado esperable.\nPero recordad, todavía os faltan dos.
+\tg[Sakura]Yo estuve ahí cuando visitasteis la Guarida Dragón.
+\tg[Sakura]Yo estuve ahí cuando visitasteis la Guarida Dragón.
+\tg[Sakura]Un honor concedido a alguien tan joven como vos no es sino sorprendente.
+\tg[Sakura]Un honor concedido a alguien tan joven como vos no es sino sorprendente.
+\tg[Sakura]No debéis fallar ahora que os queda tan poco.
+\tg[Sakura]No debéis fallar ahora que os queda tan poco.
+¡Estuve cerca! Por poco te venzo.
+¡Estuve cerca! Por poco te venzo.
+\tg[Sakura]Quizás era sorprendente en su momento, pero a día de hoy está claro.
+\tg[Sakura]Quizás era sorprendente en su momento, pero a día de hoy está claro.
+\tg[Sakura]Os falta una más y el Cascabel Vítreo será vuestro.
+\tg[Sakura]Os falta una más y el Cascabel Vítreo será vuestro.
+\tg[Komomo]Yo soy la última y también la que presenció como acabasteis con ese condenado Team Rocket.
+\tg[Komomo]Yo soy la última y también la que presenció como acabasteis con ese condenado Team Rocket.
+\tg[Komomo]Con la Torre Radio liberada y esos criminales entre rejas, la región ha vuelto a respirar.
+\tg[Komomo]Con la Torre Radio liberada y esos criminales entre rejas, la región ha vuelto a respirar.
+\tg[Komomo]Demostrad vuestra valía una última vez.
+\tg[Komomo]Demostrad vuestra valía una última vez.
+¡Bravo! ¡Ha sido un combate<<n>>excelente!
+¡Bravo! ¡Ha sido un combate <<n>>excelente!
+\tg[Komomo]Y con esto, todo se acaba.
+\tg[Komomo]Y con esto, todo se acaba.
+\tg[Tamao]Habéis superado la prueba sin problemas.
+\tg[Tamao]Habéis superado la prueba sin problemas.
+\tg[Tamao]Debemos recordaros que el poder de invocar a los Pokémon de la leyenda es uno solo concedido a aquellos con hazañas como las vuestras a sus espaldas.
+\tg[Tamao]Debemos recordaros que el poder de invocar a los Pokémon de la leyenda es uno solo concedido a aquellos con hazañas como las vuestras a sus espaldas.
+\tg[Tamao]Estamos seguras de que tanto el ave arcoíris como el guardián del mar responderán a vuestra llamada.
+\tg[Tamao]Estamos seguras de que tanto el ave arcoíris como el guardián del mar responderán a vuestra llamada.
+\tg[Tamao]Y ahora como habíamos prometido, os concederemos el Cascabel Vítreo.
+\tg[Tamao]Y ahora como habíamos prometido, os concederemos el Cascabel Vítreo.
+\tg[Tamao]Ahora debemos retirarnos.\nCon ese instrumento en vuestras manos no debemos preocuparnos de nada.
+\tg[Tamao]Ahora debemos retirarnos.\nCon ese instrumento en vuestras manos no debemos preocuparnos de nada.
+\tg[Tamao]Si es que una amenaza mayor que el Team Rocket asedia Johto de nuevo...
+\tg[Tamao]Si es que una amenaza mayor que el Team Rocket asedia Johto de nuevo...
+\tg[Tamao]Confiamos en que seréis vos quién se encargue de ella.
+\tg[Tamao]Confiamos en que seréis vos quién se encargue de ella.
+\ts[3]<ac>"Hace mucho tiempo, los habitantes de Ciudad Iris construyeron dos torres."\|\|\^
+\ts[3]<ac>"Hace mucho tiempo, los habitantes de Ciudad Iris construyeron dos torres."\|\|\^
+\ts[3]<ac>"Dos torres de nueve pisos que se alzaban hacia el cielo."\|\|\^
+\ts[3]<ac>"Dos torres de nueve pisos que se alzaban hacia el cielo."\|\|\^
+\ts[3]<ac>"La Torre Campana,\|\ny la Torre Latón."\|\|\^
+\ts[3]<ac>"La Torre Campana,\|\ny la Torre Latón."\|\|\^
+\ts[3]<ac>"Cada torre acogía como guardián a un Pokémon legendario:"\|\|\^
+\ts[3]<ac>"Cada torre acogía como guardián a un Pokémon legendario:"\|\|\^
+\ts[3]<ac>"Ho-Oh, el guardián de los cielos..."\|\^
+\ts[3]<ac>"Ho-Oh, el guardián de los cielos..."\|\^
+\ts[3]<ac>"Y Lugia, el guardián de los mares..."\|\^
+\ts[3]<ac>"Y Lugia, el guardián de los mares..."\|\^
+\ts[3]<ac>"Ho-Oh descansaba en la Torre Campana."\|\|\^
+\ts[3]<ac>"Ho-Oh descansaba en la Torre Campana."\|\|\^
+\ts[3]<ac>"Y sobre la Torre Latón, el legendario Lugia había hecho su nido."\|\|\^
+\ts[3]<ac>"Y sobre la Torre Latón, el legendario Lugia había hecho su nido."\|\|\^
+\ts[3]<ac>"Humanos y Pokémon convivieron en armonía forjando una bonita amistad."\|\|\^
+\ts[3]<ac>"Humanos y Pokémon convivieron en armonía forjando una bonita amistad."\|\|\^
+\ts[3]<ac>"Hasta una fatídica noche hace 150 años."\|\|\^
+\ts[3]<ac>"Hasta una fatídica noche hace 150 años."\|\|\^
+\ts[3]<ac>"Cuando la luna bañaba con luz la torre..."\|\|\^
+\ts[3]<ac>"Cuando la luna bañaba con luz la torre..."\|\|\^
+\ts[3]<ac>"El plácido sueño de Lugia se vio perturbado por un estruendo."\|\|\^
+\ts[3]<ac>"El plácido sueño de Lugia se vio perturbado por un estruendo."\|\|\^
+\ts[3]<ac>"La tormenta azotó, los rayos cubrieron el cielo."\|\|\^
+\ts[3]<ac>"La tormenta azotó, los rayos cubrieron el cielo."\|\|\^
+\ts[3]<ac>"La ciudad se estremeció debido al ruido aterrador."\|\|\^
+\ts[3]<ac>"La ciudad se estremeció debido al ruido aterrador."\|\|\^
+\ts[3]<ac>"Fue entonces cuando un enorme rayo cayó y golpeó la torre."\|\|\^
+\ts[3]<ac>"Fue entonces cuando un enorme rayo cayó y golpeó la torre."\|\|\^
+\ts[3]<ac>"La torre se envolvió en feroces llamas."\|\|\^
+\ts[3]<ac>"La torre se envolvió en feroces llamas."\|\|\^
+\ts[3]<ac>"Como si del mismísimo infierno se tratara."\|\|\^
+\ts[3]<ac>"Como si del mismísimo infierno se tratara."\|\|\^
+\ts[3]<ac>"Lugia batió las alas y provocó un fuerte viento con el fin de extinguir el fuego."\|\|\^
+\ts[3]<ac>"Lugia batió las alas y provocó un fuerte viento con el fin de extinguir el fuego."\|\|\^
+\ts[3]<ac>"Pero las llamas amenazaron con extenderse por toda la ciudad."\|\|\^
+\ts[3]<ac>"Pero las llamas amenazaron con extenderse por toda la ciudad."\|\|\^
+\ts[3]<ac>"Invocó la lluvia y los cielos que cubrían Ciudad Iris atendieron su llamada."\|\^
+\ts[3]<ac>"Invocó la lluvia y los cielos que cubrían Ciudad Iris atendieron su llamada."\|\^
+\ts[3]<ac>"La lluvia luchó contra el fuego, intentó aplacar las llamas\..\..\.."\|\|\^
+\ts[3]<ac>"La lluvia luchó contra el fuego, intentó aplacar las llamas\..\..\.."\|\|\^
+\ts[3]<ac>"...hasta que finalmente lo consiguió."\|\|\^
+\ts[3]<ac>"...hasta que finalmente lo consiguió."\|\|\^
+\ts[3]<ac>"Tras esa aciaga noche, el Sol Matinal dio paso al nuevo día."\|\|\^
+\ts[3]<ac>"Tras esa aciaga noche, el Sol Matinal dio paso al nuevo día."\|\|\^
+\ts[3]<ac>"Vencido por la destrucción que el fuego había causado, Lugia huyó\..\..\..\."\|\^
+\ts[3]<ac>"Vencido por la destrucción que el fuego había causado, Lugia huyó\..\..\..\."\|\^
+\ts[3]<ac>"Se escondió en el fondo del océano, a la espera de una llamada."\|\|\^
+\ts[3]<ac>"Se escondió en el fondo del océano, a la espera de una llamada."\|\|\^
+\ts[3]<ac>"La llamada de un ser bondadoso que lo devuelva a Ciudad Iris."\|\|\^
+\ts[3]<ac>"La llamada de un ser bondadoso que lo devuelva a Ciudad Iris."\|\|\^
+\ts[3]<ac>"Hasta hoy, las ruinas de la Torre Quemada han permanecido intactas..."\|\|\^
+\ts[3]<ac>"Hasta hoy, las ruinas de la Torre Quemada han permanecido intactas..."\|\|\^
+\ts[3]<ac>"Son un recordatorio de lo que aquel día se perdió."\|\|\^
+\ts[3]<ac>"Son un recordatorio de lo que aquel día se perdió."\|\|\^
+\ts[3]<ac>"Y de lo que un día volverá a ser."\| \|\^
+\ts[3]<ac>"Y de lo que un día volverá a ser."\| \|\^
+\tg[\v[14]]Jo, ha estado genial. Esta historia es muy importante para la gente de Ciudad Iris, ¿sabes?
+\tg[\v[14]]Jo, ha estado genial. Esta historia es muy importante para la gente de Ciudad Iris, ¿sabes?
+\tg[\v[14]]Dicen que-\|\^
+\tg[\v[14]]Dicen que-\|\^
+\tg[¿?]Oh, vos que entre el público observabas nuestra danza...
+\tg[¿?]Oh, vos que entre el público observabas nuestra danza...
+\tg[Tamao]Hemos visto lo que habéis hecho por toda la región.
+\tg[Tamao]Hemos visto lo que habéis hecho por toda la región.
+\tg[Umeko]Yo fui testigo de como acabasteis con la operación del Team Rocket en el Pozo Slowpoke.
+\tg[Umeko]Yo fui testigo de como acabasteis con la operación del Team Rocket en el Pozo Slowpoke.
+\tg[Umeko]Don César y todo Pueblo Azalea están en deuda con vos.
+\tg[Umeko]Don César y todo Pueblo Azalea están en deuda con vos.
+\tg[Satsuki]Yo soy a la que ayudasteis aquí mismo en el teatro.
+\tg[Satsuki]Yo soy a la que ayudasteis aquí mismo en el teatro.
+\tg[Satsuki]Gracias por derrotar a aquel rufián de baja monta.
+\tg[Satsuki]Gracias por derrotar a aquel rufián de baja monta.
+\tg[Sakura]Yo presencié vuestra prueba de valía en la Guarida Dragón.
+\tg[Sakura]Yo presencié vuestra prueba de valía en la Guarida Dragón.
+\tg[Sakura]Sendo reconocimiento solo podría otorgarse a alguien tan digna como vos.
+\tg[Sakura]Sendo reconocimiento solo podría otorgarse a alguien tan digna como vos.
+\tg[Sakura]Sendo reconocimiento solo podría otorgarse a alguien tan digno como vos.
+\tg[Sakura]Sendo reconocimiento solo podría otorgarse a alguien tan digno como vos.
+\tg[Komomo]Yo por mi parte lo vi todo en Ciudad Trigal.
+\tg[Komomo]Yo por mi parte lo vi todo en Ciudad Trigal.
+\tg[Komomo]Como derrotasteis al Team Rocket de una vez por todas, salvando toda Johto de su perversa influencia.
+\tg[Komomo]Como derrotasteis al Team Rocket de una vez por todas, salvando toda Johto de su perversa influencia.
+\tg[Tamao]Y yo, la mayor de las Chicas Kimono...
+\tg[Tamao]Y yo, la mayor de las Chicas Kimono...
+\tg[Tamao]Pude ver como aplacasteis la ira del Gyarados carmesí.\nTal despliegue de poder...
+\tg[Tamao]Pude ver como aplacasteis la ira del Gyarados carmesí.\nTal despliegue de poder...
+\tg[Tamao]Nuestro cometido no es sino proteger la región y sus mitos.
+\tg[Tamao]Nuestro cometido no es sino proteger la región y sus mitos.
+\tg[Tamao]Vos habéis demostrado una valía envidiable, tal que hemos tomado una decisión.
+\tg[Tamao]Vos habéis demostrado una valía envidiable, tal que hemos tomado una decisión.
+\tg[Tamao]Mereceis el Cascabel Vítreo, artefacto legendario capaz de traer de vuelta a los guardianes de Johto.
+\tg[Tamao]Mereceis el Cascabel Vítreo, artefacto legendario capaz de traer de vuelta a los guardianes de Johto.
+\tg[Tamao]Más si deseais semejante poder, deberéis demostrar el vuestro propio.
+\tg[Tamao]Más si deseais semejante poder, deberéis demostrar el vuestro propio.
+\tg[Tamao]Enfrentaos a nosotras, noble \PN.
+\tg[Tamao]Enfrentaos a nosotras, noble \PN.
+Sí
+Sí
+No
+No

@@ -1,0 +1,315 @@
+﻿# MAP_NAMES
+# To localize this text, translate every second line.
+[21]
+Johto
+Johto
+Pueblo Primavera
+Pueblo Primavera
+Ruta 29
+Ruta 29
+Casa de \PN
+Casa de \PN
+Laboratorio de Elm
+Laboratorio de Elm
+Pueblo Primavera
+Pueblo Primavera
+Ciudad Cerezo
+Ciudad Cerezo
+Ruta 27
+Ruta 27
+Pasaje de Ruta
+Pasaje de Ruta
+Ruta 46
+Ruta 46
+Centro Pokémon
+Centro Pokémon
+Tienda Pokémon
+Tienda Pokémon
+Ciudad Cerezo
+Ciudad Cerezo
+Ruta 30
+Ruta 30
+Ruta 30
+Ruta 30
+Ruta 31
+Ruta 31
+Ciudad Malva
+Ciudad Malva
+Ruta 33
+Ruta 33
+Ruta 36
+Ruta 36
+Ruta 34
+Ruta 34
+Ruta 35
+Ruta 35
+Ruta 37
+Ruta 37
+Tienda Pokémon
+Tienda Pokémon
+Ciudad Malva
+Ciudad Malva
+Torre Batalla
+Torre Batalla
+Centro Pokémon
+Centro Pokémon
+Torre Campana
+Torre Campana
+Torre Bellsprout
+Torre Bellsprout
+Cueva Oscura
+Cueva Oscura
+Gimnasio Malva
+Gimnasio Malva
+Ciudad Iris
+Ciudad Iris
+Cueva Oscura
+Cueva Oscura
+Cueva Unión
+Cueva Unión
+Cueva Unión - Sótano 1
+Cueva Unión - Sótano 1
+Gimnasio Iris
+Gimnasio Iris
+Torre Quemada
+Torre Quemada
+Torre Campana
+Torre Campana
+Parque Nacional
+Parque Nacional
+Centro Pokémon
+Centro Pokémon
+Tienda Pokémon
+Tienda Pokémon
+Ruta 32
+Ruta 32
+Centro Pokémon
+Centro Pokémon
+Teatro de Danza
+Teatro de Danza
+Ciudad Iris
+Ciudad Iris
+Pasaje de Ruta
+Pasaje de Ruta
+Cueva Unión - Sótano 2
+Cueva Unión - Sótano 2
+Gimnasio Orquídea
+Gimnasio Orquídea
+Gimnasio Trigal
+Gimnasio Trigal
+Ruinas Alfa
+Ruinas Alfa
+Ruinas Alfa
+Ruinas Alfa
+Ruinas Alfa
+Ruinas Alfa
+Ruinas Alfa
+Ruinas Alfa
+Pueblo Azalea
+Pueblo Azalea
+Centro Pokémon
+Centro Pokémon
+Tienda Pokémon
+Tienda Pokémon
+Pueblo Azalea
+Pueblo Azalea
+Gimnasio Azalea
+Gimnasio Azalea
+Pasaje de Ruta
+Pasaje de Ruta
+Encinar
+Encinar
+Pozo Slowpoke
+Pozo Slowpoke
+Ciudad Trigal
+Ciudad Trigal
+Ruta 42
+Ruta 42
+Pueblo Caoba
+Pueblo Caoba
+Centro Pokémon
+Centro Pokémon
+Centro Pokémon
+Centro Pokémon
+Pueblo Caoba
+Pueblo Caoba
+Ruta 43
+Ruta 43
+Lago de la Furia
+Lago de la Furia
+Monte Mortero
+Monte Mortero
+Monte Mortero - Sótano
+Monte Mortero - Sótano
+Monte Mortero - Cueva Baja
+Monte Mortero - Cueva Baja
+Monte Mortero - Cueva Alta
+Monte Mortero - Cueva Alta
+Cataratas Tohjo
+Cataratas Tohjo
+Ruta 44
+Ruta 44
+Gimnasio Caoba
+Gimnasio Caoba
+Ruta Helada
+Ruta Helada
+Ruta Helada - Sótano 1
+Ruta Helada - Sótano 1
+Ruta Helada - Sótano 2
+Ruta Helada - Sótano 2
+Ruta 45
+Ruta 45
+Escondite Rocket
+Escondite Rocket
+Ciudad Endrino
+Ciudad Endrino
+Centro Pokémon
+Centro Pokémon
+Tienda Pokémon
+Tienda Pokémon
+Ciudad Endrino
+Ciudad Endrino
+Guarida Dragón
+Guarida Dragón
+Gimnasio Endrino
+Gimnasio Endrino
+Ruta 38
+Ruta 38
+Liga Pokémon
+Liga Pokémon
+Ruta 39
+Ruta 39
+Ciudad Olivo
+Ciudad Olivo
+Centro Pokémon
+Centro Pokémon
+Tienda Pokémon
+Tienda Pokémon
+Ruta 40
+Ruta 40
+Ruta 41 - Islas Remolino
+Ruta 41 - Islas Remolino
+Ruta 49
+Ruta 49
+Ciudad Olivo
+Ciudad Olivo
+Gimnasio Olivo
+Gimnasio Olivo
+Islas Remolino
+Islas Remolino
+Ruta 26
+Ruta 26
+Islas Remolino
+Islas Remolino
+Islas Remolino
+Islas Remolino
+Calle Victoria
+Calle Victoria
+Calle Victoria
+Calle Victoria
+Calle Victoria
+Calle Victoria
+Ciudad Orquídea
+Ciudad Orquídea
+Ruta 47
+Ruta 47
+Centro Pokémon
+Centro Pokémon
+Ciudad Orquídea
+Ciudad Orquídea
+Gruta Acantilado
+Gruta Acantilado
+Ruta 48
+Ruta 48
+Ruta 39
+Ruta 39
+Entrada Safari
+Entrada Safari
+Ciudad Trigal
+Ciudad Trigal
+Ruta 50
+Ruta 50
+Torre Radio
+Torre Radio
+Torre Radio - Mirador
+Torre Radio - Mirador
+Ruta 23
+Ruta 23
+Lago de la Furia
+Lago de la Furia
+Recepción de la Liga Pokémon
+Recepción de la Liga Pokémon
+Ruta 34 - Guardería Pokémon
+Ruta 34 - Guardería Pokémon
+Centro Comercial
+Centro Comercial
+Casino
+Casino
+Estación Magnetotren
+Estación Magnetotren
+Torre Batalla - Entrada
+Torre Batalla - Entrada
+Túnel Trigal
+Túnel Trigal
+Faro Olivo
+Faro Olivo
+Faro Olivo - Mirador
+Faro Olivo - Mirador
+Túnel Trigal
+Túnel Trigal
+Centro Comercial - Sótano
+Centro Comercial - Sótano
+Meseta Añil
+Meseta Añil
+Liga Pokémon
+Liga Pokémon
+Torre Oculta
+Torre Oculta
+Zona Safari - A1
+Zona Safari - A1
+Zona Safari - A2
+Zona Safari - A2
+Zona Safari - A4
+Zona Safari - A4
+Zona Safari - A3
+Zona Safari - A3
+Zona Safari - A5
+Zona Safari - A5
+Zona Safari - A6
+Zona Safari - A6
+Ruta 26
+Ruta 26
+Entrada Safari
+Entrada Safari
+Torre Batalla - Sala de Batalla
+Torre Batalla - Sala de Batalla
+Torre Batalla - Sala de Concursos
+Torre Batalla - Sala de Concursos
+Liga Pokémon
+Liga Pokémon
+Liga Pokémon
+Liga Pokémon
+Teatro de Danza
+Teatro de Danza
+Liga Pokémon
+Liga Pokémon
+Liga Pokémon
+Liga Pokémon
+Liga Pokémon - Hall de la Fama
+Liga Pokémon - Hall de la Fama
+Pueblo Primavera - Escena Final
+Pueblo Primavera - Escena Final
+Johto - Cerditos
+Johto - Cerditos
+Islas Remolino
+Islas Remolino
+Isla Origen
+Isla Origen
+Ruinas Sinjoh
+Ruinas Sinjoh
+Ruinas Sinjoh
+Ruinas Sinjoh
+Ruinas Alfa
+Ruinas Alfa
+Sala del Origen
+Sala del Origen

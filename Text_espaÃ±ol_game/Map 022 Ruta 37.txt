@@ -1,0 +1,52 @@
+﻿# Maps grouped under: Ruta 37 (Highest ID: 22)
+[Map22]
+\tg[Domingo]Me llamo Domingo, como el día de la semana... ¡y hoy es domingo!\n¡Me han dicho que te dé esto!
+\tg[Domingo]Me llamo Domingo, como el día de la semana... ¡y hoy es domingo!\n¡Me han dicho que te dé esto!
+\tg[Domingo]Eso... ¡Um...! ¿Qué era?... ¡Ah! ¡Ahora lo recuerdo!\nDebería llevarlo un Pokémon de tipo Eléctrico.\n¡Mi hermana Luna dice que mejora los movimientos eléctricos!
+\tg[Domingo]Eso...  ¡Um...! ¿Qué era?... ¡Ah!  ¡Ahora lo recuerdo!\nDebería llevarlo un Pokémon de tipo Eléctrico.\n¡Mi hermana Luna dice que mejora los movimientos eléctricos!
+\tg[Domingo]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no?\nY, en prueba de esta amistad, ¡te voy a dar la Cinta Sonrisa!
+\tg[Domingo]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no?\nY, en prueba de esta amistad, ¡te voy a dar la Cinta Sonrisa!
+\tg[Domingo]Yo creo que la Cinta Sonrisa le quedará a tu Pokémon divinamente.
+\tg[Domingo]Yo creo que la Cinta Sonrisa le quedará a tu Pokémon divinamente.
+\tg[Domingo]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Domingo]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Domingo]Mis hermanos son Luna, Marta, Miguel, Josué, Vicki y Sabino.\n¡Son todos mayores que yo!
+\tg[Domingo]Mis hermanos son Luna, Marta, Miguel, Josué, Vicki y Sabino.\n¡Son todos mayores que yo!
+¡He aquí mis Pokémon!
+¡He aquí mis Pokémon!
+Sati y Shi
+Sati y Shi
+¡Hemos perdido!
+¡Hemos perdido!
+¡Ni con todo el esfuerzo de Sati hemos podido vencerte!
+¡Ni con todo el esfuerzo de Sati hemos podido vencerte!
+\w[signskin3]\C[8]Pistas para Entrenadores: \nEl movimiento Excavar permite llegar a la entrada de un lugar en un instante.
+\w[signskin3]\C[8]Pistas para Entrenadores: \nEl movimiento Excavar permite llegar a la entrada de un lugar en un instante.
+\w[signskin3]\C[8]Es muy práctico enseñarle ese movimiento a un Pokémon cuando vas a explorar una cueva.
+\w[signskin3]\C[8]Es muy práctico enseñarle ese movimiento a un Pokémon cuando vas a explorar una cueva.
+Los Pokémon dormidos no pueden hacer nada. ¡Así que toma siesta!
+Los Pokémon dormidos no pueden hacer nada. ¡Así que toma siesta!
+Pues parece que no he acertado...
+Pues parece que no he acertado...
+Dormir o paralizar los Pokémon son buenas técnicas de lucha.
+Dormir o paralizar los Pokémon son buenas técnicas de lucha.
+\w[signskin4]\C[8]Ruta 37.\nAl norte, Ciudad Iris. \nAl sur, Ruta 36.
+\w[signskin4]\C[8]Ruta 37.\nAl norte, Ciudad Iris. \nAl sur, Ruta 36.
+¡Venga, a luchar!
+¡Venga, a luchar!
+He perdido aún uniendo fuerzas con Shi...
+He perdido aún uniendo fuerzas con Shi... 
+¡Podríamos llevarnos bien, tú! ¡Pero mi compi y yo ya somos pareja!
+¡Podríamos llevarnos bien, tú! ¡Pero mi compi y yo ya somos pareja!
+No lo haces nada mal, ¿eh?
+No lo haces nada mal, ¿eh?
+¡Guau! Tan joven y con talento... ¡Quién lo hubiera pensado!
+¡Guau! Tan joven y con talento... ¡Quién lo hubiera pensado!
+Vaya, vaya... ¿Tan joven y quieres enfrentarte a mí?
+Vaya, vaya... ¿Tan joven y quieres enfrentarte a mí?
+¡Increíblemente fuerte!
+¡Increíblemente fuerte!
+Te espera un futuro prometedor, ¿no?
+Te espera un futuro prometedor, ¿no?
+¡Doom!\wt[20]
+¡Doom!\wt[20]

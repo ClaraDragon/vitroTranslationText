@@ -1,0 +1,65 @@
+﻿# Maps grouped under: Tienda Pokemon (Highest ID: 12)
+[Map12]
+Recuerda comprar Balls y medicinas o te arrepentirás.
+Recuerda comprar Balls y medicinas o te arrepentirás.
+Los entrenadores de Johto se vuelven más fuertes constantemente, ¡ve con cuidado!
+Los entrenadores de Johto se vuelven más fuertes constantemente, ¡ve con cuidado!
+Hoy estaba caminando por una ruta y un Pokémon tipo Bicho envenenó a mi Hoppip. Seguí andando y... ¡Plof!
+Hoy estaba caminando por una ruta y un Pokémon tipo Bicho envenenó a mi Hoppip. Seguí andando y... ¡Plof!
+Hoppip cayó debilitado por el veneno. Tendría que haber llevado antídotos...
+Hoppip cayó debilitado por el veneno. Tendría que haber llevado antídotos...
+\w[menuskin]\C[8]¡Hay muchos objetos en la estantería!
+\w[menuskin]\C[8]¡Hay muchos objetos en la estantería!
+\w[menuskin]\C[8]Hay varias pociones y consumibles dentro.
+\w[menuskin]\C[8]Hay varias pociones y consumibles dentro.
+[Map23]
+\w[menuskin]\C[8]Hay varias pociones y consumibles dentro.
+\w[menuskin]\C[8]Hay varias pociones y consumibles dentro.
+\w[menuskin]\C[8]¡Hay muchos objetos en la estantería!
+\w[menuskin]\C[8]¡Hay muchos objetos en la estantería!
+Cuando atrapas un Pokémon, puede que sea débil, pero si lo cuidas bien se hará mucho más fuerte.
+Cuando atrapas un Pokémon, puede que sea débil, pero si lo cuidas bien se hará mucho más fuerte.
+Es importante tratar a todos los Pokémon con mucho cariño.
+Es importante tratar a todos los Pokémon con mucho cariño.
+Los Pokémon pueden ir equipados con objetos naturales para usarlos en combate, pero no se les da muy bien usar objetos sintéticos como las medicinas.
+Los Pokémon pueden ir equipados con objetos naturales para usarlos en combate, pero no se les da muy bien usar objetos sintéticos como las medicinas.
+[Map40]
+Mi Eevee evolucionó a Umbreon, pero el de mi amigo a Espeon... ¡Vaya locura!
+Mi Eevee evolucionó a Umbreon, pero el de mi amigo a Espeon... ¡Vaya locura!
+Los Revivir son muy útiles para reanimar Pokémon.
+Los Revivir son muy útiles para reanimar Pokémon.
+¿Cómo? ¿Que por qué se llaman Revivir si solo reaniman?\nQuién sabrá...
+¿Cómo? ¿Que por qué se llaman Revivir si solo reaniman?\nQuién sabrá...
+\w[menuskin]\C[8]¡Hay muchos objetos en la estantería!
+\w[menuskin]\C[8]¡Hay muchos objetos en la estantería!
+\w[menuskin]\C[8]Hay varias pociones y consumibles dentro.
+\w[menuskin]\C[8]Hay varias pociones y consumibles dentro.
+[Map55]
+Siempre es mejor una Super Ball para capturar Pokémon que una Poké Ball. Y lo mismo con las Ultra Ball, por ejemplo.
+Siempre es mejor una Super Ball para capturar Pokémon que una Poké Ball. Y lo mismo con las Ultra Ball, por ejemplo.
+El número de Medallas que tienes es una prueba de tu fuerza.\n¡Y cuantas más tengas, más artículos diferentes encontrarás en las tiendas!
+El número de Medallas que tienes es una prueba de tu fuerza.\n¡Y cuantas más tengas, más artículos diferentes encontrarás en las tiendas!
+\w[menuskin]\C[8]¡Hay muchos objetos en la estantería!
+\w[menuskin]\C[8]¡Hay muchos objetos en la estantería!
+\w[menuskin]\C[8]Hay varias pociones y consumibles dentro.
+\w[menuskin]\C[8]Hay varias pociones y consumibles dentro.
+[Map83]
+El Máx. Revivir es un objeto muy raro que no está a la venta... ¡Ojalá poder comprarlos!
+El Máx. Revivir es un objeto muy raro que no está a la venta... ¡Ojalá poder comprarlos!
+Odio que los Pokémon me molesten en mis paseos matutinos, así que uso los Máx. Repel como si me fuese la vida en ello.\nLuego vuelvo a casa oliendo a lata, pero bueno.
+Odio que los Pokémon me molesten en mis paseos matutinos, así que uso los Máx. Repel como si me fuese la vida en ello.\nLuego vuelvo a casa oliendo a lata, pero bueno.
+\w[menuskin]\C[8]¡Hay muchos objetos en la estantería!
+\w[menuskin]\C[8]¡Hay muchos objetos en la estantería!
+\w[menuskin]\C[8]Hay varias pociones y consumibles dentro.
+\w[menuskin]\C[8]Hay varias pociones y consumibles dentro.
+[Map92]
+Mi Butterfree ha estado con mi novio.\nY me ha traído una Carta suya.
+Mi Butterfree ha estado con mi novio.\nY me ha traído una Carta suya.
+¿Quieres saber lo que dice?\nVeamos... ¡No!\n¡Es un secreto!
+¿Quieres saber lo que dice?\nVeamos... ¡No!\n¡Es un secreto!
+¿Tus Pokémon saben un movimiento para llevar personas por el agua?
+¿Tus Pokémon saben un movimiento para llevar personas por el agua?
+\w[menuskin]\C[8]¡Hay muchos objetos en la estantería!
+\w[menuskin]\C[8]¡Hay muchos objetos en la estantería!
+\w[menuskin]\C[8]Hay varias pociones y consumibles dentro.
+\w[menuskin]\C[8]Hay varias pociones y consumibles dentro.

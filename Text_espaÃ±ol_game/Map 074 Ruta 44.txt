@@ -1,0 +1,76 @@
+﻿# Maps grouped under: Ruta 44 (Highest ID: 74)
+[Map74]
+¡Qué locura! ¿¡Has visto mi súper Pokémon!?
+¡Qué locura! ¿¡Has visto mi súper Pokémon!?
+Oooh, tu equipo Pokémon es muy<<n>>bonito.
+Oooh, tu equipo Pokémon es muy <<n>>bonito.
+Los Pokémon de colores poco habituales tienen más valor.\n¿Qué? ¿Como que todos valen lo mismo? ¡Dile eso a mi cartera!
+Los Pokémon de colores poco habituales tienen más valor.\n¿Qué? ¿Como que todos valen lo mismo? ¡Dile eso a mi cartera!
+Pesco hasta que no puedo más, y lucho hasta desfallecer.\n¡Esta es la relación que tengo con mis Pokémon!
+Pesco hasta que no puedo más, y lucho hasta desfallecer.\n¡Esta es la relación que tengo con mis Pokémon!
+¡Mmm...! Eso no está bien.
+¡Mmm...! Eso no está bien.
+Son 100 victorias y 101 derrotas. ¡Me has estropeado la racha!
+Son 100 victorias y 101 derrotas. ¡Me has estropeado la racha!
+Pareces fuerte, ¡pero yo lo soy más!
+Pareces fuerte, ¡pero yo lo soy más!
+¡No! Esto no servirá para nada.
+¡No! Esto no servirá para nada.
+Pues no lo soy, no.
+Pues no lo soy, no.
+¡Me has hecho perder un Poliwag! ¿Qué vas a hacer para compensarlo?
+¡Me has hecho perder un Poliwag! ¿Qué vas a hacer para compensarlo?
+Nada, olvídalo
+Nada, olvídalo
+El combate no ha estado mal. A veces pesco objetos que la gente ha tirado por ahí.
+El combate no ha estado mal. A veces pesco objetos que la gente ha tirado por ahí.
+Si quieres te doy lo que pesque, pero<<n>>me tienes que dar tu número de<<n>>teléfono.<br>¿Hace?
+Si quieres te doy lo que pesque, pero <<n>>me tienes que dar tu número de <<n>>teléfono.<br>¿Hace?
+¡Sí! ¡Te estaba esperando! ¡Ay! ¡Lo he dicho muy alto y se me ha escapado el Poliwag que casi tenía!
+¡Sí! ¡Te estaba esperando! ¡Ay! ¡Lo he dicho muy alto y se me ha escapado el Poliwag que casi tenía!
+¡Nada! ¡Olvídalo!
+¡Nada! ¡Olvídalo!
+¡Toma esto!
+¡Toma esto!
+Ese Poliwag que se me escapó... ¡era enorme! \n¡Juraría que medía unos cinco metros!
+Ese Poliwag que se me escapó... ¡era enorme! \n¡Juraría que medía unos cinco metros!
+Con solo mirarte sé cuál es tu nivel. Más bajo que el mío, ¡como no!
+Con solo mirarte sé cuál es tu nivel. Más bajo que el mío, ¡como no!
+¡Vaya! Ha sido una auténtica<<n>>derrota.
+¡Vaya! Ha sido una auténtica <<n>>derrota.
+¡Guau! Tienes muchas Medallas. No me extraña que seas tan fuerte...
+¡Guau! Tienes muchas Medallas. No me extraña que seas tan fuerte...
+Me pregunto si Morti, de Gimnasio Iris, estará aún entrenándose. ¡Él sí que me dio una paliza!
+Me pregunto si Morti, de Gimnasio Iris, estará aún entrenándose. ¡Él sí que me dio una paliza!
+¿Has escuchado algo sobre el Pokémon pájaro legendario? ¡Sea como sea, será mío!
+¿Has escuchado algo sobre el Pokémon pájaro legendario? ¡Sea como sea, será mío!
+¡Guauu! ¡Eres el no va más!
+ ¡Guauu! ¡Eres el no va más!
+Oye, eres muy fuerte... Estoy harto de perder. ¡Ya sé!
+Oye, eres muy fuerte... Estoy harto de perder.  ¡Ya sé!
+¿Me das tu teléfono?<br>¡Tenemos que<<n>>luchar más veces!
+¿Me das tu teléfono?<br>¡Tenemos que <<n>>luchar más veces!
+¿Qué has hecho en todo este tiempo? ¿Acaso has visto a los Pokémon legendarios?
+¿Qué has hecho en todo este tiempo? ¿Acaso has visto a los Pokémon legendarios?
+¡Guau! Eres el no va más.
+¡Guau! Eres el no va más.
+¡Eres muy, muy fuerte! Gracias por venir tan a menudo. He aprendido un montón de ti. ¡Toma esto en agradecimiento!
+¡Eres muy, muy fuerte! Gracias por venir tan a menudo. He aprendido un montón de ti. ¡Toma esto en agradecimiento!
+Articuno, Zapdos, Moltres son los Pokémon pájaro legendarios, aunque dicen que hay otros pájaros legendarios.
+Articuno, Zapdos, Moltres son los Pokémon pájaro legendarios, aunque dicen que hay otros pájaros legendarios.
+\w[signskin4]\C[8]Ruta 44.\nAl este, Ciudad Endrino.\nAl oeste, Pueblo Caoba
+\w[signskin4]\C[8]Ruta 44.\nAl este, Ciudad Endrino.\nAl oeste, Pueblo Caoba
+¡Swine!\wt[20]
+¡Swine!\wt[20]
+¿¡En serio!? ¿¡Ese es tu signo!?\nTodas las Tauro sois iguales...
+¿¡En serio!? ¿¡Ese es tu signo!?\nTodas las Tauro sois iguales...
+¿¡En serio!? ¿¡Ese es tu signo!?\n¡Típico de Cáncer!
+¿¡En serio!? ¿¡Ese es tu signo!?\n¡Típico de Cáncer!
+¡Aaargh...! No esperaba perder.
+¡Aaargh...! No esperaba perder.
+¿Ves? ¡Malditas Tauro!
+¿Ves? ¡Malditas Tauro!
+¡Bah! Lo siento, pero no soy compatible con Cáncer, solo con Libra y Leo.
+¡Bah! Lo siento, pero no soy compatible con Cáncer, solo con Libra y Leo.
+\w[signskin]Ruta Helada.\n¡Cuidado con resbalarse, caerse o quedarse helado!
+\w[signskin]Ruta Helada.\n¡Cuidado con resbalarse, caerse o quedarse helado!

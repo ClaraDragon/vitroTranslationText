@@ -1,0 +1,102 @@
+﻿# Maps grouped under: Encinar (Highest ID: 59)
+[Map59]
+\w[menuskin]\C[8]Santuario del Encinar... \nDedicado al guardián del bosque...
+\w[menuskin]\C[8]Santuario del Encinar... \nDedicado al guardián del bosque...
+\w[menuskin]\C[8]¡Es un Pichu!...\n¡Tiene una oreja dentada!
+\w[menuskin]\C[8]¡Es un Pichu!...\n¡Tiene una oreja dentada!
+Andad con cuidado... ¡No hagáis travesuras en el Santuario! Los espíritus podrían enfadarse y llevaros lejos de aquí.
+Andad con cuidado... ¡No hagáis travesuras en el Santuario! Los espíritus podrían enfadarse y llevaros lejos de aquí.
+Algunos niños y Pokémon han desaparecido en los alrededores del Santuario.
+Algunos niños y Pokémon han desaparecido en los alrededores del Santuario.
+Vaya, vaya... Este pequeñín...\nNo sé cuánto tiempo habrá pasado viviendo en este bosque.
+Vaya, vaya... Este pequeñín...\nNo sé cuánto tiempo habrá pasado viviendo en este bosque.
+La primera vez que lo vi parecía muy triste... pero hoy está rebosante de alegría.
+La primera vez que lo vi parecía muy triste... pero hoy está rebosante de alegría.
+Claro, ya lo entiendo. Parece que han trabado una buena amistad.
+Claro, ya lo entiendo. Parece que han trabado una buena amistad.
+\w[menuskin]\C[8]Parece que quiere acompañarte... ¡Puedes acogerlo en tu equipo!
+\w[menuskin]\C[8]Parece que quiere acompañarte... ¡Puedes acogerlo en tu equipo!
+\tg[Picoreja]¡Piipiii chu!
+\tg[Picoreja]¡Piipiii chu!
+¡Ahora que lo pienso! ¡Toma esta Poké Ball como regalo!\nEs de cuando me dedicaba en cuerpo y alma a entrenar Pokémon durante mis años mozos.
+¡Ahora que lo pienso! ¡Toma esta Poké Ball como regalo!\nEs de cuando me dedicaba en cuerpo y alma a entrenar Pokémon durante mis años mozos.
+¿Qué? No te preocupes. Seguro que todavía funciona como el primer día.
+¿Qué? No te preocupes. Seguro que todavía funciona como el primer día.
+Poké Ball
+Poké Ball
+\w[menuskin]\C[8]¡Ah! El Pichu Picoreja tiene muchas ganas de entrar en tu Poké Ball.
+\w[menuskin]\C[8]¡Ah! El Pichu Picoreja tiene muchas ganas de entrar en tu Poké Ball.
+Los Pokémon se alegran mucho cuando van con sus amigos. Trata bien a tus Pokémon.
+Los Pokémon se alegran mucho cuando van con sus amigos. Trata bien a tus Pokémon.
+\w[menuskin]\C[8]¡Oh! ¿Qué es esto?
+\w[menuskin]\C[8]¡Oh! ¿Qué es esto?
+\w[menuskin]\C[8]Es un agujero y parece que la GS Ball cabe dentro.
+\w[menuskin]\C[8]Es un agujero y parece que la GS Ball cabe dentro.
+\w[menuskin]\C[8]¿Quieres colocar la GS Ball aquí?
+\w[menuskin]\C[8]¿Quieres colocar la GS Ball aquí?
+\w[menuskin]\C[8]\PN coloca la GS Ball.
+\w[menuskin]\C[8]\PN coloca la GS Ball.
+\sh¡Cebiii!\wt[15]
+\sh¡Cebiii!\wt[15]
+¡Farf!
+¡Farf!
+¡Guau! ¡Has atrapado un Farfetch'd! ¡Muchísimas gracias!
+¡Guau! ¡Has atrapado un Farfetch'd! ¡Muchísimas gracias!
+Pero todavía falta uno más.
+Pero todavía falta uno más.
+¿Que qué hago?\nAgitar árboles con Golpe Cabeza.\nEs divertido. ¡Toma, pruébalo!
+¿Que qué hago?\nAgitar árboles con Golpe Cabeza.\nEs divertido. ¡Toma, pruébalo!
+¿Quieres enseñarle Golpe Cabeza a algún Pokémon?
+¿Quieres enseñarle Golpe Cabeza a algún Pokémon?
+Je, je, je. ¿Qué te parece? ¡Tu Pokémon se ve mucho más fuerte ahora!
+Je, je, je. ¿Qué te parece? ¡Tu Pokémon se ve mucho más fuerte ahora!
+Ya veo... Supongo que hay que cuidarse bien la cabeza.
+Ya veo... Supongo que hay que cuidarse bien la cabeza.
+Todavía falta uno más.\n¿Sabes que si pisas una ramita y el Farfetch'd la oye crujir, se volverá hacia ti de inmediato?\nLo mejor es que te le acerques sigilosamente por detrás.
+Todavía falta uno más.\n¿Sabes que si pisas una ramita y el Farfetch'd la oye crujir, se volverá hacia ti de inmediato?\nLo mejor es que te le acerques sigilosamente por detrás.
+¿¡Qué voy a hacer!?\n¡Mi jefe se va a poner furioso!\n¡Los Farfetch'd que cortan árboles para obtener carbón han huido hacia el bosque!
+¿¡Qué voy a hacer!?\n¡Mi jefe se va a poner furioso!\n¡Los Farfetch'd que cortan árboles para obtener carbón han huido hacia el bosque!
+¿Podrías atraparlos por mí? ¡Porfa!\nEso sí, si pisas una ramita y la oyen crujir, se volverán hacia ti de inmediato.
+¿Podrías atraparlos por mí? ¡Porfa!\nEso sí, si pisas una ramita y la oyen crujir, se volverán hacia ti de inmediato.
+Solo podrás atraparlos si te acercas por detrás sin que se den cuenta... ¿Puedes hacerlo? ¡Porfa, porfa, porfa!
+Solo podrás atraparlos si te acercas por detrás sin que se den cuenta... ¿Puedes hacerlo?  ¡Porfa, porfa, porfa!
+Todavía falta uno más.
+Todavía falta uno más.
+¿Sabes que si pisas una ramita y el Farfetch'd la oye crujir, se volverá hacia ti de inmediato?
+¿Sabes que si pisas una ramita y el Farfetch'd la oye crujir, se volverá hacia ti de inmediato?
+Lo mejor es que te le acerques sigilosamente por detrás.
+Lo mejor es que te le acerques sigilosamente por detrás.
+Solo podrás atrapar a los Farfetch'd si te acercas por detrás sin que se den cuenta...
+Solo podrás atrapar a los Farfetch'd si te acercas por detrás sin que se den cuenta...
+¡La leche! ¡Has conseguido atrapar los dos Farfetch'd!\nSin estos dos para cortar los árboles, no podríamos conseguir el carbón. \n¡Muchas gracias!
+¡La leche! ¡Has conseguido atrapar los dos Farfetch'd!\nSin estos dos para cortar los árboles, no podríamos conseguir el carbón. \n¡Muchas gracias!
+No puedo dejar que te marches sin una recompensa, así que...\n¡Toma esto!
+No puedo dejar que te marches sin una recompensa, así que...\n¡Toma esto!
+¡Nos vemos!
+¡Nos vemos!
+¡Cross!\wt[20]
+¡Cross!\wt[20]
+\tg[Antón]Quiero ser un Entrenador de Pokémon de tipo Bicho mucho más fuerte.
+\tg[Antón]Quiero ser un Entrenador de Pokémon de tipo Bicho mucho más fuerte.
+\tg[Antón]Por eso he venido a buscar Pokémon de ese tipo a la región de Kanto.
+\tg[Antón]Por eso he venido a buscar Pokémon de ese tipo a la región de Kanto.
+\tg[Antón]¡Venga! ¡Vamos a intercambiar nuestros números de teléfono!
+\tg[Antón]¡Venga! ¡Vamos a intercambiar nuestros números de teléfono!
+Antón
+Antón
+\tg[Antón]Vaya... Bueno, como tú quieras...
+\tg[Antón]Vaya... Bueno, como tú quieras...
+\tg[Antón]Me gustaría combatir contra ti el jueves durante el día. ¡Llámame si te viene bien!
+\tg[Antón]Me gustaría combatir contra ti el jueves durante el día. ¡Llámame si te viene bien!
+¡No me des estos sustos, leñe!
+¡No me des estos sustos, leñe!
+Nunca antes había visto a ese<<n>>Pokémon...
+Nunca antes había visto a ese <<n>>Pokémon...
+Bof... A los entrenadores os encanta ir dando sustos a la peña, ¿eh?
+Bof... A los entrenadores os encanta ir dando sustos a la peña, ¿eh?
+\w[signskin3]\C[8]¡Aviso importante!\nEn el Encinar hay tantos árboles que no se ve el cielo. Está muy oscuro.\nCuidado con los objetos que puedan haber caído al suelo.
+\w[signskin3]\C[8]¡Aviso importante!\nEn el Encinar hay tantos árboles que no se ve el cielo. Está muy oscuro.\nCuidado con los objetos que puedan haber caído al suelo.
+Sí
+Sí
+No
+No

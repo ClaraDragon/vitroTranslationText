@@ -1,0 +1,225 @@
+﻿# Maps grouped under: Pueblo Azalea (Highest ID: 53)
+[Map53]
+\w[signskin]Pozo Slowpoke.\nTambién conocido como Pozo Lluvia.
+\w[signskin]Pozo Slowpoke.\nTambién conocido como Pozo Lluvia.
+\w[signskin]Los nativos creen que el bostezo de Slowpoke invoca la lluvia, pues se cuenta que, hace 400 años, fue la solución para acabar con una gran sequía.
+\w[signskin]Los nativos creen que el bostezo de Slowpoke invoca la lluvia, pues se cuenta que, hace 400 años, fue la solución para acabar con una gran sequía.
+Si atajas por Pueblo Azalea llegarás al Encinar, pero estos arbolitos te impiden pasar.
+Si atajas por Pueblo Azalea llegarás al Encinar, pero estos arbolitos te impiden pasar.
+Los Pokémon del Carbonero pueden cortar árboles de tronco fino, así que si de verdad lo necesitas puedes visitarlo.
+Los Pokémon del Carbonero pueden cortar árboles de tronco fino, así que si de verdad lo necesitas puedes visitarlo.
+¿Sabes algo sobre las colas de Slowpoke? ¡Dicen que están para chuparse los dedos!
+¿Sabes algo sobre las colas de Slowpoke? ¡Dicen que están para chuparse los dedos!
+<ac>- Mensaje patrocinado por Rocket Associated Commerce -
+<ac>- Mensaje patrocinado por Rocket Associated Commerce -
+Hola, perdona que te moleste, ¿tienes un momento?
+Hola, perdona que te moleste, ¿tienes un momento?
+Ocurre que estaba con mi Spinarak entrenando en las cercanías.
+Ocurre que estaba con mi Spinarak entrenando en las cercanías.
+Pero pasaron miembros del Equipo Rocket corriendo a toda velocidad y Spinarak se asustó.
+Pero pasaron miembros del Equipo Rocket corriendo a toda velocidad y Spinarak se asustó.
+Se fue en dirección a la Cueva Unión.\n¿Podrías traerle de vuelta?\nIría yo mismo, pero es mi único Pokémon.
+Se fue en dirección a la Cueva Unión.\n¿Podrías traerle de vuelta?\nIría yo mismo, pero es mi único Pokémon.
+¡Muchas gracias por traer de vuelta a mi Spinarak!
+¡Muchas gracias por traer de vuelta a mi Spinarak!
+Vaya carita tiene, se nota que pasó mal el tiempo que estuvo perdido.
+Vaya carita tiene, se nota que pasó mal el tiempo que estuvo perdido.
+Toma, no es mucho, pero espero que te sirva durante tu viaje.\n¡Gracias!
+Toma, no es mucho, pero espero que te sirva durante tu viaje.\n¡Gracias!
+Te prometo que esta vez seré mucho más cuidadoso cuando salga con Spinarak.
+Te prometo que esta vez seré mucho más cuidadoso cuando salga con Spinarak.
+¿Algún día podré ser tan fuerte como tú?\nEspero que sí.
+¿Algún día podré ser tan fuerte como tú?\nEspero que sí.
+\w[signskin5]Casa del Carbonero.\nLos Farfetch'd se encargan de conseguir el material para el carbón.
+\w[signskin5]Casa del Carbonero.\nLos Farfetch'd se encargan de conseguir el material para el carbón.
+No, no es nada... Es que entrar ahí es muy peligroso, por eso estoy de guardia.\n¿A que soy un buen samaritano?
+No, no es nada...  Es que entrar ahí es muy peligroso, por eso estoy de guardia.\n¿A que soy un buen samaritano?
+No tengo nada que decir por el momento así que disfruta de este baile.
+No tengo nada que decir por el momento así que disfruta de este baile.
+¿Pero tú quién eres? ¿Es que no sabes quiénes somos?\n¡Tienes el honor de cruzarte con el Team Rocket!
+¿Pero tú quién eres? ¿Es que no sabes quiénes somos?\n¡Tienes el honor de cruzarte con el Team Rocket!
+¡¿Qué?! ¿Que si no nos habíamos disuelto?\n¡No nos vengas con cuentos! Disueltos nosotros... ¡Ja!
+¡¿Qué?! ¿Que si no nos habíamos disuelto?\n¡No nos vengas con cuentos! Disueltos nosotros...  ¡Ja!
+Bueno, vale... El Team Rocket se disolvió, pero hemos resurgido para hacer realidad los planes supremos del gran Giovanni.
+Bueno, vale... El Team Rocket se disolvió, pero hemos resurgido para hacer realidad los planes supremos del gran Giovanni.
+Pero tú no pintas nada en nuestros planes, así que...
+Pero tú no pintas nada en nuestros planes, así que...
+¡Desaparece!
+¡Desaparece!
+\tg[\v[12]]Hmph. Así que estás aquí también.
+\tg[\v[12]]Hmph. Así que estás aquí también.
+\tg[\v[12]]Dime una cosa...
+\tg[\v[12]]Dime una cosa...
+\tg[\v[12]]¿Es cierto que el Team Rocket ha vuelto?
+\tg[\v[12]]¿Es cierto que el Team Rocket ha vuelto?
+\tg[\v[12]]¿Y qué te hace pensar que puedes enfrentarte a ellos?\nNo eres más que un estorbo.
+\tg[\v[12]]¿Y qué te hace pensar que puedes enfrentarte a ellos?\nNo eres más que un estorbo.
+\tg[\v[12]]Je. ¿Crees que tú podrás contra ellos?\nPues a ver qué tal eres.
+\tg[\v[12]]Je. ¿Crees que tú podrás contra ellos?\nPues a ver qué tal eres.
+¡Escúchame! ¡Has ganado porque mis Pokémon eran débiles, eh!
+¡Escúchame! ¡Has ganado porque mis Pokémon eran débiles, eh!
+\tg[\v[12]]Odio a los débiles.\nYa sean Pokémon o Entrenadores. Da igual quién o qué.
+\tg[\v[12]]Odio a los débiles.\nYa sean Pokémon o Entrenadores. Da igual quién o qué.
+\tg[\v[12]]Eso también va por el Team Rocket. Son fuertes cuando están en grupo, pero si están solos, son unos cobardes.
+\tg[\v[12]]Eso también va por el Team Rocket.  Son fuertes cuando están en grupo, pero si están solos, son unos cobardes.
+\tg[\v[12]]¡Hay que acabar con ellos!
+\tg[\v[12]]¡Hay que acabar con ellos!
+\tg[\v[12]]Aunque me molesta admitirlo, tal vez no podré detenerlos solo. No soy tan estúpido como para no ver que juntos podemos tener más posibilidades de derrotarlos.
+\tg[\v[12]]Aunque me molesta admitirlo, tal vez no podré detenerlos solo. No soy tan estúpido como para no ver que juntos podemos tener más posibilidades de derrotarlos.
+\tg[\v[12]]Escucha, solo por esta vez, uniré fuerzas contigo.
+\tg[\v[12]]Escucha, solo por esta vez, uniré fuerzas contigo.
+\tg[\v[12]]No creas que somos amigos o algo por el estilo, solo quiero acabar con estos inútiles del Team Rocket.
+\tg[\v[12]]No creas que somos amigos o algo por el estilo, solo quiero acabar con estos inútiles del Team Rocket.
+\tg[\v[12]]Te espero en el pozo.
+\tg[\v[12]]Te espero en el pozo.
+\w[signskin]Gimnasio Pokémon de Pueblo Azalea. \nLíder: Antón, el sabelotodo de los Pokémon tipo Bicho.
+\w[signskin]Gimnasio Pokémon de Pueblo Azalea. \nLíder: Antón, el sabelotodo de los Pokémon tipo Bicho.
+...\n... ... ...\n
+...\n... ... ...\n
+<i>(Bostezo)...
+<i>(Bostezo)...
+\w[signskin5]Casa de César.\nTenaz artesano de las Poké Balls y experto en Bonguri.
+\w[signskin5]Casa de César.\nTenaz artesano de las Poké Balls y experto en Bonguri.
+¡Lo sabía! ¡César está hecho un máquina!
+¡Lo sabía! ¡César está hecho un máquina!
+César siempre ha sido un grande, pero la edad le pasa factura a todo el mundo...
+César siempre ha sido un grande, pero la edad le pasa factura a todo el mundo... 
+\w[signskin2]\C[10]Pueblo Azalea.\nGente y Pokémon en armonía.
+\w[signskin2]\C[10]Pueblo Azalea.\nGente y Pokémon en armonía.
+¿Sabías que César es experto en la fabricación tradicional de Poké Balls?
+¿Sabías que César es experto en la fabricación tradicional de Poké Balls?
+Los Slowpoke han vuelto. Conociéndolos, quizá han estado remoloneando en algún lugar.
+Los Slowpoke han vuelto. Conociéndolos, quizá han estado remoloneando en algún lugar.
+Mis queridos Slowpoke han desaparecido misteriosamente, me da un poco de miedito. \n¿Será verdad que los están...? ¡No, no puede ser!
+Mis queridos Slowpoke han desaparecido misteriosamente, me da un poco de miedito. \n¿Será verdad que los están...? ¡No, no puede ser!
+[Map56]
+¿Adónde han ido los Slowpoke? ¿Los habrán secuestrado?
+¿Adónde han ido los Slowpoke? ¿Los habrán secuestrado?
+¿Los estarán torturando? ¿Les estarán haciendo cosas horribles?
+¿Los estarán torturando? ¿Les estarán haciendo cosas horribles?
+¿...O estarán jugando alegremente? Sí, será eso.
+¿...O estarán jugando alegremente? Sí, será eso.
+Los Slowpoke han vuelto. Y has encontrado a los Farfetch'D.\n¡Eres la repanocha!
+Los Slowpoke han vuelto. Y has encontrado a los Farfetch'D.\n¡Eres la repanocha!
+Ups. Lo siento. Olvidé darte las gracias.\nEste es el Carbón que suelo fabricar.\nDáselo a los Pokémon de tipo Fuego y reforzará sus ataques.
+Ups. Lo siento. Olvidé darte las gracias.\nEste es el Carbón que suelo fabricar.\nDáselo a los Pokémon de tipo Fuego y reforzará sus ataques.
+Estamos que no podemos, eh...\nNos falta demasiada madera y tenemos demasiado trabajo.
+Estamos que no podemos, eh...\nNos falta demasiada madera y tenemos demasiado trabajo.
+¡Todo es culpa de esos avispones pesados! \n¡Malditos Beedrill!
+¡Todo es culpa de esos avispones pesados! \n¡Malditos Beedrill!
+Los del Team Rocket los debieron molestar, o algo así.\nAlguien debería bajarles esos humos.
+Los del Team Rocket los debieron molestar, o algo así.\nAlguien debería bajarles esos humos.
+Claro que si se lo digo a Antón... ¡Me va a dar un sermón sobre su importancia para el medioambiente!
+Claro que si se lo digo a Antón... ¡Me va a dar un sermón sobre su importancia para el medioambiente!
+Si lo haces tú, te recompensaré monetariamente... ¡Tú me entiendes!
+Si lo haces tú, te recompensaré monetariamente... ¡Tú me entiendes!
+¡Pero ni una palabra a Antón! Qué niño más pesado, por Arceus.
+¡Pero ni una palabra a Antón! Qué niño más pesado, por Arceus.
+Seguramente si alguien les ayudase a liberar la energía contenida que tienen...
+Seguramente si alguien les ayudase a liberar la energía contenida que tienen...
+¿Podrías darle un vistazo por tu cuenta?
+¿Podrías darle un vistazo por tu cuenta?
+Prometo que te lo recompensaré monetariamente.
+Prometo que te lo recompensaré monetariamente.
+Muchas gracias por habernos ayudado con el problema de los Beedrill.
+Muchas gracias por habernos ayudado con el problema de los Beedrill.
+No te preocupes, seguro a ellos les ha servido para relajar esos músculos un poco.
+No te preocupes, seguro a ellos les ha servido para relajar esos músculos un poco.
+\gLo prometido es deuda, aquí tienes tu pago.
+\gLo prometido es deuda, aquí tienes tu pago.
+\w[menuskin]\C[8]\g¡\PN obtiene 6000$!
+\w[menuskin]\C[8]\g¡\PN obtiene 6000$!
+El carbon que producimos aquí es de la mejor calidad y se distribuye por todo Johto.
+El carbon que producimos aquí es de la mejor calidad y se distribuye por todo Johto.
+Por eso estaba muy preocupada por la situación de nuestro negocio.
+Por eso estaba muy preocupada por la situación de nuestro negocio.
+Gracias a ti, podré dormir tranquila.
+Gracias a ti, podré dormir tranquila.
+¡Farf!
+¡Farf!
+\tg[César]¿Quién eres?\nAsí que \PN... ¿Vienes a que te fabrique Poké Balls?
+\tg[César]¿Quién eres?\nAsí que \PN... ¿Vienes a que te fabrique Poké Balls?
+\tg[César]Lo siento, pero deberás esperar. Hay unos maleantes dando la matraca por aquí. Se hacen llamar Team Rocket.
+\tg[César]Lo siento, pero deberás esperar. Hay unos maleantes dando la matraca por aquí. Se hacen llamar Team Rocket.
+\tg[César]Son una banda de criminales que usa Pokémon para el... "trabajo sucio".
+\tg[César]Son una banda de criminales que usa Pokémon para el... "trabajo sucio".
+\tg[César]Se supone que se habían separado hace unos años, ¡pero ahora están en el Pozo cortando colas de Slowpoke para venderlas!
+\tg[César]Se supone que se habían separado hace unos años, ¡pero ahora están en el Pozo cortando colas de Slowpoke para venderlas!
+\tg[César]¡Voy a salir escopetado hacia allí a darles una lección!\n¡Resistid, queridos Slowpoke! ¡César os salvará!
+\tg[César]¡Voy a salir escopetado hacia allí a darles una lección!\n¡Resistid, queridos Slowpoke! ¡César os salvará!
+\tg[César]¡La madre del Wooloo! ¡Has hecho un trabajo excelente, \PN!
+\tg[César]¡La madre del Wooloo! ¡Has hecho un trabajo excelente, \PN!
+\tg[César]Como ya te he dicho antes, un chico llamado Rojo derrotó al Team Rocket hace tres años.
+\tg[César]Como ya te he dicho antes, un chico llamado Rojo derrotó al Team Rocket hace tres años.
+\tg[César]Pero ahora han vuelto a la carga, y tengo una corazonada... Algo va a salir mal.
+\tg[César]Pero ahora han vuelto a la carga, y tengo una corazonada... Algo va a salir mal.
+\tg[César]En cualquier caso, \PN, me has impresionado.
+\tg[César]En cualquier caso, \PN, me has impresionado.
+\tg[César]¡Será un placer fabricar Poké Balls para ti!\nDe momento, puedes quedarte estas que tengo aquí.
+\tg[César]¡Será un placer fabricar Poké Balls para ti!\nDe momento, puedes quedarte estas que tengo aquí.
+\tg[César]Fabrico las Poké Balls a partir de Bonguri.\nRecógelos de los árboles y tráemelos. \n¡Ya verás que bien quedan!
+\tg[César]Fabrico las Poké Balls a partir de Bonguri.\nRecógelos de los árboles y tráemelos. \n¡Ya verás que bien quedan!
+\tg[César]¿Tienes un Bonguri?
+\tg[César]¿Tienes un Bonguri?
+\tg[César]¡Oído cocina! Te haré una Poké Ball.
+\tg[César]¡Oído cocina! Te haré una Poké Ball.
+\tg<<[>>César<<]>>¿Qué Bonguri quieres que<<n>>convierta?
+\tg<<[>>César<<]>>¿Qué Bonguri quieres que <<n>>convierta?
+\tg[César]¡Tsk...! ¡Qué decepción!
+\tg[César]¡Tsk...! ¡Qué decepción!
+\tg[César]Tardaré un día en fabricar una Poké Ball. Vuelve mañana a por ella.
+\tg[César]Tardaré un día en fabricar una Poké Ball. Vuelve mañana a por ella.
+\tg[César]¡Ah, \PN! Acabo de terminar tu Poké Ball.\nAquí tienes, ¡lista y preparada!
+\tg[César]¡Ah, \PN! Acabo de terminar tu Poké Ball.\nAquí tienes, ¡lista y preparada!
+\tg[César]Ha salido a pedir de boca.\n¡Otro gran trabajo para un gran entrenador!
+\tg[César]Ha salido a pedir de boca.\n¡Otro gran trabajo para un gran entrenador!
+\tg[César]Vaya, tu Bolsa está llena.\nHaz un poco de sitio y ven a buscarla luego.
+\tg[César]Vaya, tu Bolsa está llena.\nHaz un poco de sitio y ven a buscarla luego.
+\tg[César]¡\PN! Acabo de terminar tu Poké Ball. \l¡Aquí tienes!
+\tg[César]¡\PN! Acabo de terminar tu Poké Ball. \l¡Aquí tienes!
+\tg[César]Oye, \PN... ¡Déjame trabajar en paz!
+\tg[César]Oye, \PN... ¡Déjame trabajar en paz!
+Papá trabaja en Silph S.A. y estudia las Poké Balls.\nAsí que tengo que quedarme en casa con el abuelo y Slowpoke.
+Papá trabaja en Silph S.A. y estudia las Poké Balls.\nAsí que tengo que quedarme en casa con el abuelo y Slowpoke.
+¡El Slowpoke que me regaló mi padre ha vuelto! \n¡Y su cola vuelve a crecer! ¡Síiiii!
+¡El Slowpoke que me regaló mi padre ha vuelto! \n¡Y su cola vuelve a crecer! ¡Síiiii!
+¡Ya sé!
+¡Ya sé!
+¿Quieres el número de teléfono del abuelo?
+¿Quieres el número de teléfono del abuelo?
+César
+César
+Si quieres saber cosas sobre los Bonguri, llama al abuelo, ¡sabe de todo!
+Si quieres saber cosas sobre los Bonguri, llama al abuelo, ¡sabe de todo!
+¿Qué? ¿Qué pasa?\n¿No quieres llamar al abuelo?
+¿Qué? ¿Qué pasa?\n¿No quieres llamar al abuelo?
+E-el abuelo se ha ido. Estoy tan sola...
+E-el abuelo se ha ido. Estoy tan sola...
+Oye, los Slowpoke ya no están...\n¿Se los habrá llevado la gente mala?
+Oye, los Slowpoke ya no están...\n¿Se los habrá llevado la gente mala?
+¿Slow...?
+¿Slow...?
+¿De verdad ahuyentaste al Team Rocket y fuiste al Encinar sin ningún miedo?
+¿De verdad ahuyentaste al Team Rocket y fuiste al Encinar sin ningún miedo?
+¡Mi madre, qué valiente!\nMe has caído bien. ¡Entrena con nosotros!
+¡Mi madre, qué valiente!\nMe has caído bien.  ¡Entrena con nosotros!
+Mi aprendiz me lo contó todo. Deja que te lo agradezca con este Farfetch'd raro.
+Mi aprendiz me lo contó todo. Deja que te lo agradezca con este Farfetch'd raro.
+Es un bicho raro, aunque por lo visto son comunes en la región de Galar.
+Es un bicho raro, aunque por lo visto son comunes en la región de Galar.
+¡Cuida bien de él, anda!
+¡Cuida bien de él, anda!
+Oye, no tienes espacio para el Pokémon.
+Oye, no tienes espacio para el Pokémon.
+Las Cajas de Almacenamiento Pokémon está llenas y no puedes tener más, así que...
+Las Cajas de Almacenamiento Pokémon está llenas y no puedes tener más, así que...
+Los Slowpoke han vuelto...\nPero ahora son mis Farfetch'd los que se han escapado... ¡Maldita mi suerte!
+Los Slowpoke han vuelto...\nPero ahora son mis Farfetch'd los que se han escapado... ¡Maldita mi suerte!
+Mi aprendiz ha ido a buscarlos al Encinar, pero tarda mucho en volver.\n¡Este tío no tiene remedio!
+Mi aprendiz ha ido a buscarlos al Encinar, pero tarda mucho en volver.\n¡Este tío no tiene remedio!
+Todos los Slowpoke del pueblo han desaparecido. \nQuizá el guardián del Encinar esté enfadado...\n¡Esto es un mal presagio! ¡Vamos a morir todos!
+Todos los Slowpoke del pueblo han desaparecido. \nQuizá el guardián del Encinar esté enfadado...\n¡Esto es un mal presagio! ¡Vamos a morir todos!
+Sí
+Sí
+No
+No

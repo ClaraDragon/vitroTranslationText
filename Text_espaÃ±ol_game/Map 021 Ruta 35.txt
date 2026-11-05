@@ -1,0 +1,72 @@
+﻿# Maps grouped under: Ruta 35 (Highest ID: 21)
+[Map21]
+¿Vas al Gimnasio Pokémon? ¡Yo también!
+¿Vas al Gimnasio Pokémon? ¡Yo también!
+¡Vaya! No pude ganar...
+¡Vaya! No pude ganar...
+Me gustan las Medallas de los Gimnasio, pero son tan difíciles de conseguir...
+Me gustan las Medallas de los Gimnasio, pero son tan difíciles de conseguir...
+\w[signskin4]\C[8]Ruta 35.\nAl norte, Parque Nacional.\nAl noreste, Ruta 36.\nAl sur, Ciudad Trigal.
+\w[signskin4]\C[8]Ruta 35.\nAl norte, Parque Nacional.\nAl noreste, Ruta 36.\nAl sur, Ciudad Trigal.
+Vaya novio más inútil que tengo, ¡no se puede confiar en él!
+Vaya novio más inútil que tengo, ¡no se puede confiar en él!
+¡Cielos! Eres tan fuerte...
+¡Cielos! Eres tan fuerte...
+Confío más en mis Pokémon que en mi novio.
+Confío más en mis Pokémon que en mi novio.
+Tu equipo Pokémon es bastante fuerte. Estarás a salvo en cualquier parte.
+Tu equipo Pokémon es bastante fuerte. Estarás a salvo en cualquier parte.
+¡El peligro acecha por la noche! ¡Yo soy el peligro!\n¡ROARRR!
+¡El peligro acecha por la noche! ¡Yo soy el peligro!\n¡ROARRR!
+¡Huy!
+¡Huy!
+Ya sabes, la noche es divertida a su manera. Pero no te pases, ¿vale?
+Ya sabes, la noche es divertida a su manera.  Pero no te pases, ¿vale?
+Iré a cualquier lugar donde haya Pokémon de tipo Bicho.
+Iré a cualquier lugar donde haya Pokémon de tipo Bicho.
+Ya veo. De modo que luchas así.
+Ya veo. De modo que luchas así.
+Mi Venonat ganó el Concurso de Captura de Bichos del Parque Nacional.
+Mi Venonat ganó el Concurso de Captura de Bichos del Parque Nacional.
+¡Uauu! ¡Eres bastante fuerte!
+¡Uauu! ¡Eres bastante fuerte!
+¿Me das tu número de teléfono?
+¿Me das tu número de teléfono?
+Si tengo Pokémon de tipo Bicho, no me aburro ni cuando me toca esperar.
+Si tengo Pokémon de tipo Bicho, no me aburro ni cuando me toca esperar.
+¡Eres increíble! ¡Me caes bien!\nBusco Pokémon por aquí todos los días.\nCuando salgo al campo, encuentro toda clase de Bayas.\nSi quieres, te doy algunas.
+¡Eres increíble! ¡Me caes bien!\nBusco Pokémon por aquí todos los días.\nCuando salgo al campo, encuentro toda clase de Bayas.\nSi quieres, te doy algunas. 
+Practico mi aliento de fuego bebiendo alcohol y escupiéndolo. ¡FIUUUUU!
+Practico mi aliento de fuego bebiendo alcohol y escupiéndolo. ¡FIUUUUU!
+La próxima vez usaré gasolina.
+La próxima vez usaré gasolina.
+¡Au! ¡Me he quemado la punta de la<<n>>nariz!
+¡Au! ¡Me he quemado la punta de la <<n>>nariz!
+La radio está llena de temazos interesantes. ¡Mira, te voy a poner uno!
+La radio está llena de temazos interesantes.  ¡Mira, te voy a poner uno!
+¡Me rindo!
+¡Me rindo!
+La música de la radio me llena de energía, ¡y a los Pokémon salvajes también!
+La música de la radio me llena de energía, ¡y a los Pokémon salvajes también!
+¿Qué tipo de Poké Ball usas?
+¿Qué tipo de Poké Ball usas?
+¡Vaya! ¡Me ha faltado rapidez!
+¡Vaya! ¡Me ha faltado rapidez!
+Si quieres atrapar Pokémon de Velocidad elevada, te aconsejo que uses la Rapid Ball de César.
+Si quieres atrapar Pokémon de Velocidad elevada, te aconsejo que uses la Rapid Ball de César.
+Cuando encuentro un Bonguri Blanco se lo llevo a César y él lo convierte en una Poké Ball especial.
+Cuando encuentro un Bonguri Blanco se lo llevo a César y él lo convierte en una Poké Ball especial.
+¡Mira este truco con las Poké Ball!\n¡Y mira este otro!
+¡Mira este truco con las Poké Ball!\n¡Y mira este otro!
+¡Guaaau! ¡Vaya sacudida!
+¡Guaaau! ¡Vaya sacudida!
+A ver cuando me aprendo el truco de encontrar trabajo.
+A ver cuando me aprendo el truco de encontrar trabajo.
+Le voy a demostrar a mi novia lo buen entrenador que soy, ¡en guardia!
+Le voy a demostrar a mi novia lo buen entrenador que soy, ¡en guardia!
+Ojalá hubieras perdido tú...
+Ojalá hubieras perdido tú...
+Me humillaste delante de mi novia...
+Me humillaste delante de mi novia...
+¡Sir sir!\wt[20]
+¡Sir sir!\wt[20]

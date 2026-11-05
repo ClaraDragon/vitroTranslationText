@@ -1,0 +1,9 @@
+﻿# Maps grouped under: Islas Remolino (Highest ID: 101)
+[Map101]
+¡Dra!\wt[20]
+¡Dra!\wt[20]
+[Map151]
+\sh¡Giaaas!\wt[15]
+\sh¡Giaaas!\wt[15]
+\sh¡Giaaas!\wt[15]\^
+\sh¡Giaaas!\wt[15]\^

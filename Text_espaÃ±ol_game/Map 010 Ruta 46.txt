@@ -1,0 +1,32 @@
+﻿# Maps grouped under: Ruta 46 (Highest ID: 10)
+[Map10]
+\w[signskin4]\C[8]Ruta 46.\nAl norte, Ruta 45 y Cueva Oscura.\nAl sur, Ruta 29.
+\w[signskin4]\C[8]Ruta 46.\nAl norte, Ruta 45 y Cueva Oscura.\nAl sur, Ruta 29.
+¡Yo también entreno Pokémon! ¿Quieres luchar contra mí?
+¡Yo también entreno Pokémon! ¿Quieres luchar contra mí?
+¡Me rindo! ¡Me has demostrado tu<<n>>poder!
+¡Me rindo! ¡Me has demostrado tu <<n>>poder!
+Se acabó, pero no me importa. Los montañeros somos así.
+Se acabó, pero no me importa. Los montañeros somos así.
+¡Oh! ¡Maldición!
+¡Oh! ¡Maldición!
+Me enfada bastante perder. Tendré que entrenarme mucho más.
+Me enfada bastante perder. Tendré que entrenarme mucho más. 
+¿Quieres luchar<<n>>de nuevo en otro momento?
+¿Quieres luchar <<n>>de nuevo en otro momento?
+Y qué, ¿has pasado por muchos Gimnasios desde la última vez?
+Y qué, ¿has pasado por muchos Gimnasios desde la última vez?
+Oh... ¡He perdido otra vez! Me gustaría saber cuántas veces va a repetirse esto. ¡Gracias por venir! ¡Toma este regalo!
+Oh... ¡He perdido otra vez! Me gustaría saber cuántas veces va a repetirse esto. ¡Gracias por venir! ¡Toma este regalo!
+Cuando quiera volver a luchar, te llámare! \nCuando se repite un combate, hay que hacerlo en el terreno del adversario.
+Cuando quiera volver a luchar, te llámare! \nCuando se repite un combate, hay que hacerlo en el terreno del adversario.
+\w[signskin]Cueva Oscura.
+\w[signskin]Cueva Oscura.
+¿Qué?...
+¿Qué?...
+Hice lo que pude pero no sirvió. No hay excusa que valga. He perdido.
+Hice lo que pude pero no sirvió. No hay excusa que valga. He perdido.
+Es buena idea pasarte por lugares a los que no vas nunca.
+Es buena idea pasarte por lugares a los que no vas nunca.
+¡Podrías encontrar Pokémon muy poco comunes!
+¡Podrías encontrar Pokémon muy poco comunes!

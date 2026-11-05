@@ -1,0 +1,72 @@
+﻿# Maps grouped under: Ruta 40 (Highest ID: 93)
+[Map93]
+Eres joven y estas en forma, no vayas sobre tu Pokémon ¡Ve nadando!
+Eres joven y estas en forma, no vayas sobre tu Pokémon ¡Ve nadando!
+¡He perdido!
+¡He perdido!
+Creo que nado mejor que tú.\n¡Sin duda!
+Creo que nado mejor que tú.\n¡Sin duda!
+¿Ves ese agua tan oscura?\nSon aguas muy profundas.
+¿Ves ese agua tan oscura?\nSon aguas muy profundas.
+Es recomendable que las evites, aunque vayas acompañado de algún Pokémon.
+Es recomendable que las evites, aunque vayas acompañado de algún Pokémon.
+Oh... he perdido
+Oh... he perdido
+La natación fortalece el cuerpo. Es sana.
+La natación fortalece el cuerpo. Es sana.
+¡Mi barco, mi barco! Como me gusta mi barco.
+¡Mi barco, mi barco! Como me gusta mi barco.
+¿Ey, necesitas ir a Ciudad Orquídea?\nPuedo llevarte en mi querido barco, por un módico precio, claro.
+¿Ey, necesitas ir a Ciudad Orquídea?\nPuedo llevarte en mi querido barco, por un módico precio, claro.
+\gPor 1000$ te llevo, ¿qué me dices?
+\gPor 1000$ te llevo, ¿qué me dices?
+\g¡Bien!\nPues sube al barco, que nos vamos.
+\g¡Bien!\nPues sube al barco, que nos vamos.
+Tú te lo pierdes... mira que rechazar ir en mi querido barco...
+Tú te lo pierdes... mira que rechazar ir en mi querido barco...
+¿Quieres algo<<n>>fresquito?
+¿Quieres algo <<n>>fresquito?
+Esto es el Acceso a la Torre Batalla. Va a ser un jaleo si os ponéis a hacer cola aquí.
+Esto es el Acceso a la Torre Batalla. Va a ser un jaleo si os ponéis a hacer cola aquí.
+Yo no necesito flotador.\n¡Voy agarrada a un Pokémon de mar!
+Yo no necesito flotador.\n¡Voy agarrada a un Pokémon de mar!
+¡Uy! ¡Estoy mareada!
+¡Uy! ¡Estoy mareada!
+Mientras flote así, las olas me llevarán.
+Mientras flote así, las olas me llevarán.
+\w[signskin4]\C[8]Chiringuito Olivo.
+\w[signskin4]\C[8]Chiringuito Olivo.
+¡Eeeh! ¡Vienen unas olas estupendas! ¡A cabalgar sobre ellas!
+¡Eeeh! ¡Vienen unas olas estupendas! ¡A cabalgar sobre ellas!
+Vaya...\n¿Todavía no tienes Surf?...
+Vaya...\n¿Todavía no tienes Surf?...
+No se lo digas a nadie, pero a mí me lo dio un anciano en Ciudad Iris.\nCreo que debe de seguir allí.
+No se lo digas a nadie, pero a mí me lo dio un anciano en Ciudad Iris.\nCreo que debe de seguir allí.
+¿Por qué no vas a verlo?
+¿Por qué no vas a verlo?
+\tg[Luna]Encantada de conocerte. Soy Luna, por lunes.\n¡Como prueba de nuestra amistad, tengo un regalo para ti!
+\tg[Luna]Encantada de conocerte. Soy Luna, por lunes.\n¡Como prueba de nuestra amistad, tengo un regalo para ti!
+\tg[Luna]Es un objeto que aumenta el poder de los movimientos de tipo Volador.\nDeberías darle este objeto a un Pokémon pájaro.
+\tg[Luna]Es un objeto que aumenta el poder de los movimientos de tipo Volador.\nDeberías darle este objeto a un Pokémon pájaro.
+\tg[Luna]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no? \nY, en prueba de esta amistad, ¡te voy a dar la Cinta Alerta!
+\tg[Luna]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no? \nY, en prueba de esta amistad, ¡te voy a dar la Cinta Alerta!
+\tg[Luna]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Luna]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Luna]Mis hermanos y hermanas están por todas partes.\n¡A ver si los encuentras!
+\tg[Luna]Mis hermanos y hermanas están por todas partes.\n¡A ver si los encuentras!
+¡PIKA!
+¡PIKA!
+¿Cómo? ¡El primero soy yo!\nHe estado aquí haciendo cola sin dormir para ser el primero en probar la Torre Batalla.
+¿Cómo? ¡El primero soy yo!\nHe estado aquí haciendo cola sin dormir para ser el primero en probar la Torre Batalla.
+Si no te importa estar en segundo lugar, puedes ponerte detrás de mí.
+Si no te importa estar en segundo lugar, puedes ponerte detrás de mí.
+Debes Calentar antes de entrar al agua, es imprescindible.
+Debes Calentar antes de entrar al agua, es imprescindible.
+¡Vale! ¡Me rindo!
+¡Vale! ¡Me rindo!
+Ciudad Orquídea esta bastante lejos de aquí.
+Ciudad Orquídea esta bastante lejos de aquí.
+Sí
+Sí
+No
+No

@@ -1,0 +1,22 @@
+﻿# Maps grouped under: Meseta Anil (Highest ID: 130)
+[Map130]
+\tg[\v[12]]\PN, espera.
+\tg[\v[12]]\PN, espera.
+\tg[\v[12]]¿Vas a participar ahora en la Liga Pokémon?
+\tg[\v[12]]¿Vas a participar ahora en la Liga Pokémon?
+\tg[\v[12]]Yo creo que deberías abandonar la idea, pues mis Pokémon están muy bien entrenados y van a acabar contigo esta vez.
+\tg[\v[12]]Yo creo que deberías abandonar la idea, pues mis Pokémon están muy bien entrenados y van a acabar contigo esta vez.
+\tg[\v[12]]¡Enfréntate a mí!
+\tg[\v[12]]¡Enfréntate a mí!
+Vale. He perdido.
+Vale. He perdido.
+\tg[\v[12]]¡Maldición!
+\tg[\v[12]]¡Maldición!
+\tg[\v[12]]Sigo sin ganar...\nTengo que confiar más en mis Pokémon... Debe de ser eso.
+\tg[\v[12]]Sigo sin ganar...\nTengo que confiar más en mis Pokémon... Debe de ser eso.
+\tg[\v[12]]Perdona por haberte hecho perder el tiempo.
+\tg[\v[12]]Perdona por haberte hecho perder el tiempo.
+\tg[\v[12]]No olvides restaurar los PS de tus Pokémon si vas a enfrentarte al Campeón.
+\tg[\v[12]]No olvides restaurar los PS de tus Pokémon si vas a enfrentarte al Campeón.
+\w[signskin]Meseta Añil\n¡Objetivo final de los Entrenadores y Cuartel General de la Liga Pokémon!
+\w[signskin]Meseta Añil\n¡Objetivo final de los Entrenadores y Cuartel General de la Liga Pokémon!

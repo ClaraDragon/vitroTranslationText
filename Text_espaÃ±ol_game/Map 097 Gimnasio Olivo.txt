@@ -1,0 +1,66 @@
+﻿# Maps grouped under: Gimnasio Olivo (Highest ID: 97)
+[Map97]
+La señorita Yasmina es una muy buena inquilina, ¡una como pocas!
+La señorita Yasmina es una muy buena inquilina, ¡una como pocas!
+¡Soy Concha! ¡Pierdo!
+¡Soy Concha! ¡Pierdo!
+Ten cuidado con ella, sus pintas engañan.
+Ten cuidado con ella, sus pintas engañan.
+\w[menuskin]\C[8]¡Un botón!\n¿Quieres pulsarlo?
+\w[menuskin]\C[8]¡Un botón!\n¿Quieres pulsarlo?
+\w[menuskin]\C[8]No reacciona...
+\w[menuskin]\C[8]No reacciona...
+\tg[Yasmina]Muchas gracias por ayudarnos en el faro, ¡Amphy estará muy contento!
+\tg[Yasmina]Muchas gracias por ayudarnos en el faro, ¡Amphy estará muy contento!
+\tg[Yasmina]N-no me dio tiempo a presentarme, ¿sabes?\nYasmina. Ese es mi nombre.
+\tg[Yasmina]N-no me dio tiempo a presentarme, ¿sabes?\nYasmina. Ese es mi nombre.
+\tg[Yasmina]¡Oh, hola! ¡No esperaba a ningún aspirante hoy!
+\tg[Yasmina]¡Oh, hola! ¡No esperaba a ningún aspirante hoy!
+\tg[Yasmina]Soy Yasmina, líder de tipo Acero de Ciudad Olivo.
+\tg[Yasmina]Soy Yasmina, líder de tipo Acero de Ciudad Olivo.
+\tg[Yasmina]Entreno al tipo Acero desde hace bastante tiempo. Algunos dicen que no me pega... ¡p-pero yo creo que es muy "mi rollo"!
+\tg[Yasmina]Entreno al tipo Acero desde hace bastante tiempo. Algunos dicen que no me pega...  ¡p-pero yo creo que es muy "mi rollo"! 
+\tg[Yasmina]Quizás es porque soy un poco fría con los demás, o quizás es porque en combate soy muy dura...
+\tg[Yasmina]Quizás es porque soy un poco fría con los demás, o quizás es porque en combate soy muy dura...
+\tg[Yasmina]¡D-de todas maneras eso da igual! \nComo líder de gimnasio debo cumplir mi deber y devolverte "pitando" al Centro Pokémon.
+\tg[Yasmina]¡D-de todas maneras eso da igual! \nComo líder de gimnasio debo cumplir mi deber y devolverte "pitando" al Centro Pokémon.
+\tg[Yasmina]¡En guardia!
+\tg[Yasmina]¡En guardia!
+Realmente excepcional...
+Realmente excepcional...
+\tg[Yasmina]V-vaya...\nSi que eres mejor que yo, ¿eh?
+\tg[Yasmina]V-vaya...\nSi que eres mejor que yo, ¿eh?
+\tg[Yasmina]Con esa habilidad en combate y esa simpatía por los Pokémon seguro que te abres paso por Johto sin problemas.
+\tg[Yasmina]Con esa habilidad en combate y esa simpatía por los Pokémon seguro que te abres paso por Johto sin problemas.
+\tg[Yasmina]Estoy segura de que no tendrás problemas en tu aventura.
+\tg[Yasmina]Estoy segura de que no tendrás problemas en tu aventura.
+\tg[Yasmina]Aquí tienes el símbolo de tu victoria, la medalla Mineral.
+\tg[Yasmina]Aquí tienes el símbolo de tu victoria, la medalla Mineral.
+\tg[Yasmina]Y... También voy a darte esto. Esa MT contiene Cabeza de Hierro.
+\tg[Yasmina]Y... También voy a darte esto. Esa MT contiene Cabeza de Hierro. 
+\tg[Yasmina]El Pokémon golpea al oponente con su cabeza endurecida y puede hacerle retroceder.
+\tg[Yasmina]El Pokémon golpea al oponente con su cabeza endurecida y puede hacerle retroceder.
+\tg[Yasmina]Es un movimiento devastador.
+\tg[Yasmina]Es un movimiento devastador.
+\tg[Yasmina]Te deseo mucha suerte en tu aventura. ¡Y muchas gracias por lo de Amphy!
+\tg[Yasmina]Te deseo mucha suerte en tu aventura. ¡Y muchas gracias por lo de Amphy!
+\tg[Yasmina]Te deseo mucha suerte en tu aventura, \PN.
+\tg[Yasmina]Te deseo mucha suerte en tu aventura, \PN.
+\tg[Yasmina]Aquí me tienes. ¿Empezamos?
+\tg[Yasmina]Aquí me tienes. ¿Empezamos?
+\tg[Yasmina]Tal como suponía...
+\tg[Yasmina]Tal como suponía...
+Yasmina es una chica muy fuerte, aunque a veces no se da cuenta de como de fuerte es...
+Yasmina es una chica muy fuerte, aunque a veces no se da cuenta de como de fuerte es...
+¡Ay! ¡Mi Pokémon!
+¡Ay! ¡Mi Pokémon!
+¡Oh, la, la! ¿Viene usted a retar a la señorita Yasmina?\n¡No lo permitiré!
+¡Oh, la, la! ¿Viene usted a retar a la señorita Yasmina?\n¡No lo permitiré!
+Uff... Debo entrenar más.
+Uff... Debo entrenar más.
+La señorita solía utilizar Pokémon tipo Roca, pero el médico le recomendó tomar más hierro y acabó siendo entrenadora tipo Acero.
+La señorita solía utilizar Pokémon tipo Roca, pero el médico le recomendó tomar más hierro y acabó siendo entrenadora tipo Acero.
+Sí
+Sí
+No
+No

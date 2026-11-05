@@ -1,0 +1,5 @@
+﻿# REGION_NAMES
+# To localize this text, translate every second line.
+[18]
+Johto & Kanto
+Johto & Kanto

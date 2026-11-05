@@ -1,0 +1,8 @@
+﻿# Maps grouped under: Ruta 48 (Highest ID: 110)
+[Map110]
+\sh¡Kyuu, uuhn!\wt[15]
+\sh¡Kyuu, uuhn!\wt[15]
+\w[signskin4]\C[8]Ruta 48.\nAl norte, Zona Safari.\nAl sur, Ruta 47.
+\w[signskin4]\C[8]Ruta 48.\nAl norte, Zona Safari.\nAl sur, Ruta 47.
+¡Kanga!\wt[20]
+¡Kanga!\wt[20]

@@ -1,0 +1,136 @@
+﻿# Maps grouped under: Liga Pokemon (Highest ID: 88)
+[Map88]
+\tg[Bruno]Soy Bruno, del Alto Mando.\nMe entreno siempre al máximo porque confío en nuestro potencial. Por eso somos tan fuertes.
+\tg[Bruno]Soy Bruno, del Alto Mando.\nMe entreno siempre al máximo porque confío en nuestro potencial. Por eso somos tan fuertes.
+\tg[Bruno]¿Acaso crees que tienes alguna posibilidad?\nNo parece que tengas miedo.
+\tg[Bruno]¿Acaso crees que tienes alguna posibilidad?\nNo parece que tengas miedo.
+\tg[Bruno]Por tu cara diría que estás deseando empezar el combate. ¡Perfecto!\n¡Prepárate, \PN!\n¡Te doblegarás ante nuestro inmenso poder!\n¡Kyaaaaa!
+\tg[Bruno]Por tu cara diría que estás deseando empezar el combate. ¡Perfecto!\n¡Prepárate, \PN!\n¡Te doblegarás ante nuestro inmenso poder!\n¡Kyaaaaa!
+¿Qué? ¿Cómo hemos podido perder?
+¿Qué? ¿Cómo hemos podido perder?
+\tg[Bruno]Como he perdido, no tengo derecho a decir nada... ¡Enfréntate al siguiente desafío!
+\tg[Bruno]Como he perdido, no tengo derecho a decir nada... ¡Enfréntate al siguiente desafío!
+[Map131]
+Je, je, je. Tengo unas piedras de la mayor calidad que he encontrado por ahí, echa un ojo.
+Je, je, je. Tengo unas piedras de la mayor calidad que he encontrado por ahí, echa un ojo.
+Madre mía, no consigo vencer ni a un solo miembro del Alto Mando...
+Madre mía, no consigo vencer ni a un solo miembro del Alto Mando...
+No exageraban cuando decían que en la Liga Pokémon se encontraba la crème de la crème.
+No exageraban cuando decían que en la Liga Pokémon se encontraba la crème de la crème.
+En la Liga Pokémon, los cuatro miembros del Alto Mando te pondrán a prueba.\nDeberás vencerlos a todos.
+En la Liga Pokémon, los cuatro miembros del Alto Mando te pondrán a prueba.\nDeberás vencerlos a todos.
+¡Si pierdes, volverás a empezar!
+¡Si pierdes, volverás a empezar!
+¿Has comprado todo lo que tenías que comprar? \n¿Llevas el Botiquín repleto de objetos?
+¿Has comprado todo lo que tenías que comprar? \n¿Llevas el Botiquín repleto de objetos?
+Te aguarda un reto extremadamente difícil, así que será mejor que no te descuides y que te prepares bien antes de afrontar este desafío.
+Te aguarda un reto extremadamente difícil, así que será mejor que no te descuides y que te prepares bien antes de afrontar este desafío.
+Los Entrenadores que se ponen nerviosos una vez están aquí, vuelven a casa teletransportados por mi querido Abra.
+Los Entrenadores que se ponen nerviosos una vez están aquí, vuelven a casa teletransportados por mi querido Abra.
+Aunque muchos se van volando sin ayuda de nadie últimamente.\nMe siento un poco triste así, sin nada que hacer, y a Abra le ocurre lo mismo.
+Aunque muchos se van volando sin ayuda de nadie últimamente.\nMe siento un poco triste así, sin nada que hacer, y a Abra le ocurre lo mismo.
+Mi Exeggutor se lleva la palma, ¿no crees? Proviene de la lejana región de Alola.\nGracias al clima de allí, ha crecido fuerte y alto.
+Mi Exeggutor se lleva la palma, ¿no crees? Proviene de la lejana región de Alola.\nGracias al clima de allí, ha crecido fuerte y alto.
+Oye, ¿no tendrás un Exeggutor? ¿Te gustaría cambiármelo por el mío de Alola?
+Oye, ¿no tendrás un Exeggutor? ¿Te gustaría cambiármelo por el mío de Alola?
+Me has dejado con un palmo de narices.
+Me has dejado con un palmo de narices.
+Toma, ¡cuida mucho de mi Exeggutor!
+Toma, ¡cuida mucho de mi Exeggutor!
+Aabra...\wt[10]
+Aabra...\wt[10]
+Cruzando este pasillo se llega a las salas del Alto Mando.\n¡Sus miembros son muy poderosos!\nUna vez entres, ya no podrás echarte atrás.\n¿Te atreves? ¡Sé valiente y adelante!
+Cruzando este pasillo se llega a las salas del Alto Mando.\n¡Sus miembros son muy poderosos!\nUna vez entres, ya no podrás echarte atrás.\n¿Te atreves? ¡Sé valiente y adelante!
+Me muero por ver con qué nos sorprendes hoy en tus enfrentamientos.\n¡Espero grandes cosas de ti!
+Me muero por ver con qué nos sorprendes hoy en tus enfrentamientos.\n¡Espero grandes cosas de ti!
+[Map143]
+\tg[Mento]¡Sed bienvenidos a la Liga Pokémon!
+\tg[Mento]¡Sed bienvenidos a la Liga Pokémon!
+\tg[Mento]Mi nombre es Mento, y hoy seré vuestro anfitrión.
+\tg[Mento]Mi nombre es Mento, y hoy seré vuestro anfitrión.
+\tg[Mento]Por si mi atuendo y porte te confunden, debería aclarar que soy especialista en el tipo Psíquico.
+\tg[Mento]Por si mi atuendo y porte te confunden, debería aclarar que soy especialista en el tipo Psíquico.
+\tg[Mento]Lo místico inunda cada rincón de esta estancia, quizás por la influencia de mis Pokémon.
+\tg[Mento]Lo místico inunda cada rincón de esta estancia, quizás por la influencia de mis Pokémon.
+\tg[Mento]¡Mas no debemos entretenernos con minucias!
+\tg[Mento]¡Mas no debemos entretenernos con minucias!
+\tg[Mento]Ahora debemos batirnos en duelo, pues más rivales os esperan.
+\tg[Mento]Ahora debemos batirnos en duelo, pues más rivales os esperan.
+\tg[Mento]Yo, Mento, primero del Alto Mando... ¡Os desafío!
+\tg[Mento]Yo, Mento, primero del Alto Mando...  ¡Os desafío!
+No... Esto es... increíble...
+No... Esto es... increíble...
+\tg[Mento]¡Vaya! Parece que no hemos sido rivales para vuestra fuerza.
+\tg[Mento]¡Vaya! Parece que no hemos sido rivales para vuestra fuerza.
+\tg[Mento]Las puertas a vuestro destino se os abren.
+\tg[Mento]Las puertas a vuestro destino se os abren.
+\tg[Mento]¡Ojalá la fortuna os acompañe!
+\tg[Mento]¡Ojalá la fortuna os acompañe!
+\tg[Mento]¿Te gustan los cubos que flotan por aquí?\nMmm... Dados.
+\tg[Mento]¿Te gustan los cubos que flotan por aquí?\nMmm... Dados.
+[Map144]
+\tg[Koga]¡Ja, ja, ja!\nSoy Koga, del Alto Mando. Vivo en las sombras, como un ninja.
+\tg[Koga]¡Ja, ja, ja!\nSoy Koga, del Alto Mando.  Vivo en las sombras, como un ninja.
+\tg[Koga]¡Te confundiré y te destruiré con mi estilo!\nPuedo confundir o envenenar a mis adversarios...\n¡Prepárate para ser víctima de mis imprevisibles y alucinantes técnicas!
+\tg[Koga]¡Te confundiré y te destruiré con mi estilo!\nPuedo confundir o envenenar a mis adversarios...\n¡Prepárate para ser víctima de mis imprevisibles y alucinantes técnicas!
+\tg[Koga]¡Ja, ja, ja!\nLa fuerza bruta no lo es todo contra algunos Pokémon. ¡Ya lo verás!
+\tg[Koga]¡Ja, ja, ja!\nLa fuerza bruta no lo es todo contra algunos Pokémon. ¡Ya lo verás!
+¡Ah! ¡Has demostrado tu valor!
+¡Ah! ¡Has demostrado tu valor!
+\tg[Koga]He probado contigo todo lo que sé. \nPero he fallado. Debería entrenarme bastante más.\n¡Entra en la siguiente sala y demuestra tus habilidades!
+\tg[Koga]He probado contigo todo lo que sé. \nPero he fallado. Debería entrenarme bastante más.\n¡Entra en la siguiente sala y demuestra tus habilidades!
+[Map146]
+\tg[Karen]Soy Karen, del Alto Mando.\n¿Eres \PN? ¡Esto se está poniendo interesante!\nMe gustan los Pokémon de tipo Siniestro.
+\tg[Karen]Soy Karen, del Alto Mando.\n¿Eres \PN?  ¡Esto se está poniendo interesante!\nMe gustan los Pokémon de tipo Siniestro.
+\tg[Karen]Me parece que su presencia en combate es imponente.\n¿Crees que podrás detenerlos? \n¡Espero que te esfuerces al máximo y que este combate valga la pena!\n¡Vamos allá!
+\tg[Karen]Me parece que su presencia en combate es imponente.\n¿Crees que podrás detenerlos? \n¡Espero que te esfuerces al máximo y que este combate valga la pena!\n¡Vamos allá!
+Lo haces bien... Me gusta eso en los Entrenadores.
+Lo haces bien... Me gusta eso en los Entrenadores.
+\tg[Karen]Pokémon fuertes.\nPokémon débiles. \nEsa es la visión egoísta que tiene todo el mundo.
+\tg[Karen]Pokémon fuertes.\nPokémon débiles. \nEsa es la visión egoísta que tiene todo el mundo.
+\tg[Karen]Si un Entrenador es bueno, debería ser capaz de ganar con sus favoritos.\nTú ya lo has comprendido. Por eso me gusta tu estilo. \nAdelante. El Campeón te espera.
+\tg[Karen]Si un Entrenador es bueno, debería ser capaz de ganar con sus favoritos.\nTú ya lo has comprendido. Por eso me gusta tu estilo. \nAdelante. El Campeón te espera.
+[Map147]
+\tg[Lance]¡Te estaba esperando, \PN!\nSabía que finalmente serías capaz de llegar hasta mí.\nNo necesitamos más palabras.
+\tg[Lance]¡Te estaba esperando, \PN!\nSabía que finalmente serías capaz de llegar hasta mí.\nNo necesitamos más palabras.
+\tg[Lance]Debemos luchar para decidir quién es el más fuerte de los dos.
+\tg[Lance]Debemos luchar para decidir quién es el más fuerte de los dos.
+\tg[Lance]Como Entrenador más poderoso y Campeón de la Liga Pokémon\..\..\..
+\tg[Lance]Como Entrenador más poderoso y Campeón de la Liga Pokémon\..\..\..
+\tg[Lance]¡Yo, Lance, el maestro dragón, acepto tu desafío!
+\tg[Lance]¡Yo, Lance, el maestro dragón, acepto tu desafío!
+Lo haces bien... Me gusta eso en los Entrenadores.
+Lo haces bien... Me gusta eso en los Entrenadores.
+\tg[Lance]Fiuuu...\nEres realmente fuerte, \PN. \nTus Pokémon han respondido a tu fuerte naturaleza.
+\tg[Lance]Fiuuu...\nEres realmente fuerte, \PN. \nTus Pokémon han respondido a tu fuerte naturaleza.
+\tg[Lance]Debes continuar fortaleciéndote con tus Pokémon.
+\tg[Lance]Debes continuar fortaleciéndote con tus Pokémon.
+\tg[Rosa]¡Oh, no hemos llegado a tiempo! ¡Si no fuera tan lento, Profesor Oak...!
+\tg[Rosa]¡Oh, no hemos llegado a tiempo! ¡Si no fuera tan lento, Profesor Oak...!
+\tg[Oak]¡Ah, \PN! Ha pasado mucho tiempo. Cada día eres más impresionante.\n¡Tu conquista de la Liga ha sido fantástica!
+\tg[Oak]¡Ah, \PN! Ha pasado mucho tiempo. Cada día eres más impresionante.\n¡Tu conquista de la Liga ha sido fantástica!
+\tg[Oak]Tu dedicación, confianza y amor por tus Pokémon lo han conseguido.\nTus Pokémon también han estado increíbles.
+\tg[Oak]Tu dedicación, confianza y amor por tus Pokémon lo han conseguido.\nTus Pokémon también han estado increíbles.
+\tg[Oak]Han perseverado porque han creído en ti y en tu entrenamiento.\n¡Felicidades, \PN!
+\tg[Oak]Han perseverado porque han creído en ti y en tu entrenamiento.\n¡Felicidades, \PN!
+\tg[Rosa]¡Vamos a entrevistar a la persona que ha ganado!
+\tg[Rosa]¡Vamos a entrevistar a la persona que ha ganado!
+\tg[Lance]Vaya... Menudo alboroto...
+\tg[Lance]Vaya... Menudo alboroto...
+\tg[Lance]¿Puedes venir conmigo un momento, \PN?
+\tg[Lance]¿Puedes venir conmigo un momento, \PN?
+\tg[Rosa]¡Espera! ¿Y la entrevista?
+\tg[Rosa]¡Espera! ¿Y la entrevista?
+\tg[Lance]Ven conmigo un momento, \PN.
+\tg[Lance]Ven conmigo un momento, \PN.
+[Map148]
+\tg[Lance]Ha pasado mucho tiempo desde la última vez que vine aquí.\nAquí es donde honramos a los Campeones de la Liga por toda la eternidad.\nY a sus valerosos Pokémon también.
+\tg[Lance]Ha pasado mucho tiempo desde la última vez que vine aquí.\nAquí es donde honramos a los Campeones de la Liga por toda la eternidad.\nY a sus valerosos Pokémon también.
+\tg[Lance]Hoy, hemos sido testigos de la aparición de una nueva Campeona de la Liga, alguien que ha creído y ha sabido confiar en sus Pokémon.
+\tg[Lance]Hoy, hemos sido testigos de la aparición de una nueva Campeona de la Liga, alguien que ha creído y ha sabido confiar en sus Pokémon.
+\tg[Lance]Hoy, hemos sido testigos de la aparición de un nuevo Campeón de la Liga, alguien que ha creído y ha sabido confiar en sus Pokémon.
+\tg[Lance]Hoy, hemos sido testigos de la aparición de un nuevo Campeón de la Liga, alguien que ha creído y ha sabido confiar en sus Pokémon.
+\tg[Lance]Alguien que ha logrado el éxito gracias a la perseverancia y la determinación. \n¡Un nuevo triunfo en la Liga, conseguido con grandeza!
+\tg[Lance]Alguien que ha logrado el éxito gracias a la perseverancia y la determinación. \n¡Un nuevo triunfo en la Liga, conseguido con grandeza!
+\tg[Lance]¡\PN, voy a registraros a ti y a tus compañeros como Campeones!
+\tg[Lance]¡\PN, voy a registraros a ti y a tus compañeros como Campeones!

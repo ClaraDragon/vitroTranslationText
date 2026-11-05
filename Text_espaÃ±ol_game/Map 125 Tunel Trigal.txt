@@ -1,0 +1,325 @@
+﻿# Maps grouped under: Tunel Trigal (Highest ID: 125)
+[Map125]
+¡Vuelve mañana si quieres hacer otro intercambio!
+¡Vuelve mañana si quieres hacer otro intercambio!
+Solo corto el pelo a un Pokémon por día. Está bien clarito en mi tarifa.
+Solo corto el pelo a un Pokémon por día. Está bien clarito en mi tarifa.
+¡Bienvenidos! ¡Yo dirijo la Peluquería Pokémon!
+¡Bienvenidos! ¡Yo dirijo la Peluquería Pokémon!
+Soy el mayor y el más experto de los hermanos Peluquín.\nPuedo poner bien guapos a tus Pokémon por solo 500 $.
+Soy el mayor y el más experto de los hermanos Peluquín.\nPuedo poner bien guapos a tus Pokémon por solo 500 $.
+\gCon un buen corte de pelo tendrán mucho mejor aspecto y además te tendrán más cariño. \n¿Quieres que les corte el pelo?
+\gCon un buen corte de pelo tendrán mucho mejor aspecto y además te tendrán más cariño. \n¿Quieres que les corte el pelo?
+¿A qué Pokémon le corto el pelo?
+¿A qué Pokémon le corto el pelo?
+¿De verdad? Es una pena.
+¿De verdad? Es una pena.
+¡Vale! ¡Verás lo bien que queda!
+¡Vale! ¡Verás lo bien que queda!
+¡Bien! ¡Ya está!
+¡Bien! ¡Ya está!
+\w[menuskin]\C[8]¡\v[2] está encantado!
+\w[menuskin]\C[8]¡\v[2] está encantado!
+\w[menuskin]\C[8]¡\v[2] parece contento!
+\w[menuskin]\C[8]¡\v[2] parece contento!
+\w[menuskin]\C[8]\v[2] parece un poco más contento.
+\w[menuskin]\C[8]\v[2] parece un poco más contento.
+Necesitarás más dinero, compadre.
+Necesitarás más dinero, compadre.
+\tg[\v[14]]¡Voy a curar a tu equipo Pokémon!
+\tg[\v[14]]¡Voy a curar a tu equipo Pokémon!
+¡Frou!\wt[10]
+¡Frou!\wt[10]
+Siento que el siguiente no va a quedarme tan bien, así que voy a parar por hoy.\nHay que darle tiempo al arte.
+Siento que el siguiente no va a quedarme tan bien, así que voy a parar por hoy.\nHay que darle tiempo al arte.
+¡Bienvenidos a la Peluquería Pokémon!
+¡Bienvenidos a la Peluquería Pokémon!
+Soy el menor de los hermanos Peluquín y mi tarifa es muy asequible.\nPuedo poner guapos a tus Pokémon por solo 300 $.
+Soy el menor de los hermanos Peluquín y mi tarifa es muy asequible.\nPuedo poner guapos a tus Pokémon por solo 300 $.
+\gCon un buen corte de pelo tendrán mucho mejor aspecto y además te tendrán más cariño. \n¿Qué? ¿Quieres que me encargue de ellos?
+\gCon un buen corte de pelo tendrán mucho mejor aspecto y además te tendrán más cariño. \n¿Qué? ¿Quieres que me encargue de ellos?
+¡Te doy la bienvenida! Yo puedo cambiar la Poké Ball de un pokémon por otra distinta.
+¡Te doy la bienvenida! Yo puedo cambiar la Poké Ball de un pokémon por otra distinta.
+\g¿Te gustaría probar? ¡Son solo 500$!
+\g¿Te gustaría probar? ¡Son solo 500$!
+¿Quien necesita un cambio de Poké Ball?
+¿Quien necesita un cambio de Poké Ball?
+\g¡Hecho!
+\g¡Hecho!
+\gSon 500 $, por favor.
+\gSon 500 $, por favor.
+¡Nos vemos! ¡Vuelve si quieres cambiar la Poké Ball de algún Pokémon!
+¡Nos vemos! ¡Vuelve si quieres cambiar la Poké Ball de algún Pokémon!
+\tg[\v[14]]Me da un poco de cosa entrar ahí...
+\tg[\v[14]]Me da un poco de cosa entrar ahí...
+\tg[\v[14]]\PN, ¿podrás tú sola?
+\tg[\v[14]]\PN, ¿podrás tú sola?
+\tg[\v[14]]\PN, ¿podrás tú solo?
+\tg[\v[14]]\PN, ¿podrás tú solo?
+\tg[\v[14]]¡Pero qué tonterías digo! ¡Claro que puedes!
+\tg[\v[14]]¡Pero qué tonterías digo! ¡Claro que puedes!
+\tg[\v[14]]Yo te esperaré aquí. Si necesitas que cure a tus Pokémon, solo dímelo.
+\tg[\v[14]]Yo te esperaré aquí. Si necesitas que cure a tus Pokémon, solo dímelo.
+\tg[\v[14]]Ah, e igual va siendo hora de que me quite este traje, ¿no?\nPica mucho...
+\tg[\v[14]]Ah, e igual va siendo hora de que me quite este traje, ¿no?\nPica mucho...
+\tg[\v[14]]¡Ah! Y déjame curar a tu equipo Pokémon.
+\tg[\v[14]]¡Ah! Y déjame curar a tu equipo Pokémon.
+\tg[\v[14]]¡Bien! ¡Listos y preparados!
+\tg[\v[14]]¡Bien! ¡Listos y preparados!
+\tg[\v[14]]¡Suerte, \PN!
+\tg[\v[14]]¡Suerte, \PN!
+¡Buenas! ¿Te gustaría ver unas gangas?\nVendo objetos que no encontrarás en otras tiendas, pero las unidades son limitadas.
+¡Buenas! ¿Te gustaría ver unas gangas?\nVendo objetos que no encontrarás en otras tiendas, pero las unidades son limitadas.
+¡Hola, chato! Vendo hierbitas medicinales más sanas que esas tonterías industriales que llaman "Pociones".
+¡Hola, chato! Vendo hierbitas medicinales más sanas que esas tonterías industriales que llaman "Pociones".
+¿Qué quieres?
+¿Qué quieres?
+Quizá algún Pokémon no las quiera. ¡Je,<<n>>je, je!...
+Quizá algún Pokémon no las quiera. ¡Je, <<n>>je, je!...
+¿Quieres hablar? Qué raro...\nLos jóvenes suelen pasar de mí.
+¿Quieres hablar? Qué raro...\nLos jóvenes suelen pasar de mí.
+Algunos me llaman loca, especialmente los que conocen mi pasado con "aquel hombre".
+Algunos me llaman loca, especialmente los que conocen mi pasado con "aquel hombre".
+¿Que quién es "aquel hombre"? ¡Pues el señor de Ciudad Cerezo que me robó el negocio de las mentitas!
+¿Que quién es "aquel hombre"? ¡Pues el señor de Ciudad Cerezo que me robó el negocio de las mentitas!
+¡Ese maldito aprovechado! No solo me robó el negocio de mentitas que tenía en Orquídea, ¡también me robó el marido!
+¡Ese maldito aprovechado! No solo me robó el negocio de mentitas que tenía en Orquídea, ¡también me robó el marido!
+Ahora llevo mi negocio sin problemas, aunque mis ataques de ira por culpa de aquel incidente siguen surgiendo a veces...
+Ahora llevo mi negocio sin problemas, aunque mis ataques de ira por culpa de aquel incidente siguen surgiendo a veces...
+Bah, nada de lo que preocuparse. ¡Ahora a comprar, anda!
+Bah, nada de lo que preocuparse. ¡Ahora a comprar, anda!
+¡Trooob!\wt[10]
+¡Trooob!\wt[10]
+¡Bienvenido a la Tienda de Cintas Exclusivas! \nPodría decirse que son... "Exclucintas".
+¡Bienvenido a la Tienda de Cintas Exclusivas! \nPodría decirse que son... "Exclucintas".
+¿Qué cinta te interesa?
+¿Qué cinta te interesa?
+Conque la \v[4], ¿eh?\nSin duda tiene usted buen ojo.
+Conque la \v[4], ¿eh?\nSin duda tiene usted buen ojo.
+Su precio es muy atractivo, como usted, si se me permite decirlo.
+Su precio es muy atractivo, como usted, si se me permite decirlo.
+No tenemos ningún producto con una mejor relación calidad-precio.
+No tenemos ningún producto con una mejor relación calidad-precio.
+Esta cinta es uno de los tesoros nacionales de la región de Sinnoh.\nSe podría decir que es una Cintia.
+Esta cinta es uno de los tesoros nacionales de la región de Sinnoh.\nSe podría decir que es una Cintia.
+\gMuy bien, serán entonces \v[5] $.
+\gMuy bien, serán entonces \v[5] $.
+¡Esperamos que vuelva pronto!
+¡Esperamos que vuelva pronto!
+¡Vaya, su Pokémon ya lleva puesta esa cinta!
+¡Vaya, su Pokémon ya lleva puesta esa cinta!
+\gMuchas gracias por su compra.\nVuelva cuando quiera. ¡Le esperamos!
+\gMuchas gracias por su compra.\nVuelva cuando quiera. ¡Le esperamos!
+\w[menuskin]\C[8]\PN le ha dado la \v[4] a su \v[2]!
+\w[menuskin]\C[8]\PN le ha dado la \v[4] a su \v[2]!
+Sin embargo, no parece disponer de los fondos suficientes...
+Sin embargo, no parece disponer de los fondos suficientes...
+¿Tienes en cuenta los tipos durante el combate? Si conoces bien los distintos tipos, rendirás más en combate.
+¿Tienes en cuenta los tipos durante el combate?  Si conoces bien los distintos tipos, rendirás más en combate.
+¡Oh, oh, oh!
+¡Oh, oh, oh!
+Conozco todos los tipos de Pokémon.\n¡Pero yo solo uso un tipo!
+Conozco todos los tipos de Pokémon.\n¡Pero yo solo uso un tipo!
+¡Si quieres, puedes hacerte una foto vestido de miembro del Team Rocket!
+¡Si quieres, puedes hacerte una foto vestido de miembro del Team Rocket!
+¡Hola! Bienvenidos al estudio de fotos de recuerdo.\n¡Este no es un estudio fotográfico cualquiera! ¡Si quieres, puedes hacerte una foto vestido de miembro del Team Rocket!
+¡Hola! Bienvenidos al estudio de fotos de recuerdo.\n¡Este no es un estudio fotográfico cualquiera! ¡Si quieres, puedes hacerte una foto vestido de miembro del Team Rocket!
+¿Qué? ¿Quieres una foto?
+¿Qué? ¿Quieres una foto?
+Cuando acabes de cambiarte, colócate delante de la cámara.
+Cuando acabes de cambiarte, colócate delante de la cámara.
+¡Allá va!\nPonte serio, con cara de haberte apoderado del mundo entero.
+¡Allá va!\nPonte serio, con cara de haberte apoderado del mundo entero.
+Ya está.\nPuedes ver la foto en el PC cuando quieras.
+Ya está.\nPuedes ver la foto en el PC cuando quieras.
+Bueno...\nQuizá sea mejor no sentirse identificado con el Team Rocket.
+Bueno...\nQuizá sea mejor no sentirse identificado con el Team Rocket.
+Creo que tienes algunos Pokémon muy raros.\n¡Déjame verlos!
+Creo que tienes algunos Pokémon muy raros.\n¡Déjame verlos!
+¡Bah! ¡He perdido! ¡Qué rabia me da!
+¡Bah! ¡He perdido! ¡Qué rabia me da!
+¿Tienes una Pokédex? Pues te daré una pista. El montañero de la Ruta 33, Luis, es un buen chico. Te llamará si ve algún Pokémon raro.
+¿Tienes una Pokédex? Pues te daré una pista. El montañero de la Ruta 33, Luis, es un buen chico.  Te llamará si ve algún Pokémon raro.
+¿Uh? ¿Tú también te has alistado?\nNo dejan de venir nuevos miembros para la misión de la Torre Radio. Si aún no tienes traje, tengo una oferta que no podrás rechazar.
+¿Uh? ¿Tú también te has alistado?\nNo dejan de venir nuevos miembros para la misión de la Torre Radio. Si aún no tienes traje, tengo una oferta que no podrás rechazar.
+¡Al rico traje!\n¡Dos por uno en trajes del Team Rocket!
+¡Al rico traje!\n¡Dos por uno en trajes del Team Rocket!
+\g¿Quieres un par? ¡Recuerda, dos por uno! \n¡Solo son 100$! ¿Lo tomas o lo dejas?
+\g¿Quieres un par? ¡Recuerda, dos por uno! \n¡Solo son 100$! ¿Lo tomas o lo dejas?
+\g¡Genial! ¡Extiende tu poder más allá del espacio exterior!
+\g¡Genial! ¡Extiende tu poder más allá del espacio exterior!
+Disfraz Team Rocket
+Disfraz Team Rocket
+¡Vaya! ¡Tú te lo pierdes!
+¡Vaya! ¡Tú te lo pierdes!
+¡Oye, te queda bastante bien!\nPero no te creas que solo por ir de esa guisa vas a aterrorizar a los habitantes de la ciudad.
+¡Oye, te queda bastante bien!\nPero no te creas que solo por ir de esa guisa vas a aterrorizar a los habitantes de la ciudad.
+\w[menuskin]\C[8]La puerta está cerrada...
+\w[menuskin]\C[8]La puerta está cerrada...
+\w[menuskin]\C[8]\PN usá la Llave Sotáno.
+\w[menuskin]\C[8]\PN usá la Llave Sotáno.
+Ya nos habiamos quedado sin uniformes del Team Rocket.\nPero en el estudio de fotos tienen uniformes, así que les hemos birlado unos cuantos.
+Ya nos habiamos quedado sin uniformes del Team Rocket.\nPero en el estudio de fotos tienen uniformes, así que les hemos birlado unos cuantos.
+O sea, no hay nada mejor que ir de compras en el Túnel Trigal.\nEs lo más "in" del momento.
+O sea, no hay nada mejor que ir de compras en el Túnel Trigal.\nEs lo más "in" del momento.
+¡Me han echado del casino!\nMi algoritmo de resolución para el Giravoltorb era demasiado bueno...
+¡Me han echado del casino!\nMi algoritmo de resolución para el Giravoltorb era demasiado bueno...
+¡Caray...!
+¡Caray...!
+Supongo que debería actuar honradamente... ¡O no!
+Supongo que debería actuar honradamente... ¡O no!
+¡Hola! Aquí puedo ayudar a tus pokémon a reorganizar sus puntos de esfuerzo, a cambio de un módico precio, claro. ¿Quieres probar?
+¡Hola! Aquí puedo ayudar a tus pokémon a reorganizar sus puntos de esfuerzo, a cambio de un módico precio, claro. ¿Quieres probar?
+¿Con cual quieres reorganizar los Puntos de Esfuerzo?
+¿Con cual quieres reorganizar los Puntos de Esfuerzo?
+Oh, de acuerdo.
+Oh, de acuerdo.
+Supongo que has oído hablar de los adorables Pokémon Furfrou.\n¡Es una especie muy rara en estos lares! ¡Oui, oui!
+Supongo que has oído hablar de los adorables Pokémon Furfrou.\n¡Es una especie muy rara en estos lares! ¡Oui, oui!
+Si vienes con uno podría darle un estilo inspirado en pasarelas como la Semaine de la mode de Ciudad Luminalia.
+Si vienes con uno podría darle un estilo inspirado en pasarelas como la Semaine de la mode de Ciudad Luminalia.
+\g¡Solo 500$! Una ganga, ¿verdad, mon cherie?
+\g¡Solo 500$! Una ganga, ¿verdad, mon cherie?
+¿Cuál de tus Furfrou será el afortunado?
+¿Cuál de tus Furfrou será el afortunado?
+¿Qué cheveux quieres que le haga?\ch[2,- 1,Corazón,Estrella,Rombo,Señorita,Dama,Caballero ,Aristocrático,Kabuki,Faraónico,Salir]
+¿Qué cheveux quieres que le haga?\ch[2,- 1,Corazón,Estrella,Rombo,Señorita,Dama,Caballero ,Aristocrático,Kabuki,Faraónico,Salir]
+\gParfait.
+\gParfait.
+¡Va a quedar mignon mignon!\nY ahora quietecito, Furfrou. No vayamos a hacerte un désordre.
+¡Va a quedar mignon mignon!\nY ahora quietecito, Furfrou. No vayamos a hacerte un désordre.
+Et voilà!\n¡Tu Furfrou con un nuevo y fantástico estilo que quita el sentido!
+Et voilà!\n¡Tu Furfrou con un nuevo y fantástico estilo que quita el sentido!
+¡Vuelve por aquí si quieres que tu Furfrou vaya siempre a la dernière mode!
+¡Vuelve por aquí si quieres que tu Furfrou vaya siempre a la dernière mode!
+Oh, disculpa. Parece que hoy no llevas a tu Furfrou contigo.
+Oh, disculpa. Parece que hoy no llevas a tu Furfrou contigo.
+Oh, no tienes dinero...
+Oh, no tienes dinero...
+¡Mon dieu! ¿¡Cómo te atreves, Ratatta d'égout!?
+¡Mon dieu! ¿¡Cómo te atreves, Ratatta d'égout!?
+¡Vuelve cuando desarrolles un buen gusto, cresson grillé!
+¡Vuelve cuando desarrolles un buen gusto, cresson grillé! 
+Le he hecho un tupé to' guapo y to' gangsta a mis Pokémon.
+Le he hecho un tupé to' guapo y to' gangsta a mis Pokémon.
+¡Ayyy!
+¡Ayyy!
+Los Pokémon serán más amigos tuyos si los llevas a cortarse el pelo.
+Los Pokémon serán más amigos tuyos si los llevas a cortarse el pelo.
+Sí
+Sí
+No
+No
+Comprar
+Comprar
+Hablar
+Hablar
+Adiós
+Adiós
+Cinta Maravilla
+Cinta Maravilla
+Cinta Realeza
+Cinta Realeza
+Cinta Realeza Maravilla
+Cinta Realeza Maravilla
+Ninguna
+Ninguna
+[Map128]
+¡Ji, ji, ji! ¡Te recuerdo! ¡Me diste bien en la guarida!
+¡Ji, ji, ji! ¡Te recuerdo! ¡Me diste bien en la guarida!
+¡Ji, ji, ji! ¿Así funcionas?
+¡Ji, ji, ji! ¿Así funcionas?
+¡Ji, ji, ji! ¡Vaya combate!
+¡Ji, ji, ji! ¡Vaya combate!
+Abandonaron este proyecto antes de terminarlo. Estoy buscando restos.
+Abandonaron este proyecto antes de terminarlo.  Estoy buscando restos.
+¡Impresionante!
+¡Impresionante!
+¿Al Almacén Subterráneo? ¿Para qué quieres ir ahí? Ahí abajo no hay nada.
+¿Al Almacén Subterráneo? ¿Para qué quieres ir ahí? Ahí abajo no hay nada.
+\tg[Director]Me quedare aquí escondido hasta que las cosas se relajen, no soy entrenador. Cuento contigo para salvar la Torre Radio... ¡Y a todos los Pokémon del mundo!
+\tg[Director]Me quedare aquí escondido hasta que las cosas se relajen, no soy entrenador. Cuento contigo para salvar la Torre Radio... ¡Y a todos los Pokémon del mundo!
+¡Maldición! ¡No vas a ir más lejos! ¡Soy implacable con mis enemigos y con cualquier joven!
+¡Maldición! ¡No vas a ir más lejos! ¡Soy implacable con mis enemigos y con cualquier joven!
+¡Maldición!
+¡Maldición!
+He perdido... ¡Que Giovanni me perdone!
+He perdido... ¡Que Giovanni me perdone!
+¡Ja, ja, ja! ¿Te lías con tanta llave? ¡Te contaré un secreto si me vences!
+¡Ja, ja, ja! ¿Te lías con tanta llave?  ¡Te contaré un secreto si me vences!
+¡Oooh...! Fallé.
+¡Oooh...! Fallé.
+Bien. ¡Una pista! Cambia el orden al pulsar los botones y cambiará la forma en que se abren y se cierran las puertas.
+Bien. ¡Una pista! Cambia el orden al pulsar los botones y cambiará la forma en que se abren y se cierran las puertas.
+\tg[Director]¿Alguien que no es del Team Rocket? ¡Aleluya!
+\tg[Director]¿Alguien que no es del Team Rocket?  ¡Aleluya!
+\tg[Director]¡Cuidado! Aun está por aquí.
+\tg[Director]¡Cuidado! Aun está por aquí.
+\tg[Director]¡Ay, no! ¡Ahi vuelve! ¡Quítame a este bicho de encima!
+\tg[Director]¡Ay, no! ¡Ahi vuelve! ¡Quítame a este bicho de encima!
+\tg[Director]Uff, uff puf. Lo siento, no soporto a los Pokémon de tipo Bicho.
+\tg[Director]Uff, uff puf. Lo siento, no soporto a los Pokémon de tipo Bicho.
+\tg[Director]¿Has venido a rescatarme? ¡Cuánto te lo agradezco! ¿Serías tan amable de librarme de esta red?
+\tg[Director]¿Has venido a rescatarme? ¡Cuánto te lo agradezco! ¿Serías tan amable de librarme de esta red?
+\tg[Director]¿Qué está pasando en la Torre Radio? ¿Cómo? ¿Invadida por el Team Rocket?
+\tg[Director]¿Qué está pasando en la Torre Radio? ¿Cómo? ¿Invadida por el Team Rocket?
+\tg[Director]Entiendo. Toma esta Llave Magnética.
+\tg[Director]Entiendo. Toma esta Llave Magnética.
+\tg[Director]Úsala para abrir la puerta de la segunda planta.
+\tg[Director]Úsala para abrir la puerta de la segunda planta.
+\tg[Director]Te ruego que me ayudes. ¡Quién sabe lo que harían si se apoderaran de la emisora! \n¡Podrían hasta controlar a los Pokémon usando una señal especial!
+\tg[Director]Te ruego que me ayudes. ¡Quién sabe lo que harían si se apoderaran de la emisora! \n¡Podrían hasta controlar a los Pokémon usando una señal especial!
+\tg[Director]Solo tú puedes ayudarme. Salva la Torre Radio... ¡Y a todos los Pokémon del mundo!
+\tg[Director]Solo tú puedes ayudarme. Salva la Torre Radio... ¡Y a todos los Pokémon del mundo!
+¡Qué me importa si te has perdido! Apareciste aquí, ¡eres solo una víctima!
+¡Qué me importa si te has perdido! Apareciste aquí, ¡eres solo una víctima!
+¡Seguro! Te crees genial, ¿verdad?
+¡Seguro! Te crees genial, ¿verdad?
+Debes de tener hielo en las venas para enfrentarte al Team Rocket.
+Debes de tener hielo en las venas para enfrentarte al Team Rocket.
+¿Te has perdido? No, es imposible. No pareces tener miedo. ¡Te daré algo que te asustará!
+¿Te has perdido? No, es imposible. No pareces tener miedo. ¡Te daré algo que te asustará!
+¿Cómo ha sido?
+¿Cómo ha sido?
+¡Ve adonde quieras! ¡Lárgate! ¡No me importa!
+¡Ve adonde quieras! ¡Lárgate! ¡No me importa!
+\tg[Komomo]Esperemos que seais capaces de sortear las defensas del Team Rocket...
+\tg[Komomo]Esperemos que seais capaces de sortear las defensas del Team Rocket...
+En menudo embrollo se ha metido ese hombre...
+En menudo embrollo se ha metido ese hombre...
+¡Oh! Saludos, joven.\nSoy Komomo, de las Chicas Kimono.
+¡Oh! Saludos, joven.\nSoy Komomo, de las Chicas Kimono.
+\tg[Komomo]El Team Rocket ha secuestrado a un pobre hombre y no sé qué hacer.
+\tg[Komomo]El Team Rocket ha secuestrado a un pobre hombre y no sé qué hacer.
+\tg[Komomo]¿Oh? ¿Venís a ayudarle?
+\tg[Komomo]¿Oh? ¿Venís a ayudarle?
+\tg[Komomo]¡Maravilloso! Os concedo esto por si os es de ayuda.
+\tg[Komomo]¡Maravilloso! Os concedo esto por si os es de ayuda.
+\tg[Komomo]Os deseo suerte.
+\tg[Komomo]Os deseo suerte.
+Una puerta se abre y otra se cierra.\n¡Seguro que no consigues llegar!
+Una puerta se abre y otra se cierra.\n¡Seguro que no consigues llegar!
+¡Caramba! ¡Perdí por mi indecisión!
+¡Caramba! ¡Perdí por mi indecisión!
+Tampoco lo sé... En cualquier caso, el último botón que hay que pulsar es el verde... creo.
+Tampoco lo sé... En cualquier caso, el último botón que hay que pulsar es el verde... creo.
+¡Dame todo lo que tengas!
+¡Dame todo lo que tengas!
+¡Piedad!
+¡Piedad!
+¡Robar y vender! ¡La base de todo acto criminal!
+¡Robar y vender! ¡La base de todo acto criminal!
+\tg[Protón]¿¡Tú otra vez!?\n¡Pero quieres dejar de meterte en nuestros asuntos!
+\tg[Protón]¿¡Tú otra vez!?\n¡Pero quieres dejar de meterte en nuestros asuntos!
+\tg[Protón]¿Y ahora vienes aquí para provocarme? \n¡Pues prepárate para conocer la ira de uno de los Ejecutivos del Team Rocket!
+\tg[Protón]¿Y ahora vienes aquí para provocarme?  \n¡Pues prepárate para conocer la ira de uno de los Ejecutivos del Team Rocket!
+¡Aaah!
+¡Aaah!
+\tg[Protón]No seas tan chulita.
+\tg[Protón]No seas tan chulita.
+\tg[Protón]No seas tan chulito.
+\tg[Protón]No seas tan chulito.
+\tg[Protón]¡Venciéndome a mí solo has conseguido que la ira del Team Rocket se acreciente!
+\tg[Protón]¡Venciéndome a mí solo has conseguido que la ira del Team Rocket se acreciente!
+\tg[Protón]¿Quieres rescatar al director?\n¡Bah! Como si eso fuese a cambiar algo. Cuando nuestro jefe, Giovanni, vuelva, te arrepentirás de haberte puesto en nuestro camino.
+\tg[Protón]¿Quieres rescatar al director?\n¡Bah!  Como si eso fuese a cambiar algo. Cuando nuestro jefe, Giovanni, vuelva, te arrepentirás de haberte puesto en nuestro camino.

@@ -1,0 +1,15 @@
+﻿# Maps grouped under: Cueva Oscura (Highest ID: 29)
+[Map29]
+¡Dian!\wt[20]
+¡Dian!\wt[20]
+[Map32]
+Las Gafas de Sol aumentan el poder de los movimientos de tipo Siniestro del Pokémon que las lleve. Además te hacen parecer más guay.
+Las Gafas de Sol aumentan el poder de los movimientos de tipo Siniestro del Pokémon que las lleve. Además te hacen parecer más guay.
+¡Mecachis! ¡Me has asustado!
+¡Mecachis! ¡Me has asustado!
+Tenía puestas las Gafas de Sol y no me di cuenta de que estabas aquí.
+Tenía puestas las Gafas de Sol y no me di cuenta de que estabas aquí.
+¿Que qué estoy haciendo aquí? No te preocupes por eso, es un secreto de estado.\nTe daré unas Gafas de Sol si olvidas que me has visto, ¿vale?
+¿Que qué estoy haciendo aquí? No te preocupes por eso, es un secreto de estado.\nTe daré unas Gafas de Sol si olvidas que me has visto, ¿vale?
+¡Tyr!\wt[20]
+¡Tyr!\wt[20]

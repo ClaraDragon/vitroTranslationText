@@ -1,0 +1,30 @@
+﻿# Maps grouped under: Calle Victoria (Highest ID: 102)
+[Map102]
+A ver quién quiere combatir contra mí... Oye, ¿tú quieres combatir contra mí? ¡A combatir se ha dicho! Y si no, lo digo yo.
+A ver quién quiere combatir contra mí... Oye, ¿tú quieres combatir contra mí? ¡A combatir se ha dicho! Y si no, lo digo yo.
+¡Alucinante!
+¡Alucinante!
+¡Ha sido espectacular! Si se vuelve a dar la ocasión, me encantaría combatir de nuevo contra ti.
+¡Ha sido espectacular! Si se vuelve a dar la ocasión, me encantaría combatir de nuevo contra ti.
+[Map103]
+Oye, tu equipo Pokémon tiene pinta de ser muy fuerte... ¿Te gustaría ponerlo a prueba contra el mío?
+Oye, tu equipo Pokémon tiene pinta de ser muy fuerte... ¿Te gustaría ponerlo a prueba contra el mío?
+Impresionante. Jamás había visto<<n>>semejante fuerza.
+Impresionante. Jamás había visto <<n>>semejante fuerza.
+¡Alucinante! ¡Tu equipo posee una fuerza desmesurada!
+¡Alucinante! ¡Tu equipo posee una fuerza desmesurada!
+¡Que empiece el combate! ¡Mi Graveler no se andará con miramientos!
+¡Que empiece el combate! ¡Mi Graveler no se andará con miramientos!
+¡Madre mía, eres superfuerte!
+¡Madre mía, eres superfuerte!
+No... No puede ser...
+No... No puede ser...
+[Map104]
+¡Qué monos son tus Pokémon!
+¡Qué monos son tus Pokémon!
+¡Eso no me lo esperaba!
+¡Eso no me lo esperaba!
+Los que somos así de risueños somos de armas tomar cuando nos enfadamos, ¡tenlo presente!
+Los que somos así de risueños somos de armas tomar cuando nos enfadamos, ¡tenlo presente!
+¡Champ!\wt[20]
+¡Champ!\wt[20]

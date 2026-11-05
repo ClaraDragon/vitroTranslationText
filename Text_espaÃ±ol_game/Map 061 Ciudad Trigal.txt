@@ -1,0 +1,489 @@
+﻿# Maps grouped under: Ciudad Trigal (Highest ID: 61)
+[Map61]
+Nunca me había sentido tan comprendida por un Pokémon... y mira que mi madre me escucha, pero Malamar me escucha más.
+Nunca me había sentido tan comprendida por un Pokémon... y mira que mi madre me escucha, pero Malamar me escucha más.
+Madre mía, ¿he estado a punto de pagar 2000$ por un peluche? Con eso me compro tres camisas en esta misma tienda.
+Madre mía, ¿he estado a punto de pagar 2000$ por un peluche? Con eso me compro tres camisas en esta misma tienda.
+La Torre Radio es el símbolo de Ciudad Trigal. \nDicen que hay un podcast muy bueno últimamente, ¡el del Profesor Oak!
+La Torre Radio es el símbolo de Ciudad Trigal. \nDicen que hay un podcast muy bueno últimamente, ¡el del Profesor Oak!
+Además, están de promoción.\nModificarán gratis tu Pokégear para que te sirva también de radio.
+Además, están de promoción.\nModificarán gratis tu Pokégear para que te sirva también de radio.
+¡Anda, pero si tú ya puedes escucharla en tu Pokégear!
+¡Anda, pero si tú ya puedes escucharla en tu Pokégear!
+Hay algunas canciones que atraen Pokémon especiales, ¡prueba a ver!
+Hay algunas canciones que atraen Pokémon especiales, ¡prueba a ver!
+\w[signskin]Gimnasio Pokémon de Ciudad Trigal. \nLíder: Blanca, ¡la belleza explosiva!
+\w[signskin]Gimnasio Pokémon de Ciudad Trigal. \nLíder: Blanca, ¡la belleza explosiva!
+¿Quién eres tú? No nos molestes.\n¡Nos han dicho que no dejemos pasar a nadie que no sea del Team Rocket!
+¿Quién eres tú? No nos molestes.\n¡Nos han dicho que no dejemos pasar a nadie que no sea del Team Rocket!
+¿Entendido?\nSolo los que llevan el distinguido uniforme negro del Team Rocket pueden pasar por aquí.
+¿Entendido?\nSolo los que llevan el distinguido uniforme negro del Team Rocket pueden pasar por aquí.
+¡Eh, tú! ¿Qué haces?
+¡Eh, tú! ¿Qué haces?
+¡Por ahí no se va a la Torre Radio!
+¡Por ahí no se va a la Torre Radio!
+Claro... El Túnel Trigal también está abierto para los miembros del Team Rocket.
+Claro... El Túnel Trigal también está abierto para los miembros del Team Rocket.
+El Team Rocket no hace más que causarle problemas a todo el mundo.
+El Team Rocket no hace más que causarle problemas a todo el mundo.
+Uf, uf...\nMe acaban de desafiar a un combate esos del piso de abajo... ¡Mira que son duros!
+Uf, uf...\nMe acaban de desafiar a un combate esos del piso de abajo... ¡Mira que son duros!
+\w[signskin]Floristería Trigal.\nUna tienda modesta, pero llena de belleza para nuestros clientes.
+\w[signskin]Floristería Trigal.\nUna tienda modesta, pero llena de belleza para nuestros clientes.
+\w[signskin]Estación del Magnetotrén.\nCiudad Trigal.
+\w[signskin]Estación del Magnetotrén.\nCiudad Trigal.
+\tg[\v[14]]¡Ay! ¡N-no estoy haciendo nada raro! \n¡No me hagas daño!
+\tg[\v[14]]¡Ay! ¡N-no estoy haciendo nada raro! \n¡No me hagas daño!
+\tg[\v[14]]E-espera... ¿¡\PN!? ¿¡Eres tú!?
+\tg[\v[14]]E-espera... ¿¡\PN!? ¿¡Eres tú!?
+\tg[\v[14]]¡Claro, es una idea genial! Con un disfraz podríamos franquear la seguridad.
+\tg[\v[14]]¡Claro, es una idea genial! Con un disfraz podríamos franquear la seguridad.
+\tg[\v[14]]¿Qué? ¿En serio tienes uno de sobra? \n¡Déjame ver qué tal me queda!
+\tg[\v[14]]¿Qué? ¿En serio tienes uno de sobra? \n¡Déjame ver qué tal me queda!
+\tg[\v[14]]Guau... ¡Parecemos unos criminales de primera!\nMe queda mejor que a ti, para qué mentir...
+\tg[\v[14]]Guau... ¡Parecemos unos criminales de primera!\nMe queda mejor que a ti, para qué mentir...
+\tg[\v[14]]Yo voy a adelantarme, ¡nos vemos luego!
+\tg[\v[14]]Yo voy a adelantarme, ¡nos vemos luego!
+\tg[\v[14]]¡Has llegado, \PN!\nEstos del Team Rocket no hacen más que molestar.
+\tg[\v[14]]¡Has llegado, \PN!\nEstos del Team Rocket no hacen más que molestar.
+\tg[\v[14]]Nos están bloqueando la entrada unos cuantos miembros.\nPor mucho que luchemos no nos vamos a poder librar de todos...
+\tg[\v[14]]Nos están bloqueando la entrada unos cuantos miembros.\nPor mucho que luchemos no nos vamos a poder librar de todos...
+\tg[\v[14]]¡Argh!\n¡Si solo hubiese una forma de entrar y pasar desapercibidos!
+\tg[\v[14]]¡Argh!\n¡Si solo hubiese una forma de entrar y pasar desapercibidos!
+Seguro que eres una persona decente... ¿¡Por qué te uniste al Team Rocket!? ¿¡Eh!?
+Seguro que eres una persona decente... ¿¡Por qué te uniste al Team Rocket!? ¿¡Eh!?
+Todos los trabajadores del Túnel Trigal han huido.\nNadie quiere meterse en líos con el Team Rocket.
+Todos los trabajadores del Túnel Trigal han huido.\nNadie quiere meterse en líos con el Team Rocket.
+Abajo hay algunas tiendas...\nPero también hay Entrenadores.\nMe da miedo bajar ahí.
+Abajo hay algunas tiendas...\nPero también hay Entrenadores.\nMe da miedo bajar ahí.
+¡Esta ciudad está llena de jóvenes molestos!\nY pensar que todo esto antes era campo...
+¡Esta ciudad está llena de jóvenes molestos!\nY pensar que todo esto antes era campo...
+Mi objetivo en esta vida es curar a humanos y Pokémon.
+Mi objetivo en esta vida es curar a humanos y Pokémon.
+Pero ese casino... me aterra.\nTantas vidas perdidas entre esas paredes.
+Pero ese casino... me aterra.\nTantas vidas perdidas entre esas paredes.
+¿Qué haces aquí? Yo me encargo de esta zona. \nSería mejor que fueras a la Torre Radio.
+¿Qué haces aquí? Yo me encargo de esta zona. \nSería mejor que fueras a la Torre Radio.
+¡Eh, tú! ¿Qué haces aquí? ¡Lárgate!
+¡Eh, tú! ¿Qué haces aquí? ¡Lárgate!
+¡Oh, espera, espera! No te muevas... ¡ese ángulo de luz sobre tu rostro es divino!
+¡Oh, espera, espera! No te muevas... ¡ese ángulo de luz sobre tu rostro es divino!
+Aunque, obviamente, necesitas un estilismo que acompañe.\nPero bueno, no se puede tener todo, ¿no?
+Aunque, obviamente, necesitas un estilismo que acompañe.\nPero bueno, no se puede tener todo, ¿no?
+Perdona, cielo, me presento. Soy la imagen de PokéModa Primavera-Verano, la influencer con más seguidores de todo Johto. Bueno, y de Kanto también, no nos engañemos.
+Perdona, cielo, me presento. Soy la imagen de PokéModa Primavera-Verano, la influencer con más seguidores de todo Johto. Bueno, y de Kanto también, no nos engañemos.
+Mira, estoy desesperada. Mi próxima sesión de fotos es temática "Brillo Natural" y necesito el accesorio perfecto.
+Mira, estoy desesperada. Mi próxima sesión de fotos es temática "Brillo Natural" y necesito el accesorio perfecto.
+¿Y qué es más "in" y natural que un Ledian? Son adorables.
+¿Y qué es más "in" y natural que un Ledian? Son adorables.
+Pero, o sea, yo no voy a ir a buscar un bicho al campo como si fuera una granjera.
+Pero, o sea, yo no voy a ir a buscar un bicho al campo como si fuera una granjera.
+¿Tú me entiendes, verdad? Necesito a alguien que me traiga uno.
+¿Tú me entiendes, verdad? Necesito a alguien que me traiga uno.
+¡Maravilloso! Eres mi entrenador favorito. \nTráemelo aquí mismo, a Ciudad Trigal. Y que esté presentable, ¿eh?
+¡Maravilloso! Eres mi entrenador favorito. \nTráemelo aquí mismo, a Ciudad Trigal. Y que esté presentable, ¿eh?
+¡Bah! O sea, tu que vas a saber piltrafilla.
+¡Bah! O sea, tu que vas a saber piltrafilla.
+¡Ah, ya tienes un Ledian!\nA ver, a ver...
+¡Ah, ya tienes un Ledian!\nA ver, a ver...
+Buagg, ¿y ese color?\nTe he pedido un Ledian, rojo, estrellado.\n¡Este no me sirve!
+Buagg, ¿y ese color?\nTe he pedido un Ledian, rojo, estrellado.\n¡Este no me sirve!
+¡Oh, por el brillo de Milotic! ¡Es perfecto, perfecto, perfecto! Mira esas manchitas negras, tan minimalistas.
+¡Oh, por el brillo de Milotic! ¡Es perfecto, perfecto, perfecto! Mira esas manchitas negras, tan minimalistas.
+Ese rojo anaranjado, ¡tan atrevido pero ponible! ¡Va a ser la sensación de la sesión!
+Ese rojo anaranjado, ¡tan atrevido pero ponible!  ¡Va a ser la sensación de la sesión!
+Tú y yo vamos a arrasar, pequeñín. Vas a eclipsar a esos Beautifly tan vistos. Prepárate para ser portada de Ladies' PokéStyle.
+Tú y yo vamos a arrasar, pequeñín. Vas a eclipsar a esos Beautifly tan vistos. Prepárate para ser portada de Ladies' PokéStyle.
+¿Ves? Cuando se tiene ojo para el talento, se tiene.
+¿Ves? Cuando se tiene ojo para el talento, se tiene.
+Me has traído justo lo que necesitaba. Eres un cazatalentos nato, aunque vayas vestido como para ir a por el pan.
+Me has traído justo lo que necesitaba.  Eres un cazatalentos nato, aunque vayas vestido como para ir a por el pan.
+Toma, cielo, un huevo que me regalo un fan en la ultima sesión de fotos, dijo que "era tan fabuloso como yo", pero o sea, es un huevo.
+Toma, cielo, un huevo que me regalo un fan en la ultima sesión de fotos, dijo que "era tan fabuloso como yo", pero o sea, es un huevo.
+¡Ahora discúlpame, la belleza me reclama! \n¡Ledian, a prepararnos para la sesión fotográfica!
+¡Ahora discúlpame, la belleza me reclama! \n¡Ledian, a prepararnos para la sesión fotográfica!
+¿Que no sabes dónde encontrar un Ledian?
+¿Que no sabes dónde encontrar un Ledian?
+Cielo, evoluciona un Ledyba y ya está. No es tan difícil.
+Cielo, evoluciona un Ledyba y ya está. No es tan difícil.
+¡Yo mientras me hidrato, que el cutis lo es todo!
+¡Yo mientras me hidrato, que el cutis lo es todo!
+¡Sonreíd, pero con misterio!\nAsí, así... ¡No me tapes la luz, Ledian!
+¡Sonreíd, pero con misterio!\nAsí, así... ¡No me tapes la luz, Ledian!
+¿Sigues aquí, \PN? La sesión es a puerta cerrada, lo siento. ¡Muac, muac, adiós!
+¿Sigues aquí, \PN? La sesión es a puerta cerrada, lo siento. ¡Muac, muac, adiós!
+\w[signskin]Torre Radio de Ciudad Trigal.\nLa red de información de Johto.
+\w[signskin]Torre Radio de Ciudad Trigal.\nLa red de información de Johto.
+La torre antigua se estaba cayendo a pedazos... ¡Qué suerte que han puesto esta emisora tan chachi!
+La torre antigua se estaba cayendo a pedazos...  ¡Qué suerte que han puesto esta emisora tan chachi!
+Dicen que antes había una mafia misteriosa en Ciudad Trigal.
+Dicen que antes había una mafia misteriosa en Ciudad Trigal.
+Pero todos sus recuerdos están ahogados, durmiendo con los Magikarp.
+Pero todos sus recuerdos están ahogados, durmiendo con los Magikarp.
+¡Ledi!\wt[10]
+¡Ledi!\wt[10]
+¿Con lo joven que eres y ya te has unido al Team Rocket? ¡Muy bien! ¡Ese es el espíritu!
+¿Con lo joven que eres y ya te has unido al Team Rocket? ¡Muy bien! ¡Ese es el espíritu!
+¿Qué quieres? ¿Acabas de alistarte? Pues se nos han acabado los uniformes.
+¿Qué quieres? ¿Acabas de alistarte? Pues se nos han acabado los uniformes.
+Un compañero ha ido a buscar más, pero está tardando mucho...\nEl estudio fotográfico del Subterráneo no está tan lejos.
+Un compañero ha ido a buscar más, pero está tardando mucho...\nEl estudio fotográfico del Subterráneo no está tan lejos.
+\w[signskin]Casino de Ciudad Trigal.\nUn lugar de entretenimiento <b>seguro</b> y <b>saludable</b>.
+\w[signskin]Casino de Ciudad Trigal.\nUn lugar de entretenimiento <b>seguro</b> y <b>saludable</b>.
+Así que esta es la Torre Radio...
+Así que esta es la Torre Radio...
+¿Qué quieres, eh?\n¡Pírate!
+¿Qué quieres, eh?\n¡Pírate!
+¡Oh, jo, jo! ¡Esos del Team Rocket están molestando mucho últimamente!
+¡Oh, jo, jo! ¡Esos del Team Rocket están molestando mucho últimamente!
+En mis tiempos les habríamos dado una paliza, en fin.
+En mis tiempos les habríamos dado una paliza, en fin.
+¡Hola!\nEstoy aquí deleitando a la gente que pasa a mi alrededor con el sonido de mi guitarra.
+¡Hola!\nEstoy aquí deleitando a la gente que pasa a mi alrededor con el sonido de mi guitarra.
+Si gustas, puedo tocar una melodía.
+Si gustas, puedo tocar una melodía.
+¿Te apetece escuchar algo?
+¿Te apetece escuchar algo?
+Vale, creo que sé perfectamente qué melodía tocar.
+Vale, creo que sé perfectamente qué melodía tocar.
+Aquí va.
+Aquí va.
+Esta melodía me recuerda a la prosperidad.
+Esta melodía me recuerda a la prosperidad.
+Que tengas un buen día.
+Que tengas un buen día.
+Je, je, je...\nSi no queréis buscaros problemas, deberíais quedaros entrenando en vuestro Gimnasio.\nAsí que portaos bien y volved para dentro.
+Je, je, je...\nSi no queréis buscaros problemas, deberíais quedaros entrenando en vuestro Gimnasio.\nAsí que portaos bien y volved para dentro.
+\w[signskin]Tienda de Patinetes de Ciudad Trigal.\nSi quieres un Patinete que corra como el viento, solo lo encontrarás aquí.
+\w[signskin]Tienda de Patinetes de Ciudad Trigal.\nSi quieres un Patinete que corra como el viento, solo lo encontrarás aquí.
+Los Movimientos de Campo son muy útiles para moverte por la región.
+Los Movimientos de Campo son muy útiles para moverte por la región.
+¡Conozco a una chica que lo primero que hizo al conseguir a su primer Pokémon fue venir a Johto surfeando!
+¡Conozco a una chica que lo primero que hizo al conseguir a su primer Pokémon fue venir a Johto surfeando!
+\sh¡No, no, no, no, no!
+\sh¡No, no, no, no, no!
+¡Este albarán es de la semana pasada!\n¡Ay, madre mía, que me despiden!
+¡Este albarán es de la semana pasada!\n¡Ay, madre mía, que me despiden!
+¡Que me ponen de patitas en la calle! Si es que tendría que haber estudiado...
+¡Que me ponen de patitas en la calle! Si es que tendría que haber estudiado...
+¡Tú! ¡Entrenador! ¡Auxilio, socorro!\nNecesito ayuda, pero de esa ayuda que roza la ilegalidad, pero sin pasarse eh, ¿me entiendes?
+¡Tú! ¡Entrenador! ¡Auxilio, socorro!\nNecesito ayuda, pero de esa ayuda que roza la ilegalidad, pero sin pasarse eh, ¿me entiendes?
+Verás, verás, respira, respira... Soy repartidor, ¿vale? Y se me olvidó por completo entregar un paquete en Pueblo Caoba.
+Verás, verás, respira, respira... Soy repartidor, ¿vale? Y se me olvidó por completo entregar un paquete en Pueblo Caoba.
+Y ahora si lo entrego yo con retraso, se me va a caer el pelo.
+Y ahora si lo entrego yo con retraso, se me va a caer el pelo.
+Pero tengo un plan. Un plan buenísimo. Tú vas para allá, ¿no? Que todo entrenador va.
+Pero tengo un plan. Un plan buenísimo. Tú vas para allá, ¿no? Que todo entrenador va.
+Pues me llevas el paquete y dices que es el envío original, que ha habido un retraso por... ¿los Pidgey migratorios?
+Pues me llevas el paquete y dices que es el envío original, que ha habido un retraso por...  ¿los Pidgey migratorios?
+Bueno, que da lo mismo. Tú invéntate algo.\n¡Y yo aquí no he dicho nada!
+Bueno, que da lo mismo. Tú invéntate algo.\n¡Y yo aquí no he dicho nada!
+¿Lo harás por mí, verdad? Te prometo una recompensa chulísima.\nAlgo que seguramente no suelas ver por ahí...
+¿Lo harás por mí, verdad? Te prometo una recompensa chulísima.\nAlgo que seguramente no suelas ver por ahí...
+¡Venga, di que sí!
+¡Venga, di que sí!
+¡Bendito seas! Toma el paquete. Es para un señor mayor, Don Eulogio, en una de las casas de Pueblo Caoba.
+¡Bendito seas! Toma el paquete. Es para un señor mayor, Don Eulogio, en una de las casas de Pueblo Caoba.
+Y recuerda: ¡tú eres el mensajero oficial! ¡Ni una palabra del olvido! ¡Te quiero, te adoro, eres mi salvación!
+Y recuerda: ¡tú eres el mensajero oficial! ¡Ni una palabra del olvido! ¡Te quiero, te adoro, eres mi salvación!
+¿Que no quieres mentir? ¡Pero si es una mentirijilla blanca, de las buenas!
+¿Que no quieres mentir? ¡Pero si es una mentirijilla blanca, de las buenas!
+Piensa en mi contrato temporal, en mi sueldo... \nVenga, apiádate de este desgraciado.
+Piensa en mi contrato temporal, en mi sueldo... \nVenga, apiádate de este desgraciado.
+¿Se lo ha creído?\n¿De verdad se lo ha creído?
+¿Se lo ha creído?\n¿De verdad se lo ha creído?
+¡Ay, gracias a Arceus y a ti!\n¡Eres el mejor cómplice que he tenido nunca!
+¡Ay, gracias a Arceus y a ti!\n¡Eres el mejor cómplice que he tenido nunca!
+¿Que don Eulogio es un señor adorable? Sí, lo sé, por eso me sentía tan mal por olvidarle el paquete.
+¿Que don Eulogio es un señor adorable? Sí, lo sé, por eso me sentía tan mal por olvidarle el paquete.
+Es un cielo de hombre, siempre me ofrece Caramelos Furia cuando paso. ¡Y yo fallándole! \nBueno, pero ya está arreglado.
+Es un cielo de hombre, siempre me ofrece Caramelos Furia cuando paso. ¡Y yo fallándole! \nBueno, pero ya está arreglado.
+¡Toma, tu recompensa!
+¡Toma, tu recompensa!
+Me has salvado el pellejo, entrenador.\nSi alguna vez necesitas un favor raro, ya sabes dónde encontrarme. Pero esta vez, legal y sin mentiras.
+Me has salvado el pellejo, entrenador.\nSi alguna vez necesitas un favor raro, ya sabes dónde encontrarme. Pero esta vez, legal y sin mentiras.
+Bueno, casi sin mentiras.\n¡Chao, mi héroe anónimo!
+Bueno, casi sin mentiras.\n¡Chao, mi héroe anónimo!
+El paquete, es para un señor mayor, Don Eulogio, en una de las casas de Pueblo Caoba.
+El paquete, es para un señor mayor, Don Eulogio, en una de las casas de Pueblo Caoba.
+Blanca es la Líder de este Gimnasio.\nHace un rato ha dicho: "¡Yo también quiero una Tarjeta Radio!" Y ha salido disparada a por una en la Torre Radio.
+Blanca es la Líder de este Gimnasio.\nHace un rato ha dicho: "¡Yo también quiero una Tarjeta Radio!" Y ha salido disparada a por una en la Torre Radio.
+¡Échate a un lado!\n¡Los Entrenadores del Gimnasio no permitiremos a nadie hacer fechorías en la ciudad, ya seas del Team Rocket o no!
+¡Échate a un lado!\n¡Los Entrenadores del Gimnasio no permitiremos a nadie hacer fechorías en la ciudad, ya seas del Team Rocket o no!
+Espera, ¿el tío ese de negro era del Team Rocket?\n¡Pues entonces sí que es un payaso!
+Espera, ¿el tío ese de negro era del Team Rocket?\n¡Pues entonces sí que es un payaso!
+¿Ese hombre de negro se ha vestido como uno del Team Rocket?\n¡Vaya payaso!
+¿Ese hombre de negro se ha vestido como uno del Team Rocket?\n¡Vaya payaso!
+Eres muy joven... ¿Acabas de alistarte?
+Eres muy joven... ¿Acabas de alistarte?
+Asaltaremos la Torre Radio y...\n¿Qué? ¡Aquí no se te ha perdido nada!
+Asaltaremos la Torre Radio y...\n¿Qué? ¡Aquí no se te ha perdido nada!
+¿Eh? ¿Desde cuando eres tú del Team Rocket? ¡Policía! ¡Criminal!
+¿Eh? ¿Desde cuando eres tú del Team Rocket?  ¡Policía! ¡Criminal!
+Hola, ¿cómo está mi Frufrou?\nBueno, no me importa. Maldito muerde-baguettes...
+Hola, ¿cómo está mi Frufrou?\nBueno, no me importa. Maldito muerde-baguettes...
+Colecciono Pokémon, pero últimamente este Furfrou no hace más que morderme mis baguettes. \n¿Tienes un Furret? ¿Quieres cambiarlo por mi Furfrou?
+Colecciono Pokémon, pero últimamente este Furfrou no hace más que morderme mis baguettes. \n¿Tienes un Furret? ¿Quieres cambiarlo por mi Furfrou?
+¿De verdad no quieres cambiarlo? ¡Pues me quedo yo con su...! ¡Violencia, eso! ¡Tú te lo pierdes!
+¿De verdad no quieres cambiarlo? ¡Pues me quedo yo con su...! ¡Violencia, eso! ¡Tú te lo pierdes!
+¡Un Furret! ¡Genial!\nNo sabes las ganas que tenía de un Pokémon que no se vaya a comer mis baguettes.
+¡Un Furret! ¡Genial!\nNo sabes las ganas que tenía de un Pokémon que no se vaya a comer mis baguettes.
+Aun con el uniforme, no impones el mismo respeto que los otros miembros del Team Rocket... \nDeberías poner la cara más seria, apretar los dientes y meter miedo.
+Aun con el uniforme, no impones el mismo respeto que los otros miembros del Team Rocket... \nDeberías poner la cara más seria, apretar los dientes y meter miedo.
+¡Eh, eh, eh! ¿Qué te has creído? ¿Es que no has visto este estupendo uniforme negro que llevo? \n¿Vas a decirme que los del Team Rocket no te damos miedo?
+¡Eh, eh, eh! ¿Qué te has creído? ¿Es que no has visto este estupendo uniforme negro que llevo? \n¿Vas a decirme que los del Team Rocket no te damos miedo?
+¡Je, je, je...! Me he metido en líos por jugar en el sótano del Centro Comercial.
+¡Je, je, je...! Me he metido en líos por jugar en el sótano del Centro Comercial.
+\tg[\v[14]]¡\PN! Justo pensaba en ti.
+\tg[\v[14]]¡\PN! Justo pensaba en ti.
+\tg[\v[14]]Bueno, pensaba en el alineamiento de Júpiter con la constelación de Malamar, y tú te me has aparecido en la carta astral de hoy.
+\tg[\v[14]]Bueno, pensaba en el alineamiento de Júpiter con la constelación de Malamar, y tú te me has aparecido en la carta astral de hoy.
+\tg[\v[14]]¿Tienes un momento?\nEs que... necesito un combate.
+\tg[\v[14]]¿Tienes un momento?\nEs que...  necesito un combate.
+\tg[\v[14]]Así, rápido. Para aclarar mis ideas. ¿Te apuntas?
+\tg[\v[14]]Así, rápido. Para aclarar mis ideas.  ¿Te apuntas?
+\tg[\v[14]]¡Perfecto! No te preocupes, será un combate amistoso. O bueno... creo. Es que llevo unos días con una sensación rara en la cabeza.
+\tg[\v[14]]¡Perfecto! No te preocupes, será un combate amistoso. O bueno... creo. Es que llevo unos días con una sensación rara en la cabeza.
+\tg[\v[14]]Bueno, vamos a lo que vamos.\n¡A luchar!
+\tg[\v[14]]Bueno, vamos a lo que vamos.\n¡A luchar!
+\tg[\v[14]]Bueno, ya en otro momento.
+\tg[\v[14]]Bueno, ya en otro momento.
+¡Has mejorado mucho!
+¡Has mejorado mucho!
+\tg[\v[14]]¡Jo, qué paliza! Pero gracias, ¿eh? \nMe siento un poco más despejada.
+\tg[\v[14]]¡Jo, qué paliza! Pero gracias, ¿eh? \nMe siento un poco más despejada.
+\tg[\v[14]]Mira, te cuento. Llevo días con una vocecita en la cabeza.\nMe susurra ofertas, \PN.
+\tg[\v[14]]Mira, te cuento. Llevo días con una vocecita en la cabeza.\nMe susurra ofertas, \PN.
+\tg[\v[14]]¡Ofertas irresistibles!
+\tg[\v[14]]¡Ofertas irresistibles!
+\tg[\v[14]]Anoche Mercurio entró en fase retrógrada y soñé con un Malamar majestuoso.
+\tg[\v[14]]Anoche Mercurio entró en fase retrógrada y soñé con un Malamar majestuoso.
+\tg[\v[14]]Un Malamar con ojos hipnóticos y una cartera llena de descuentos.
+\tg[\v[14]]Un Malamar con ojos hipnóticos y una cartera llena de descuentos.
+\tg[\v[14]]La voz sigue susurrándome cositas, pero ahora tengo más claro que hay algo raro. Vamos al centro comercial.
+\tg[\v[14]]La voz sigue susurrándome cositas, pero ahora tengo más claro que hay algo raro.  Vamos al centro comercial.
+\tg[\v[14]]Mi carta astral dice que allí se revelará una gran verdad... y espero que también haya rebajas.
+\tg[\v[14]]Mi carta astral dice que allí se revelará una gran verdad... y espero que también haya rebajas.
+\tg[\v[14]]Oh, \PN! Justo a quien quería ver.
+\tg[\v[14]]Oh, \PN! Justo a quien quería ver.
+\tg[\v[14]]Es como... ¡como si alguien me dijera que tengo que ir de compras!\nPero es que es una voz muy convincente, ¿sabes?
+\tg[\v[14]]Es como... ¡como si alguien me dijera que tengo que ir de compras!\nPero es que es una voz muy convincente, ¿sabes?
+\tg[\v[14]]Me dice cosas como "cómprame esto" y "necesitas aquello" y yo digo "vale, voz misteriosa, tú mandas".
+\tg[\v[14]]Me dice cosas como "cómprame esto" y "necesitas aquello" y yo digo "vale, voz misteriosa, tú mandas".
+\tg[\v[14]]Incluso he soñado con un Malamar. Un Malamar muy majo, con una sonrisa de esas que dices, este tío es de fiar.
+\tg[\v[14]]Incluso he soñado con un Malamar. Un Malamar muy majo, con una sonrisa de esas que dices, este tío es de fiar.
+\tg[\v[14]]Oye, ¿me haces un favor?\nAntes de que me vuelva loco del todo, vamos al centro comercial, a ver si de una vez descubrimos qué está pasando.
+\tg[\v[14]]Oye, ¿me haces un favor?\nAntes de que me vuelva loco del todo, vamos al centro comercial, a ver si de una vez descubrimos qué está pasando. 
+En el casino puedes cambiar fichas por Pokémon que normalmente no viven en Johto.
+En el casino puedes cambiar fichas por Pokémon que normalmente no viven en Johto.
+Aquí el menda jugó todo lo posible hasta conseguir un Toxel.
+Aquí el menda jugó todo lo posible hasta conseguir un Toxel.
+\tg[Director]¡Oh!
+\tg[Director]¡Oh!
+\tg[Director]¿Has podido con ellos?\n¡Muchísimas gracias! Tus valerosas acciones nos han salvado a todos.
+\tg[Director]¿Has podido con ellos?\n¡Muchísimas gracias! Tus valerosas acciones nos han salvado a todos.
+\tg[Director]No sé si te servirá de algo, pero por si acaso te la doy.
+\tg[Director]No sé si te servirá de algo, pero por si acaso te la doy.
+\tg[Director]Hace bastante tiempo, una torre se erigía donde ahora está la Torre Radio.
+\tg[Director]Hace bastante tiempo, una torre se erigía donde ahora está la Torre Radio.
+\tg[Director]Durante las obras en las que la derruimos, encontramos esa misteriosa pluma.
+\tg[Director]Durante las obras en las que la derruimos, encontramos esa misteriosa pluma.
+\tg[\v[14]]¡Oye, pues parece una pluma del Pokémon legendario!
+\tg[\v[14]]¡Oye, pues parece una pluma del Pokémon legendario!
+\tg[\v[14]]Estas plumas son menos codiciadas que las plumas de arcoíris, ¡pero seguro que será de ayuda!
+\tg[\v[14]]Estas plumas son menos codiciadas que las plumas de arcoíris, ¡pero seguro que será de ayuda!
+\tg[Director]Guárdala como oro en paño. ¡Seguro que te las apañas!
+\tg[Director]Guárdala como oro en paño. ¡Seguro que te las apañas!
+\tg[Director]En fin. Ahora debo volver a la Torre Radio, seguro que todo el mundo está subiéndose por las paredes...
+\tg[Director]En fin. Ahora debo volver a la Torre Radio, seguro que todo el mundo está subiéndose por las paredes...
+\tg[Director]¡Adiós a los dos y suerte en vuestras aventuras!
+\tg[Director]¡Adiós a los dos y suerte en vuestras aventuras!
+\tg[\v[14]]Jo, \PN. Te has lucido.\n¡Y encima te has llevado una Pluma Plateada!
+\tg[\v[14]]Jo, \PN. Te has lucido.\n¡Y encima te has llevado una Pluma Plateada!
+\tg[\v[14]]Ahora me toca irme. Tendré que seguir ayudando al profesor...
+\tg[\v[14]]Ahora me toca irme. Tendré que seguir ayudando al profesor...
+\tg[\v[14]]Me lo he pasado bien igualmente. ¡Tenemos que salir a hacer algo un día de estos!
+\tg[\v[14]]Me lo he pasado bien igualmente.  ¡Tenemos que salir a hacer algo un día de estos!
+\tg[\v[14]]¡Hasta otra!
+\tg[\v[14]]¡Hasta otra!
+\tg[\v[14]]Bueno, pues ya sé lo que es que te hipnotice un Malamar. Lo tacharé de mi lista de cosas por vivir.
+\tg[\v[14]]Bueno, pues ya sé lo que es que te hipnotice un Malamar. Lo tacharé de mi lista de cosas por vivir.
+\tg[\v[14]]Aunque ahora que lo pienso... el peluche es mono, ¿eh? Igual me lo quedo. Pero por voluntad propia, ¡que conste!
+\tg[\v[14]]Aunque ahora que lo pienso... el peluche es mono, ¿eh? Igual me lo quedo. Pero por voluntad propia, ¡que conste!
+\tg[\v[14]]En fin, gracias, \PN. Si no llegas a estar ahí...\n¡Habriamos sido consumidos por el capitalismo!
+\tg[\v[14]]En fin, gracias, \PN. Si no llegas a estar ahí...\n¡Habriamos sido consumidos por el capitalismo!
+\tg[\v[14]]Yo me voy ya, ¡nos vemos \PN!
+\tg[\v[14]]Yo me voy ya, ¡nos vemos \PN!
+Desde que era joven, he tenido muy claro que mi pasión serían los combates Pokémon.
+Desde que era joven, he tenido muy claro que mi pasión serían los combates Pokémon.
+Después de desayunar, un combate.\nDespués de comer, otro combate.\nDespués de cenar... un bañito y a la cama.
+Después de desayunar, un combate.\nDespués de comer, otro combate.\nDespués de cenar... un bañito y a la cama.
+Nuestro sueño se cumplirá pronto... Ha sido una lucha tan larga...
+Nuestro sueño se cumplirá pronto... Ha sido una lucha tan larga...
+¿Hacerse amigo de los Pokémon?\nSerá una broma, ¿no?
+¿Hacerse amigo de los Pokémon?\nSerá una broma, ¿no?
+Tú vas en Bici, lo que quiere decir...\n¡Que te la has comprado en la Tienda de Patinetes! \n¡Estupendo! Al menos sé seguro que hay una Tienda de Patinetes por aquí!
+Tú vas en Bici, lo que quiere decir...\n¡Que te la has comprado en la Tienda de Patinetes! \n¡Estupendo! Al menos sé seguro que hay una Tienda de Patinetes por aquí!
+Dicen que han abierto una Tienda de Patinetes nueva, pero no sé dónde...\nNo consigo encontrarla...
+Dicen que han abierto una Tienda de Patinetes nueva, pero no sé dónde...\nNo consigo encontrarla...
+¡El!\wt[10]
+¡El!\wt[10]
+¡Maar!
+¡Maar!
+¡Plin!\wt[10]
+¡Plin!\wt[10]
+La mujer de esa tienda puede leerte las cartas, algunos dicen que es una estafa, pero ¿y sí?
+La mujer de esa tienda puede leerte las cartas, algunos dicen que es una estafa, pero ¿y sí?
+No hay por qué preocuparse. Nosotros vigilamos desde aquí.
+No hay por qué preocuparse. Nosotros vigilamos desde aquí.
+¿Los Pokémon? ¡Son herramientas para ganar dinero!
+¿Los Pokémon? ¡Son herramientas para ganar dinero!
+Sí
+Sí
+No
+No
+[Map113]
+(Suspiro...)\nLlevo trabajando en esta ciudad bastante tiempo, pero no vendo un patinete ni a tiros...\n"Patinetes Filomeno" no vende...
+(Suspiro...)\nLlevo trabajando en esta ciudad bastante tiempo, pero no vendo un patinete ni a tiros...\n"Patinetes Filomeno" no vende...
+¿Serán más populares las bicicletas...?\n¡Bah, imposible! ¡La antigua tienda de bicis tampoco vendía nada!
+¿Serán más populares las bicicletas...?\n¡Bah, imposible! ¡La antigua tienda de bicis tampoco vendía nada!
+Necesito publicidad y tú pareces alguien al que le gusta viajar...\n¿Te llevarías un patinete para promocionarme por todo Johto?
+Necesito publicidad y tú pareces alguien al que le gusta viajar...\n¿Te llevarías un patinete para promocionarme por todo Johto?
+¿De verdad? ¡Chupi!\nDime tu nombre, número de teléfono, dirección...
+¿De verdad? ¡Chupi!\nDime tu nombre, número de teléfono, dirección...
+¡Hecho!\nDisfruta del patinete y no te olvides de promocionar "Patinetes Filomeno".
+¡Hecho!\nDisfruta del patinete y no te olvides de promocionar "Patinetes Filomeno".
+¡Es un patinete! ¡Seguro que va como un cohete!
+¡Es un patinete! ¡Seguro que va como un cohete!
+(Suspiro...)\nDe vuelta a la monotonía...
+(Suspiro...)\nDe vuelta a la monotonía...
+Mi antigua tienda de bicis está en Ciudad Celeste, en Kanto.\n¡Pero las bicis ya no venden nada!
+Mi antigua tienda de bicis está en Ciudad Celeste, en Kanto.\n¡Pero las bicis ya no venden nada!
+Si tratas bien a tus Pokémon, ellos te querrán mucho-mucho.\nVenga, déjame echarle un vistazo a tus Pokémon...
+Si tratas bien a tus Pokémon, ellos te querrán mucho-mucho.\nVenga, déjame echarle un vistazo a tus Pokémon...
+Parece que no te gusta mucho-mucho la idea de enseñarme tus Pokémon...
+Parece que no te gusta mucho-mucho la idea de enseñarme tus Pokémon...
+Si cambias de opinión, aquí estaré.
+Si cambias de opinión, aquí estaré.
+¿Qué Pokémon quieres enseñarme?
+¿Qué Pokémon quieres enseñarme?
+A ver, a ver... Vamos a ver qué tal os lleváis \v[2] y tú.
+A ver, a ver... Vamos a ver qué tal os lleváis \v[2] y tú.
+¡Pues mira! \v[2] y tú os lleváis muy-muy bien. \n¡Estar juntos os hace muy felices!
+¡Pues mira! \v[2] y tú os lleváis muy-muy bien. \n¡Estar juntos os hace muy felices!
+Tengo algo para celebrar lo bien que os lleváis, ¡un recordatorio de vuestra amistad!
+Tengo algo para celebrar lo bien que os lleváis, ¡un recordatorio de vuestra amistad!
+\w[menuskin]\C[8]¡\PN ha recibido una <c3=98a1ff,3050c8>Cinta Amistad.</c3>
+\w[menuskin]\C[8]¡\PN ha recibido una <c3=98a1ff,3050c8>Cinta Amistad.</c3>
+\w[menuskin]\C[8]\PN le ha dado la <c3=98a1ff,3050c8>Cinta Amistad</c3> a su \v[2].
+\w[menuskin]\C[8]\PN le ha dado la <c3=98a1ff,3050c8>Cinta Amistad</c3> a su \v[2].
+¡Parece que \v[2] y tú sois muy amiguitos! ¡Inseparables!
+¡Parece que \v[2] y tú sois muy amiguitos!  ¡Inseparables!
+¡Yo diría que os lleváis bastante bien! Mola- mola.
+¡Yo diría que os lleváis bastante bien! Mola- mola.
+Bueno, algo de cariño sí que parece que te tiene. Un poquito, al menos...
+Bueno, algo de cariño sí que parece que te tiene. Un poquito, al menos...
+Pues parece que todavía no te tiene casi nada de cariño...
+Pues parece que todavía no te tiene casi nada de cariño...
+Bah, seguro que cuando sacas a tu Pokémon a luchar, acaba debilitado, ¿a que sí?
+Bah, seguro que cuando sacas a tu Pokémon a luchar, acaba debilitado, ¿a que sí?
+¡Muy mal! ¡Terrible-terrible!
+¡Muy mal! ¡Terrible-terrible!
+¡E-eres un monstruo! ¿¡Cómo puedes tratar tan mal a este pobre Pokémon!?
+¡E-eres un monstruo! ¿¡Cómo puedes tratar tan mal a este pobre Pokémon!?
+¡Voy a maldecirte! ¡Disfruta tu maldición, idiota!
+¡Voy a maldecirte! ¡Disfruta tu maldición, idiota!
+¿Quieres Abono? Te lo recomiendo.
+¿Quieres Abono? Te lo recomiendo.
+Si se lo echas a las Bayas, crecerán<<n>>mucho más rápido.
+Si se lo echas a las Bayas, crecerán <<n>>mucho más rápido.
+¡Anda! ¡Eso es la Medalla Planície! ¿Has derrotado a Blanca?
+¡Anda! ¡Eso es la Medalla Planície! ¿Has derrotado a Blanca?
+Entonces no tengo de qué preocuparme. Toma, te presto esta Regadera...\nBueno, mejor... quédatela.
+Entonces no tengo de qué preocuparme. Toma, te presto esta Regadera...\nBueno, mejor...  quédatela.
+¡Ah...! ¡Qué mal!\nYo soy florista y tengo regaderas, pero es bastante arriesgado y no puedo encargarle esto a cualquiera.
+¡Ah...! ¡Qué mal!\nYo soy florista y tengo regaderas, pero es bastante arriesgado y no puedo encargarle esto a cualquiera.
+Ya sé...\nSi vences a la Líder del Gimnasio de Ciudad Trigal, sabré que puedo dejarlo en tus manos.
+Ya sé...\nSi vences a la Líder del Gimnasio de Ciudad Trigal, sabré que puedo dejarlo en tus manos.
+\tg[Bill]¡Hola, \PN! Haznos un favor y acepta este Eevee.
+\tg[Bill]¡Hola, \PN! Haznos un favor y acepta este Eevee.
+\tg[Bill]Estaba ayudando a alguien a ajustar su PC y me lo regalo luego sin venir a cuento.
+\tg[Bill]Estaba ayudando a alguien a ajustar su PC y me lo regalo luego sin venir a cuento.
+\tg[Bill]Alguien tiene que cuidarlo y a mí no me gusta salir.\n¿Puedo confiar en ti para jugar con él, \PN?
+\tg[Bill]Alguien tiene que cuidarlo y a mí no me gusta salir.\n¿Puedo confiar en ti para jugar con él, \PN?
+\tg[Bill]¡Sabía que aceptarías! ¡Vamos! ¡Tú sí que vales!\nBueno, cuento contigo. ¡Cuídalo bien!
+\tg[Bill]¡Sabía que aceptarías! ¡Vamos! ¡Tú sí que vales!\nBueno, cuento contigo. ¡Cuídalo bien!
+\tg[Bill]No, espera. No puedes llevar más Pokémon.
+\tg[Bill]No, espera. No puedes llevar más Pokémon.
+\tg[Bill]Vaya... ¿Y qué hago yo ahora?
+\tg[Bill]Vaya... ¿Y qué hago yo ahora?
+\tg[Bill]Hace un tiempo hice un experimento de teletransporte... No salio muy alla la primera vez.
+\tg[Bill]Hace un tiempo hice un experimento de teletransporte... No salio muy alla la primera vez.
+Mis Pokémon siempre se debilitan y quedan hechos un desastre... ¡Seguro que por eso su amistad es tan baja!
+Mis Pokémon siempre se debilitan y quedan hechos un desastre... ¡Seguro que por eso su amistad es tan baja!
+Lalala, lalalala.\n¡Agua en abundancia!
+Lalala, lalalala.\n¡Agua en abundancia!
+Qu... ... ... ... ¡Qué ricura!\n¿De dónde has sacado ese Pokémon? ¡Es una preciosidad!
+Qu... ... ... ... ¡Qué ricura!\n¿De dónde has sacado ese Pokémon? ¡Es una preciosidad!
+Shaymin, ¿dices? ¡Es monísimo!\n¡Tengo una idea! ¡Una flor le vendrá que ni pintada!
+Shaymin, ¿dices? ¡Es monísimo!\n¡Tengo una idea!  ¡Una flor le vendrá que ni pintada!
+La Gracídea le queda de maravilla a Shaymin. ¡Úsala cuando haga buen tiempo!
+La Gracídea le queda de maravilla a Shaymin.  ¡Úsala cuando haga buen tiempo!
+¿Usas el Plantabayas?\nSolo tienes que plantar la Baya que quieras en la tierra.\n¡Y no te olvides de regarla, claro!
+¿Usas el Plantabayas?\nSolo tienes que plantar la Baya que quieras en la tierra.\n¡Y no te olvides de regarla, claro!
+Mi hijo no viene a verme ni aunque le pague...
+Mi hijo no viene a verme ni aunque le pague...
+¡Está todo el día trabajando!
+¡Está todo el día trabajando!
+Mi hijo Bill es el creador del sistema de PC de los Centros Pokémon.\nPero el chaval no viene a ver a su madre nunca, en fin...
+Mi hijo Bill es el creador del sistema de PC de los Centros Pokémon.\nPero el chaval no viene a ver a su madre nunca, en fin...
+Aunque tus Pokémon estén debilitados, deberías poder utilizar sus Movimientos de Campo.
+Aunque tus Pokémon estén debilitados, deberías poder utilizar sus Movimientos de Campo.
+Quizás no es la mejor idea, también te digo...
+Quizás no es la mejor idea, también te digo...
+Mi hermano Bill creó el Sistema de Almacenamiento de Pokémon en los PC. ¡Es genial!
+Mi hermano Bill creó el Sistema de Almacenamiento de Pokémon en los PC. ¡Es genial!
+¿Entrenas Pokémon?\nTengo un número de teléfono que te será útil. ¿Lo quieres?
+¿Entrenas Pokémon?\nTengo un número de teléfono que te será útil. ¿Lo quieres?
+Si llamas a mi hermano Bill, te enseñará algo sobre las Cajas donde guardas tus Pokémon.
+Si llamas a mi hermano Bill, te enseñará algo sobre las Cajas donde guardas tus Pokémon.
+Bill
+Bill
+Pensaba darte su número, pero si no lo quieres...
+Pensaba darte su número, pero si no lo quieres...
+¡A Flabébé le encanta venir aquí a oler las flores!
+¡A Flabébé le encanta venir aquí a oler las flores!
+Me gusta acompañarla, pero si paso demasiado tiempo aquí dentro acabo estornudando sin parar \..\..\.. ¡ACHÍS!
+Me gusta acompañarla, pero si paso demasiado tiempo aquí dentro acabo estornudando sin parar \..\..\.. ¡ACHÍS!
+Recuerda recuperar los PPs de tus Pokémon. Si no, no podrán atacar en combate.
+Recuerda recuperar los PPs de tus Pokémon. Si no, no podrán atacar en combate.
+Fuera de combate podrán usarlos, claro.
+Fuera de combate podrán usarlos, claro.
+\tg[Pitonisa Isa]¡Oh, joven!\nSeguro que tienes dudas sobre tu triste vida.
+\tg[Pitonisa Isa]¡Oh, joven!\nSeguro que tienes dudas sobre tu triste vida.
+\tg[Pitonisa Isa]Pues yo, la Pitonisa Isa, puedo darte predicciones precisas de tu futuro.
+\tg[Pitonisa Isa]Pues yo, la Pitonisa Isa, puedo darte predicciones precisas de tu futuro.
+\tg[Pitonisa Isa]\gSon solo 999$.\nHala, ¿a que renta, primo?
+\tg[Pitonisa Isa]\gSon solo 999$.\nHala, ¿a que renta, primo?
+\tg[Pitonisa Isa]\g¡Muuuchas gracias! ¡Venga, a tarotear!
+\tg[Pitonisa Isa]\g¡Muuuchas gracias! ¡Venga, a tarotear!
+\tg[Pitonisa Isa]No tienes dinero suficiente.\n¡Vaya modales!
+\tg[Pitonisa Isa]No tienes dinero suficiente.\n¡Vaya modales!
+\tg[Pitonisa Isa]¡Vaya modales! ¡En mis tiempos decirle que no a una señorita como yo era para encerrarte!
+\tg[Pitonisa Isa]¡Vaya modales! ¡En mis tiempos decirle que no a una señorita como yo era para encerrarte!
+Se nota que esto antes era una tienda de bicis. \nSi te fijas, aún puedes ver algunas partes colgadas en la pared.
+Se nota que esto antes era una tienda de bicis. \nSi te fijas, aún puedes ver algunas partes colgadas en la pared.
+¿Será que las usarán para reparar los patinetes que se estropeen?
+¿Será que las usarán para reparar los patinetes que se estropeen?
+¡Flafla!\wt[10]
+¡Flafla!\wt[10]
+¡Prueba a ver si a alguno de tus Pokémon le gusta!
+¡Prueba a ver si a alguno de tus Pokémon le gusta!
+¡A mi Pokémon le encanta el objeto Lodo Negro! Pero a mis otros Pokémon... Les sienta bastante mal.
+¡A mi Pokémon le encanta el objeto Lodo Negro!  Pero a mis otros Pokémon... Les sienta bastante mal.
+Si quieres uno te lo puedo dar. ¡Seguro que a alguno de tus Pokémon le encanta!
+Si quieres uno te lo puedo dar. ¡Seguro que a alguno de tus Pokémon le encanta!
+Sí
+Sí
+No
+No

@@ -1,0 +1,86 @@
+﻿# Maps grouped under: Gimnasio Azalea (Highest ID: 57)
+[Map57]
+Conque quieres desafiar al jefazo... ¡No lo vencerás ni en sueños, piltrafilla!
+Conque quieres desafiar al jefazo... ¡No lo vencerás ni en sueños, piltrafilla!
+N-no... ¡No le hagas daño a mis bichitos!
+N-no... ¡No le hagas daño a mis bichitos!
+Amy y May
+Amy y May
+Amy: Pero qué dureza...<br>May: Pero<<n>>qué ímpetu...
+Amy: Pero qué dureza...<br>May: Pero <<n>>qué ímpetu...
+Los Pokémon de tipo bicho suelen evolucionar rápido, ¡pero eso no los hace menos fuertes!
+Los Pokémon de tipo bicho suelen evolucionar rápido, ¡pero eso no los hace menos fuertes!
+¡No se trata solo de evolucionar!
+¡No se trata solo de evolucionar!
+Si quieres llegar hasta el jefazo, usa las palancas para mover las telarañas.
+Si quieres llegar hasta el jefazo, usa las palancas para mover las telarañas.
+\tg[Antón]Aspirante... ¿Acaso sabes quién soy?
+\tg[Antón]Aspirante... ¿Acaso sabes quién soy?
+\tg[Antón]¡El maestro de los insectos y dominador de los arácnidos! ¡Ese soy yo!
+\tg[Antón]¡El maestro de los insectos y dominador de los arácnidos! ¡Ese soy yo!
+\tg[Antón]<fs=24>(Je, je... La introducción me ha quedado de fábula...)
+\tg[Antón]<fs=24>(Je, je... La introducción me ha quedado de fábula...)
+\tg[Antón]¡El poder de los bichos inunda mi corazón de artrópodo! Y con ese poder verás...
+\tg[Antón]¡El poder de los bichos inunda mi corazón de artrópodo! Y con ese poder verás...
+\tg[Antón]¡...Verás como yo, Antón, merezco el título de líder de gimnasio!
+\tg[Antón]¡...Verás como yo, Antón, merezco el título de líder de gimnasio!
+Pues hasta aquí hemos llegado, parece.
+Pues hasta aquí hemos llegado, parece.
+\tg[Antón]¡Jopetas, eres increíble! ¡No hay Pokémon que se te resista!
+\tg[Antón]¡Jopetas, eres increíble! ¡No hay Pokémon que se te resista!
+\tg[Antón]¡Ups! Se me ha caído la careta de intensito, ¿eh?
+\tg[Antón]¡Ups! Se me ha caído la careta de intensito, ¿eh?
+\tg[Antón]¡Lo siento! Es que me gusta tanto actuar como un superhéroe...
+\tg[Antón]¡Lo siento! Es que me gusta tanto actuar como un superhéroe...
+\tg[Antón]En fin, toma la Medalla Colmena. ¡Te la has ganado!
+\tg[Antón]En fin, toma la Medalla Colmena. ¡Te la has ganado!
+\tg[Antón]Y mira, también te voy a dar esto. ¡La MT89, que contiene Ida y Vuelta!
+\tg[Antón]Y mira, también te voy a dar esto. ¡La MT89, que contiene Ida y Vuelta!
+\tg[Antón]El Pokémon que utilice este movimiento puede atacar y acto seguido cambiarse por otro Pokémon de tu equipo.\n¿A que mola?
+\tg[Antón]El Pokémon que utilice este movimiento puede atacar y acto seguido cambiarse por otro Pokémon de tu equipo.\n¿A que mola?
+\tg[Antón]Los Pokémon de tipo Bicho son muy difíciles de usar, ¡pero para eso mismo me entreno!
+\tg[Antón]Los Pokémon de tipo Bicho son muy difíciles de usar, ¡pero para eso mismo me entreno!
+\tg[Antón]Espero que podamos volver a combatir un día de estos, \PN.
+\tg[Antón]Espero que podamos volver a combatir un día de estos, \PN.
+\tg[Antón]¡Volvemos a encontrarnos!\nVoy a enseñarte los resultados de mis investigaciones con Pokémon bicho.
+\tg[Antón]¡Volvemos a encontrarnos!\nVoy a enseñarte los resultados de mis investigaciones con Pokémon bicho.
+\tg[Antón]Veo que tú también has hecho hallazgos por tu cuenta.
+\tg[Antón]Veo que tú también has hecho hallazgos por tu cuenta.
+¡Te has manejado por la telaraña con soltura de un Pokémon de tipo Bicho!\n¡Veamos si sabes apreciar el resto de sus encantos!
+¡Te has manejado por la telaraña con soltura de un Pokémon de tipo Bicho!\n¡Veamos si sabes apreciar el resto de sus encantos!
+¡Me has demostrado lo fuerte que<<n>>eres!
+¡Me has demostrado lo fuerte que <<n>>eres!
+Si mueves la telaraña, las plataformas llegarán a lugares diferentes. ¡La bichotecnología avanza cada vez más!
+Si mueves la telaraña, las plataformas llegarán a lugares diferentes. ¡La bichotecnología avanza cada vez más!
+¿Has salvado a los Slowpoke? ¡Guau! ¡Eres muy fuerte! ¡Pero los Pokémon que entreno también lo son!
+¿Has salvado a los Slowpoke? ¡Guau! ¡Eres muy fuerte! ¡Pero los Pokémon que entreno también lo son!
+¿Pensabas que podías pasar por aquí? ¡Aquí estoy yo para bloquearte el camino!
+¿Pensabas que podías pasar por aquí? ¡Aquí estoy yo para bloquearte el camino!
+¡Aaarg!
+¡Aaarg!
+\w[menuskin]\C[8]¿Quieres usar la palanca?
+\w[menuskin]\C[8]¿Quieres usar la palanca?
+¡Eres muy fuerte! Pero por tu culpa mi hermana no va a dejar de llorar...
+¡Eres muy fuerte! Pero por tu culpa mi hermana no va a dejar de llorar...
+¡¿Pero por qué le haces eso a nuestros bichitos?! ¡Buahhhhh!
+¡¿Pero por qué le haces eso a nuestros bichitos?! ¡Buahhhhh!
+¡Qué pasote, colega! Ha sido un gran encuentro entre jóvenes con talento.\nCon maquinotes como tú, ¡los combates son lo más chupiguay del mundo mundial!
+¡Qué pasote, colega! Ha sido un gran encuentro entre jóvenes con talento.\nCon maquinotes como tú, ¡los combates son lo más chupiguay del mundo mundial!
+¡Yeeepa, maestra!\nEste Gimnasio es un nido de insectos gigante construido por Antón.
+¡Yeeepa, maestra!\nEste Gimnasio es un nido de insectos gigante construido por Antón.
+Aunque todavía es joven, ya es todo un máquina de los Pokémon bicho.\n¿No crees que te vendrán bien algunos consejos?
+Aunque todavía es joven, ya es todo un máquina de los Pokémon bicho.\n¿No crees que te vendrán bien algunos consejos?
+Veamos... A los Pokémon de tipo Bicho no les va el fuego, ¡y los pájaros son una amenaza!\n¡Si tienes cuidado te harás con la victoria, tronca!
+Veamos... A los Pokémon de tipo Bicho no les va el fuego, ¡y los pájaros son una amenaza!\n¡Si tienes cuidado te harás con la victoria, tronca!
+¡Yeeepa, maestro!\nEste Gimnasio es un nido de insectos gigante construido por Antón.
+¡Yeeepa, maestro!\nEste Gimnasio es un nido de insectos gigante construido por Antón.
+Veamos... A los Pokémon de tipo Bicho no les va el fuego, ¡y los pájaros son una amenaza!\n¡Si tienes cuidado te harás con la victoria, tronco!
+Veamos... A los Pokémon de tipo Bicho no les va el fuego, ¡y los pájaros son una amenaza!\n¡Si tienes cuidado te harás con la victoria, tronco!
+Este gimnasio te da ganas de convertirte en un Pokémon Bicho, ¿verdad?
+Este gimnasio te da ganas de convertirte en un Pokémon Bicho, ¿verdad?
+¿...Verdad?
+¿...Verdad?
+Si
+Si
+No
+No

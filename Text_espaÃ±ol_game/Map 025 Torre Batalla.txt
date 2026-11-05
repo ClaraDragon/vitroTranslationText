@@ -1,0 +1,207 @@
+﻿# Maps grouped under: Torre Batalla (Highest ID: 25)
+[Map25]
+¿Yo? Acabo de empezar en el mundillo de\nla música y aún no tengo mucho trabajo, por eso me paso por aquí de vez en cuando y echo unos combates.
+¿Yo? Acabo de empezar en el mundillo de\nla música y aún no tengo mucho trabajo, por eso me paso por aquí de vez en cuando y echo unos combates.
+Los combates en la Torre Batalla atraen a todo tipo de contrincantes; a veces vienen líderes de gimnasio y campeones de regiones lejanas, como Galar.
+Los combates en la Torre Batalla atraen a todo tipo de contrincantes; a veces vienen líderes de gimnasio y campeones de regiones lejanas, como Galar.
+La Torre Batalla es un lugar impresionante.\n¡He oído que hay sitios parecidos fuera de Johto!
+La Torre Batalla es un lugar impresionante.\n¡He oído que hay sitios parecidos fuera de Johto!
+¿Los combates de Pokémon te cautivan?\nPues bien, yo, un Tutor de movimientos, ¡voy a serte de gran ayuda!
+¿Los combates de Pokémon te cautivan?\nPues bien, yo, un Tutor de movimientos, ¡voy a serte de gran ayuda!
+Esto... Desde que descubrí la Torre Batalla, esto... no puedo relajarme nunca, ¿sabes?
+Esto... Desde que descubrí la Torre Batalla, esto... no puedo relajarme nunca, ¿sabes?
+Incluso cuando voy a pescar, ¿sabes? No tengo paciencia y tiro de la Caña enseguida para poder venir aquí, ¿sabes?
+Incluso cuando voy a pescar, ¿sabes? No tengo paciencia y tiro de la Caña enseguida para poder venir aquí, ¿sabes?
+Dáselo a un Pokémon con el que vayas a participar en algún concurso.\nSi yo fuera tú, me apuntaría sin pensarlo.
+Dáselo a un Pokémon con el que vayas a participar en algún concurso.\nSi yo fuera tú, me apuntaría sin pensarlo.
+¿Viniste a apuntarte a algún concurso?\nPues voy a regalarte estos fantásticos Pokécubos para que te den suerte.
+¿Viniste a apuntarte a algún concurso?\nPues voy a regalarte estos fantásticos Pokécubos para que te den suerte.
+¡Para mejorar tus posibilidades en un concurso, dales Pokécubos a tus pokémon!
+¡Para mejorar tus posibilidades en un concurso, dales Pokécubos a tus pokémon!
+¡Puedes hacerlos licuando bayas con esas máquinas de ahí!
+¡Puedes hacerlos licuando bayas con esas máquinas de ahí!
+¡Pika, pika!\wt[10]
+¡Pika, pika!\wt[10]
+¡Te doy la bienvenida al Servicio de Intercambio!\n¿Quieres cambiar tus Puntos de Batalla por algún premio?
+¡Te doy la bienvenida al Servicio de Intercambio!\n¿Quieres cambiar tus Puntos de Batalla por algún premio?
+¡Bienvenido a los Concursos Pokémon de la Torre Batalla, donde los Pokémon brillan con luz propia y hacen gala de talentos que ni sus Entrenadores conocían!
+¡Bienvenido a los Concursos Pokémon de la Torre Batalla, donde los Pokémon brillan con luz propia y hacen gala de talentos que ni sus Entrenadores conocían!
+¿Deseas participar?
+¿Deseas participar?
+¡En los Concurso Pokémon, cuatro Entrenadores muestran sus Pokémon al público y compiten para ver cuál es el mejor! ¡Emoción garantizada!
+¡En los Concurso Pokémon, cuatro Entrenadores muestran sus Pokémon al público y compiten para ver cuál es el mejor! ¡Emoción garantizada!
+En primer lugar, tu Pokémon deberá realizar su debut superando un Juicio de Aptitud.
+En primer lugar, tu Pokémon deberá realizar su debut superando un Juicio de Aptitud.
+Te recomendamos que elijas a tu mejor Pokémon y le des Pokécubos para potenciar características como su Carisma, su Dulzura, etc.
+Te recomendamos que elijas a tu mejor Pokémon y le des Pokécubos para potenciar características como su Carisma, su Dulzura, etc.
+Después tendrá lugar la Valoración de la Exhibición, donde tu Pokémon dispondrá de cinco turnos para exhibirse realizando movimientos que conozca para así ganarse el favor del público.
+Después tendrá lugar la Valoración de la Exhibición, donde tu Pokémon dispondrá de cinco turnos para exhibirse realizando movimientos que conozca para así ganarse el favor del público.
+¡Haz que tus movimientos encajen con el título del concurso y causarás auténtico furor en las masas!\n¡No dudes en aceptar el desafío!
+¡Haz que tus movimientos encajen con el título del concurso y causarás auténtico furor en las masas!\n¡No dudes en aceptar el desafío!
+¿Qué Pokémon escoges para el concurso de \v[3] nivel \v[2]?
+¿Qué Pokémon escoges para el concurso de \v[3] nivel \v[2]?
+¡Buena suerte!
+¡Buena suerte!
+Esperamos volver a verte pronto.
+Esperamos volver a verte pronto.
+¡Je, je, je! ¡Todos parecen unos debiluchos! \nAunque... mejor no confiarse, que luego nos la dan con queso, ¿vale?\nPikachu, tú con cautela.
+¡Je, je, je! ¡Todos parecen unos debiluchos! \nAunque... mejor no confiarse, que luego nos la dan con queso, ¿vale?\nPikachu, tú con cautela. 
+Te doy la bienvenida a la Torre Batalla.\nSoy la guía de las Salas de Combate Individual y Doble.
+Te doy la bienvenida a la Torre Batalla.\nSoy la guía de las Salas de Combate Individual y Doble.
+¿Te atreves con las Salas de Combate?
+¿Te atreves con las Salas de Combate?
+Lo siento, con tu equipo actual no parece que puedas participar. Necesitas tres Pokémon diferentes para participar.
+Lo siento, con tu equipo actual no parece que puedas participar. Necesitas tres Pokémon diferentes para participar.
+Deben ser de especies distintas y llevar objetos diferentes. Tampoco se puede participar con determinadas especies exóticas ni con huevos.
+Deben ser de especies distintas y llevar objetos diferentes. Tampoco se puede participar con determinadas especies exóticas ni con huevos.
+Selecciona los Pokémon con los que deseas luchar.
+Selecciona los Pokémon con los que deseas luchar.
+Ahora voy a mostrarte la Sala de Combate.
+Ahora voy a mostrarte la Sala de Combate.
+Esperamos que vuelvas pronto.
+Esperamos que vuelvas pronto.
+La Torre Batalla está pensada para combates individuales y dobles.\nEn cuanto entres, el reto continuará hasta que pierdas.
+La Torre Batalla está pensada para combates individuales y dobles.\nEn cuanto entres, el reto continuará hasta que pierdas.
+En el Combate Individual participas con tres Pokémon.\nEn el Combate Doble participas con cuatro Pokémon.
+En el Combate Individual participas con tres Pokémon.\nEn el Combate Doble participas con cuatro Pokémon.
+Los combates se llevan a cabo en Salas de Combate, de las que hay muchas en la Torre.
+Los combates se llevan a cabo en Salas de Combate, de las que hay muchas en la Torre.
+En cada Sala de Combate te esperan cinco combates.\nSi consigues vencer en los cinco, obtendrás Puntos de Batalla (PB).
+En cada Sala de Combate te esperan cinco combates.\nSi consigues vencer en los cinco, obtendrás Puntos de Batalla (PB).
+¡Enhorabuena! ¡Has vencido en los cinco combates!
+¡Enhorabuena! ¡Has vencido en los cinco combates!
+Aquí tienes tu premio.
+Aquí tienes tu premio.
+¡Muchas gracias por participar!
+¡Muchas gracias por participar!
+¡Gracias por participar!
+¡Gracias por participar!
+¡Aquí tienes unos PB por tu participación!
+¡Aquí tienes unos PB por tu participación!
+¡Recuerda que puedes participar de nuevo en otro momento!
+¡Recuerda que puedes participar de nuevo en otro momento!
+Te estábamos esperando. Sígueme por aquí.
+Te estábamos esperando. Sígueme por aquí.
+Disculpa, pero no has guardado la partida al terminar el último combate.
+Disculpa, pero no has guardado la partida al terminar el último combate.
+Lo siento, pero el desafío ha sido cancelado.
+Lo siento, pero el desafío ha sido cancelado.
+¿Te apasionan los combates de Pokémon? Pues bien, yo, un Tutor de movimientos, voy a serte de gran ayuda!
+¿Te apasionan los combates de Pokémon? Pues bien, yo, un Tutor de movimientos, voy a serte de gran ayuda!
+¡Hola! Aquí tu equipo Pokémon se recuper... \n¡Huy! Todo por la costumbre...\nHoy estoy aquí para pasármelo bien. Es mi día libre.
+¡Hola! Aquí tu equipo Pokémon se recuper... \n¡Huy! Todo por la costumbre...\nHoy estoy aquí para pasármelo bien. Es mi día libre.
+¿Los combates de Pokémon son tu vida? Pues bien, yo, un Tutor de movimientos, voy a serte de gran ayuda!
+¿Los combates de Pokémon son tu vida? Pues bien, yo, un Tutor de movimientos, voy a serte de gran ayuda!
+Participar
+Participar
+No participar
+No participar
+Información
+Información
+Desafío
+Desafío
+Mejor en otro momento
+Mejor en otro momento
+[Map124]
+¡Qué alta es la Torre Batalla!\nMe pregunto cuántas veces más alta que yo será...
+¡Qué alta es la Torre Batalla!\nMe pregunto cuántas veces más alta que yo será...
+El kimono de kárate es el uniforme de un Luchador.\n¡No hay un atuendo más apropiado para ir a la Torre Batalla!
+El kimono de kárate es el uniforme de un Luchador.\n¡No hay un atuendo más apropiado para ir a la Torre Batalla!
+¡Te doy la bienvenida al Servicio de Intercambio!\n¿Quieres cambiar tus Puntos de Batalla por algún premio?
+¡Te doy la bienvenida al Servicio de Intercambio!\n¿Quieres cambiar tus Puntos de Batalla por algún premio?
+Todo el mundo se asombra cuando ve sola a una niña pequeña como yo en la Torre Batalla.\nEn realidad yo estoy aquí para llevar las apuestas, ¿sabes?
+Todo el mundo se asombra cuando ve sola a una niña pequeña como yo en la Torre Batalla.\nEn realidad yo estoy aquí para llevar las apuestas, ¿sabes?
+Van casi todas a un tal Lionel... ¡Vaya, pero si ese contrincante no ha llegado todavía!
+Van casi todas a un tal Lionel... ¡Vaya, pero si ese contrincante no ha llegado todavía!
+¿Eh? ¿Yo? He venido a la Torre a ver los Concursos Pokémon.\nAunque he oido que en Kanto han construido un complejo dedicado solo a ellos en Ciudad Fucsia.
+¿Eh? ¿Yo? He venido a la Torre a ver los Concursos Pokémon.\nAunque he oido que en Kanto han construido un complejo dedicado solo a ellos en Ciudad Fucsia.
+Algunos Entrenadores solo confían en las capacidades naturales de sus Pokémon.\nSin embargo, las habilidades se pueden mejorar mucho usando objetos en combate.
+Algunos Entrenadores solo confían en las capacidades naturales de sus Pokémon.\nSin embargo, las habilidades se pueden mejorar mucho usando objetos en combate.
+¡Ay, pero qué tonto soy! ¡Si los objetos como las medicinas no se pueden usar en la Torre Batalla!
+¡Ay, pero qué tonto soy! ¡Si los objetos como las medicinas no se pueden usar en la Torre Batalla!
+Lo que sí que puedes usar son objetos para mejorar las aptitudes de tus Pokémon.\n¡Mi favorito es Restos!
+Lo que sí que puedes usar son objetos para mejorar las aptitudes de tus Pokémon.\n¡Mi favorito es Restos!
+Hola, te doy la bienvenida al Centro Pokémon.
+Hola, te doy la bienvenida al Centro Pokémon.
+Aquí tu equipo Pokémon se recuperará por completo.
+Aquí tu equipo Pokémon se recuperará por completo.
+¿Quieres que descanse hasta que se reponga?
+¿Quieres que descanse hasta que se reponga?
+Vale, dame unos segundos.
+Vale, dame unos segundos.
+Es posible que algún Pokémon esté infectado por el Pokérus.
+Es posible que algún Pokémon esté infectado por el Pokérus.
+No se sabe gran cosa del Pokérus, salvo que es una forma de vida microscópica que infecta a los Pokémon.\nAl parecer, los Pokémon infectados crecen de una forma extraordinaria.
+No se sabe gran cosa del Pokérus, salvo que es una forma de vida microscópica que infecta a los Pokémon.\nAl parecer, los Pokémon infectados crecen de una forma extraordinaria.
+Gracias por esperar.\nTu equipo Pokémon ha recobrado toda su energía.
+Gracias por esperar.\nTu equipo Pokémon ha recobrado toda su energía.
+¡Vuelve cuando quieras!
+¡Vuelve cuando quieras!
+Le dije a mi familia que venía a conquistar la Torre Batalla.
+Le dije a mi familia que venía a conquistar la Torre Batalla.
+Pero ahora que he llegado aquí, estoy hecho un flan.\nAyyy... ¿Qué pasará si después de todo me hacen papilla?
+Pero ahora que he llegado aquí, estoy hecho un flan.\nAyyy... ¿Qué pasará si después de todo me hacen papilla?
+¡Choke!\wt[10]
+¡Choke!\wt[10]
+\w[signskin4]\C[8]Bar Talla\n¡Encuentra expertos sobre los Pokémon aquí!
+\w[signskin4]\C[8]Bar Talla\n¡Encuentra expertos sobre los Pokémon aquí!
+¡Por fin! ¡La Torre Batalla! ¡Cuando los combates fortuitos no te acaban de satisfacer plenamente, lo mejor es venir a combatir contra la!\n¿A que sí? ¿Me equivoco?
+¡Por fin! ¡La Torre Batalla! ¡Cuando los combates fortuitos no te acaban de satisfacer plenamente, lo mejor es venir a combatir contra la!\n¿A que sí? ¿Me equivoco?
+Clic... Clic... Clic... ¿Eh? ¡Anda! ¡Tú por aquí!\nMe he cansado de estar ahí plantado para ser el primero.
+Clic... Clic... Clic... ¿Eh? ¡Anda! ¡Tú por aquí!\nMe he cansado de estar ahí plantado para ser el primero.
+Ahora me dedico a contar la gente que viene a la torre. Nadie me lo ha pedido; lo hago como pasatiempo.
+Ahora me dedico a contar la gente que viene a la torre. Nadie me lo ha pedido; lo hago como pasatiempo.
+Si
+Si
+No
+No
+[Map141]
+\tg[\v[3]]\v[2]
+\tg[\v[3]]\v[2]
+¡Devolvamos la forma a tus Pokémon!
+¡Devolvamos la forma a tus Pokémon!
+Sigue la batalla número \v[1].
+Sigue la batalla número \v[1].
+¿Estás listo?\ch[2,0,Adelante,Descanso,Retirada]
+¿Estás listo?\ch[2,0,Adelante,Descanso,Retirada]
+¿Estás listo?\ch[2,0,Adelante,Descanso]
+¿Estás listo?\ch[2,0,Adelante,Descanso]
+¿Quieres que tu último combate en la Torre de Batalla sea grabado?
+¿Quieres que tu último combate en la Torre de Batalla sea grabado?
+\se[expfull]El último combate ha sido grabado.
+\se[expfull]El último combate ha sido grabado.
+\r¿Quieres retirarte de este desafío?
+\r¿Quieres retirarte de este desafío?
+\r¿Quieres guardar la partida y continuar después?
+\r¿Quieres guardar la partida y continuar después?
+La partida ha sido guardada.
+La partida ha sido guardada.
+Si
+Si
+No
+No
+[Map142]
+¡Estamos a punto de empezar el Concurso Pokémon de \v[3]!
+¡Estamos a punto de empezar el Concurso Pokémon de \v[3]!
+Los entrenadores y Pokémon participantes son los siguientes...
+Los entrenadores y Pokémon participantes son los siguientes...
+¡Enhorabuena al vencedor! ¡Esperamos verlos a todos pronto en el proximo concurso!
+¡Enhorabuena al vencedor! ¡Esperamos verlos a todos pronto en el proximo concurso!
+¡Muchas gracias por tu participación!
+¡Muchas gracias por tu participación!
+¡Enhorabuena, \PN!
+¡Enhorabuena, \PN!
+¡La actuación de tu \v[3] ha sido sublime!
+¡La actuación de tu \v[3] ha sido sublime!
+¡Como premio, te hago entrega de esta cinta!
+¡Como premio, te hago entrega de esta cinta!
+\w[menuskin]\C[8]¡\PN ha recibido una \v[2].
+\w[menuskin]\C[8]¡\PN ha recibido una \v[2].
+\w[menuskin]\C[8]Le has dado la \v[2] a \v[3].
+\w[menuskin]\C[8]Le has dado la \v[2] a \v[3].
+¡Tambien unos PB por tu participación!
+¡Tambien unos PB por tu participación!
+¡Toma un PB por tu participación!
+¡Toma un PB por tu participación!
+Esperamos volver a verte pronto.
+Esperamos volver a verte pronto.

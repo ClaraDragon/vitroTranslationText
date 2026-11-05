@@ -1,0 +1,6 @@
+﻿# Maps grouped under: Ruta 49 (Highest ID: 95)
+[Map95]
+\w[signskin4]\C[8]Ruta 49.\nAl este, Ciudad Cerezo. \nAl oeste, ruta 32.
+\w[signskin4]\C[8]Ruta 49.\nAl este, Ciudad Cerezo. \nAl oeste, ruta 32.
+¡Mieee!\wt[20]
+¡Mieee!\wt[20]

@@ -1,0 +1,137 @@
+﻿# Maps grouped under: Lago de la Furia (Highest ID: 68)
+[Map68]
+¡El cielo se va a caer! ¡Las nubes se encapotan!
+¡El cielo se va a caer! ¡Las nubes se encapotan!
+Si los Gyarados se enfadan es un terrible presagio...
+Si los Gyarados se enfadan es un terrible presagio...
+\w[signskin]Casa del Gurú Pescador.
+\w[signskin]Casa del Gurú Pescador.
+Dicen que este lago fue obra de Gyarados muy agresivos.\nMe pregunto si eso estará relacionado con su aparición masiva...
+Dicen que este lago fue obra de Gyarados muy agresivos.\nMe pregunto si eso estará relacionado con su aparición masiva...
+¡Déjame luchar con el Pokémon que acabo de atrapar!
+¡Déjame luchar con el Pokémon que acabo de atrapar!
+¡No perderé como pescador!\nMe paso el día capturando Pokémon.
+¡No perderé como pescador!\nMe paso el día capturando Pokémon.
+Haga lo que haga, siempre capturo los mismos Pokémon...
+Haga lo que haga, siempre capturo los mismos Pokémon...
+¿Por qué no atrapo buenos Pokémon? ¡Pescar es demasiado duro!
+¿Por qué no atrapo buenos Pokémon? ¡Pescar es demasiado duro!
+\tg[Miguel]Yo soy Miguel, por lo de miércoles. \nEncantado de conocerte. Toma un recuerdo.
+\tg[Miguel]Yo soy Miguel, por lo de miércoles. \nEncantado de conocerte. Toma un recuerdo.
+\tg[Miguel]El Cinturón Negro potencia los ataques de lucha.
+\tg[Miguel]El Cinturón Negro potencia los ataques de lucha.
+\tg[Miguel]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no? Y, en prueba de esta amistad, ¡te voy a dar la Cinta Abatimiento!
+\tg[Miguel]Ah, ¡eres tú! ¡Nos has encontrado a los siete!\nEntonces, ya somos todos amigos, ¿no? Y, en prueba de esta amistad, ¡te voy a dar la Cinta Abatimiento!
+\tg[Miguel]Yo creo que la Cinta Abatimiento le quedará a tu Pokémon divinamente.
+\tg[Miguel]Yo creo que la Cinta Abatimiento le quedará a tu Pokémon divinamente.
+\tg[Miguel]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Miguel]Solo doy una Cinta a la semana.\nSi quieres más, tendrás que venir la semana que viene.
+\tg[Miguel]Si me has encontrado, habrás visto a mis hermanos.\n¿O es que has tenido suerte?
+\tg[Miguel]Si me has encontrado, habrás visto a mis hermanos.\n¿O es que has tenido suerte?
+\tg[Chica Kimono]Esa criatura no estaba en sus cabales.\nMe alegra que pudieses aplacar su ira.
+\tg[Chica Kimono]Esa criatura no estaba en sus cabales.\nMe alegra que pudieses aplacar su ira.
+\tg[Chica Kimono]Sois fuerte, pues habeis aplacado al Gyarados carmesí...
+\tg[Chica Kimono]Sois fuerte, pues habeis aplacado al Gyarados carmesí...
+\tg[Chica Kimono]Tomad, esto es un regalo por vuestra hazaña.
+\tg[Chica Kimono]Tomad, esto es un regalo por vuestra hazaña.
+\tg[Chica Kimono]Esa criatura no está en sus cabales.\nConfío en que seréis capaz de tranquilizarlo.
+\tg[Chica Kimono]Esa criatura no está en sus cabales.\nConfío en que seréis capaz de tranquilizarlo.
+\tg[Chica Kimono]El Gyarados carmesí...
+\tg[Chica Kimono]El Gyarados carmesí...
+\tg[Chica Kimono]¿...?
+\tg[Chica Kimono]¿...?
+\tg[Chica Kimono]¿Venís a acabar con el Gyarados encolerizado?
+\tg[Chica Kimono]¿Venís a acabar con el Gyarados encolerizado?
+\tg[Chica Kimono]Parecéis fuerte...
+\tg[Chica Kimono]Parecéis fuerte...
+\tg[Chica Kimono]Tomad, con esto quizás sois capaz de aplacarlo.
+\tg[Chica Kimono]Tomad, con esto quizás sois capaz de aplacarlo.
+\tg[Chica Kimono]Os deseo suerte.
+\tg[Chica Kimono]Os deseo suerte.
+Me tengo que lavar los ojos con detergente...
+Me tengo que lavar los ojos con detergente...
+¿¡Cómo que un Gyarados rojo!? ¿¡Qué es este disparate!?
+¿¡Cómo que un Gyarados rojo!? ¿¡Qué es este disparate!?
+Si cruzamos miradas, toca combatir. ¡Esa es la ley fundamental del universo!
+Si cruzamos miradas, toca combatir. ¡Esa es la ley fundamental del universo!
+¡Guau! ¡Buen combate!
+¡Guau! ¡Buen combate!
+La ley fundamental del universo también es que o se gana o se pierde...
+La ley fundamental del universo también es que o se gana o se pierde...
+\tg[Lance]¿Qué, figura? ¿Me ayudarás?
+\tg[Lance]¿Qué, figura? ¿Me ayudarás?
+\tg[Lance]¡Oh...! Em, si cambias de opinión pues... Estaré aquí, supongo.
+\tg[Lance]¡Oh...! Em, si cambias de opinión pues... Estaré aquí, supongo.
+Ese Gyarados rojo no pinta muy bien...\nEs como si alguien lo hubiese forzado a evolucionar, ¿no?
+Ese Gyarados rojo no pinta muy bien...\nEs como si alguien lo hubiese forzado a evolucionar, ¿no?
+Eres \PN, ¿verdad?\nHe escuchado muchas cosas sobre ti.
+Eres \PN, ¿verdad?\nHe escuchado muchas cosas sobre ti.
+\tg[Lance]Me llamo Lance, y me dedico a los combates profesionalmente.\nAlgunos dicen que soy muy bueno. Je.
+\tg[Lance]Me llamo Lance, y me dedico a los combates profesionalmente.\nAlgunos dicen que soy muy bueno. Je.
+\tg[Lance]Te vi luchar antes y creo que tienes un talento considerable. ¡Seguro que podrías ayudarme!
+\tg[Lance]Te vi luchar antes y creo que tienes un talento considerable. ¡Seguro que podrías ayudarme!
+\tg[Lance]Venga, ¿qué me dices?
+\tg[Lance]Venga, ¿qué me dices?
+\tg[Lance]¡Claro, ese es el espíritu!\nTe necesito para echar un vistazo en Pueblo Caoba.
+\tg[Lance]¡Claro, ese es el espíritu!\nTe necesito para echar un vistazo en Pueblo Caoba.
+\tg[Lance]Unas ondas de radio muy específicas están siendo emitidas desde allí, ¡y creo que están forzando a los Magikarp a evolucionar!
+\tg[Lance]Unas ondas de radio muy específicas están siendo emitidas desde allí, ¡y creo que están forzando a los Magikarp a evolucionar!
+\tg[Lance]Estaré esperándote en la tienda de recuerdos de Pueblo Caoba.\n¡\PN! ¡Te veo allí!
+\tg[Lance]Estaré esperándote en la tienda de recuerdos de Pueblo Caoba.\n¡\PN! ¡Te veo allí!
+\tg[Fredo]Es como si esta tromba de agua estuviera azotando el lago con toda su cólera. \nNo creo que haya sido una coincidencia que tú y yo nos hayamos encontrado aquí.
+\tg[Fredo]Es como si esta tromba de agua estuviera azotando el lago con toda su cólera. \nNo creo que haya sido una coincidencia que tú y yo nos hayamos encontrado aquí.
+\tg[Fredo]Intercambiemos los números de teléfono, ¿no te parece?
+\tg[Fredo]Intercambiemos los números de teléfono, ¿no te parece?
+Fredo
+Fredo
+\tg[Fredo]Como te parezca... Cada uno es bien libre de hacer lo que quiera en este mundo.
+\tg[Fredo]Como te parezca... Cada uno es bien libre de hacer lo que quiera en este mundo.
+\tg[Fredo]Tengo la costumbre de combatir los lunes por la mañana para desentumecerme un poco.\n¡Llámame si te apetece echar un combate!
+\tg[Fredo]Tengo la costumbre de combatir los lunes por la mañana para desentumecerme un poco.\n¡Llámame si te apetece echar un combate!
+¡Gyaraa!\wt[20]
+¡Gyaraa!\wt[20]
+¡Qué miedo me da el Gyarados rojo!\n¿Crees que estará rojo porque se ha enfadado?
+¡Qué miedo me da el Gyarados rojo!\n¿Crees que estará rojo porque se ha enfadado?
+¡Muy bien!
+¡Muy bien!
+Si se enfada y se vuelve rojo qué será lo siguiente, ¿un Ponyta que se vuelva azul?\n¡Vaya disparate!
+Si se enfada y se vuelve rojo qué será lo siguiente, ¿un Ponyta que se vuelva azul?\n¡Vaya disparate!
+Dragooo...
+Dragooo...
+\w[signskin]Lago de la Furia.\nConocido como Lago de Gyarados.
+\w[signskin]Lago de la Furia.\nConocido como Lago de Gyarados.
+Sí
+Sí
+No
+No
+[Map118]
+La normalidad ha vuelto al Lago de la Furia. Gracias al cielo...
+La normalidad ha vuelto al Lago de la Furia.  Gracias al cielo...
+¡Por fin podré cumplir mi sueño de ver el Magikarp más grande del mundo!
+¡Por fin podré cumplir mi sueño de ver el Magikarp más grande del mundo!
+¿Tienes un Magikarp?\nSi tienes uno, enséñamelo, por favor.
+¿Tienes un Magikarp?\nSi tienes uno, enséñamelo, por favor.
+¡Ah, tienes un Magikarp!\nA ver lo grande que es ese ejemplar\..\..\..
+¡Ah, tienes un Magikarp!\nA ver lo grande que es ese ejemplar\..\..\..
+¡\v[2] cm...! ¡Un Magikarp de \v[2] cm...!\n¡Es formidable!
+¡\v[2] cm...! ¡Un Magikarp de \v[2] cm...!\n¡Es formidable!
+¡Me quito el sombrero ante ti! Toma, para que recuerdes este día.
+¡Me quito el sombrero ante ti! Toma, para que recuerdes este día.
+Lo importante es el récord. ¡Piensa en él como una bonificación!
+Lo importante es el récord. ¡Piensa en él como una bonificación!
+\v[2] cm...\n¡Es formidable!, pero no lo suficiente... Ya había visto uno así de grande.
+\v[2] cm...\n¡Es formidable!, pero no lo suficiente... Ya había visto uno así de grande.
+Si consigues un Magikarp, enséñamelo, por favor.
+Si consigues un Magikarp, enséñamelo, por favor.
+En el lago pasan cosas raras desde que llegaron esos hombres de negro.\n¡No hay Magikarps!
+En el lago pasan cosas raras desde que llegaron esos hombres de negro.\n¡No hay Magikarps!
+Este lago es un cráter obra de violentos Gyarados.\nEl agua de la lluvia lo llenó, y así nació el Lago de la Furia.
+Este lago es un cráter obra de violentos Gyarados.\nEl agua de la lluvia lo llenó, y así nació el Lago de la Furia.
+El tatarabuelo de mi abuelo contaba mucho esa historia.\nDe aquella se podían pescar Magikarp en el lago, pero... no entiendo lo que ocurre ahora.
+El tatarabuelo de mi abuelo contaba mucho esa historia.\nDe aquella se podían pescar Magikarp en el lago, pero... no entiendo lo que ocurre ahora.
+Estoy meditando...
+Estoy meditando...
+... Te has perdido...\nYo he estado aquí meditando y un nuevo poder ha nacido dentro de mí.\nDéjame compartir mi poder con tus Pokémon. \nToma esto, joven.
+... Te has perdido...\nYo he estado aquí meditando y un nuevo poder ha nacido dentro de mí.\nDéjame compartir mi poder con tus Pokémon. \nToma esto, joven.
+¿Lo ves?... ¡Es Poder Oculto!\nSaca el poder de los Pokémon para atacar.\nRecuerda: su tipo y poder dependen del Pokémon que lo usa.
+¿Lo ves?... ¡Es Poder Oculto!\nSaca el poder de los Pokémon para atacar.\nRecuerda: su tipo y poder dependen del Pokémon que lo usa.

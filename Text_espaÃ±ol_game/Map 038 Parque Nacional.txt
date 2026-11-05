@@ -1,0 +1,174 @@
+﻿# Maps grouped under: Parque Nacional (Highest ID: 38)
+[Map38]
+\tg[Sam]Mi Parasect duerme los Pokémon usando Espora.
+\tg[Sam]Mi Parasect duerme los Pokémon usando Espora.
+\tg[Antón]¡Buenas, \PN!\nMañana es el Concurso de Captura de Bichos.\nYo ya lo he ganado varias veces, por eso he dejado de participar.
+\tg[Antón]¡Buenas, \PN!\nMañana es el Concurso de Captura de Bichos.\nYo ya lo he ganado varias veces, por eso he dejado de participar.
+\tg[Antón]Tú eres una buena Entrenadora, deberías participar.
+\tg[Antón]Tú eres una buena Entrenadora, deberías participar.
+\tg[Antón]Tú eres un buen Entrenador, deberías participar.
+\tg[Antón]Tú eres un buen Entrenador, deberías participar.
+\tg[Antón]Ya que estás aquí, ¿por qué no nos echamos una foto?
+\tg[Antón]Ya que estás aquí, ¿por qué no nos echamos una foto?
+\tg[Antón]¡Genial, vamos! ¡Pon una sonrisa de oreja a oreja!
+\tg[Antón]¡Genial, vamos! ¡Pon una sonrisa de oreja a oreja!
+\tg[Antón]¡Ya está! ¡A que estamos guapos!
+\tg[Antón]¡Ya está! ¡A que estamos guapos!
+\tg[Antón]¿No? Tú misma... No pasa nada, tranquila...
+\tg[Antón]¿No? Tú misma... No pasa nada, tranquila...
+\tg[Antón]¿No? Tú mismo... No pasa nada, tranquilo...
+\tg[Antón]¿No? Tú mismo... No pasa nada, tranquilo...
+El PokéGear te deja poner temitas en la radio. Seguro que te deja encontrar Pokémon distintos.
+El PokéGear te deja poner temitas en la radio.  Seguro que te deja encontrar Pokémon distintos.
+\tg[Maura]He oído que es más fácil ganar si se atrapan Pokémon de colores más llamativos... ¿Será verdad?
+\tg[Maura]He oído que es más fácil ganar si se atrapan Pokémon de colores más llamativos...  ¿Será verdad?
+¡Zor!\wt[20]
+¡Zor!\wt[20]
+A mi madre no le gustan los Pokémon, por eso no les deja entrar en casa...\n¿¡A quién no le gustan los Pokémon!?
+A mi madre no le gustan los Pokémon, por eso no les deja entrar en casa...\n¿¡A quién no le gustan los Pokémon!?
+\tg[Samuel]Vaya, creí que obtendría más puntos...
+\tg[Samuel]Vaya, creí que obtendría más puntos...
+Dale a un Pokémon esa Garra Rápida y a veces atacará primero en el combate.
+Dale a un Pokémon esa Garra Rápida y a veces atacará primero en el combate.
+¡Presta atención, por favor!\n¡Vaya! A ver si dejo de hablar como si fuera una maestra. \nEntrenas Pokémon, ¿no?\nPues como estás trabajando tanto, he pensado darte esto.
+¡Presta atención, por favor!\n¡Vaya! A ver si dejo de hablar como si fuera una maestra. \nEntrenas Pokémon, ¿no?\nPues como estás trabajando tanto, he pensado darte esto.
+\tg[Tino]¡Ssh! ¡Vas a asustar a Scyther! Ya hablaremos más tarde.
+\tg[Tino]¡Ssh! ¡Vas a asustar a Scyther! Ya hablaremos más tarde.
+¡Per... per... persi!
+¡Per... per... persi!
+\tg[Rafa]¿Qué te parece? Voy a ganar, así que no me molestes.
+\tg[Rafa]¿Qué te parece? Voy a ganar, así que no me molestes.
+\tg[Guille]Me alegra haber atrapado el Pokémon que quería.
+\tg[Guille]Me alegra haber atrapado el Pokémon que quería.
+Doy paseos por el parque, pero nunca entro en la hierba.\nLos entrenadores adoran luchar...
+Doy paseos por el parque, pero nunca entro en la hierba.\nLos entrenadores adoran luchar...
+\tg[Samuel]¿Qué? Si tienes tiempo para estar de cháchara, también para buscar más Pokémon, ¿no?
+\tg[Samuel]¿Qué? Si tienes tiempo para estar de cháchara, también para buscar más Pokémon, ¿no?
+\tg[Koldo]¿Me das algún consejo? ¡Quiero estudiar tu estilo!
+\tg[Koldo]¿Me das algún consejo? ¡Quiero estudiar tu estilo!
+Introduce el Pokémon que quieras, solo uno, en el Pokéwalker.\nEs difícil decidir cuál llevarse...
+Introduce el Pokémon que quieras, solo uno, en el Pokéwalker.\nEs difícil decidir cuál llevarse...
+¿Yo? Aunque no lo parezca, tengo un montón de PokéGear colgando por todo el cuerpo.\nCuando camino hacen un ruido tremendo.
+¿Yo? Aunque no lo parezca, tengo un montón de PokéGear colgando por todo el cuerpo.\nCuando camino hacen un ruido tremendo.
+¡Mira! Este es el mío, este el de mi marido, este el de mi hijo, este el de mi sobrina, este el de mi Yamper, este el del ficus de la entrada...
+¡Mira! Este es el mío, este el de mi marido, este el de mi hijo, este el de mi sobrina, este el de mi Yamper, este el del ficus de la entrada...
+...Así siempre estoy en la onda. ¿Lo pillas? En la onda. Me dicen que soy muy graciosa.
+...Así siempre estoy en la onda. ¿Lo pillas? En la onda. Me dicen que soy muy graciosa.
+\tg[Benito]Es más fácil ganar con un Pokémon de tipo Bicho de nivel alto.\nPero creo que también cuentan otros factores.
+\tg[Benito]Es más fácil ganar con un Pokémon de tipo Bicho de nivel alto.\nPero creo que también cuentan otros factores.
+¡El concurso de captura de Bichos ha acabado!
+¡El concurso de captura de Bichos ha acabado!
+Vamos a evaluar vuestros Pokémon.
+Vamos a evaluar vuestros Pokémon.
+......\wt[10]\n......
+......\wt[10]\n......
+¡Hemos elegido a los ganadores!\nAquí van...
+¡Hemos elegido a los ganadores!\nAquí van...
+¡En tercer lugar, está el \v[2] que ha atrapado \v[1]!
+¡En tercer lugar, está el \v[2] que ha atrapado \v[1]!
+¡La puntuación fue de \v[3] puntos!
+¡La puntuación fue de \v[3] puntos!
+¡En segundo lugar, está el \v[2] que ha atrapado \v[1]!
+¡En segundo lugar, está el \v[2] que ha atrapado \v[1]!
+Y, finalmente, el primer puesto de este Concurso de Captura de Bichos es...
+Y, finalmente, el primer puesto de este Concurso de Captura de Bichos es...
+¡Para el \v[2] que ha atrapado \v[1]!
+¡Para el \v[2] que ha atrapado \v[1]!
+\PN se alza con el primer premio... ¡\v[3]!
+\PN se alza con el primer premio... ¡\v[3]!
+¡\PN, en el Segundo Puesto, ganó \v[3]!
+¡\PN, en el Segundo Puesto, ganó \v[3]!
+¡\PN, en el Tercer Puesto, ganó \v[3]!
+¡\PN, en el Tercer Puesto, ganó \v[3]!
+¡Todos los demás reciben \v[3] como consolación!
+¡Todos los demás reciben \v[3] como consolación!
+Y aquí tienes los Pokémon que te estábamos cuidando.
+Y aquí tienes los Pokémon que te estábamos cuidando.
+¡Te esperamos en el próximo Concurso de Captura de Bichos!
+¡Te esperamos en el próximo Concurso de Captura de Bichos!
+¡Esperamos que participes del próximo Concurso Cazabichos!
+¡Esperamos que participes del próximo Concurso Cazabichos!
+Aaah... Aaah...\nMe he puesto a correr con el PokéGear y me ha contado todos los pasos. Estoy reventado.
+Aaah... Aaah...\nMe he puesto a correr con el PokéGear y me ha contado todos los pasos. Estoy reventado.
+Espera, ¿cómo que el PokéGear no cuenta los pasos? ¿¡Entonces que llevo puesto!?
+Espera, ¿cómo que el PokéGear no cuenta los pasos? ¿¡Entonces que llevo puesto!?
+\tg[Rafa]Aparte de saber dónde buscar los Pokémon, la suerte también cuenta.
+\tg[Rafa]Aparte de saber dónde buscar los Pokémon, la suerte también cuenta.
+\w[signskin3]\C[8]¡Prohibido luchar fuera de la hierba!
+\w[signskin3]\C[8]¡Prohibido luchar fuera de la hierba!
+\w[signskin3]\C[8]- Guarda del Parque Nacional.
+\w[signskin3]\C[8]- Guarda del Parque Nacional.
+El mundo Pokémon es muy amplio. Y sigue habiendo muchas cosas que ignoramos. ¡Pero yo sé más que tú!
+El mundo Pokémon es muy amplio. Y sigue habiendo muchas cosas que ignoramos. ¡Pero yo sé más que tú!
+¿Qué, qué, qué?
+¿Qué, qué, qué?
+¡Tus conocimientos impresionan! ¡No me caes mal! ¿Quieres intercambiar consejos de batalla? Te telefonearé si consigo información interesante.
+¡Tus conocimientos impresionan! ¡No me caes mal!  ¿Quieres intercambiar consejos de batalla? Te telefonearé si consigo información interesante. 
+¿Me das tu número?
+¿Me das tu número?
+¡Bien! ¡Has venido! Tal y como habías prometido...
+¡Bien! ¡Has venido! Tal y como habías prometido...
+¿C-cómo?
+¿C-cómo?
+¡Tus conocimientos impresionan! ¡Toma esto!
+¡Tus conocimientos impresionan! ¡Toma esto!
+¡Te llamaré si me entero de algo!
+¡Te llamaré si me entero de algo!
+Hay muchas cosas que aprender.\nPor ejemplo... Que hay más de 100 tipos de MT...
+Hay muchas cosas que aprender.\nPor ejemplo...  Que hay más de 100 tipos de MT...
+\tg[Koldo]Soy un gran estudioso de los Pokémon bicho. Estoy seguro de ganar.
+\tg[Koldo]Soy un gran estudioso de los Pokémon bicho. Estoy seguro de ganar.
+¿Eh? ¿Y tú qué miras? ¿Quieres luchar?
+¿Eh? ¿Y tú qué miras? ¿Quieres luchar?
+¡Mmm...!
+¡Mmm...!
+Yo... te caigo bien, ¿verdad?
+Yo... te caigo bien, ¿verdad?
+Si no me equivoco, dame tu número.
+Si no me equivoco, dame tu número.
+Como me mirabas así, me estaba devanando los sesos para saber si había hecho algo que te hubiera molestado.
+Como me mirabas así, me estaba devanando los sesos para saber si había hecho algo que te hubiera molestado.
+\tg[Cindy]¡Adoro los Pokémon de tipo Bicho!
+\tg[Cindy]¡Adoro los Pokémon de tipo Bicho!
+Mi Pokémon es un encanto. Déjame mostrarte lo orgullosa que estoy.
+Mi Pokémon es un encanto. Déjame mostrarte lo orgullosa que estoy.
+Puedo derrotarte, pero...
+Puedo derrotarte, pero...
+¡Tus Pokémon son adorables! ¡Veo que quieres a los Pokémon tanto como yo!
+¡Tus Pokémon son adorables! ¡Veo que quieres a los Pokémon tanto como yo!
+¿Quieres mi<<n>>número de teléfono? Así podremos hablar<<n>>alguna vez sobre Pokémon. ¡Será chachi!
+¿Quieres mi <<n>>número de teléfono? Así podremos hablar <<n>>alguna vez sobre Pokémon. ¡Será chachi!
+¡Te estaba esperando para poder presumir de mis preciados Pokémon!
+¡Te estaba esperando para poder presumir de mis preciados Pokémon!
+Debo decirte que tu equipo Pokémon también es muy bonito.
+Debo decirte que tu equipo Pokémon también es muy bonito.
+Para serte sincera, quiero un Marill, pero me conformo con mi Snubbull... ¡No! ¡Snubbull, es mentira! ¡Tú eres el mejor! ¡Créeme!
+Para serte sincera, quiero un Marill, pero me conformo con mi Snubbull... ¡No! ¡Snubbull, es mentira! ¡Tú eres el mejor! ¡Créeme!
+\tg[Maura]He estado entrenando Pokémon que pueden causar cambios de estado para este Concurso.
+\tg[Maura]He estado entrenando Pokémon que pueden causar cambios de estado para este Concurso.
+\tg[Kai]Colecciono Pokémon bicho desde que era un niño.\n¡Es imposible que pueda perder!
+\tg[Kai]Colecciono Pokémon bicho desde que era un niño.\n¡Es imposible que pueda perder!
+\w[signskin]Plaza del Descanso.\nParque Nacional.
+\w[signskin]Plaza del Descanso.\nParque Nacional.
+Queremos a nuestros Pokémon, aunque ellos no nos quieran. ¡En eso consiste ser un Pokéfan!
+Queremos a nuestros Pokémon, aunque ellos no nos quieran. ¡En eso consiste ser un Pokéfan!
+¡M-mi Pokémon!
+¡M-mi Pokémon!
+Perdí el combate, pero mis Pokémon son más adorables que los tuyos.
+Perdí el combate, pero mis Pokémon son más adorables que los tuyos.
+\tg[Guille]Ganar o perder me da lo mismo. Lo que yo quiero son Pokémon raros.
+\tg[Guille]Ganar o perder me da lo mismo. Lo que yo quiero son Pokémon raros.
+\tg[Sam]Para poder vencer, los Pokémon tienen que estar en plena forma.\nEs que si no les queda energía no hay nada que hacer.
+\tg[Sam]Para poder vencer, los Pokémon tienen que estar en plena forma.\nEs que si no les queda energía no hay nada que hacer.
+\tg[Benito]Debilita los Pokémon bicho y lánzales una Competi Ball.
+\tg[Benito]Debilita los Pokémon bicho y lánzales una Competi Ball.
+\w[signskin3]\C[8]Solo está permitido jugar con Poké Balls en el parque.
+\w[signskin3]\C[8]Solo está permitido jugar con Poké Balls en el parque.
+\tg[Cindy]¡Adoro los Pokémon de tipo Bicho! ¿Te lo había dicho ya?
+\tg[Cindy]¡Adoro los Pokémon de tipo Bicho! ¿Te lo había dicho ya?
+\tg[Kai]¡Dicen que alguien ganó con un Caterpie!
+\tg[Kai]¡Dicen que alguien ganó con un Caterpie!
+Sí
+Sí
+No
+No

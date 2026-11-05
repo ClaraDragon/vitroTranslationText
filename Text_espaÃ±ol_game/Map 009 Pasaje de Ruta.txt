@@ -1,0 +1,194 @@
+﻿# Maps grouped under: Pasaje de Ruta (Highest ID: 9)
+[Map9]
+Hola, trotamundos.\n¿Has luchado en algún Gimnasio?
+Hola, trotamundos.\n¿Has luchado en algún Gimnasio?
+¡Dicen que los líderes son muy fuertes!
+¡Dicen que los líderes son muy fuertes!
+¡Oye, oye! Un amigo me escribió hace poco y le he contestado, pero no puedo irme de aquí para mandarle la Carta.
+¡Oye, oye! Un amigo me escribió hace poco y le he contestado, pero no puedo irme de aquí para mandarle la Carta.
+¿Podrías dársela tú? Está en la Ruta 31. ¿Me harías ese favor?
+¿Podrías dársela tú? Está en la Ruta 31. ¿Me harías ese favor?
+¡Ah, qué bien! ¡Gracias!
+¡Ah, qué bien! ¡Gracias!
+Quintín
+Quintín
+Alerón
+Alerón
+Carta de Quintín
+Carta de Quintín
+Mi amigo está en la Ruta 31.\nCuando te cruces con un chico con ganas de leer una Carta, no lo dudes, ¡seguro que es él!
+Mi amigo está en la Ruta 31.\nCuando te cruces con un chico con ganas de leer una Carta, no lo dudes, ¡seguro que es él!
+Oh, no tienes más espacio.
+Oh, no tienes más espacio.
+¿No? No pasa nada... Será que tienes cosas que hacer...
+¿No? No pasa nada... Será que tienes cosas que hacer...
+¡Gracias por entregarle la Carta!\n¿Qué?... ¿Una expedición en una cueva? ¡Ah, sí! Se puede salir por aquí...
+¡Gracias por entregarle la Carta!\n¿Qué?... ¿Una expedición en una cueva? ¡Ah, sí! Se puede salir por aquí...
+Quiero darte esto por haber sido tan amable conmigo.
+Quiero darte esto por haber sido tan amable conmigo.
+¿A que mi amigo estaba durmiendo? ¡Siempre está medio grogui!
+¿A que mi amigo estaba durmiendo? ¡Siempre está medio grogui!
+Hoy no quiero saber nada más.
+Hoy no quiero saber nada más.
+Esta es la entrada a las Ruinas Alfa.\nSon unas ruinas antiquísimas construidas con muchas piedras.\n¿Quién diantre las construiría?... ¿Y para qué?
+Esta es la entrada a las Ruinas Alfa.\nSon unas ruinas antiquísimas construidas con muchas piedras.\n¿Quién diantre las construiría?... ¿Y para qué?
+Aunque sea una abuela, sé unas cuantas cosas sobre tecnología moderna. ¿Quieres que te enseñe a usar la radio?
+Aunque sea una abuela, sé unas cuantas cosas sobre tecnología moderna. ¿Quieres que te enseñe a usar la radio?
+Abre el Pokégear y pulsa el botón de la radio. \nEntonces aparecerá la pantalla para sintonizar las emisoras.
+Abre el Pokégear y pulsa el botón de la radio. \nEntonces aparecerá la pantalla para sintonizar las emisoras.
+Si mueves el cursor, podrás cambiar de emisora y escuchar distintos programas.
+Si mueves el cursor, podrás cambiar de emisora y escuchar distintos programas.
+Vaya, disculpa si te he molestado.
+Vaya, disculpa si te he molestado.
+Hay que ver... que solo haga falta algo tan simple para poder escuchar la radio en el Pokégear... ¡Qué cosas!
+Hay que ver... que solo haga falta algo tan simple para poder escuchar la radio en el Pokégear... ¡Qué cosas!
+¿Cómo? ¿Que tu Pokégear todavía no recibe las emisiones de radio? Pues es una pena.\nAhora mismo están haciendo un concurso en el vestíbulo de la Torre Radio.
+¿Cómo? ¿Que tu Pokégear todavía no recibe las emisiones de radio? Pues es una pena.\nAhora mismo están haciendo un concurso en el vestíbulo de la Torre Radio.
+Si aciertas todas las preguntas, ganas una Tarjeta Radio.\n¡Yo de ti iría pitando a participar antes de que se acabe la promoción!
+Si aciertas todas las preguntas, ganas una Tarjeta Radio.\n¡Yo de ti iría pitando a participar antes de que se acabe la promoción!
+¡Con toda la gente que viene de Ciudad Trigal y Ciudad Iris estamos liadísimos!
+¡Con toda la gente que viene de Ciudad Trigal y Ciudad Iris estamos liadísimos!
+Los Sudowoodo se esconden como si fuesen rocas, así que el movimiento Corte no funciona en ellos.
+Los Sudowoodo se esconden como si fuesen rocas, así que el movimiento Corte no funciona en ellos.
+Quizás tirándoles agua encima se moverían... ¡pero eso es muy cruel!
+Quizás tirándoles agua encima se moverían...  ¡pero eso es muy cruel!
+¿Estás estudiando las ruinas? Podrías dedicarte a la ciencia.
+¿Estás estudiando las ruinas? Podrías dedicarte a la ciencia.
+No puedes cruzar algunos setos.\nPero puedes saltar por encima de ellos para atajar.
+No puedes cruzar algunos setos.\nPero puedes saltar por encima de ellos para atajar.
+¡Por aquí la visita a las Ruinas Alfa! Lugar turístico altamente interactivo.\n¡Se mira Y se toca!
+¡Por aquí la visita a las Ruinas Alfa! Lugar turístico altamente interactivo.\n¡Se mira Y se toca!
+Más adelante aparecen muchísimos tipos de Pokémon.\n¡Prepárate a conciencia con Balls de todo tipo!
+Más adelante aparecen muchísimos tipos de Pokémon.\n¡Prepárate a conciencia con Balls de todo tipo!
+Toma, aqui tienes una especial.
+Toma, aqui tienes una especial.
+Recuerda prepárate comprando Balls. ¡Siempre viene bien tener alguna de más!
+Recuerda prepárate comprando Balls. ¡Siempre viene bien tener alguna de más!
+Hay dibujos en los paneles de piedra. Intenté moverlos. ¿Qué serán?
+Hay dibujos en los paneles de piedra. Intenté moverlos. ¿Qué serán?
+Sí
+Sí
+No
+No
+[Map45]
+Amantes de los Pokémon bicho de todos los rincones del país vienen a este Concurso de Captura de Bichos.
+Amantes de los Pokémon bicho de todos los rincones del país vienen a este Concurso de Captura de Bichos.
+¿Yo?... Nah, a mí no me gustan los Pokémon tipo Bicho.
+¿Yo?... Nah, a mí no me gustan los Pokémon tipo Bicho.
+El interior del Monte Mortero es un laberinto natural. Ten cuidado y no te pierdas, anda.
+El interior del Monte Mortero es un laberinto natural. Ten cuidado y no te pierdas, anda.
+Todavía te queda tiempo.\n¿Quieres retirarte ya?
+Todavía te queda tiempo.\n¿Quieres retirarte ya?
+Vale. Pues, entonces, espera aquí a que se anuncien los ganadores.
+Vale. Pues, entonces, espera aquí a que se anuncien los ganadores.
+Vale. Pues, entonces, vuelve afuera y ánimo. ¡Buena suerte!
+Vale. Pues, entonces, vuelve afuera y ánimo.  ¡Buena suerte!
+¡Muchas gracias por haber intercambiado tu Pokémon conmigo!
+¡Muchas gracias por haber intercambiado tu Pokémon conmigo!
+¡Yo también voy a cuidar al Ditto que me has dado, lo prometo!
+¡Yo también voy a cuidar al Ditto que me has dado, lo prometo!
+¡Oye! Todavía no has atrapado ningún Rotom, ¿verdad?
+¡Oye! Todavía no has atrapado ningún Rotom, ¿verdad?
+Si te parece bien, podrías cambiarme un Ditto por mi Rotom. ¿Qué me dices?\nA mí es que me haría mucha ilusión...
+Si te parece bien, podrías cambiarme un Ditto por mi Rotom. ¿Qué me dices?\nA mí es que me haría mucha ilusión...
+Si no quieres, no pasa nada.\nSi en algún momento cambias de opinión, ven y dímelo, ¿vale?
+Si no quieres, no pasa nada.\nSi en algún momento cambias de opinión, ven y dímelo, ¿vale?
+¡Ay, qué alegría más grande!\n¡Vamos a intercambiarlos!
+¡Ay, qué alegría más grande!\n¡Vamos a intercambiarlos!
+¡Ay, muchas gracias!\nCuida bien de mi Rotom, ¿eh?
+¡Ay, muchas gracias!\nCuida bien de mi Rotom, ¿eh?
+El Concurso de Captura de Bichos se celebra los martes, jueves y sábados.\nNo solo ganarás un premio por participar.
+El Concurso de Captura de Bichos se celebra los martes, jueves y sábados.\nNo solo ganarás un premio por participar.
+Además, podrás quedarte con el Pokémon bicho que tengas al final del concurso.
+Además, podrás quedarte con el Pokémon bicho que tengas al final del concurso. 
+El Concurso de Captura de Bichos ha acabado. \nEsperamos volver a veros por aquí muy pronto.
+El Concurso de Captura de Bichos ha acabado. \nEsperamos volver a veros por aquí muy pronto.
+Hoy es \v[1], lo cual significa que se celebra el Concurso de Captura de Bichos.
+Hoy es \v[1], lo cual significa que se celebra el Concurso de Captura de Bichos.
+¡Las reglas son muy sencillas!\nUsa uno de tus Pokémon y captura un Pokémon bicho para ganar.
+¡Las reglas son muy sencillas!\nUsa uno de tus Pokémon y captura un Pokémon bicho para ganar.
+¿Te gustaría intentarlo?
+¿Te gustaría intentarlo?
+¡Qué mala suerte!\nNo dispones de espacio para capturar más Pokémon.
+¡Qué mala suerte!\nNo dispones de espacio para capturar más Pokémon.
+Puedes entrar al Concurso con un sólo Pokémon.
+Puedes entrar al Concurso con un sólo Pokémon.
+Por favor, escoge con cuál participar.
+Por favor, escoge con cuál participar.
+\bDe acuerdo. Esperamos que quieras participar en el siguiente concurso.
+\bDe acuerdo. Esperamos que quieras participar en el siguiente concurso.
+Entonces, participarás con \v[2].
+Entonces, participarás con \v[2].
+\w[menuskin]\C[8]Los Pokémon de \PN se quedan con el Ayudante.
+\w[menuskin]\C[8]Los Pokémon de \PN se quedan con el Ayudante.
+Aquí tienes las Competi Balls para el Concurso.
+Aquí tienes las Competi Balls para el Concurso.
+\w[menuskin]\C[8]\se[itemlevel]\PN recibió 20 Competi Balls.\wtnp[20]
+\w[menuskin]\C[8]\se[itemlevel]\PN recibió 20 Competi Balls.\wtnp[20]
+Aquel que consiga el Pokémon bicho más fuerte será el ganador.\nTienes 20 minutos. Si te quedas sin Competi Ball, no tendrás opción.
+Aquel que consiga el Pokémon bicho más fuerte será el ganador.\nTienes 20 minutos. Si te quedas sin Competi Ball, no tendrás opción.
+Puedes quedarte el último Pokémon que captures. \n¡Sal y captura el Pokémon bicho más fuerte que encuentres!
+Puedes quedarte el último Pokémon que captures. \n¡Sal y captura el Pokémon bicho más fuerte que encuentres!
+¿Ah, no? Bueno, esperamos volver a verte por aquí pronto.
+¿Ah, no? Bueno, esperamos volver a verte por aquí pronto.
+¿De dónde has dicho que eras?\n¿De Pueblo Primavera?\nAhora que lo pienso... ¿No es ahí donde vive el Profesor Elm? Pues sí que vienes de lejos...
+¿De dónde has dicho que eras?\n¿De Pueblo Primavera?\nAhora que lo pienso... ¿No es ahí donde vive el Profesor Elm? Pues sí que vienes de lejos...
+Si
+Si
+No
+No
+Sí
+Sí
+[Map58]
+¡Alto ahí, joven! El precio por pasar es 1000 $.
+¡Alto ahí, joven! El precio por pasar es 1000 $.
+Oye, no tendrás 1000 $, ¿no?
+Oye, no tendrás 1000 $, ¿no?
+No hace más que venir gente sin un céntimo.
+No hace más que venir gente sin un céntimo.
+Cuánto pobretón suelto...\nBueno, ¿qué más da? \n¡Anda, da lo que tengas y pasa!
+Cuánto pobretón suelto...\nBueno, ¿qué más da? \n¡Anda, da lo que tengas y pasa!
+¡Je, je, je!\n¡Gracias, joven!
+¡Je, je, je!\n¡Gracias, joven!
+¿Has visto el santuario en honor del guardián? \nProtege el Bosque desde antaño con sus poderes místicos, o algo así.
+¿Has visto el santuario en honor del guardián? \nProtege el Bosque desde antaño con sus poderes místicos, o algo así.
+¡Je, je, je! Mucha gente viene a ver que ocurre en el Lago de la Furia... ¡Y mientras tanto nosotros nos forramos!
+¡Je, je, je! Mucha gente viene a ver que ocurre en el Lago de la Furia... ¡Y mientras tanto nosotros nos forramos!
+Contiene Mofa.
+Contiene Mofa.
+Con este movimiento puedes forzar al Pokémon enemigo a que solo te ataque.\nPero cuidado, solo dura un rato.
+Con este movimiento puedes forzar al Pokémon enemigo a que solo te ataque.\nPero cuidado, solo dura un rato.
+Vaya... Así que estás completando la Pokédex, ¿eh?
+Vaya... Así que estás completando la Pokédex, ¿eh?
+Llévate esta MT. Seguro que te será útil.
+Llévate esta MT. Seguro que te será útil.
+El Team Rocket es una organización muy lucrativa... ¡Para sus miembros, claro! ¡Je, je, je!
+El Team Rocket es una organización muy lucrativa... ¡Para sus miembros, claro! ¡Je, je, je!
+¡Frii!
+¡Frii!
+Ummm... Ese pequeñín me preocupa.
+Ummm... Ese pequeñín me preocupa.
+¡Oh! No me hagas caso, solo estoy pensando en un Pichu solitario que vive en en Encinar. Siempre parece tan triste...
+¡Oh! No me hagas caso, solo estoy pensando en un Pichu solitario que vive en en Encinar. Siempre parece tan triste...
+Los Pichu suelen vivir en grupos de dos o más, pero el pobre está ahí más solo que la una. Quizás un amigo le anime.
+Los Pichu suelen vivir en grupos de dos o más, pero el pobre está ahí más solo que la una.  Quizás un amigo le anime.
+Los Pichu suelen vivir en grupos de dos o más, pero el pobre está ahí más solo que la una.
+Los Pichu suelen vivir en grupos de dos o más, pero el pobre está ahí más solo que la una.
+Quizás un amigo le anime.
+Quizás un amigo le anime.
+He oído que a veces se encuentran Escamas Rojas en el Lago de la Furia. Ahora que lo pienso... \nAlguien me dijo que quería una...
+He oído que a veces se encuentran Escamas Rojas en el Lago de la Furia. Ahora que lo pienso... \nAlguien me dijo que quería una...
+Mmm... Creo que era...\n¡Ah, sí! ¡Era el señor... algo!\nSí, se llama señor... no sé qué... Pero ahora no me acuerdo.
+Mmm... Creo que era...\n¡Ah, sí! ¡Era el señor... algo!\nSí, se llama señor... no sé qué... Pero ahora no me acuerdo.
+Mmm... ¿Quién fue?...\nNo me acuerdo...
+Mmm... ¿Quién fue?...\nNo me acuerdo...
+El Encinar es muy grande y confuso... ¡Ve con cuidado!
+El Encinar es muy grande y confuso... ¡Ve con cuidado!
+Esa MT contiene Bomba Lodo.\nNo solo causa daño, sino que también puede llegar a envenenar al enemigo.\n¿A que da un poco de repelús?
+Esa MT contiene Bomba Lodo.\nNo solo causa daño, sino que también puede llegar a envenenar al enemigo.\n¿A que da un poco de repelús?
+¡Uf! Qué suerte que los del Team Rocket ya se han ido.\nAlguien destrozó su guarida, se disolvieron y ahora se han desperdigado por ahí.
+¡Uf! Qué suerte que los del Team Rocket ya se han ido.\nAlguien destrozó su guarida, se disolvieron y ahora se han desperdigado por ahí.
+Se dejaron esto debajo del mostrador, te lo puedes llevar si quieres.
+Se dejaron esto debajo del mostrador, te lo puedes llevar si quieres.
+El Encinar está vigilado por su guardián.\n¡No hagas nada malo o te castigará!
+El Encinar está vigilado por su guardián.\n¡No hagas nada malo o te castigará!

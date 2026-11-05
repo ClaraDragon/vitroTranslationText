@@ -1,0 +1,56 @@
+﻿# Maps grouped under: Ruta 42 (Highest ID: 62)
+[Map62]
+\w[signskin]Monte Mortero.\nCueva Cascada en el interior.
+\w[signskin]Monte Mortero.\nCueva Cascada en el interior.
+\tg[Eusine]Suicune...\nQué nobleza...\nQué viveza...\nQué belleza...\n¡Qué presteza!
+\tg[Eusine]Suicune...\nQué nobleza...\nQué viveza...\nQué belleza...\n¡Qué presteza!
+\tg[Eusine]¡\PN! Siempre te encuentro en los lugares donde aparece Suicune.
+\tg[Eusine]¡\PN! Siempre te encuentro en los lugares donde aparece Suicune.
+\tg[Eusine]En cualquier caso, tu deseo de encontrar a Suicune nunca será mayor que el mío.
+\tg[Eusine]En cualquier caso, tu deseo de encontrar a Suicune nunca será mayor que el mío.
+\tg[Eusine]Mi abuelo conoce muchas leyendas al pie de la letra.\nY yo he escuchado la de Suicune montones de veces desde que era niño.
+\tg[Eusine]Mi abuelo conoce muchas leyendas al pie de la letra.\nY yo he escuchado la de Suicune montones de veces desde que era niño.
+\tg[Eusine]¿Hacia dónde te diriges?...\nTe perseguiré hasta que lo averigüe.
+\tg[Eusine]¿Hacia dónde te diriges?...\nTe perseguiré hasta que lo averigüe.
+\tg[Eusine]¡Tenlo presente!
+\tg[Eusine]¡Tenlo presente!
+¡Hoooon!\wt[20]
+¡Hoooon!\wt[20]
+¡Ria!\wt[20]
+¡Ria!\wt[20]
+¡Oye! ¡Este es mi lugar secreto! ¡Fuera de aquí, cotilla!
+¡Oye! ¡Este es mi lugar secreto! ¡Fuera de aquí, cotilla!
+¡Ay! ¡Tendría que haber usado mi<<n>>Piedra Lunar!
+¡Ay! ¡Tendría que haber usado mi <<n>>Piedra Lunar!
+¿Tienes una Pokédex? ¡Guau! Habrás visto Pokémon muy raros, ¿no? ¿Puedo verla, por favor?
+¿Tienes una Pokédex? ¡Guau! Habrás visto Pokémon muy raros, ¿no? ¿Puedo verla, por favor?
+¿Quieres saber cómo se siente uno en lo más profundo de Mt. Mortero? Si me vences, te lo cuento.
+¿Quieres saber cómo se siente uno en lo más profundo de Mt. Mortero? Si me vences, te lo cuento.
+¡No puede ser! ¡He perdido!
+¡No puede ser! ¡He perdido!
+¡Perdona que haya sido un fanfarrón! ¡Con esas cataratas es imposible llegar a lo más profundo de Mt. Mortero!
+¡Perdona que haya sido un fanfarrón! ¡Con esas cataratas es imposible llegar a lo más profundo de Mt. Mortero!
+\w[signskin4]\C[8]Ruta 42.\nAl este, Pueblo Caoba. \nAl oeste, Ciudad Iris.
+\w[signskin4]\C[8]Ruta 42.\nAl este, Pueblo Caoba. \nAl oeste, Ciudad Iris.
+¡Le he echado el anzuelo a un Pokémon muy fuerte, ya verás!
+¡Le he echado el anzuelo a un Pokémon muy fuerte, ya verás!
+¿Qué? Qué curioso...
+¿Qué? Qué curioso...
+¿Te mola pescar? ¡Guay! Si encuentro más objetos en el agua, te daré alguno.
+¿Te mola pescar? ¡Guay! Si encuentro más objetos en el agua, te daré alguno.
+Venga, dame tu número de teléfono.<<n>>Sabrás de mí si encuentro algo en<<n>>condiciones.
+Venga, dame tu número de teléfono. <<n>>Sabrás de mí si encuentro algo en <<n>>condiciones. 
+¡Le he echado el anzuelo a más Pokémon! ¡Venga, a luchar!
+¡Le he echado el anzuelo a más Pokémon! ¡Venga, a luchar!
+¡Toma esto!
+¡Toma esto!
+Quiero convertirme en un Entrenador de primera con los Pokémon que he atrapado. ¡Eso es lo mejor de la pesca!
+Quiero convertirme en un Entrenador de primera con los Pokémon que he atrapado. ¡Eso es lo mejor de la pesca!
+¡Uy, uy, uy! ¡Sopla más fuerte, amigo! ¡Siento que casi vuelo!
+¡Uy, uy, uy! ¡Sopla más fuerte, amigo! ¡Siento que casi vuelo!
+¿Eh? ¿Quién eres, \PN? ¡No me chivarás a mi hermana!...\n¡Uy! ¿Te ha mandado ella?
+¿Eh? ¿Quién eres, \PN? ¡No me chivarás a mi hermana!...\n¡Uy! ¿Te ha mandado ella?
+¡Ostras, es verdad! ¡La cena!\nSe me fue el santo al cielo jugando con Drifloon, ¡es tan divertido!
+¡Ostras, es verdad! ¡La cena!\nSe me fue el santo al cielo jugando con Drifloon, ¡es tan divertido!
+Vale, vale, iré pitando a casa. ¿Vas también para Ciudad Iris, no?\n¡Pues vamos juntos, asi ninguno se pierde!
+Vale, vale, iré pitando a casa. ¿Vas también para Ciudad Iris, no?\n¡Pues vamos juntos, asi ninguno se pierde!

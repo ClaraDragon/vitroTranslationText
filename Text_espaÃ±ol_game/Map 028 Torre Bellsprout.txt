@@ -1,0 +1,90 @@
+﻿# Maps grouped under: Torre Bellsprout (Highest ID: 28)
+[Map28]
+A ver cuánto confías en tu equipo Pokémon, joven.
+A ver cuánto confías en tu equipo Pokémon, joven.
+Mmm... Pues está visto que sí que<<n>>confías en tu equipo Pokémon.
+Mmm... Pues está visto que sí que <<n>>confías en tu equipo Pokémon.
+No estás lejos del Anciano.
+No estás lejos del Anciano.
+Por mucho que luchemos, la torre seguirá en pie.
+Por mucho que luchemos, la torre seguirá en pie.
+Luché con fuerza, pero estoy débil.
+Luché con fuerza, pero estoy débil.
+La columna flexible protege la torre hasta de los terremotos.
+La columna flexible protege la torre hasta de los terremotos.
+Dicen que esta torre antes era un Bellsprout de 30 metros de altura.\nParece que su tallo se convirtió en el pilar central de la torre.
+Dicen que esta torre antes era un Bellsprout de 30 metros de altura.\nParece que su tallo se convirtió en el pilar central de la torre.
+¡Vaya larguirucho!
+¡Vaya larguirucho!
+\tg[Anciano]¡Anda, encantado de verte por aquí!
+\tg[Anciano]¡Anda, encantado de verte por aquí!
+\tg[Anciano]La Torre Bellsprout es un lugar de entrenamiento para que personas y Pokémon puedan construir juntos un futuro mejor.
+\tg[Anciano]La Torre Bellsprout es un lugar de entrenamiento para que personas y Pokémon puedan construir juntos un futuro mejor.
+\tg[Anciano]Y yo soy la prueba final.\n¡Ahora déjame comprobar tus lazos con los Pokémon!
+\tg[Anciano]Y yo soy la prueba final.\n¡Ahora déjame comprobar tus lazos con los Pokémon! 
+¡Ah, excelente!
+¡Ah, excelente!
+\tg[Anciano]Vaya... Tu estilo de combate no está nada mal. Podrías estar a la altura de Pegaso.
+\tg[Anciano]Vaya... Tu estilo de combate no está nada mal. Podrías estar a la altura de Pegaso.  
+\tg[Anciano]Además, veo que tratas bien a tus Pokémon. Bien, así es como llegarás a lo más alto.
+\tg[Anciano]Además, veo que tratas bien a tus Pokémon. Bien, así es como llegarás a lo más alto.
+\tg[Anciano]Hay entrenadores que no se preocupan de cuidar a su equipo, pero así lo único que se recoge, es lo que se siembra...
+\tg[Anciano]Hay entrenadores que no se preocupan de cuidar a su equipo, pero así lo único que se recoge, es lo que se siembra...
+\tg[Anciano]En fin, se te da bien esto. Así que no deberías tener problemas con este movimiento.
+\tg[Anciano]En fin, se te da bien esto. Así que no deberías tener problemas con este movimiento.
+\tg[Anciano]Toma esta MT.\nEs Destello.
+\tg[Anciano]Toma esta MT.\nEs Destello.
+\tg[Anciano]Destello ilumina hasta el lugar más oscuro. Cuevas, grutas... ¡Todo!
+\tg[Anciano]Destello ilumina hasta el lugar más oscuro. Cuevas, grutas... ¡Todo!
+\tg[Anciano]No todos los Pokémon lo aprenden, pero podrías enseñárselo a un Bellsprout, por ejemplo.
+\tg[Anciano]No todos los Pokémon lo aprenden, pero podrías enseñárselo a un Bellsprout, por ejemplo.
+Montamos guardia en esta torre. Así es como expresamos nuestra gratitud a todos los Pokémon.
+Montamos guardia en esta torre. Así es como expresamos nuestra gratitud a todos los Pokémon.
+¡Gr-gracias!
+¡Gr-gracias!
+Todos los seres vivos cooperan para sobrevivir. Deberíamos estar agradecidos.
+Todos los seres vivos cooperan para sobrevivir.  Deberíamos estar agradecidos.
+¿Ves cómo se mueve el pilar? Es porque arriba hay gente entrenándose.
+¿Ves cómo se mueve el pilar? Es porque arriba hay gente entrenándose.
+Muévete como las hojas del viento...
+Muévete como las hojas del viento...
+¡Oh, estoy débil!
+¡Oh, estoy débil!
+Quería imitar los pausados movimientos de Bellsprout para pelear... Pero no me entrené lo suficiente.
+Quería imitar los pausados movimientos de Bellsprout para pelear... Pero no me entrené lo suficiente.
+Solo los que lleguen arriba obtendrán un movimiento fuera de lo común.
+Solo los que lleguen arriba obtendrán un movimiento fuera de lo común.
+\tg[Anciano]Eres muy hábil entrenando Pokémon, ¿sabes?
+\tg[Anciano]Eres muy hábil entrenando Pokémon, ¿sabes?
+\tg[Anciano]Así que como te prometí, aquí tienes tu MT.\nPero déjame decirte una cosa. Deberías tratar mejor a tus Pokémon.
+\tg[Anciano]Así que como te prometí, aquí tienes tu MT.\nPero déjame decirte una cosa. Deberías tratar mejor a tus Pokémon.
+\tg[Anciano]Luchas de forma muy violenta.\nLos Pokémon no son armas de guerra.
+\tg[Anciano]Luchas de forma muy violenta.\nLos Pokémon no son armas de guerra.
+\tg[\v[12]]...\nEs evidente.
+\tg[\v[12]]...\nEs evidente.
+\tg[\v[12]]Jamás perdería contra quienes dicen que hay que ser "bueno" con los Pokémon.
+\tg[\v[12]]Jamás perdería contra quienes dicen que hay que ser "bueno" con los Pokémon.
+\tg[\v[12]]Solo me interesan los Pokémon ganadores.\nLos débiles no merecen estar en mi equipo.
+\tg[\v[12]]Solo me interesan los Pokémon ganadores.\nLos débiles no merecen estar en mi equipo.
+\tg[\v[12]]Así es como yo...
+\tg[\v[12]]Así es como yo...
+\tg[\v[12]]...
+\tg[\v[12]]...
+\tg[\v[12]]No importa. Hasta nunca.
+\tg[\v[12]]No importa. Hasta nunca.
+\w[menuskin]\C[8]¡\v[12] usó Cuerda Huida!
+\w[menuskin]\C[8]¡\v[12] usó Cuerda Huida!
+¡Me entreno para saberlo todo sobre los Pokémon! ¡Kiahhh!
+¡Me entreno para saberlo todo sobre los Pokémon!  ¡Kiahhh!
+Para ser un bonzo, no me llevaría ni el<<n>>bronce.
+Para ser un bonzo, no me llevaría ni el <<n>>bronce.
+Cuanto más fuerte sea el Pokémon, más fuerte será su entrenador.\nNo, espera. Cuanto más fuerte sea el entrenador, más fuerte el Pokémon.
+Cuanto más fuerte sea el Pokémon, más fuerte será su entrenador.\nNo, espera. Cuanto más fuerte sea el entrenador, más fuerte el Pokémon.
+La Torre Bellsprout fue construida para entrenar Pokémon, o al menos eso nos dijeron.
+La Torre Bellsprout fue construida para entrenar Pokémon, o al menos eso nos dijeron.
+Se rumorea que la MT del Anciano alumbra hasta lo más oscuro.
+Se rumorea que la MT del Anciano alumbra hasta lo más oscuro.
+¡Mi cerebro sí que es brillante!
+¡Mi cerebro sí que es brillante!
+¡Que haya luz en tus viajes!
+¡Que haya luz en tus viajes!

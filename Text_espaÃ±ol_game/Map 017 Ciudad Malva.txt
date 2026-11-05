@@ -1,0 +1,185 @@
+﻿# Maps grouped under: Ciudad Malva (Highest ID: 17)
+[Map17]
+\w[signskin]Torre Bellsprout.\nDonde se vela por la vida en armonía entre humanos y Pokémon.
+\w[signskin]Torre Bellsprout.\nDonde se vela por la vida en armonía entre humanos y Pokémon.
+¿Entrenas Pokémon?\n¡Si ganas a este Líder de Gimnasio, estarás en el camino del éxito!
+¿Entrenas Pokémon?\n¡Si ganas a este Líder de Gimnasio, estarás en el camino del éxito!
+Tu experiencia en Ciudad Malva debería ayudarte en tu viaje.
+Tu experiencia en Ciudad Malva debería ayudarte en tu viaje.
+Tienes Pokémon muy fuertes. Seguro que es por haberlos entrenado en los alrededores de Ciudad Malva.
+Tienes Pokémon muy fuertes. Seguro que es por haberlos entrenado en los alrededores de Ciudad Malva.
+Llévate esto como recuerdo.\nAumenta el poder de los movimientos de tipo Planta.
+Llévate esto como recuerdo.\nAumenta el poder de los movimientos de tipo Planta.
+¡Pegaso, del Gimnasio Pokémon de Ciudad Malva, es magnífico!\nHeredó el Gimnasio de su padre y ha hecho un gran trabajo.
+¡Pegaso, del Gimnasio Pokémon de Ciudad Malva, es magnífico!\nHeredó el Gimnasio de su padre y ha hecho un gran trabajo.
+\w[signskin2]\C[10]Ciudad Malva.\nLa ciudad de aromas evocadores.
+\w[signskin2]\C[10]Ciudad Malva.\nLa ciudad de aromas evocadores.
+¡Hola! ¿Entrenas Pokémon? ¿Has ganado al Líder del Gimnasio?
+¡Hola! ¿Entrenas Pokémon? ¿Has ganado al Líder del Gimnasio?
+¡Es impresionante!
+¡Es impresionante!
+¿Ah, no? Pues eso habrá que estudiarlo. \n¡Sígueme!
+¿Ah, no? Pues eso habrá que estudiarlo. \n¡Sígueme!
+Yo soy el profesor. Si quieres, puedes estudiar aquí.
+Yo soy el profesor. Si quieres, puedes estudiar aquí.
+¿Sabes que se pueden hacer marcas en el Mapa del Pokégear? Y también se pueden tomar notas.\nYo también quiero tener uno, pero mi mamá no me lo quiere comprar.
+¿Sabes que se pueden hacer marcas en el Mapa del Pokégear? Y también se pueden tomar notas.\nYo también quiero tener uno, pero mi mamá no me lo quiere comprar.
+En esta ciudad se preocupan mucho por el paisaje urbano.
+En esta ciudad se preocupan mucho por el paisaje urbano.
+Por eso remodelaron los tejados del Centro Pokémon y la Tienda Pokémon, así son agradables y coherentes a la vista.
+Por eso remodelaron los tejados del Centro Pokémon y la Tienda Pokémon, así son agradables y coherentes a la vista.
+¡Cómo molan los diseñadores!
+¡Cómo molan los diseñadores!
+En algunos edificios o cuevas, o en lugares donde hay mucha gente, no se puede entrar acompañado de tu Pokémon.\nPero siempre puedes hacerlo volver a su Poké Ball.
+En algunos edificios o cuevas, o en lugares donde hay mucha gente, no se puede entrar acompañado de tu Pokémon.\nPero siempre puedes hacerlo volver a su Poké Ball.
+¡Bayas por Partes! ¡Bayas por Partes! ¡Juas, juas! ¡Cambio Partes por Bayas!\nSi me traes una Parte, te doy un set de tres Bayas.
+¡Bayas por Partes! ¡Bayas por Partes! ¡Juas, juas! ¡Cambio Partes por Bayas!\nSi me traes una Parte, te doy un set de tres Bayas.
+Dame una Parte y te obsequiaré con un set de tres Bayas.
+Dame una Parte y te obsequiaré con un set de tres Bayas.
+¿Trato hecho?
+¿Trato hecho?
+Por una Parte Roja, te doy el set de Bayas A.
+Por una Parte Roja, te doy el set de Bayas A.
+Por una Parte Amarilla, te doy el set de Bayas B.
+Por una Parte Amarilla, te doy el set de Bayas B.
+Por una Parte Azul, te doy el set de Bayas C.
+Por una Parte Azul, te doy el set de Bayas C.
+Por una Parte Verde, te doy el set de Bayas D.
+Por una Parte Verde, te doy el set de Bayas D.
+¡Juas, juas! ¡Vuelve cuando quieras!
+¡Juas, juas! ¡Vuelve cuando quieras!
+\w[signskin]Escuela Pokémon.
+\w[signskin]Escuela Pokémon.
+\w[signskin]Primo puede enseñarte todo sobre los Pokémon.
+\w[signskin]Primo puede enseñarte todo sobre los Pokémon.
+\w[signskin]Ruinas Alfa - Entrada Este.
+\w[signskin]Ruinas Alfa - Entrada Este.
+\tg[\v[14]]¡Anda, \PN!\n¡Qué coincidencia!
+\tg[\v[14]]¡Anda, \PN!\n¡Qué coincidencia!
+\tg[\v[14]]Estaba ayudando al Profesor Elm con unas investigaciones sobre la Torre Bellsprout.
+\tg[\v[14]]Estaba ayudando al Profesor Elm con unas investigaciones sobre la Torre Bellsprout.
+\tg[\v[14]]Estoy súper cansada...
+\tg[\v[14]]Estoy súper cansada...
+\tg[\v[14]]Veo que has estado entrenando.\n¿Qué te parece si echamos un combate amistoso?\nAsí quizás me relajo un poco.
+\tg[\v[14]]Veo que has estado entrenando.\n¿Qué te parece si echamos un combate amistoso?\nAsí quizás me relajo un poco.
+\tg[\v[14]]¡Guay! Vamos a ver quién ha entrenado mejor.\n¡Prepárate!
+\tg[\v[14]]¡Guay! Vamos a ver quién ha entrenado mejor.\n¡Prepárate!
+¡Has mejorado mucho!
+¡Has mejorado mucho!
+\tg[\v[14]]¡Jopé, ha sido genial!\nTe mereces un buen regalo. ¡Toma!
+\tg[\v[14]]¡Jopé, ha sido genial!\nTe mereces un buen regalo. ¡Toma!
+\tg[\v[14]]En fin, me abro. El profesor me ha puesto mucho trabajo... \n¡Hasta otra!
+\tg[\v[14]]En fin, me abro. El profesor me ha puesto mucho trabajo... \n¡Hasta otra!
+\tg[\v[14]]¡Vamos, Marill!
+\tg[\v[14]]¡Vamos, Marill!
+\tg[\v[14]]Estoy súper cansado...
+\tg[\v[14]]Estoy súper cansado...
+\tg[\v[14]]¡Ven conmigo, Marill!
+\tg[\v[14]]¡Ven conmigo, Marill!
+¡Beeel!\wt[20]
+¡Beeel!\wt[20]
+Dicen que en la Torre Bellsprout hay fantasmas... ¡Brrr! Seguro que mis Pokémon de tipo Normal no lo pasarían bien ahí dentro.
+Dicen que en la Torre Bellsprout hay fantasmas... ¡Brrr! Seguro que mis Pokémon de tipo Normal no lo pasarían bien ahí dentro.
+Cuida bien del pequeñín que salga.
+Cuida bien del pequeñín que salga.
+Mmmmm... no sé que hacer.
+Mmmmm... no sé que hacer.
+Encontré este huevo Pokémon, abandonado, pero yo no puedo cuidarlo; estoy muy mayor para estas cosas.
+Encontré este huevo Pokémon, abandonado, pero yo no puedo cuidarlo; estoy muy mayor para estas cosas.
+¿Entrenas Pokémon?\n¿Quieres cuidar tú de este huevo?
+¿Entrenas Pokémon?\n¿Quieres cuidar tú de este huevo?
+Aquí tienes, no tengo ni idea de qué saldrá.
+Aquí tienes, no tengo ni idea de qué saldrá.
+\w[signskin]Gimnasio Pokémon de Ciudad Malva. \nLíder: Pegaso, el gran experto en Pokémon tipo Volador.
+\w[signskin]Gimnasio Pokémon de Ciudad Malva. \nLíder: Pegaso, el gran experto en Pokémon tipo Volador.
+¡Maar!
+¡Maar!
+Sí
+Sí
+No
+No
+[Map24]
+He cambiado mis mejores Pokémon con mi compañera, pero ahora me arrepiento...
+He cambiado mis mejores Pokémon con mi compañera, pero ahora me arrepiento...
+¡Soy yo, Primo! ¡Fantásticos son los Pokémon! \n¡A ti yo te enseñaré a ser mejor! ¿Quieres saber cómo ganar?
+¡Soy yo, Primo! ¡Fantásticos son los Pokémon! \n¡A ti yo te enseñaré a ser mejor! ¿Quieres saber cómo ganar?
+¡Bien! ¡A ti yo te enseñaré!\n¡En combate, el primer Pokémon de la lista sale antes! Es decir, aquel que te acompaña.\n¡Quizá sea más fácil si cambias el orden!
+¡Bien! ¡A ti yo te enseñaré!\n¡En combate, el primer Pokémon de la lista sale antes! Es decir, aquel que te acompaña.\n¡Quizá sea más fácil si cambias el orden!
+¿Quieres que te cuente más cosas?
+¿Quieres que te cuente más cosas?
+¡Bien! ¡A ti yo te enseñaré!\nSi un Pokémon sale al combate, aunque brevemente, gana Puntos de Exp.
+¡Bien! ¡A ti yo te enseñaré!\nSi un Pokémon sale al combate, aunque brevemente, gana Puntos de Exp.
+¡Pon primero los Pokémon débiles, y cámbialos rápido en el combate!\n¡Así se harán más fuertes!
+¡Pon primero los Pokémon débiles, y cámbialos rápido en el combate!\n¡Así se harán más fuertes!
+¡Bien! ¡A ti yo te enseñaré!\nTodos los Pokémon tienen ventajas y desventajas según el tipo. \nAunque el nivel de tu Pokémon sea más elevado, puedes perder si el tipo no es el más adecuado.
+¡Bien! ¡A ti yo te enseñaré!\nTodos los Pokémon tienen ventajas y desventajas según el tipo. \nAunque el nivel de tu Pokémon sea más elevado, puedes perder si el tipo no es el más adecuado.
+Lo mejor es utilizar un Pokémon de un tipo que sea eficaz contra el de tu adversario.
+Lo mejor es utilizar un Pokémon de un tipo que sea eficaz contra el de tu adversario.
+¡Oh! ¡Muy inteligente eres! ¡Nada más quieres saber!\n¡Experto en Pokémon debes de ser!
+¡Oh! ¡Muy inteligente eres! ¡Nada más quieres saber!\n¡Experto en Pokémon debes de ser!
+¡Qué guay! ¡Por fin tengo un Bellsprout!
+¡Qué guay! ¡Por fin tengo un Bellsprout!
+¡Hola! Me dedico a coleccionar Pokémon de tipo Planta.\nPor casualidad no tendrás un Bellsprout, ¿no?
+¡Hola! Me dedico a coleccionar Pokémon de tipo Planta.\nPor casualidad no tendrás un Bellsprout, ¿no?
+Te lo puedo cambiar por mi Onix, ¿qué te parece?
+Te lo puedo cambiar por mi Onix, ¿qué te parece?
+¿No quieres cambiarlo? ¡Bah! Menuda pérdida de tiempo.
+¿No quieres cambiarlo? ¡Bah! Menuda pérdida de tiempo.
+A veces los Pokémon que capturas vienen con objetos equipados. ¡Revisa tu equipo a ver!
+A veces los Pokémon que capturas vienen con objetos equipados. ¡Revisa tu equipo a ver!
+\w[menuskin]\C[8] Está llena de libros informativos sobre los pokémon.
+\w[menuskin]\C[8] Está llena de libros informativos sobre los pokémon.
+Puedes ponerle motes a tus Pokémon para que te tomen más cariño.
+Puedes ponerle motes a tus Pokémon para que te tomen más cariño.
+¡Yo a mi Pidgey le llamé Fresita!
+¡Yo a mi Pidgey le llamé Fresita!
+¡Je, je! Mi compañero me ha intercambiado sus Pokémon más fuertes a cambio de unos débiles que pesqué aquí al lado.
+¡Je, je! Mi compañero me ha intercambiado sus Pokémon más fuertes a cambio de unos débiles que pesqué aquí al lado.
+¡Los negocios son negocios, chavalote!
+¡Los negocios son negocios, chavalote!
+\w[menuskin]\C[8] La pizarra tiene escrito el tema del día de hoy:
+\w[menuskin]\C[8] La pizarra tiene escrito el tema del día de hoy:
+\w[menuskin]\C[8] Compatibilidad entre... ¿Qué?
+\w[menuskin]\C[8] Compatibilidad entre... ¿Qué?
+\w[menuskin]\C[8] ¿Qué Vaporeon puede hacer qué?
+\w[menuskin]\C[8] ¿Qué Vaporeon puede hacer qué?
+\w[menuskin]\C[8]... será mejor dejar la clase.
+\w[menuskin]\C[8]... será mejor dejar la clase.
+Esta chica es tan rara, ¡usa nombres de comidas para sus Pokémon!
+Esta chica es tan rara, ¡usa nombres de comidas para sus Pokémon!
+Bueno, mientras no se los coma...
+Bueno, mientras no se los coma...
+\tg[Fresita]¡Piiidgey!
+\tg[Fresita]¡Piiidgey!
+Estoy tomando apuntes de lo que dice el profesor.\nVaya peñazo...
+Estoy tomando apuntes de lo que dice el profesor.\nVaya peñazo...
+Los Pokémon intercambiados crecen mucho más rápido, pero no confían en ti si eres un entrenador novato.
+Los Pokémon intercambiados crecen mucho más rápido, pero no confían en ti si eres un entrenador novato.
+Vas a necesitar medallas o algo de amistad para que empiecen a tener confianza en ti.
+Vas a necesitar medallas o algo de amistad para que empiecen a tener confianza en ti.
+Un Pokémon equipado con una Baya puede usarla en combate para recuperarse.
+Un Pokémon equipado con una Baya puede usarla en combate para recuperarse.
+Hay algunos que son especialmente glotones y se las comen antes de tiempo, y otros que hasta las pueden comer varias veces.
+Hay algunos que son especialmente glotones y se las comen antes de tiempo, y otros que hasta las pueden comer varias veces.
+¿Te apasionan los combates Pokémon? Espero que sí, joven.
+¿Te apasionan los combates Pokémon? Espero que sí, joven.
+¡Ejem! Pues bien. Yo, el Tutor de movimientos de Ciudad Malva, ¡voy a serte de gran ayuda!
+¡Ejem! Pues bien. Yo, el Tutor de movimientos de Ciudad Malva, ¡voy a serte de gran ayuda!
+\w[menuskin]\C[8]Es una nevera.
+\w[menuskin]\C[8]Es una nevera.
+\w[menuskin]\C[8]¡Su interior está tan frío como el saco de un Delibird!
+\w[menuskin]\C[8]¡Su interior está tan frío como el saco de un Delibird!
+Es el cuaderno de este niño...\nCaptura Pokémon usando Poké Balls. Tu equipo puede tener hasta seis.\n¿Sigues leyendo?
+Es el cuaderno de este niño...\nCaptura Pokémon usando Poké Balls. Tu equipo puede tener hasta seis.\n¿Sigues leyendo?
+Antes de lanzar la Poké Ball, debes debilitarlo.\nAtrapar un Pokémon quemado o envenenado es mucho más fácil.\n¿Sigues leyendo?
+Antes de lanzar la Poké Ball, debes debilitarlo.\nAtrapar un Pokémon quemado o envenenado es mucho más fácil.\n¿Sigues leyendo?
+Algunos ataques causan Confusión.\nUn Pokémon confuso puede atacarse a sí mismo.\nRetirarlo del combate, eliminará su Confusión.\n¿Sigues leyendo?
+Algunos ataques causan Confusión.\nUn Pokémon confuso puede atacarse a sí mismo.\nRetirarlo del combate, eliminará su Confusión.\n¿Sigues leyendo?
+Quienes atrapan Pokémon y los usan para luchar son Entrenadores.\nSu objetivo es ir a los Gimnasios y vencer a otros Entrenadores.\nLa hoja siguiente está... ¡vacía!
+Quienes atrapan Pokémon y los usan para luchar son Entrenadores.\nSu objetivo es ir a los Gimnasios y vencer a otros Entrenadores.\nLa hoja siguiente está... ¡vacía!
+Eh, eh... No he escrito nada más...
+Eh, eh... No he escrito nada más...
+Sí
+Sí
+No
+No

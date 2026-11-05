@@ -1,0 +1,50 @@
+﻿# Maps grouped under: Monte Mortero (Highest ID: 70)
+[Map70]
+¡Saring!\wt[20]
+¡Saring!\wt[20]
+\w[menuskin]\C[8]Debería volver con el Entrenador Guay ahora que he derrotado al Ursaring.
+\w[menuskin]\C[8]Debería volver con el Entrenador Guay ahora que he derrotado al Ursaring.
+¡Kiaaa! ¡Soy el Rey del Karate!\n¡Me entreno igual que vivo! ¡SOLO!
+¡Kiaaa! ¡Soy el Rey del Karate!\n¡Me entreno igual que vivo! ¡SOLO!
+¡Aaarg! ¡He perdido!
+¡Aaarg! ¡He perdido!
+Je... je... ¡Eres buena, joven!
+Je... je... ¡Eres buena, joven!
+Je... je... ¡Eres bueno, joven!
+Je... je... ¡Eres bueno, joven!
+Como recompensa voy a darte este Pokémon. Me ha resultado imposible entrenarlo, pero seguro que tú puedes.
+Como recompensa voy a darte este Pokémon. Me ha resultado imposible entrenarlo, pero seguro que tú puedes.
+Conseguí a este pequeñín y a su hermano mayor en un viaje a la Isla de la Armadura, en la región de Galar.
+Conseguí a este pequeñín y a su hermano mayor en un viaje a la Isla de la Armadura, en la región de Galar.
+Este Pokémon es increíblemente fuerte. ¡Era mi baza para derrotar al Gimnasio de Ciudad Azafrán de una vez por todas!
+Este Pokémon es increíblemente fuerte. ¡Era mi baza para derrotar al Gimnasio de Ciudad Azafrán de una vez por todas!
+Si lo entrenas bien, puede evolucionar a un Pokémon muy fuerte.\n¡Yo también seguiré entrenándome! ¡Adiós!
+Si lo entrenas bien, puede evolucionar a un Pokémon muy fuerte.\n¡Yo también seguiré entrenándome! ¡Adiós!
+[Map71]
+¡Cham Cham!\wt[20]
+¡Cham Cham!\wt[20]
+¡Pero bueno, Ibai! ¡Hace siglos que no te veía!
+¡Pero bueno, Ibai! ¡Hace siglos que no te veía!
+¡Ahí va! Te he confundido con otra<<n>>persona...
+¡Ahí va! Te he confundido con otra <<n>>persona...
+Vine a explorar el Mt. Mortero, pero me separé de mi compañero...
+Vine a explorar el Mt. Mortero, pero me separé de mi compañero...
+¿Te has encontrado con un Entrenador que usa un Seadra?\n¡Ese Seadra es todo un experto usando Cascada!
+¿Te has encontrado con un Entrenador que usa un Seadra?\n¡Ese Seadra es todo un experto usando Cascada!
+¡No perderé esta vez! ¡Estoy seguro!
+¡No perderé esta vez! ¡Estoy seguro!
+¿He perdido?...
+¿He perdido?...
+Hace un rato, un karateka quería luchar y nos machacó de verdad.
+Hace un rato, un karateka quería luchar y nos machacó de verdad.
+Era increíblemente bueno.\nNos dijo que solo se estaba entrenando y se adentró en el Monte. Me pregunto por qué.
+Era increíblemente bueno.\nNos dijo que solo se estaba entrenando y se adentró en el Monte. Me pregunto por qué.
+[Map72]
+¡Hey, Ralf! ¡Jopé, compañero!\n¡No me vuelvas a dejar tirado!
+¡Hey, Ralf! ¡Jopé, compañero!\n¡No me vuelvas a dejar tirado!
+¡Ahí va! Te he confundido con otra<<n>>persona...
+¡Ahí va! Te he confundido con otra <<n>>persona...
+Estoy investigando Mt. Mortero, pero mi compañero ha desaparecido.
+Estoy investigando Mt. Mortero, pero mi compañero ha desaparecido.
+¿Has visto a un Entrenador con un Slowpoke que puede usar Fuerza?
+¿Has visto a un Entrenador con un Slowpoke que puede usar Fuerza?

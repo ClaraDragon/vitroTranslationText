@@ -1,0 +1,72 @@
+﻿# Maps grouped under: Ruta 45 (Highest ID: 79)
+[Map79]
+¿Cuál es tu estrategia?\nEs de tontos usar movimientos fuertes de forma indiscriminada.
+¿Cuál es tu estrategia?\nEs de tontos usar movimientos fuertes de forma indiscriminada.
+Vale. He perdido.
+Vale. He perdido.
+No soy partidaria de los ataques demasiado fuertes.\nQuiero ganar, pero no quiero herir a los Pokémon.
+No soy partidaria de los ataques demasiado fuertes.\nQuiero ganar, pero no quiero herir a los Pokémon.
+\w[signskin4]\C[8]Ruta 45.\nAl norte, Ciudad Endrino. \nAl sur, Ruta 46 y Cueva Oscura.
+\w[signskin4]\C[8]Ruta 45.\nAl norte, Ciudad Endrino. \nAl sur, Ruta 46 y Cueva Oscura.
+\w[signskin]Cueva Oscura.
+\w[signskin]Cueva Oscura.
+Estaba entrenando aquí solo.\n¡Observa el fruto de mi trabajo!
+Estaba entrenando aquí solo.\n¡Observa el fruto de mi trabajo!
+¡Aaarg!
+¡Aaarg!
+¡Nuestro combate fue notable!\n¡Quiero algo para recordarte siempre!
+¡Nuestro combate fue notable!\n¡Quiero algo para recordarte siempre!
+¿Quizás tu número de teléfono?
+¿Quizás tu número de teléfono?
+¡Mis Pokémon y yo estamos deseando empezar!
+¡Mis Pokémon y yo estamos deseando empezar!
+¡Nuestro combate fue notable!\n¡Toma, algo para recordarme!
+¡Nuestro combate fue notable!\n¡Toma, algo para recordarme!
+No se me da muy bien pensar.\n¡Así que utilizo sólo la fuerza!
+No se me da muy bien pensar.\n¡Así que utilizo sólo la fuerza!
+¡Prepárate para cualquier cosa!\n¡Déjame ver si has entrenado bien tus Pokémon!
+¡Prepárate para cualquier cosa!\n¡Déjame ver si has entrenado bien tus Pokémon!
+¡Oh, he perdido!
+¡Oh, he perdido!
+Volveré a la Ruta Helada de Ciudad Endrino y seguiré entrenándome.
+Volveré a la Ruta Helada de Ciudad Endrino y seguiré entrenándome.
+¿Que por qué escalo montañas?\nPorque están ahí.
+¿Que por qué escalo montañas?\nPorque están ahí.
+¿Que por qué entreno Pokémon?\n¡Porque están ahí!
+¿Que por qué entreno Pokémon?\n¡Porque están ahí!
+Las derrotas... ¡son inevitables!
+Las derrotas... ¡son inevitables!
+Lo mejor que me ha pasado nunca fue descubrir los Pokémon.
+Lo mejor que me ha pasado nunca fue descubrir los Pokémon.
+¿Qué estrategia sigues para entrenar tus Pokémon?
+¿Qué estrategia sigues para entrenar tus Pokémon?
+Te has ganado mi respeto.
+Te has ganado mi respeto.
+Veo que entrenas tus Pokémon con cariño.\nEl vínculo que os une os salvará en las situaciones difíciles.
+Veo que entrenas tus Pokémon con cariño.\nEl vínculo que os une os salvará en las situaciones difíciles.
+¡Eres valiente! Pero...\n¿Sabes qué? Para valiente, ¡yo!
+¡Eres valiente! Pero...\n¿Sabes qué? Para valiente, ¡yo!
+¡A mis Pokémon les faltaron agallas!
+¡A mis Pokémon les faltaron agallas!
+¡Cómo me gusta Más PS!\n¡Mmm! ¡Me bebo la de mis Pokémon! No lo puedo evitar.
+¡Cómo me gusta Más PS!\n¡Mmm! ¡Me bebo la de mis Pokémon! No lo puedo evitar.
+¡Mis Pokémon son muy poderosos!
+¡Mis Pokémon son muy poderosos!
+¡Buaaa! ¡Soy un perdedor!
+¡Buaaa! ¡Soy un perdedor!
+¡Fiuu!\n¡Esa manera de atacar es única! \n¡Debemos vernos de nuevo!
+¡Fiuu!\n¡Esa manera de atacar es única! \n¡Debemos vernos de nuevo!
+¿Qué tal se me das tu número? ¡Te<<n>>llamaré cuando me apetezca echar un<<n>>combate!
+¿Qué tal se me das tu número? ¡Te <<n>>llamaré cuando me apetezca echar un <<n>>combate!
+¡Mira que bien! ¡Te esperaba!
+¡Mira que bien! ¡Te esperaba!
+Bueno, eres muy especial, de acuerdo.\nSi tan sólo hubiera empezado a entrenar Pokémon cuando era más joven...
+Bueno, eres muy especial, de acuerdo.\nSi tan sólo hubiera empezado a entrenar Pokémon cuando era más joven...
+Quiero que trabajes duro y triunfes por los dos. \nAsí que, toma esto, ¿OK?
+Quiero que trabajes duro y triunfes por los dos.  \nAsí que, toma esto, ¿OK?
+¡Esa manera de atacar es única!\n¡Debemos vernos de nuevo!
+¡Esa manera de atacar es única!\n¡Debemos vernos de nuevo!
+¿Has oído hablar de la Torre Batalla?\nEs un complejo enorme al oeste de Ciudad Olivo dedicado a los combates.
+¿Has oído hablar de la Torre Batalla?\nEs un complejo enorme al oeste de Ciudad Olivo dedicado a los combates.
+¡Phaan!\wt[20]
+¡Phaan!\wt[20]

@@ -1,0 +1,365 @@
+﻿# TRAINER_TYPE_NAMES
+# To localize this text, translate every second line.
+[13]
+Entrenador
+Entrenador
+Entrenadora
+Entrenadora
+Entrenador
+Entrenador
+Entrenadora
+Entrenadora
+Rival
+Rival
+Rival
+Rival
+Chica Aroma
+Chica Aroma
+Modelo
+Modelo
+Motorista
+Motorista
+Ornitólogo
+Ornitólogo
+Cazabichos
+Cazabichos
+Ladrón
+Ladrón
+Mentalista
+Mentalista
+Calvo
+Calvo
+Apostador
+Apostador
+Pescador
+Pescador
+Aristócrata
+Aristócrata
+Aristócrata
+Aristócrata
+Montañero
+Montañero
+Malabarista
+Malabarista
+Damisela
+Damisela
+Pintor
+Pintor
+Poké Maniaco
+Poké Maniaco
+Criador
+Criador
+Policía
+Policía
+Escolar
+Escolar
+Arqueólogo
+Arqueólogo
+Marinero
+Marinero
+Científico
+Científico
+Supernecio
+Supernecio
+Comefuego
+Comefuego
+Karateka
+Karateka
+Luchadora
+Luchadora
+Campista
+Campista
+Dominguera
+Dominguera
+Entrenador Guay
+Entrenador Guay
+Entrenadora Guay
+Entrenadora Guay
+Joven
+Joven
+Chica
+Chica
+Pokémon Ranger
+Pokémon Ranger
+Pokémon Ranger
+Pokémon Ranger
+Médium
+Médium
+Médium
+Médium
+Nadador
+Nadador
+Nadadora
+Nadadora
+Pensador
+Pensador
+Anciano
+Anciano
+Playero
+Playero
+Playera
+Playera
+Pokéfan
+Pokéfan
+Pokéfan
+Pokéfan
+Pareja Guay
+Pareja Guay
+Esquiadora
+Esquiadora
+Snowboarder
+Snowboarder
+Gemelas
+Gemelas
+Pareja
+Pareja
+Soldado
+Soldado
+Soldado
+Soldado
+Líder Rocket
+Líder Rocket
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Alto Mando
+Alto Mando
+Alto Mando
+Alto Mando
+Alto Mando
+Alto Mando
+Alto Mando
+Alto Mando
+Campeón
+Campeón
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Ejecutivo
+Ejecutivo
+Ejecutivo
+Ejecutivo
+Jefa
+Jefa
+Jefe
+Jefe
+Chica Kimono
+Chica Kimono
+Místico
+Místico
+Chica Kimono
+Chica Kimono
+Chica Kimono
+Chica Kimono
+Chica Kimono
+Chica Kimono
+Chica Kimono
+Chica Kimono
+Chica Kimono
+Chica Kimono
+Pareja joven
+Pareja joven
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Entrenador
+Entrenador
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Guardián
+Guardián
+Guardián
+Guardián
+Guardián
+Guardián
+Guardián
+Guardián
+Guardián
+Guardián
+Guardián
+Guardián
+Guardián
+Guardián
+Guardián
+Guardián
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Campeón
+Campeón
+Campeona
+Campeona
+Campeón
+Campeón
+Campeona
+Campeona
+Campeona
+Campeona
+Royale
+Royale
+Campeona
+Campeona
+Campeón
+Campeón
+Alto Mando
+Alto Mando
+Alto Mando
+Alto Mando
+Alto Mando
+Alto Mando
+Alto Mando
+Alto Mando
+Entrenador
+Entrenador
+Investigador
+Investigador
+Entrenadora
+Entrenadora
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder
+Líder

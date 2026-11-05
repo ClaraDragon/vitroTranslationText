@@ -1,0 +1,274 @@
+﻿# Maps grouped under: Laboratorio de Elm (Highest ID: 5)
+[Map5]
+Profesor Elm
+Profesor Elm
+\tg[Elm]Y aquí tienes 15 Pokéball, te serán útiles para capturar más Pokémon.
+\tg[Elm]Y aquí tienes 15 Pokéball, te serán útiles para capturar más Pokémon.
+\tg[Elm]Además de esto, te tengo que pedir una cosa, \PN.
+\tg[Elm]Además de esto, te tengo que pedir una cosa, \PN.
+\tg[Elm]Necesito que vayas a la casa del Señor Pokémon a recoger un huevo que encargué.
+\tg[Elm]Necesito que vayas a la casa del Señor Pokémon a recoger un huevo que encargué.
+\tg[Oak]Este Elm... ¡Siempre investigando la cría Pokémon!
+\tg[Oak]Este Elm... ¡Siempre investigando la cría Pokémon!
+\tg[Elm]Je, je.\nEsa es mi especialidad, profesor.
+\tg[Elm]Je, je.\nEsa es mi especialidad, profesor.
+\tg[Oak]En fin, con esto y un bizcocho, hasta mañana a las ocho.\nMe tengo que ir a mi programa de radio de Ciudad Trigal y no pienso llegar tarde.
+\tg[Oak]En fin, con esto y un bizcocho, hasta mañana a las ocho.\nMe tengo que ir a mi programa de radio de Ciudad Trigal y no pienso llegar tarde.
+\tg[Elm]¡Oh, claro!
+\tg[Elm]¡Oh, claro!
+\tg[Elm]\PN, acompaña al profesor hasta la puerta, por favor.
+\tg[Elm]\PN, acompaña al profesor hasta la puerta, por favor.
+\tg[Elm]¡\PN! ¡T-te estaba esperando!
+\tg[Elm]¡\PN! ¡T-te estaba esperando!
+\tg[Oak]Por fin, zagala.
+\tg[Oak]Por fin, zagala.
+\tg[Oak]Por fin, zagal.
+\tg[Oak]Por fin, zagal.
+\tg[Oak]Elm y yo llevábamos siglos esperando. \n¡Ja, ja!
+\tg[Oak]Elm y yo llevábamos siglos esperando. \n¡Ja, ja!
+\tg[Elm]S-sí, claro. Yo quería darte una sorpresa, \PN.
+\tg[Elm]S-sí, claro. Yo quería darte una sorpresa, \PN. 
+\tg[Elm]Seguro que ya sabes que tu amigo Eco ya tiene un Pokémon.
+\tg[Elm]Seguro que ya sabes que tu amigo Eco ya tiene un Pokémon.
+\tg[Elm]Seguro que ya sabes que tu amiga Cristi ya tiene un Pokémon.
+\tg[Elm]Seguro que ya sabes que tu amiga Cristi ya tiene un Pokémon.
+\tg[Elm]¡Pues voy a darte yo también un Pokémon!\nPero, a cambio, deberás emprender un viaje junto al que elijas para ayudarme en mi investigación.
+\tg[Elm]¡Pues voy a darte yo también un Pokémon!\nPero, a cambio, deberás emprender un viaje junto al que elijas para ayudarme en mi investigación.
+\tg[Oak]¿Otro viaje? Yo también envié a un chico para ayudarme a completar la Pokédex hace un tiempo.
+\tg[Oak]¿Otro viaje? Yo también envié a un chico para ayudarme a completar la Pokédex hace un tiempo.
+\tg[Elm]Ya, aunque ese sueño suyo es más complicado desde el descubrimiento de tantas nuevas especies, ¿verdad?
+\tg[Elm]Ya, aunque ese sueño suyo es más complicado desde el descubrimiento de tantas nuevas especies, ¿verdad?
+\tg[Oak]No me lo recuerdes, Elm...
+\tg[Oak]No me lo recuerdes, Elm...
+\tg[Elm]Entonces qué, \PN. ¿Te apuntas al viaje?
+\tg[Elm]Entonces qué, \PN. ¿Te apuntas al viaje?
+\tg[Elm]¿Estás segura?
+\tg[Elm]¿Estás segura?
+\tg[Elm]¿Estás seguro?
+\tg[Elm]¿Estás seguro?
+\tg[Elm]Oh, bueno. Pues nada.
+\tg[Elm]Oh, bueno. Pues nada.
+\tg[Elm]Ya puedes irte a casa.
+\tg[Elm]Ya puedes irte a casa.
+<ac>\c[8]\l[3]\PN, 13 años.\nSe libró de vivir una aventura por todo la región.\nAhora se dedica a estudiar ingeniería de caminos.
+<ac>\c[8]\l[3]\PN, 13 años.\nSe libró de vivir una aventura por todo la región.\nAhora se dedica a estudiar ingeniería de caminos.
+<ac>\c[8]\l[3]Oak, ??? años.\nVolvió a su programa de radio y se convirtió en una estrella del glam pop británico.\nNo preguntes.
+<ac>\c[8]\l[3]Oak, ??? años.\nVolvió a su programa de radio y se convirtió en una estrella del glam pop británico.\nNo preguntes.
+<ac>\c[8]\l[3]Elm, 38 años.\nContinuó sus investigaciones y le echaron de la comunidad científica por incompetente.\nAhora pasa más tiempo con sus hijos.
+<ac>\c[8]\l[3]Elm, 38 años.\nContinuó sus investigaciones y le echaron de la comunidad científica por incompetente.\nAhora pasa más tiempo con sus hijos.
+<ac>\c[8]\l[3]Eco, 13 años.\nSe encaminó en su propia aventura hasta derrotar al mismísimo campeón de Kanto.\nFalleció trágicamente al caerse del Monte Plateado.
+<ac>\c[8]\l[3]Eco, 13 años.\nSe encaminó en su propia aventura hasta derrotar al mismísimo campeón de Kanto.\nFalleció trágicamente al caerse del Monte Plateado.
+<ac>\c[8]\l[3]Cristi, 13 años.\nSe encaminó en su propia aventura hasta derrotar al mismísimo campeón de Kanto.\nFalleció trágicamente al caerse del Monte Plateado.
+<ac>\c[8]\l[3]Cristi, 13 años.\nSe encaminó en su propia aventura hasta derrotar al mismísimo campeón de Kanto.\nFalleció trágicamente al caerse del Monte Plateado.
+<ac>\c[8]\l[3]Madre de \PN, 42 años. Logró amasar una gran fortuna gracias a robarle la paga a su hija.\nAhora lleva un puticlub y siete casinos.
+<ac>\c[8]\l[3]Madre de \PN, 42 años. Logró amasar una gran fortuna gracias a robarle la paga a su hija.\nAhora lleva un puticlub y siete casinos.
+<ac>\c[8]\l[3]Madre de \PN, 42 años. Logró amasar una gran fortuna gracias a robarle la paga a su hijo.\nAhora lleva un puticlub y siete casinos.
+<ac>\c[8]\l[3]Madre de \PN, 42 años. Logró amasar una gran fortuna gracias a robarle la paga a su hijo.\nAhora lleva un puticlub y siete casinos.
+<ac>\c[8]\l[3]La mujer que no te deja salir del pueblo, 21 años.\nContinuó evitando que la gente saliese de Pueblo Primavera.\nDicen que sigue haciéndolo aún a día de hoy.
+<ac>\c[8]\l[3]La mujer que no te deja salir del pueblo, 21 años.\nContinuó evitando que la gente saliese de Pueblo Primavera.\nDicen que sigue haciéndolo aún a día de hoy.
+<ac>\c[8]\l[3]El hijo del Profesor Elm, 11 años.\nSe convirtió en un increíble entrenador y vivió felizmente con su padre.\nUn terrible profesor pero un padrazo, la verdad.
+<ac>\c[8]\l[3]El hijo del Profesor Elm, 11 años.\nSe convirtió en un increíble entrenador y vivió felizmente con su padre.\nUn terrible profesor pero un padrazo, la verdad.
+<ac>\c[8]\l[3]El Pokémon inicial que se quedó sin escoger, ??? años.\nSe quedó en la Pokéball hasta morir de inanición.\nAnda, mira, otra cosa que se le olvidó a Elm.
+<ac>\c[8]\l[3]El Pokémon inicial que se quedó sin escoger, ??? años.\nSe quedó en la Pokéball hasta morir de inanición.\nAnda, mira, otra cosa que se le olvidó a Elm.
+\tg[Elm]¡Genial!\n<i>(N-no me esperaba que fuese a responder de forma tan tajante...)</i>
+\tg[Elm]¡Genial!\n<i>(N-no me esperaba que fuese a responder de forma tan tajante...)</i>
+\tg[Oak]Pues yo también te voy a dar un regalo, ¡que no se diga, zagala!
+\tg[Oak]Pues yo también te voy a dar un regalo, ¡que no se diga, zagala!
+\tg[Oak]Pues yo también te voy a dar un regalo, ¡que no se diga, zagal!
+\tg[Oak]Pues yo también te voy a dar un regalo, ¡que no se diga, zagal!
+\w[menuskin]\C[8]¡\PN ha obtenido la Pokédex! \wt[10]
+\w[menuskin]\C[8]¡\PN ha obtenido la Pokédex! \wt[10]
+\tg[Oak]Con la Pokédex podrás descubrir los detalles de cada Pokémon que captures. ¡El primer modelo lo diseñé yo!
+\tg[Oak]Con la Pokédex podrás descubrir los detalles de cada Pokémon que captures. ¡El primer modelo lo diseñé yo!
+\tg[Elm]P-profesor, le ha dado su regalo antes que el mío...
+\tg[Elm]P-profesor, le ha dado su regalo antes que el mío...
+\tg[Elm]¡Ejem!\nEn esta máquina tienes los Pokémon que te he preparado.\nElige el que más te guste.
+\tg[Elm]¡Ejem!\nEn esta máquina tienes los Pokémon que te he preparado.\nElige el que más te guste.
+\tg[Elm]¿Adónde vas?\nLas Poké Balls están ahí.
+\tg[Elm]¿Adónde vas?\nLas Poké Balls están ahí.
+\tg[Elm]¡\PN!\n¡Aquí estás!
+\tg[Elm]¡\PN!\n¡Aquí estás!
+\tg[Elm]Te llamé porque tengo algo para ti. \n¿Ves? Es un Ticket Barco.\nAhora puedes atrapar Pokémon en Kanto.
+\tg[Elm]Te llamé porque tengo algo para ti. \n¿Ves? Es un Ticket Barco.\nAhora puedes atrapar Pokémon en Kanto.
+\tg[Elm]El barco parte de Ciudad Olivo.\nPero a estas alturas eso ya lo sabes, \PN.
+\tg[Elm]El barco parte de Ciudad Olivo.\nPero a estas alturas eso ya lo sabes, \PN.
+\tg[Elm]Ya lo has recorrido todo con tus Pokémon.\n¡Si vas a Kanto, saluda al Profesor Oak de mi parte!
+\tg[Elm]Ya lo has recorrido todo con tus Pokémon.\n¡Si vas a Kanto, saluda al Profesor Oak de mi parte!
+El profesor Elm es todo un experto en la Crianza Pokémon.
+El profesor Elm es todo un experto en la Crianza Pokémon.
+Aunque a mí me interesa más la evolución, he oído que el profesor Serbal en Sinnoh investiga sobre eso.\nQuizás debería pedir un traslado...
+Aunque a mí me interesa más la evolución, he oído que el profesor Serbal en Sinnoh investiga sobre eso.\nQuizás debería pedir un traslado...
+Es una desgracia... el Pokémon robado podía ser una ficha clave en nuestra investigación.
+Es una desgracia... el Pokémon robado podía ser una ficha clave en nuestra investigación.
+Por cierto... ahora que tienes un Pokémon contigo, seguramente pasaréis mucho tiempo juntos.\n¡Incluso podría llegar a evolucionar!
+Por cierto... ahora que tienes un Pokémon contigo, seguramente pasaréis mucho tiempo juntos.\n¡Incluso podría llegar a evolucionar!
+Lo mío es más la evolución que la crianza, así que si tu Pokémon evoluciona, registra sus datos en la Pokédex y muéstramelos.\n¡Me ayudarías un montón!
+Lo mío es más la evolución que la crianza, así que si tu Pokémon evoluciona, registra sus datos en la Pokédex y muéstramelos.\n¡Me ayudarías un montón!
+¡Vaya, así que tu Pokémon ha evolucionado y dispones de sus datos!
+¡Vaya, así que tu Pokémon ha evolucionado y dispones de sus datos!
+Te mereces una recompensa tal y como acordamos.
+Te mereces una recompensa tal y como acordamos.
+¿Un caramelo estará bien?\nYo creo que sí.
+¿Un caramelo estará bien?\nYo creo que sí.
+Pero tu Pokémon aun no ha llegado a su máximo potencial.
+Pero tu Pokémon aun no ha llegado a su máximo potencial.
+Ya que me estás ayudando con mi investigación, ¿podrías mostrarme los datos de su tercera etapa?
+Ya que me estás ayudando con mi investigación, ¿podrías mostrarme los datos de su tercera etapa?
+No te preocupes, esperaré con calma, solo no lo olvides.
+No te preocupes, esperaré con calma, solo no lo olvides.
+Aquí tienes un Set de Vitaminas.
+Aquí tienes un Set de Vitaminas.
+Ya que estamos, ¿conoces el fenómeno de la Megaevolución?
+Ya que estamos, ¿conoces el fenómeno de la Megaevolución? 
+Si es así, seguramente sabrás que tu Pokémon inicial puede Megaevolucionar con su respectiva megapiedra.
+Si es así, seguramente sabrás que tu Pokémon inicial puede Megaevolucionar con su respectiva megapiedra.
+Pero nunca he podido ver una de estas de cerca. \nSi dispones de una, muéstramela, te compensaré.
+Pero nunca he podido ver una de estas de cerca. \nSi dispones de una, muéstramela, te compensaré.
+Así que la Meganiumita V es así de hermosa...
+Así que la Meganiumita V es así de hermosa...
+Así que la Typhlosionita es así de hermosa...
+Así que la Typhlosionita es así de hermosa...
+Así que la Feraligatrita V es así de hermosa...
+Así que la Feraligatrita V es así de hermosa...
+Me imagino que podríamos sacarle mucho potencial si conociesemos su verdadera naturaleza.
+Me imagino que podríamos sacarle mucho potencial si conociesemos su verdadera naturaleza.
+Bueno, me dejaré de divagar. ¡Esto es para ti!
+Bueno, me dejaré de divagar. ¡Esto es para ti!
+Gracias a tu ayuda, podré crear una tesis lo suficientemente fuerte como para pedir un translado al laboratorio del Profesor Serbal, en Sinnoh.
+Gracias a tu ayuda, podré crear una tesis lo suficientemente fuerte como para pedir un translado al laboratorio del Profesor Serbal, en Sinnoh.
+Si tienes alguna de las Megapiedras procura llevarla en la mochila para poder examinarla.
+Si tienes alguna de las Megapiedras procura llevarla en la mochila para poder examinarla.
+Si tu Pokémon evoluciona, registra sus datos en la Pokédex y muéstramelos.\n¡Te compensaré por la investigación!
+Si tu Pokémon evoluciona, registra sus datos en la Pokédex y muéstramelos.\n¡Te compensaré por la investigación!
+De momento no tengo nada más que pedirte.
+De momento no tengo nada más que pedirte.
+Gracias a tu ayuda, podré crear una tesis lo suficientemente fuerte como para pedir un traslado al laboratorio del Profesor Serbal, en Sinnoh.
+Gracias a tu ayuda, podré crear una tesis lo suficientemente fuerte como para pedir un traslado al laboratorio del Profesor Serbal, en Sinnoh.
+\tg[Elm]Oh, claro. ¿Cuál era el gran descubrimiento del Sr. Pokémon?
+\tg[Elm]Oh, claro. ¿Cuál era el gran descubrimiento del Sr. Pokémon?
+\w[menuskin]\C[8]¡\PN le ha dado el Huevo Misterioso al Prof. Elm!\wt[10]
+\w[menuskin]\C[8]¡\PN le ha dado el Huevo Misterioso al Prof. Elm!\wt[10]
+\tg[Elm]Mmm... ¿Qué es esto?\n¡Narices! ¡Pero si es un huevo!
+\tg[Elm]Mmm... ¿Qué es esto?\n¡Narices! ¡Pero si es un huevo!
+\tg[Elm]Aunque nunca había visto uno de estas características, qué raro...
+\tg[Elm]Aunque nunca había visto uno de estas características, qué raro...
+\tg[Elm]De todos modos, ya es una costumbre que el Sr. Pokémon siga armando alboroto por cosas tan tontas como un simple Huevo...
+\tg[Elm]De todos modos, ya es una costumbre que el Sr. Pokémon siga armando alboroto por cosas tan tontas como un simple Huevo...
+\tg[Elm]Ya que me lo has traído... ¿Por qué no te lo quedas?
+\tg[Elm]Ya que me lo has traído... ¿Por qué no te lo quedas?
+\tg[Elm]\PN, tengo ganas de ver cómo será el Pokémon que salga del Huevo.
+\tg[Elm]\PN, tengo ganas de ver cómo será el Pokémon que salga del Huevo.
+\tg[Elm]Un Huevo no eclosiona a menos que lo lleves junto a otros Pokémon sanos durante un tiempo.
+\tg[Elm]Un Huevo no eclosiona a menos que lo lleves junto a otros Pokémon sanos durante un tiempo.
+\tg[Elm]¡Así que recuerda tener a tu equipo listo para que pueda crecer sin problemas!
+\tg[Elm]¡Así que recuerda tener a tu equipo listo para que pueda crecer sin problemas!
+\tg[Elm]¡Ah, \PN! ¿Ya has conseguido ocho Medallas? ¡No dejas de sorprenderme, de verdad!
+\tg[Elm]¡Ah, \PN! ¿Ya has conseguido ocho Medallas? ¡No dejas de sorprenderme, de verdad!
+\tg[Elm]Mi investigación está avanzando gracias a tu ayuda.\nToma esto como muestra de agradecimiento.
+\tg[Elm]Mi investigación está avanzando gracias a tu ayuda.\nToma esto como muestra de agradecimiento.
+\tg[Elm]¡La Master Ball es la mejor!\n¡Es la Ball definitiva! Captura cualquier Pokémon sin fallar.
+\tg[Elm]¡La Master Ball es la mejor!\n¡Es la Ball definitiva! Captura cualquier Pokémon sin fallar.
+\tg[Elm]Se les entrega a los grandes investigadores Pokémon.\n¡Creo que tú harás un mejor uso de ella que yo, \PN!
+\tg[Elm]Se les entrega a los grandes investigadores Pokémon.\n¡Creo que tú harás un mejor uso de ella que yo, \PN!
+\tg[Elm]¡Es increíble! ¡Llevas un Pichu! ¡Déjame verlo!
+\tg[Elm]¡Es increíble! ¡Llevas un Pichu! ¡Déjame verlo!
+\tg[Elm]Mmm... Tiene una oreja en forma de tres picos... Pero, aparte de eso, es un poco diferente de los Pichu que conozco.\nEs ciertamente inusual.
+\tg[Elm]Mmm... Tiene una oreja en forma de tres picos... Pero, aparte de eso, es un poco diferente de los Pichu que conozco.\nEs ciertamente inusual.
+\tg[Elm]¿Lo encontraste en el Encinar?\nDicen que allí puede encontrase a Celebi, un extraño Pokémon.
+\tg[Elm]¿Lo encontraste en el Encinar?\nDicen que allí puede encontrase a Celebi, un extraño Pokémon.
+\tg[Elm]¡Ahora que lo pienso...!
+\tg[Elm]¡Ahora que lo pienso...!
+\tg[Elm]En un simposio sobre Pokémon el Profesor Oak presentó un ensayo sobre Celebi y los viajes en el tiempo\..\..\..
+\tg[Elm]En un simposio sobre Pokémon el Profesor Oak presentó un ensayo sobre Celebi y los viajes en el tiempo\..\..\..
+\tg[Elm]Celebi tiene el asombroso poder de viajar a voluntad hacia el pasado o el futuro.
+\tg[Elm]Celebi tiene el asombroso poder de viajar a voluntad hacia el pasado o el futuro.
+\tg[Elm]¿Y si este Pichu hubiera llegado hasta aquí gracias a un viaje en el tiempo?
+\tg[Elm]¿Y si este Pichu hubiera llegado hasta aquí gracias a un viaje en el tiempo?
+\tg[Elm]Parece que su cuerpo ha sufrido algunos efectos por haber viajado con Celebi desde una época muy lejana.
+\tg[Elm]Parece que su cuerpo ha sufrido algunos efectos por haber viajado con Celebi desde una época muy lejana.
+\tg[Elm]Qué raro...\nA estas alturas, ya debería haber evolucionado a Pikachu...
+\tg[Elm]Qué raro...\nA estas alturas, ya debería haber evolucionado a Pikachu...
+\tg[Elm]¡Esto es de lo más inusual, pero este Pichu no evoluciona!\nParece que el viaje en el tiempo ha alterado el contenido genético responsable de la evolución.
+\tg[Elm]¡Esto es de lo más inusual, pero este Pichu no evoluciona!\nParece que el viaje en el tiempo ha alterado el contenido genético responsable de la evolución.
+\tg[Elm]Es la primera vez que oigo algo parecido.
+\tg[Elm]Es la primera vez que oigo algo parecido.
+\tg[Elm]¿El huevo ecolosiono? Déjame ver...
+\tg[Elm]¿El huevo ecolosiono? Déjame ver...
+\tg[Elm]Mmm... Por lo que yo sé, ese Pokémon es imposible de encontrar en la región de Johto...
+\tg[Elm]Mmm... Por lo que yo sé, ese Pokémon es imposible de encontrar en la región de Johto...
+\tg[Elm]Tal como me contó el Sr. Pokémon por teléfono.\n¡En cualquier caso, estoy convencido de que va a ocurrirte algo extraordinario, \PN!
+\tg[Elm]Tal como me contó el Sr. Pokémon por teléfono.\n¡En cualquier caso, estoy convencido de que va a ocurrirte algo extraordinario, \PN!
+\tg[Elm]¡Bien! ¡Voy a darte un regalo por lo mucho que prometes! ¡Acéptalo sin reparos!
+\tg[Elm]¡Bien! ¡Voy a darte un regalo por lo mucho que prometes! ¡Acéptalo sin reparos!
+\tg[Elm]¡Estoy impresionado, \PN!\n¿Que por qué?\n¡Por haber conocido a un Entrenador tan asombroso como tú!
+\tg[Elm]¡Estoy impresionado, \PN!\n¿Que por qué?\n¡Por haber conocido a un Entrenador tan asombroso como tú!
+\tg[Elm]Gracias a ti, he podido comprender la importancia de llevar un Pokémon a tu lado. \nAhora puedo afirmar que los Pokémon están estrechamente ligados a los humanos.
+\tg[Elm]Gracias a ti, he podido comprender la importancia de llevar un Pokémon a tu lado. \nAhora puedo afirmar que los Pokémon están estrechamente ligados a los humanos.
+\tg[Elm]Se trata de un vínculo que siempre está presente.\nEstoy en deuda contigo.\n¡Muchísimas gracias!
+\tg[Elm]Se trata de un vínculo que siempre está presente.\nEstoy en deuda contigo.\n¡Muchísimas gracias!
+\tg[Elm]Tú no te preocupes más, ya has hecho bastante. Céntrate en el encargo que tienes.
+\tg[Elm]Tú no te preocupes más, ya has hecho bastante. Céntrate en el encargo que tienes.
+\tg[Elm]Si llevas tu propio Pokémon, podrás hacer que luche contra los Pokémon salvajes que te ataquen.
+\tg[Elm]Si llevas tu propio Pokémon, podrás hacer que luche contra los Pokémon salvajes que te ataquen.
+\tg[Elm]¿A qué son muy útiles?
+\tg[Elm]¿A qué son muy útiles?
+\tg[Oak]Tómate tu tiempo.
+\tg[Oak]Tómate tu tiempo.
+\w[menuskin]\C[8]Este PC está conectado a la máquina de curación.
+\w[menuskin]\C[8]Este PC está conectado a la máquina de curación.
+El ladrón... bueno, el tipo pelirrojo se ha marchado con el Pokémon sin decir ni pío.
+El ladrón... bueno, el tipo pelirrojo se ha marchado con el Pokémon sin decir ni pío.
+Pero... yo lo he visto todo desde aquí, y te aseguro que el chico tenía cara de estar muy contento.
+Pero... yo lo he visto todo desde aquí, y te aseguro que el chico tenía cara de estar muy contento.
+¡\PN! ¡Escucha esto! ¡No te lo vas a creer!\nEs sobre el tipo que robó el Pokémon del Profesor! \n¡Ha venido a devolverlo!
+¡\PN! ¡Escucha esto! ¡No te lo vas a creer!\nEs sobre el tipo que robó el Pokémon del Profesor! \n¡Ha venido a devolverlo!
+¡Nadie se esperaba algo así!\n¿Y sabes lo que le ha dicho el Profesor? ...
+¡Nadie se esperaba algo así!\n¿Y sabes lo que le ha dicho el Profesor? ...
+"Da la impresión de que este Pokémon te tiene bastante aprecio.\nLo más importante es que un Pokémon crezca feliz junto a las personas que quiere...
+"Da la impresión de que este Pokémon te tiene bastante aprecio.\nLo más importante es que un Pokémon crezca feliz junto a las personas que quiere...
+Así que este pequeño debería quedarse contigo."\..\..\..
+Así que este pequeño debería quedarse contigo."\..\..\..
+¿Qué te parece? ¿No es para tirarse de los pelos?
+¿Qué te parece? ¿No es para tirarse de los pelos?
+Oímos un ruido muy fuerte, y cuando salimos a mirar... ¡Alguien se coló y robó un Pokémon!
+Oímos un ruido muy fuerte, y cuando salimos a mirar... ¡Alguien se coló y robó un Pokémon!
+Ay... Me pregunto cómo estará ese pobre Pokémon...
+Ay... Me pregunto cómo estará ese pobre Pokémon...
+Dicen que si los cría una persona malvada, los Pokémon también acaban siendo malvados, ¿será cierto?
+Dicen que si los cría una persona malvada, los Pokémon también acaban siendo malvados, ¿será cierto?
+¡\PN, quiero darte esto como agradecimiento por hacernos el recado!
+¡\PN, quiero darte esto como agradecimiento por hacernos el recado!
+El Pokémon que llevas contigo aún no es muy fuerte y podríais tener problemas.\nEn caso de que resulte herido, conviene que le des esta Poción enseguida.
+El Pokémon que llevas contigo aún no es muy fuerte y podríais tener problemas.\nEn caso de que resulte herido, conviene que le des esta Poción enseguida.
+¿Eh? ¿Yo?\nNo, yo no soy el Profesor.
+¿Eh? ¿Yo?\nNo, yo no soy el Profesor.
+Él está al fondo de la sala.
+Él está al fondo de la sala.
+\tg[Elm]\PN... Menuda desgracia...
+\tg[Elm]\PN... Menuda desgracia...
+\tg[Elm]¡Ese chico pelirrojo se ha llevado uno de los Pokémon!
+\tg[Elm]¡Ese chico pelirrojo se ha llevado uno de los Pokémon!
+\tg[Elm]¿Eh? ¿Dices que te has enfrentado a él?
+\tg[Elm]¿Eh? ¿Dices que te has enfrentado a él?
+\tg[Elm]Por casualidad no sabrás cómo se llama, ¿verdad?
+\tg[Elm]Por casualidad no sabrás cómo se llama, ¿verdad?
+Plata
+Plata
+¿Cuál es su nombre?
+¿Cuál es su nombre?
+\tg[Elm]Bien.\nAsí que su nombre es \v[12]...
+\tg[Elm]Bien.\nAsí que su nombre es \v[12]...
+\tg[Elm]¿No es así como se llama? ¿Puedes repetir el nombre, por favor?
+\tg[Elm]¿No es así como se llama? ¿Puedes repetir el nombre, por favor?
+\tg[Elm]Mmm... ya veo. Reportaré esto a las autoridades, seguro que ellos consiguen recuperar el Pokémon robado.
+\tg[Elm]Mmm... ya veo. Reportaré esto a las autoridades, seguro que ellos consiguen recuperar el Pokémon robado. 
+\tg[Elm]Aunque si te encuentras con ese chico más veces...
+\tg[Elm]Aunque si te encuentras con ese chico más veces...
+\tg[Elm]Bah, no importa.
+\tg[Elm]Bah, no importa. 
+\tg[Elm]Tú no te preocupes de nada, ya has hecho bastante. Ahora toca centrarse en el encargo que tienes.
+\tg[Elm]Tú no te preocupes de nada, ya has hecho bastante. Ahora toca centrarse en el encargo que tienes.
+Sí
+Sí
+No
+No

@@ -1,0 +1,275 @@
+﻿# Maps grouped under: Ciudad Olivo (Highest ID: 90)
+[Map90]
+Ver tantos Wingull me recuerda a la costa de Hoenn, donde tuve un viejo amor con un apuesto marinero.\nEscuché que ha vuelto a las andadas y ahora lleva un ferri...
+Ver tantos Wingull me recuerda a la costa de Hoenn, donde tuve un viejo amor con un apuesto marinero.\nEscuché que ha vuelto a las andadas y ahora lleva un ferri...
+¡A ver si me viene a ver algún día!
+¡A ver si me viene a ver algún día!
+\w[signskin]Faro de Ciudad Olivo.\nTambién conocido como el Faro Brillante.
+\w[signskin]Faro de Ciudad Olivo.\nTambién conocido como el Faro Brillante.
+¡Zliii!
+¡Zliii!
+¡Perfecto! ¡Contigo completamos el embarque!
+¡Perfecto! ¡Contigo completamos el embarque!
+Me gusta salir a dar un paseo con mi esposa de vez en cuando, me distrae de los horrores de mi trabajo.
+Me gusta salir a dar un paseo con mi esposa de vez en cuando, me distrae de los horrores de mi trabajo.
+\w[signskin2]\C[10]Ciudad Olivo.\nLa ciudad de la brisa marina.
+\w[signskin2]\C[10]Ciudad Olivo.\nLa ciudad de la brisa marina.
+\w[menuskin]\C[8]Es un lienzo a medio pintar.
+\w[menuskin]\C[8]Es un lienzo a medio pintar.
+Hola, ¿cómo está mi Meowth?
+Hola, ¿cómo está mi Meowth?
+Mis Meowth tienen mucho más estilo, pero estos tienen un aura muy única...
+Mis Meowth tienen mucho más estilo, pero estos tienen un aura muy única...
+¿Podrías darme un Meowth? A cambio te daré a uno muy raro.
+¿Podrías darme un Meowth? A cambio te daré a uno muy raro.
+¿De verdad no quieres cambiarlo? ¡Vaya!
+¿De verdad no quieres cambiarlo? ¡Vaya!
+¡Qué guay! ¡Muchas gracias!
+¡Qué guay! ¡Muchas gracias!
+¡No te montes películas, Óscar! ¡Que te vas dos días a por marisco!
+¡No te montes películas, Óscar! ¡Que te vas dos días a por marisco!
+Mi marido es demasiado bueno como para trabajar en el café.\nLos marineros lo insultan y tengo que llegar yo a repartir leña.
+Mi marido es demasiado bueno como para trabajar en el café.\nLos marineros lo insultan y tengo que llegar yo a repartir leña.
+\w[signskin4]\C[8]Café Olivo.\nHoy: Café \nMañana: Café pero peor
+\w[signskin4]\C[8]Café Olivo.\nHoy: Café \nMañana: Café pero peor
+\tg[Rika]¡Anda! Al final has venido.
+\tg[Rika]¡Anda! Al final has venido.
+\tg[Rika]Me pillas pintando estas vistas. Desde que me quedé tirada en el puerto de Ciudad Carmín le he pillado el gusto a los puertos...
+\tg[Rika]Me pillas pintando estas vistas. Desde que me quedé tirada en el puerto de Ciudad Carmín le he pillado el gusto a los puertos...
+\tg[Rika]¿Entiendo que te apetece entrenar conmigo?
+\tg[Rika]¿Entiendo que te apetece entrenar conmigo?
+\tg[Rika]Oh, pues nada. Ya será otro día.
+\tg[Rika]Oh, pues nada. Ya será otro día.
+\tg[Rika]¡Genial, voy a mostrarte de qué pasta están hechos los Pokémon de tipo Hada!
+\tg[Rika]¡Genial, voy a mostrarte de qué pasta están hechos los Pokémon de tipo Hada!
+¡Tu fuerza es una verdadera fuente de inspiración!
+¡Tu fuerza es una verdadera fuente de inspiración!
+\tg[Rika]Guau... ¡esto se te da bien!
+\tg[Rika]Guau... ¡esto se te da bien!
+\tg[Rika]Pero parece que no sabes usar el poder de los Cristales Z.
+\tg[Rika]Pero parece que no sabes usar el poder de los Cristales Z.
+\tg[Rika]¿Sabes qué? ¡Te voy a dar uno!
+\tg[Rika]¿Sabes qué? ¡Te voy a dar uno!
+\tg[Rika]Y junto al Cristal Z, ¡una pulsera Z!
+\tg[Rika]Y junto al Cristal Z, ¡una pulsera Z!
+\tg[Rika]Con esto podrás hacer que tus Pokémon lancen ataques muy poderosos. Pero ten cuidado, solo se puede usar una vez por combate.
+\tg[Rika]Con esto podrás hacer que tus Pokémon lancen ataques muy poderosos. Pero ten cuidado, solo se puede usar una vez por combate.
+\tg[Rika]¡Seguro que te será muy útil de cara a ese torneo que se celebra por aquí!
+\tg[Rika]¡Seguro que te será muy útil de cara a ese torneo que se celebra por aquí!
+\tg[Rika]¡Ey, fan!\n¿Qué tal te va todo?
+\tg[Rika]¡Ey, fan!\n¿Qué tal te va todo?
+\tg[Rika]Espero que te esté gustando esa Pulsera Z que te di.\n¡Yo soy muy fan de usar Arrumaco Sideral!
+\tg[Rika]Espero que te esté gustando esa Pulsera Z que te di.\n¡Yo soy muy fan de usar Arrumaco Sideral!
+El señorito tiene un rancho de Meowth en su hogar.\nEsperemos que encuentre algún especimen nuevo en esta región.
+El señorito tiene un rancho de Meowth en su hogar.\nEsperemos que encuentre algún especimen nuevo en esta región.
+¡Oh! ¿Ya entrenas Pokémon a tu edad?\nPárate y disfruta de la belleza del mar.
+¡Oh! ¿Ya entrenas Pokémon a tu edad?\nPárate y disfruta de la belleza del mar.
+¿No te dan ganas de cantar?\nMatarile, rile, ron... ¡chimpón!
+¿No te dan ganas de cantar?\nMatarile, rile, ron... ¡chimpón!
+Amor, si vuelvo sano y salvo para volver a pisar Ciudad Olivo... Por favor, vayamos a vivir juntos, ¿vale?
+Amor, si vuelvo sano y salvo para volver a pisar Ciudad Olivo... Por favor, vayamos a vivir juntos, ¿vale?
+\w[signskin]Gimnasio Pokémon de Ciudad Olivo.\nLíder: Yasmina, la Chica de Acero.
+\w[signskin]Gimnasio Pokémon de Ciudad Olivo.\nLíder: Yasmina, la Chica de Acero.
+Meow.
+Meow.
+Las calles oscuras son muy peligrosas por la noche.
+Las calles oscuras son muy peligrosas por la noche.
+Pero, si es noche cerrada, ¡el mar es aún más traicionero!\nSi no les guiara la luz del faro, los barcos no podrían navegar.
+Pero, si es noche cerrada, ¡el mar es aún más traicionero!\nSi no les guiara la luz del faro, los barcos no podrían navegar.
+\tg[Sabrina]A veces me entran ganas de ver barcos.
+\tg[Sabrina]A veces me entran ganas de ver barcos.
+\tg[Sabrina]Y... intercambiar mi número de teléfono contigo también puede ser divertido, ¿me lo das?
+\tg[Sabrina]Y... intercambiar mi número de teléfono contigo también puede ser divertido, ¿me lo das?
+Sabrina
+Sabrina
+\tg[Sabrina]¿Cómo? Vaya, y yo que creía que iba a poder hacerme amiga tuya...
+\tg[Sabrina]¿Cómo? Vaya, y yo que creía que iba a poder hacerme amiga tuya...
+\tg[Sabrina]Si me llamas el domingo a mediodía, tal vez pueda hacerte una promesa muy importante...
+\tg[Sabrina]Si me llamas el domingo a mediodía, tal vez pueda hacerte una promesa muy importante...
+\tg[Sabrina]Hace una brisa estupenda.\n¿Nos echamos una foto?
+\tg[Sabrina]Hace una brisa estupenda.\n¿Nos echamos una foto?
+\tg[Sabrina]¡Voy!
+\tg[Sabrina]¡Voy!
+\tg[Sabrina]¡Ha quedado perfecta!
+\tg[Sabrina]¡Ha quedado perfecta!
+\tg[Sabrina]¿Qué? Vaya... Con lo guapos que habríamos quedado...
+\tg[Sabrina]¿Qué? Vaya... Con lo guapos que habríamos quedado...
+¡Me gusta mucho la comida que sirven en el café!\nLo unico que me desagrada son los marineros que suelen llegar al lugar...
+¡Me gusta mucho la comida que sirven en el café!\nLo unico que me desagrada son los marineros que suelen llegar al lugar...
+¡No paran de molestarme!
+¡No paran de molestarme!
+Eso que tienes es un Pokégear, ¿verdad?\nDesde él puedes hacer muchas cosas chulas...
+Eso que tienes es un Pokégear, ¿verdad?\nDesde él puedes hacer muchas cosas chulas...
+Mi madre no me lo compra porque tiene redes sociales y le dan miedo, ¡vaya carroza!
+Mi madre no me lo compra porque tiene redes sociales y le dan miedo, ¡vaya carroza!
+Esta melodía me hace sentir relajado.
+Esta melodía me hace sentir relajado.
+¿Qué quieres? ¿Te ha enviado ese viejo de Ciudad Cerezo?\n...\n¡Que venga él a por sus cosas!
+¿Qué quieres? ¿Te ha enviado ese viejo de Ciudad Cerezo?\n...\n¡Que venga él a por sus cosas!
+\w[signskin]Puerto Olivo.\nMuelle del Ferri.
+\w[signskin]Puerto Olivo.\nMuelle del Ferri.
+Me fascina ir al café de la ciudad, especialmente cuando hay chicas guapas... \n...\nAunque algunas después me insulten.
+Me fascina ir al café de la ciudad, especialmente cuando hay chicas guapas... \n...\nAunque algunas después me insulten.
+Kazam.
+Kazam.
+Me voy a hacer una parrillada gracias a Sizzlipede.\n(No se lo digas, pero él va a ser la parrillada)
+Me voy a hacer una parrillada gracias a Sizzlipede.\n(No se lo digas, pero él va a ser la parrillada)
+Sí
+Sí
+No
+No
+[Map96]
+¿Qué tal va todo? ¿Pica el grande?
+¿Qué tal va todo? ¿Pica el grande?
+¡Ciudad Olivo está junto al mar!\n¡Y si está junto al mar, tiene que haber peces!\nLlevo 30 años pescando aquí.\n¿Tú también quieres mirar al mar y pescar?
+¡Ciudad Olivo está junto al mar!\n¡Y si está junto al mar, tiene que haber peces!\nLlevo 30 años pescando aquí.\n¿Tú también quieres mirar al mar y pescar?
+¡Ah, ja, ja! ¡Por fin, alguien más que pesca!
+¡Ah, ja, ja! ¡Por fin, alguien más que pesca!
+¡Pues toma, figura!
+¡Pues toma, figura!
+No solo hay peces en el mar. Allá donde haya agua los encontrarás.
+No solo hay peces en el mar. Allá donde haya agua los encontrarás.
+¿Quéee? ¿¡No te gusta pescar!? ¡Incomprensible!
+¿Quéee? ¿¡No te gusta pescar!? ¡Incomprensible!
+Cuando vengo a Ciudad Olivo, siempre visito el Café Olivo.
+Cuando vengo a Ciudad Olivo, siempre visito el Café Olivo.
+Todo lo que hay en el menú me llena de energía, ¡incluidas las chatis que vienen por aquí!
+Todo lo que hay en el menú me llena de energía, ¡incluidas las chatis que vienen por aquí!
+De camino a Ciudad Orquídea hay cuatro islas desiertas.\n¡A los niños que se portan mal se los llevan a esas islas!
+De camino a Ciudad Orquídea hay cuatro islas desiertas.\n¡A los niños que se portan mal se los llevan a esas islas!
+Me tienen frita con tanto "come verdura, que es sana". ¡Puaj! ¡Si yo lo que quiero es azúcar, azúcar y más azúcar!
+Me tienen frita con tanto "come verdura, que es sana". ¡Puaj! ¡Si yo lo que quiero es azúcar, azúcar y más azúcar!
+¿Tú eres entrenador? Tienes pinta de haber viajado mucho.\n¿Has estado en Pueblo Caoba? Es súper lejos de aquí... y es una faena porque yo tengo un antojo incontrolable.
+¿Tú eres entrenador? Tienes pinta de haber viajado mucho.\n¿Has estado en Pueblo Caoba? Es súper lejos de aquí... y es una faena porque yo tengo un antojo incontrolable.
+He oído que los Caramelos Furia de Pueblo Caoba son lo más mejor del mundo mundial. ¡Dan fuego de verdad en la boca!
+He oído que los Caramelos Furia de Pueblo Caoba son lo más mejor del mundo mundial. ¡Dan fuego de verdad en la boca!
+Pero mis padre no me deja ni probarlos. Dice que son demasiado picantes, que me voy a empachar, que esto, que lo otro... ¡Menudo rollo!
+Pero mis padre no me deja ni probarlos. Dice que son demasiado picantes, que me voy a empachar, que esto, que lo otro... ¡Menudo rollo!
+Oye... ¿y si me traes Caramelos Furia?
+Oye... ¿y si me traes Caramelos Furia?
+Una caja es mas que suficiente, así mis padre no se entera y yo puedo probarlos sin que me echen la bronca.
+Una caja es mas que suficiente, así mis padre no se entera y yo puedo probarlos sin que me echen la bronca.
+A cambio, te daré un objeto súper raro que me encontré en la playa. ¿Trato?
+A cambio, te daré un objeto súper raro que me encontré en la playa. ¿Trato?
+¡Anda, si ya tienes unos!
+¡Anda, si ya tienes unos!
+¿Los tienes? ¡Dame, dame, dame!
+¿Los tienes? ¡Dame, dame, dame!
+¡Ay, madre, qué ilusión! ¡Y mira qué envoltorio tan chulo!
+¡Ay, madre, qué ilusión! ¡Y mira qué envoltorio tan chulo!
+Shhhh, shhhh, no grites, que nos van a pillar...
+Shhhh, shhhh, no grites, que nos van a pillar...
+Mi padre esta en casa, tenemos que ser súper discretos. Como espías. ¡O como ninjas del gobierno!
+Mi padre esta en casa, tenemos que ser súper discretos. Como espías. ¡O como ninjas del gobierno!
+Bueno, un trato es un trato. Toma, esto lo encontré en la arena. Es una Llamaesfera.
+Bueno, un trato es un trato. Toma, esto lo encontré en la arena. Es una Llamaesfera.
+Yo la guardaba por si acaso, pero prefiero los caramelos, la verdad.
+Yo la guardaba por si acaso, pero prefiero los caramelos, la verdad.
+¡Gracias, \PN! Eres mi cómplice oficial. Si algún día quieres montar un club secreto de golosinas prohibidas, avísame. ¡Yo llevo las provisiones!... Bueno, si no me las como antes.
+¡Gracias, \PN! Eres mi cómplice oficial. Si algún día quieres montar un club secreto de golosinas prohibidas, avísame. ¡Yo llevo las provisiones!... Bueno, si no me las como antes.
+¡Fuego, fuego, fuego en la boca! ¡Pica pero está tan bueno...! No le digas a nadie lo de los caramelos, ¿vale?
+¡Fuego, fuego, fuego en la boca! ¡Pica pero está tan bueno...! No le digas a nadie lo de los caramelos, ¿vale?
+\tg[Yasmina]¿Qué tal estás?\n¡...!
+\tg[Yasmina]¿Qué tal estás?\n¡...!
+\tg[Yasmina]Ah... No... No te vayas a pensar, que me he comido todo lo que había en este plato...\nDe verdad... Esto es de la persona que estaba aquí antes que yo...
+\tg[Yasmina]Ah... No... No te vayas a pensar, que me he comido todo lo que había en este plato...\nDe verdad... Esto es de la persona que estaba aquí antes que yo...
+\tg[Yasmina]...\n¿Quieres mi número de teléfono? Por eso has venido, ¿no?
+\tg[Yasmina]...\n¿Quieres mi número de teléfono?  Por eso has venido, ¿no?
+Yasmina
+Yasmina
+\tg[Yasmina]Ahora podremos hablar siempre que queramos.\nLos miércoles al mediodía tengo un rato para combatir. Llámame, ¿vale?
+\tg[Yasmina]Ahora podremos hablar siempre que queramos.\nLos miércoles al mediodía tengo un rato para combatir. Llámame, ¿vale?
+Hace una brisa estupenda.\n¿Nos echamos una foto?
+Hace una brisa estupenda.\n¿Nos echamos una foto?
+\tg[Sabrina]¡Voy!
+\tg[Sabrina]¡Voy!
+\tg[Sabrina]¡Ha quedado perfecta!
+\tg[Sabrina]¡Ha quedado perfecta!
+\tg[Sabrina]¿Qué? Vaya... Con lo guapos que habríamos quedado...
+\tg[Sabrina]¿Qué? Vaya... Con lo guapos que habríamos quedado...
+Ñam, ñam, ñam...\n¡Cof, cof...!
+Ñam, ñam, ñam...\n¡Cof, cof...!
+¡Casi me ahogo!\nNo puede ser.\nTengo que comer más despacio.
+¡Casi me ahogo!\nNo puede ser.\nTengo que comer más despacio.
+Cuando hago travesuras, papá siempre se enfada...\nSupongo que tiene poco humor.
+Cuando hago travesuras, papá siempre se enfada...\nSupongo que tiene poco humor.
+¿Has ido a Kanto alguna vez?\nEs lo primero que hice cuando me mudé a Johto.
+¿Has ido a Kanto alguna vez?\nEs lo primero que hice cuando me mudé a Johto.
+¡En el mar solo puedes confiar en ti mismo!\n¡Y yo estoy en plena forma!
+¡En el mar solo puedes confiar en ti mismo!\n¡Y yo estoy en plena forma!
+¡Ja! Tus Pokémon parecen ser muy enclenques.\n Seguro que no pueden ni levantar una piedrecita.
+¡Ja! Tus Pokémon parecen ser muy enclenques.\n Seguro que no pueden ni levantar una piedrecita.
+Mira, ¡usa esto y enséñales Fuerza Bruta!
+Mira, ¡usa esto y enséñales Fuerza Bruta!
+\tg[Oak]¡\PN!\nCada vez despides un aura de Campeona más intensa.
+\tg[Oak]¡\PN!\nCada vez despides un aura de Campeona más intensa.
+\tg[Oak]A pesar de tu posición, no descuides la Pokédex. ¡Tiene que estar a la altura!
+\tg[Oak]A pesar de tu posición, no descuides la Pokédex. ¡Tiene que estar a la altura!
+\tg[Oak]De hecho, tengo un regalito para ti, \PN.\n¡Escoge uno!
+\tg[Oak]De hecho, tengo un regalito para ti, \PN.\n¡Escoge uno!
+\tg[Oak]¡Oh! ¡Es tardísimo!\nTengo que ir a grabar a la radio de Ciudad Trigal.\nPor fin vas a la región de Kanto, ¿no?
+\tg[Oak]¡Oh! ¡Es tardísimo!\nTengo que ir a grabar a la radio de Ciudad Trigal.\nPor fin vas a la región de Kanto, ¿no?
+\tg[Oak]Si pasas por Pueblo Paleta, déjate caer por mi Laboratorio y enséñame cómo llevas la Pokédex.
+\tg[Oak]Si pasas por Pueblo Paleta, déjate caer por mi Laboratorio y enséñame cómo llevas la Pokédex.
+Mi barco esta amarrado ahí fuera, pero no vamos a ningún lugar convencional, no.\nYo me dedico a llevar a viajeros selectos a islas como ninguna.
+Mi barco esta amarrado ahí fuera, pero no vamos a ningún lugar convencional, no.\nYo me dedico a llevar a viajeros selectos a islas como ninguna. 
+Veo que no llevas ningún ticket, una lástima.
+Veo que no llevas ningún ticket, una lástima. 
+¡Ahí va!\n¡Veo que tienes un Ori-Ticket!
+¡Ahí va!\n¡Veo que tienes un Ori-Ticket!
+¿Entonces, quieres que te lleve a la Isla Origen?
+¿Entonces, quieres que te lleve a la Isla Origen?
+¡Muy bien!\n¡Pues todos a bordo!
+¡Muy bien!\n¡Pues todos a bordo!
+¡Pues ya estamos!\nSi necesitas volver a Ciudad Olivo aquí me tienes.
+¡Pues ya estamos!\nSi necesitas volver a Ciudad Olivo aquí me tienes.
+El S.S. Aqua usa propulsores para surcar las olas, por eso levita ligeramente sobre la superficie.
+El S.S. Aqua usa propulsores para surcar las olas, por eso levita ligeramente sobre la superficie.
+Es básicamente una nave espacial, aunque bastante menos impresionante.
+Es básicamente una nave espacial, aunque bastante menos impresionante.
+¡El menú del Café Olivo está repleto de buena comida para fornidos Marineros!
+¡El menú del Café Olivo está repleto de buena comida para fornidos Marineros!
+Este es el Ferry S.S. Aqua.\nEl mantenimiento del motor está tardando bastante y no sabemos cuándo podremos zarpar.
+Este es el Ferry S.S. Aqua.\nEl mantenimiento del motor está tardando bastante y no sabemos cuándo podremos zarpar.
+\w[menuskin]\C[8]Kanto aún no está disponible.\n ¡Continua siguiendo el desarrollo del juego para saber cuando estará disponible!
+\w[menuskin]\C[8]Kanto aún no está disponible.\n ¡Continua siguiendo el desarrollo del juego para saber cuando estará disponible!
+Este es el Ferry S.S. Aqua.\n¿Puedo ver tu Ticket Barco?
+Este es el Ferry S.S. Aqua.\n¿Puedo ver tu Ticket Barco?
+\w[menuskin]\C[8]\PN enseña el Ticket Barco.
+\w[menuskin]\C[8]\PN enseña el Ticket Barco.
+¡Tienes un Ticket Barco!\nMuy bien, date prisa en subir, que el barco va a zarpar.
+¡Tienes un Ticket Barco!\nMuy bien, date prisa en subir, que el barco va a zarpar.
+\w[menuskin]\C[8]\PN intentó enseñar el Ticket Barco, pero...\n¡no lo tiene!
+\w[menuskin]\C[8]\PN intentó enseñar el Ticket Barco, pero...\n¡no lo tiene!
+Vaya...\nMe gustaría colarte, pero las reglas son las reglas. Compréndelo.
+Vaya...\nMe gustaría colarte, pero las reglas son las reglas. Compréndelo.
+¿Qué voy a hacer? Venía de camino a casa como es costumbre y tropecé.
+¿Qué voy a hacer? Venía de camino a casa como es costumbre y tropecé.
+No le dí mayor importancia hasta que llegué a casa y me di cuenta que mi Pokéball no estaba.
+No le dí mayor importancia hasta que llegué a casa y me di cuenta que mi Pokéball no estaba.
+¡No sé que hacer, mi pobre Wingull debe estar pasando frío ahí encerrado en la Pokéball!
+¡No sé que hacer, mi pobre Wingull debe estar pasando frío ahí encerrado en la Pokéball!
+Recuerdo haber estado cerca de la Granja Mu Mu. Si pasas por allí y la encuentras, por favor, traela hasta aquí.
+Recuerdo haber estado cerca de la Granja Mu Mu.  Si pasas por allí y la encuentras, por favor, traela hasta aquí.
+Recuerdo haber estado cerca de la Granja Mu Mu, si pasas por allí y la encuentras, por favor traela hasta aquí.
+Recuerdo haber estado cerca de la Granja Mu Mu, si pasas por allí y la encuentras, por favor traela hasta aquí.
+¡Gracias a Arceus! ¡Cuanto extrañaba a \nmi pequeñín!
+¡Gracias a Arceus! ¡Cuanto extrañaba a \nmi pequeñín!
+Toma, esto es para ti. Espero compense tu tiempo.
+Toma, esto es para ti. Espero compense tu tiempo.
+No te preocupes, te prometo que esta vez seré muy cuidadosa con Wingull.\nNada más de estar distrayéndome.
+No te preocupes, te prometo que esta vez seré muy cuidadosa con Wingull.\nNada más de estar distrayéndome.
+¡Hola!\n¡El Krabby que me cambiaste está fenomenal!
+¡Hola!\n¡El Krabby que me cambiaste está fenomenal!
+Verás... Estoy buscando un Pokémon.
+Verás... Estoy buscando un Pokémon.
+¿Si tuvieras un Krabby, me lo cambiarías por mi Voltorb?
+¿Si tuvieras un Krabby, me lo cambiarías por mi Voltorb?
+¿Tú tampoco tienes uno?\n¡Pues vaya!\n¡Qué decepción...!
+¿Tú tampoco tienes uno?\n¡Pues vaya!\n¡Qué decepción...!
+¡Genial!\n¡Gracias!\nPor fin conseguí un Krabby.
+¡Genial!\n¡Gracias!\nPor fin conseguí un Krabby.
+Sí
+Sí
+No
+No

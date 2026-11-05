@@ -1,0 +1,78 @@
+﻿# Maps grouped under: Gimnasio Endrino (Highest ID: 86)
+[Map86]
+¡Genial!\n¡Has vencido a Débora!
+¡Genial!\n¡Has vencido a Débora!
+Por mucho que ella diga lo contrario, la has superado con creces. O al menos eso me parece a mí...
+Por mucho que ella diga lo contrario, la has superado con creces. O al menos eso me parece a mí...
+Débora usa los míticos y sagrados Pokémon de tipo Dragón.\nNo son fáciles de dañar.\nPero se supone que son débiles contra los movimientos de tipo Hielo y Hada.
+Débora usa los míticos y sagrados Pokémon de tipo Dragón.\nNo son fáciles de dañar.\nPero se supone que son débiles contra los movimientos de tipo Hielo y Hada.
+¿Tu primer combate contra Pokémon de tipo Dragón? ¡Verás lo fuertes son!
+¿Tu primer combate contra Pokémon de tipo Dragón? ¡Verás lo fuertes son!
+¡Qué lástima!
+¡Qué lástima!
+Oh, oh... Débora se va a enfadar...
+Oh, oh... Débora se va a enfadar...
+¿Y dices que ya has conocido a Lance el Domadragones?\nNo es posible...
+¿Y dices que ya has conocido a Lance el Domadragones?\nNo es posible...
+¿Qué posibilidades tengo de perder? ¡Ni un uno por ciento!
+¿Qué posibilidades tengo de perder? ¡Ni un uno por ciento!
+Ummm... qué curioso.
+Ummm... qué curioso.
+¿Qué posibilidades tengo de perder? Pues contra ti un cien por cien...
+¿Qué posibilidades tengo de perder? Pues contra ti un cien por cien...
+Los Dragones son Pokémon sagrados y están llenos de energía vital.\nO eso dicen los de la Guarida Dragón...
+Los Dragones son Pokémon sagrados y están llenos de energía vital.\nO eso dicen los de la Guarida Dragón...
+No ha estado nada mal...
+ No ha estado nada mal...
+¡Lo sabía! ¡Era todo propaganda!
+¡Lo sabía! ¡Era todo propaganda!
+Sigo un entrenamiento muy estricto con Débora.\n¡Es imposible que pierda!
+Sigo un entrenamiento muy estricto con Débora.\n¡Es imposible que pierda!
+¡Aaarg! ¡Nooo!
+¡Aaarg! ¡Nooo!
+Bueno...\nParece que habrá que seguir entrenando.
+Bueno...\nParece que habrá que seguir entrenando.
+\tg[Débora]¡Me has hecho esperar, leñe!
+\tg[Débora]¡Me has hecho esperar, leñe!
+\tg[Débora]Mira que has tardado, ¿eh?\n¡No me gusta la gente lenta! ¡Y tampoco los que se andan con medias tintas!
+\tg[Débora]Mira que has tardado, ¿eh?\n¡No me gusta la gente lenta! ¡Y tampoco los que se andan con medias tintas!
+\tg[Débora]Si de verdad quieres ganarme en un combate serio, deberás darlo todo. ¡Sin parar y sin miedo!
+\tg[Débora]Si de verdad quieres ganarme en un combate serio, deberás darlo todo. ¡Sin parar y sin miedo!
+\tg[Débora]Y ahora que ya te he dejado bien claritas las cosas... ¡Al lío!
+\tg[Débora]Y ahora que ya te he dejado bien claritas las cosas... ¡Al lío!
+\tg[Débora]¡Te enseñaré lo que los dragones pueden hacer en manos de una promesa como yo!
+\tg[Débora]¡Te enseñaré lo que los dragones pueden hacer en manos de una promesa como yo!
+¿Que yo he perdido? No puede ser... ¡Debe de tratarse de un error!
+¿Que yo he perdido? No puede ser... ¡Debe de tratarse de un error!
+\tg[Débora]No puede ser... ¿¡En serio!?
+\tg[Débora]No puede ser... ¿¡En serio!?
+\tg[Débora]¡Argh! En fin...
+\tg[Débora]¡Argh! En fin...
+\tg[Débora]Toma. Esta es la Medalla Dragón...\n ¡Vamos, tómala!
+\tg[Débora]Toma. Esta es la Medalla Dragón...\n ¡Vamos, tómala!
+\tg[Débora]Y... toma este regalo en señal de disculpa.
+\tg[Débora]Y... toma este regalo en señal de disculpa.
+\tg[Débora]Esta MT contiene Pulso Dragón.\nLo de "Pulso" viene de...
+\tg[Débora]Esta MT contiene Pulso Dragón.\nLo de "Pulso" viene de...
+\tg[Débora][...]
+\tg[Débora][...]
+\tg[Débora]¿Sabes qué? Ni a ti ni a mí nos importa por qué se llama pulso.\nLo que importa es que es un zambombazo de tres pares de narices.
+\tg[Débora]¿Sabes qué? Ni a ti ni a mí nos importa por qué se llama pulso.\nLo que importa es que es un zambombazo de tres pares de narices.
+\tg[Débora]Hala, a seguir tu aventura o lo que sea.\nComo pares ahora iré a por ti... ¡Y la próxima vez ganaré!
+\tg[Débora]Hala, a seguir tu aventura o lo que sea.\nComo pares ahora iré a por ti... ¡Y la próxima vez ganaré!
+\tg[Débora]Algo me dice que tienes asuntos pendientes, ¿eh?
+\tg[Débora]Algo me dice que tienes asuntos pendientes, ¿eh?
+\tg[Débora]¡Pues sé fuerte! ¡A partir de ahora, no permitas que nada te desanime, eh!
+\tg[Débora]¡Pues sé fuerte! ¡A partir de ahora, no permitas que nada te desanime, eh!
+\tg[Débora]¡Si te rindieras ahora, me sentaría como un tiro haber perdido contra ti!
+\tg[Débora]¡Si te rindieras ahora, me sentaría como un tiro haber perdido contra ti!
+\tg[Débora]Aquí estás. ¡Empecemos cuanto antes!
+\tg[Débora]Aquí estás. ¡Empecemos cuanto antes!
+\tg[Débora]Buen combate.\n...\nSigue así.
+\tg[Débora]Buen combate.\n...\nSigue así.
+En este Gimnasio, no todos usamos Pokémon de tipo Dragón.\nHay Pokémon que son aún más fuertes... ¡y esos son mi especialidad!
+En este Gimnasio, no todos usamos Pokémon de tipo Dragón.\nHay Pokémon que son aún más fuertes... ¡y esos son mi especialidad!
+Sí, señor...
+Sí, señor...
+¡Jobar! ¿De qué me sirve tener Pokémon más fuertes que los dragones si llega alguien como tú y me destroza?
+¡Jobar! ¿De qué me sirve tener Pokémon más fuertes que los dragones si llega alguien como tú y me destroza?
